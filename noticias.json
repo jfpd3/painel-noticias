@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-10-20T09:40:00+01:00",
+  "timezone": "Europe/Lisbon",
+  "days": [
+    {
+      "date": "2025-10-20",
+      "attention_points": [
+        "BTC sustentar > 110k",
+        "Resultados banca regional EUA",
+        "Falas do Fed / macro"
+      ],
+      "items": [
+        {
+          "id": "btc-move-1",
+          "time": "09:10",
+          "category": "Crypto",
+          "title": "BTC recupera após queda; altcoins acompanham",
+          "summary": "Movimento de recuperação na sessão Ásia/Europa com liquidações reduzidas.",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com",
+          "tags": ["BTC", "Altcoins"],
+          "numbers": { "btc": 110500, "eth": 4000 }
+        },
+        {
+          "id": "fed-speech-1",
+          "time": "08:30",
+          "category": "US Macro",
+          "title": "Discurso de dirigente do Fed sinaliza viés dovish",
+          "summary": "Mercado precifica maior probabilidade de corte na próxima reunião.",
+          "source": "WSJ",
+          "url": "https://www.wsj.com",
+          "tags": ["Fed", "Taxas"]
+        },
+        {
+          "id": "sec-crypto-1",
+          "time": "07:55",
+          "category": "Regulation",
+          "title": "Atualização SEC sobre ETFs spot",
+          "summary": "Prazo de comentários estendido; impacto potencial no fluxo de fundos.",
+          "source": "SEC",
+          "url": "https://www.sec.gov",
+          "tags": ["SEC", "ETF"]
+        }
+      ]
+    }
+  ]
+}
