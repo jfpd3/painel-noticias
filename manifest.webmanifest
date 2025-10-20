@@ -1,9 +1,0 @@
-{
-  "name": "Painel — Cripto & Finanças",
-  "short_name": "Painel",
-  "start_url": "./index_pwa.html",
-  "display": "standalone",
-  "background_color": "#0f1117",
-  "theme_color": "#0f1117",
-  "lang": "pt-PT"
-}
