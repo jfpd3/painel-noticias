@@ -33,9 +33,9 @@
     .toolbar { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 8px; }
     main { display: grid; grid-template-columns: 1fr; gap: 16px; padding: 16px; }
     @media (min-width: 980px) { main { grid-template-columns: 2fr 1fr; } }
-    .card { background: var(--card); border: 1px solid var(--border); border-radius: 16px; padding: 14px; }
+    .card { background: var(--card); border: 1px solid var(--border); border-radius: 18px; padding: 14px; }
     .news-card { transition: box-shadow .2s ease; }
-    .news-card:hover { box-shadow: 0 4px 20px rgba(0,0,0,0.05); }
+    .news-card:hover { box-shadow: 0 10px 30px rgba(0,0,0,0.08); }
     .pill { display: inline-block; padding: 2px 8px; border:1px solid var(--border); border-radius: 999px; font-size: 12px; color: #333; background: #fafafa; }
     .muted { color: var(--muted); }
     .grid { display: grid; gap: 8px; }
@@ -63,6 +63,9 @@
     <div class="container">
       <div class="row">
         <h1>Painel Diário — Cripto &amp; Finanças EUA</h1>
+        <p class="muted" style="margin:0 0 4px 0;">
+  Resumo diário de cripto e finanças dos EUA — auto-atualiza do <code>noticias.json</code>.
+</p>
         <div class="spacer"></div>
         <div id="feedStatus" class="muted">Feed: <span id="feedUrlLabel">./noticias.json</span> — <span id="statusLabel">a carregar…</span></div>
       </div>
@@ -93,39 +96,6 @@
       <div class="card">
         <h3>Hoje: 3 pontos de atenção</h3>
         <ol id="attentionList"></ol>
-      </div>
-      <div class="card" style="margin-top:12px">
-        <strong>Como funciona o feed automático</strong>
-        <p class="muted">
-  O painel lê o ficheiro <code>noticias.json</code> desta pasta. Eu Agente IA atualizo esse ficheiro todos os dias às 09:40
-  e o site recarrega os dados automaticamente (ou clica em “Recarregar”). Não precisa de instalar nada.
-</p>
-      </div>
-      <div class="card" style="margin-top:12px">
-        <details>
-          <summary><strong>Formato do JSON</strong></summary>
-<pre style="white-space:pre-wrap">
-{
-  "generated_at": "2025-10-20T09:40:00+01:00",
-  "timezone": "Europe/Lisbon",
-  "days": [{
-    "date": "2025-10-20",
-    "attention_points": ["BTC &gt; 110k", "Resultados banca EUA", "Falas do Fed"],
-    "items": [{
-      "id": "btc-1",
-      "time": "09:10",
-      "category": "Crypto",
-      "title": "BTC recupera após queda",
-      "summary": "Recuperação na sessão Ásia/Europa.",
-      "source": "CoinDesk",
-      "url": "https://example.com",
-      "tags": ["BTC", "Altcoins"],
-      "numbers": {"btc": 110500, "eth": 4000}
-    }]
-  }]
-}
-</pre>
-        </details>
       </div>
     </aside>
   </main>
