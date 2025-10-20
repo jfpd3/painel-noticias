@@ -7,13 +7,13 @@
   <meta name="description" content="Resumo diário automático de notícias de cripto e finanças dos EUA." />
   <style>
     :root {
-      --bg: #f6f6f6;
-      --card: #ffffff;
-      --text: #1f1f1f;
-      --muted: #666;
-      --border: #e5e5e5;
-      --accent: #111;
-    }
+  --bg: #f3f4f6;       /* fundo da página (antes: #f6f6f6) */
+  --card: #ffffff;     /* fundo dos cartões */
+  --text: #111827;     /* texto principal (mais escuro) */
+  --muted: #6b7280;    /* texto secundário */
+  --border: #e5e7eb;   /* bordas suaves */
+  --accent: #0b57d0;   /* cor de acento (botões/realces) */
+}
     * { box-sizing: border-box; }
     body { margin: 0; background: var(--bg); color: var(--text);
       font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
@@ -97,9 +97,9 @@
       <div class="card" style="margin-top:12px">
         <strong>Como funciona o feed automático</strong>
         <p class="muted">
-          Este painel tenta carregar <code>./noticias.json</code> na mesma pasta. Se alojar online (GitHub Pages/Netlify),
-          basta enviar/atualizar esse ficheiro todos os dias às 09:40 e o painel atualiza sozinho (também recarrega a cada 5 minutos).
-        </p>
+  O painel lê o ficheiro <code>noticias.json</code> desta pasta. Eu Agente IA atualizo esse ficheiro todos os dias às 09:40
+  e o site recarrega os dados automaticamente (ou clica em “Recarregar”). Não precisa de instalar nada.
+</p>
       </div>
       <div class="card" style="margin-top:12px">
         <details>
