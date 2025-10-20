@@ -1,114 +1,965 @@
 {
-  "generated_at": "2025-10-20T22:29:12.796375",
+  "generated_at": "2025-10-21T00:37+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
-      "date": "2025-10-19",
+      "date": "2025-10-21",
       "attention_points": [
-        "Relatório do FOMC divulgado",
-        "Alta nos rendimentos dos Treasuries",
-        "Volatilidade nas altcoins após queda do BTC"
+        "X to Launch Handle Marketplace, Prices Rare Usernames Up to Seven Figures"
       ],
       "items": [
         {
-          "time": "09:15",
+          "id": "e76811abd844",
+          "time": "00:30",
           "category": "Crypto",
-          "title": "BTC inicia recuperação após liquidações massivas",
-          "summary": "Depois de cair abaixo dos 105k€, o Bitcoin reage com alta de 3% puxando o mercado.",
-          "source": "CoinDesk",
-          "url": "https://www.coindesk.com",
-          "tags": [
-            "BTC",
-            "Altcoins"
-          ],
-          "numbers": {
-            "BTC": 107500,
-            "ETH": 3850
-          }
-        },
-        {
-          "time": "14:30",
-          "category": "US Macro",
-          "title": "Inflação americana surpreende e mercado ajusta apostas",
-          "summary": "O CPI acima do esperado leva traders a reduzir expectativas de corte de juros em dezembro.",
-          "source": "WSJ",
-          "url": "https://www.wsj.com",
-          "tags": [
-            "Fed",
-            "CPI",
-            "Inflação"
-          ]
-        },
-        {
-          "time": "21:00",
-          "category": "Markets",
-          "title": "S&P 500 fecha em leve alta com rotação para techs",
-          "summary": "Índices americanos terminam o dia positivos com Nasdaq liderando os ganhos.",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com",
-          "tags": [
-            "S&P 500",
-            "Nasdaq"
-          ]
+          "title": "X to Launch Handle Marketplace, Prices Rare Usernames Up to Seven Figures",
+          "summary": "X's new marketplace lets Premium subscribers claim inactive usernames, with rare handles priced up to seven figures.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345103/x-handle-marketplace-rare-usernames-seven-figures",
+          "tags": []
         }
       ]
     },
     {
       "date": "2025-10-20",
       "attention_points": [
-        "Resultados de grandes bancos dos EUA",
-        "Reação ao discurso do Fed",
-        "Possível movimento de consolidação no BTC"
+        "Here’s what happened in crypto today",
+        "Ethereum needs Paradigm, VCs, despite value extraction concerns: Joseph Lubin",
+        "X launches market for inactive handles amid push to monetize digital identity"
       ],
       "items": [
         {
-          "time": "07:50",
-          "category": "Regulation",
-          "title": "SEC prorroga prazo de análise de ETF Ethereum",
-          "summary": "A SEC decidiu adiar a decisão final sobre ETFs baseados em Ether por mais 45 dias.",
-          "source": "Reuters",
-          "url": "https://www.reuters.com",
+          "id": "b431ea497743",
+          "time": "23:29",
+          "category": "Crypto",
+          "title": "Here’s what happened in crypto today",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "107139df5889",
+          "time": "23:00",
+          "category": "Crypto",
+          "title": "Ethereum needs Paradigm, VCs, despite value extraction concerns: Joseph Lubin",
+          "summary": "The main goal of VCs is to \"suck as much value as possible” from Ethereum, but they remain necessary bridges for global capital entering the crypto industry, according to Lubin.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/ethereum-paradigm-vcs-value-extraction-joseph-lubin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
-            "SEC",
-            "ETH",
-            "ETF"
+            "ETH"
           ]
         },
         {
-          "time": "10:20",
+          "id": "098efd4eb39f",
+          "time": "22:56",
           "category": "Crypto",
-          "title": "Bitcoin mantém suporte em 110k€ e altcoins seguem estáveis",
-          "summary": "Movimento calmo no mercado com dominância do BTC em leve alta.",
-          "source": "CoinTelegraph",
-          "url": "https://www.cointelegraph.com",
+          "title": "X launches market for inactive handles amid push to monetize digital identity",
+          "summary": "Available to Premium X users, the new marketplace could see rare usernames sell for up to seven figures.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/x-inactive-handle-marketplace-digital-identity-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "0993bb33f4b2",
+          "time": "22:44",
+          "category": "Crypto",
+          "title": "Dogecoin Firm House of Doge Acquires Controlling Share in Italian Soccer Club",
+          "summary": "House of Doge, the Dogecoin Foundation's commercial arm, is betting big on a European soccer club from Italy's Serie C league.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345076/dogecoin-firm-house-doge-acquires-controlling-share-italian-soccer-club",
+          "tags": []
+        },
+        {
+          "id": "6760bca858d6",
+          "time": "22:23",
+          "category": "Crypto",
+          "title": "Solana Co-Founder Vibe Codes Hyperliquid Rival, Invites Devs to ‘Steal Idea’",
+          "summary": "Solana’s Yakovenko said he was just “messing around” with AI and never meant for the code to be public.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345079/solana-co-founder-vibe-codes-hyperliquid-rival",
+          "tags": []
+        },
+        {
+          "id": "7042fc306146",
+          "time": "22:05",
+          "category": "Crypto",
+          "title": "Bitcoin Bounce Stalls as XRP, Zcash Lead Gains; Arca Says Rally Not a Dead-Cat Bounce",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/20/bitcoin-bounce-stalls-as-xrp-zcash-lead-gains-arca-says-rally-not-a-dead-cat-bounce",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "4d48c5066495",
+          "time": "22:02",
+          "category": "Crypto",
+          "title": "Bitcoin Market Flips Bullish: Do the Charts Align With Sentiment?",
+          "summary": "Three days ago, traders were betting Bitcoin would crash to $100K. Now the odds have reversed—but do the charts agree?",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345039/bitcoin-bullish-sentiment-myriad-prediction-market",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "3a244d49b48a",
+          "time": "21:41",
+          "category": "Earnings",
+          "title": "She Asked ChatGPT for Powerball Numbers—Then Won $100K",
+          "summary": "The Michigan Lottery confirmed the big ChatGPT-assisted Powerball win, but stressed that AI cannot predict random lottery results.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345029/she-asked-chatgpt-powerball-numbers-won-100k",
+          "tags": []
+        },
+        {
+          "id": "15c896dbdd2f",
+          "time": "21:25",
+          "category": "Crypto",
+          "title": "AI Crypto Trading Showdown: DeepSeek and Grok Are Cashing In as Gemini Implodes",
+          "summary": "Grok, DeepSeek, and Claude are posting serious gains in Alpha Arena’s live, real-money AI trading test, rattling Wall Street in the process.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345006/ai-crypto-trading-showdown-deepseek-grok-winning-gemini-implodes",
+          "tags": []
+        },
+        {
+          "id": "abe958c1d553",
+          "time": "21:14",
+          "category": "Crypto",
+          "title": "Bitcoin Mining Stocks Surge as Another Firm Embraces AI Boom",
+          "summary": "CleanSpark's shares rose on Monday, along with those of other major mining stocks.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345037/bitcoin-mining-surge-firm-embraces-ai-boom",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "3e1e38ea3e74",
+          "time": "21:01",
+          "category": "Crypto",
+          "title": "Prediction Markets Hit All-Time High of $2 Billion in Weekly Volume",
+          "summary": "Prediction markets hit $2 billion in weekly volume as Polymarket retakes lead and major funding pushes industry valuations into billions.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345033/prediction-markets-all-time-high-trading-volume",
+          "tags": []
+        },
+        {
+          "id": "f62ccbacbd2a",
+          "time": "20:46",
+          "category": "Crypto",
+          "title": "MetaMask Showing Zero Balances, Base Network Struggling as AWS Issues Persist",
+          "summary": "Key crypto trading platforms and apps struggled to regain functionality several hours after a widespread AWS outage began early Monday.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345036/metamask-showing-zero-balances-base-network-struggling-aws-issues-persist",
+          "tags": []
+        },
+        {
+          "id": "c54432806b3a",
+          "time": "20:40",
+          "category": "Crypto",
+          "title": "Wise hints at stablecoin ambitions with new digital-asset product lead hire",
+          "summary": "Wise is hiring a digital-asset product lead focused on stablecoins, signaling potential expansion into crypto amid shifting global regulations.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/wise-digital-asset-lead-stablecoin-hiring-crypto-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "11bb225556a0",
+          "time": "20:33",
+          "category": "Crypto",
+          "title": "Pantera-Backed Solana Company Brings Forward PIPE Unlock as Stock Price Plunges 60%",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/20/pantera-backed-solana-company-brings-forward-pipe-unlock-as-stock-price-plunges-60",
+          "tags": []
+        },
+        {
+          "id": "7326579cf734",
+          "time": "20:17",
+          "category": "Crypto",
+          "title": "Will Satoshi Nakamoto Move Any Bitcoin This Year? Degens Are Betting on It",
+          "summary": "Prediction market users are speculating that Satoshi Nakamoto will move some Bitcoin before the end of the year—here’s why.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345028/will-satoshi-nakamoto-move-bitcoin-this-year-degens-betting",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "6ab35c162df9",
+          "time": "20:03",
+          "category": "Crypto",
+          "title": "CleanSpark shares soar as Bitcoin miner announces AI expansion",
+          "summary": "Large Bitcoin mining companies are looking to expand into AI services for new sources of revenue amid the post-Bitcoin halving pressure.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/cleanspark-soar-13-bitcoin-miner-ai-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "7826e28dafb9",
+          "time": "19:37",
+          "category": "Crypto",
+          "title": "US shutdown nears fourth week as Senate Democrats plan crypto roundtable",
+          "summary": "As the government shutdown drags on, the US Senate is preparing a vote to end it while lawmakers plan to meet crypto leaders Wednesday to discuss the stalled market structure bill.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/us-shutdown-third-week-senate-democrats-plan-crypto-roundtable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "704f1374694e",
+          "time": "19:21",
+          "category": "Crypto",
+          "title": "AAVE Bounces Over 10% in Strong Weekend Recovery Amid RWA Integration Plans",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/20/aave-bounces-over-10-in-strong-weekend-recovery-amid-rwa-integration-plans",
+          "tags": []
+        },
+        {
+          "id": "bea16ce5a484",
+          "time": "19:00",
+          "category": "Crypto",
+          "title": "Price predictions 10/20: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE",
+          "summary": "Bitcoin staged a rebound rally to $111,705 as the market recovers from last the recent catastrophic sell-off, but data suggests sellers will continue to take profit at each breakout top.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/price-predictions-10-20-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC",
             "ETH"
           ]
         },
         {
-          "time": "13:00",
-          "category": "US Macro",
-          "title": "Declarações de dirigente do Fed indicam cautela",
-          "summary": "Membro do FOMC sugere que cortes de juros só devem ocorrer se inflação continuar controlada.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com",
+          "id": "cc384e93a72d",
+          "time": "19:00",
+          "category": "Crypto",
+          "title": "Centralized Exchanges Are Still Criminals’ Favorite Crypto Money Laundering Tool",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/opinion/2025/10/20/centralized-exchanges-are-still-criminals-favorite-crypto-money-laundering-tool",
+          "tags": []
+        },
+        {
+          "id": "891dfb374ae0",
+          "time": "18:57",
+          "category": "Crypto",
+          "title": "Crypto's Half-finished Legislative Agenda Teeters as CEOs Set Meeting With Democrats",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/policy/2025/10/20/crypto-s-half-finished-legislative-agenda-teeters-as-ceos-set-meeting-with-democrats",
+          "tags": []
+        },
+        {
+          "id": "09089ca3fb1f",
+          "time": "18:12",
+          "category": "Markets",
+          "title": "Analyst Report: State Street Corp.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3418_AnalystReport_1760980338000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "tags": []
+        },
+        {
+          "id": "a4896a656dfe",
+          "time": "17:47",
+          "category": "Crypto",
+          "title": "Monad’s Fast EVM Chain Promises ‘Night and Day’ Performance Gains",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/tech/2025/10/20/monad-s-fast-evm-chain-promises-night-and-day-performance-gains",
+          "tags": []
+        },
+        {
+          "id": "9d58a4ded1de",
+          "time": "17:45",
+          "category": "Crypto",
+          "title": "Dogecoin price set for 25% jump after Elon Musk’s new cryptic DOGE post",
+          "summary": "Musk’s tweets ignited DOGE’s meteoric 2021 rally, and with bullish signals returning, the memecoin might be gearing up again.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/dogecoin-25-percent-jump-elon-musk-new-cryptic-doge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "559412af999f",
+          "time": "17:39",
+          "category": "Crypto",
+          "title": "Ripple Backs Crypto Treasury That's Raising Over $1 Billion to Buy XRP",
+          "summary": "Evernorth is raising more than $1 billion to buy up XRP, with backing from Ripple and support from the firm's executives.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/344998/ripple-backs-crypto-treasury-raising-1-billion-buy-xrp",
+          "tags": []
+        },
+        {
+          "id": "ffe6fbda301d",
+          "time": "17:21",
+          "category": "Crypto",
+          "title": "Tom Lee's BitMine Shares Pump After Buying the Ethereum Dip",
+          "summary": "The Ethereum treasury last week bought over 200,000 ETH.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/344988/tom-lee-bitmine-pump-buying-ethereum-dip",
           "tags": [
-            "Fed",
-            "Taxas"
+            "ETH"
           ]
         },
         {
-          "time": "17:30",
-          "category": "Markets",
-          "title": "Dow Jones avança com otimismo sobre resultados trimestrais",
-          "summary": "Ações financeiras impulsionam o índice com expectativas positivas para o setor bancário.",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com",
+          "id": "c5a2aab63bbd",
+          "time": "17:15",
+          "category": "US Macro",
+          "title": "Ripple-linked Evernorth to go public in $1B SPAC to build massive XRP treasury",
+          "summary": "The move could make Evernorth one of the first public companies to anchor its balance sheet in XRP, signaling growing institutional appetite for digital assets.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/evernorth-ripple-spac-xrp-treasury-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "8c359675fa67",
+          "time": "17:01",
+          "category": "Crypto",
+          "title": "Bitcoin, Ethereum Funds Lost $513 Million Last Week",
+          "summary": "Bitcoin funds shed nearly $1 billion after tariff-driven crash, but dip-buyers rotated into Ethereum, Solana, and XRP as European investors stepped in.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/344984/bitcoinethereum-funds-lost-513-million-last-week",
           "tags": [
-            "Dow Jones",
-            "Bancos"
+            "BTC",
+            "ETH"
           ]
+        },
+        {
+          "id": "1ea2b4e57a1b",
+          "time": "16:45",
+          "category": "Crypto",
+          "title": "Not Just Dogecoin: Elon Musk Pumps Floki Meme Coin Price With AI Shiba Inu Video",
+          "summary": "Ethereum meme coin Floki spiked in price Monday after Elon Musk shared an AI video of his dog, echoing past Dogecoin pumps.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/344987/not-just-dogecoin-elon-musk-pumps-floki-ai-shiba-inu-video",
+          "tags": []
+        },
+        {
+          "id": "c7eadf184192",
+          "time": "16:26",
+          "category": "Crypto",
+          "title": "Solana founder brews up new perp DEX ‘Percolator’",
+          "summary": "The plans for the new perpetual DEX come two months after a VanEck report highlighted Hyperliquid’s growth on the expense of Solana and other large chains.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/solana-founder-new-perp-dex-percolator?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "358847a5a27d",
+          "time": "16:18",
+          "category": "Crypto",
+          "title": "Strategy Notches Third Smallest Bitcoin Purchase in 2025",
+          "summary": "The Bitcoin-buying firm hasn’t issued common shares this month, leaving its main source of funding untapped.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/344986/strategy-notches-third-smallest-bitcoin-purchase-2025",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "f3c6e3ace2d4",
+          "time": "16:17",
+          "category": "Crypto",
+          "title": "Quantum Computing Is 'Biggest Risk to Bitcoin,' Says Coin Metrics Co-Founder",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/tech/2025/10/20/quantum-computing-is-biggest-risk-to-bitcoin-says-coin-metrics-co-founder",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "eb101fcaea71",
+          "time": "16:02",
+          "category": "Crypto",
+          "title": "How to read crypto charts in 2025 (even if you’re a beginner)",
+          "summary": "Patterns, tools and indicators are key to making smarter crypto trading decisions. They help you spot trends and anticipate market moves with better insight.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/how-to-read-crypto-charts-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "293b451f270b",
+          "time": "16:00",
+          "category": "Crypto",
+          "title": "Coinbase One Card Opens Up to American Users With Bitcoin Rewards",
+          "summary": "American crypto exchange Coinbase is ending the waitlist for its Bitcoin rewards credit card, the Coinbase One Card.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/344888/coinbase-one-card-opens-all-users-bitcoin-rewards",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "6c59cbfc4e11",
+          "time": "15:30",
+          "category": "Crypto",
+          "title": "Bolivia’s new president backs blockchain to tackle government corruption",
+          "summary": "Bolivian President-elect Rodrigo Paz plans to use blockchain for public procurement and include crypto in asset declarations for a new fund.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/bolivia-s-new-president-backs-blockchain-to-tackle-government-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "eb2d1854589b",
+          "time": "15:20",
+          "category": "Crypto",
+          "title": "Coinbase, Robinhood Go Down for Hours Amid Widespread AWS Outage",
+          "summary": "A large-scale Amazon Web Services outage Monday led to downtime for both Coinbase and Robinhood, yielding complaints from users.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/344976/coinbase-robinhood-down-hours-amid-widespread-aws-outage",
+          "tags": []
+        },
+        {
+          "id": "59c6cc0c8ca4",
+          "time": "15:18",
+          "category": "Crypto",
+          "title": "Ripple-Backed Firm Plans SPAC, Raising $1B to 'Create the Largest Public XRP Treasury'",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/business/2025/10/20/ripple-backed-firm-plans-spac-raising-usd1b-to-create-the-largest-public-xrp-treasury",
+          "tags": []
+        },
+        {
+          "id": "da5050514494",
+          "time": "15:10",
+          "category": "Crypto",
+          "title": "Bitcoin Miner Bitdeer's AI Pivot Earns Price Target Hike at Benchmark",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/20/bitcoin-miner-bitdeer-s-ai-pivot-earns-price-target-hike-at-benchmark",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "3dd04fb08039",
+          "time": "15:06",
+          "category": "Crypto",
+          "title": "Blockchain.com Has Held Talks to Go Public Via SPAC Deal: Sources",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/business/2025/10/20/blockchain-com-has-held-talks-to-go-public-via-spac-deal-sources",
+          "tags": []
+        },
+        {
+          "id": "bf97bf3e6782",
+          "time": "15:05",
+          "category": "Crypto",
+          "title": "Tom Lee's Bitmine Immersion Adds $800M of Ether, Bringing ETH Holdings Over $13B",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/business/2025/10/20/tom-lee-s-bitmine-immersion-adds-usd800m-of-ether-bringing-eth-holdings-over-usd13b",
+          "tags": [
+            "ETH"
+          ]
+        },
+        {
+          "id": "81265bb441c4",
+          "time": "14:48",
+          "category": "Crypto",
+          "title": "CleanSpark Joins AI Rush in Expansion Beyond Bitcoin Mining",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/20/cleanspark-joins-ai-rush-in-expansion-beyond-bitcoin-mining",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "6d8edbf97df0",
+          "time": "14:41",
+          "category": "Crypto",
+          "title": "Michael Saylor’s Strategy takes another small step toward 700K Bitcoin",
+          "summary": "After its latest modest purchase, Michael Saylor’s Strategy has 59,582 BTC to go before hitting 700,000 BTC on its balance sheet.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/strategy-inches-700k-bitcoin-18-8-million-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "43c4fa78dee0",
+          "time": "14:30",
+          "category": "Crypto",
+          "title": "New film ‘Code is Law’ explores moral quandary behind crypto hacks",
+          "summary": "James Craig and Louis Giles’ new film “Code Is Law” examines infamous crypto hacks and the moral reckoning used by the perpetrators.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/should-code-be-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "f89b786152da",
+          "time": "14:30",
+          "category": "Crypto",
+          "title": "Decentralized science will bring the brain onchain",
+          "summary": "Brain-computer interfaces like Neuralink concentrate mental control in corporate hands. Decentralized science offers shared governance over neural data.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/desci-brain-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "7ce4d2aae7ad",
+          "time": "14:29",
+          "category": "Crypto",
+          "title": "Elon Musk posts his pet dog Floki on X; memecoin pumps 29%",
+          "summary": "The Floki memecoin jumped almost 29% after Elon Musk posted a video of his Shiba Inu dog working as “CEO” of the social media platform X.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/elon-musk-floki-memecoin-price-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "504f08c30bc6",
+          "time": "14:23",
+          "category": "Crypto",
+          "title": "XRP price targets $3 as whale wallet count hits new all-time highs",
+          "summary": "XRP showed renewed strength after weeks of declines, emerging as one of day’s top performers among major cryptocurrencies.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/xrp-price-targets-3-as-whale-wallet-count-hits-new-all-time-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "4a5132a21169",
+          "time": "14:14",
+          "category": "Crypto",
+          "title": "CoinDesk 20 Performance Update: Chainlink (LINK) Surges 16.6%, Leading Index Higher",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/coindesk-indices/2025/10/20/coindesk-20-performance-update-chainlink-link-surges-16-6-leading-index-higher",
+          "tags": []
+        },
+        {
+          "id": "fe7f34dfcec5",
+          "time": "14:12",
+          "category": "Crypto",
+          "title": "Bitcoin Mining Profitability Declined More Than 7% in September: Jefferies",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/20/bitcoin-mining-profitability-declined-more-than-7-in-september-jefferies",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "04f5bf98264b",
+          "time": "14:09",
+          "category": "Crypto",
+          "title": "BlackRock Launches Bitcoin ETP for UK Retail Investors",
+          "summary": "The iShares Bitcoin ETP listing is BlackRock's first crypto product available to UK retail investors, via the London Stock Exchange.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/344965/blackrock-launches-bitcoin-etp-for-uk-retail-investors",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "236851869b32",
+          "time": "14:09",
+          "category": "Crypto",
+          "title": "Grok, DeepSeek outperform ChatGPT, Gemini with epic crypto market long",
+          "summary": "Grok 4 generated a 500% gain on the first day after identifying the crypto market bottom and switching to leveraged long positions.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/grok-deepseek-outperform-chatgpt-gemini-crypto-market-long?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "0746600ac8a8",
+          "time": "14:01",
+          "category": "Crypto",
+          "title": "Gemini Unveils Solana Credit Card That Pays and Auto-Stakes SOL Rewards",
+          "summary": "Gemini is expanding its crypto credit card offerings with the release of the Solana Card, which will offer an auto-staking option.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/344880/gemini-unveils-solana-credit-card-pays-auto-stakes-sol-rewards",
+          "tags": []
+        },
+        {
+          "id": "544ffb5be88e",
+          "time": "14:00",
+          "category": "Crypto",
+          "title": "Crypto Exchange Gemini Launches Solana-Themed Credit Card With Auto-Staking Rewards",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/business/2025/10/20/crypto-exchange-gemini-launches-solana-themed-credit-card-with-auto-staking-rewards",
+          "tags": []
+        },
+        {
+          "id": "793f3a42fe39",
+          "time": "13:55",
+          "category": "Crypto",
+          "title": "Morning Minute: OpenSea Says SEA Is Coming Q1 2026",
+          "summary": "Devin Finzer shared new details about OpenSea's upcoming SEA token, which both 2021 NFT traders and current users will want to hear about.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/344956/morning-minute-opensea-says-sea-is-coming-q1-2026",
+          "tags": []
+        },
+        {
+          "id": "1ff324208c41",
+          "time": "13:24",
+          "category": "Crypto",
+          "title": "BNB Climbs as Crypto Markets Rebound on Potential Fed Policy Shift",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/20/bnb-climbs-as-crypto-markets-rebound-on-potential-fed-policy-shift",
+          "tags": []
+        },
+        {
+          "id": "c2d6d6b59318",
+          "time": "13:18",
+          "category": "Crypto",
+          "title": "Crypto funds’ two-week inflow streak ends: Here’s what went wrong",
+          "summary": "Onchain investors were more bearish about the Binance liquidity cascade, while crypto ETP traders largely shrugged off the Friday crash, according to CoinShares.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/crypto-funds-513-million-outflows-bitcoin-etp-bleed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "12dc1823ba2c",
+          "time": "13:15",
+          "category": "Crypto",
+          "title": "Strategy Expands Bitcoin Holdings to 640,418 BTC With Latest Purchase",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/20/strategy-expands-bitcoin-holdings-to-640-418-btc-with-latest-purchase",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "5bbc95dd507b",
+          "time": "13:05",
+          "category": "Crypto",
+          "title": "Wall Street Bank Citi Sees Stablecoins Powering Crypto’s Next Growth Phase",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/20/wall-street-bank-citi-sees-stablecoins-powering-crypto-s-next-growth-phase",
+          "tags": []
+        },
+        {
+          "id": "93f0d7c813b5",
+          "time": "13:00",
+          "category": "Crypto",
+          "title": "Crypto Markets Today: BTC Reclaims $111K, ETH Tops $4K After Last Week’s Sell-Off",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/20/crypto-markets-today-btc-reclaims-usd111k-eth-tops-usd4k-after-last-week-s-sell-off",
+          "tags": [
+            "BTC",
+            "ETH"
+          ]
+        },
+        {
+          "id": "7477415f23cc",
+          "time": "12:41",
+          "category": "Crypto",
+          "title": "BlackRock launches Bitcoin ETP after UK lifts trading ban",
+          "summary": "BlackRock’s iShares Bitcoin ETP debuts on the London Stock Exchange as UK regulators ease rules on crypto-linked investment products.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/blackrock-bitcoin-etp-uk-fca-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "0431c55323df",
+          "time": "12:40",
+          "category": "Markets",
+          "title": "Weekly Stock List",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_45059_StockPicks_1760960427000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "tags": []
+        },
+        {
+          "id": "bfbfc4027faa",
+          "time": "12:29",
+          "category": "Crypto",
+          "title": "Amazon AWS outage knocks Coinbase mobile app offline, Robinhood disrupted",
+          "summary": "This marks the second major Amazon AWS outage since April, when “connectivity issues” created usability problems for at least eight large crypto exchanges.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/amazon-aws-outage-coinbase-app-robinhood?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "c2cf64cadd1b",
+          "time": "12:23",
+          "category": "Crypto",
+          "title": "Dead cat bounce to $118K? 5 things to know in Bitcoin this week",
+          "summary": "Bitcoin rebounded into the new week as bulls were challenged to squeeze out shorts and avoid filling the $102,000 candle wick on Binance.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/dead-cat-bounce-to-118k-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "7092361f6c4c",
+          "time": "12:15",
+          "category": "Crypto",
+          "title": "Bitcoin in ‘Reaccumulation Phase’ on Fed Easing Bets, Trump Tariff Shift: Crypto Daybook Americas",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/daybook-us/2025/10/20/bitcoin-in-reaccumulation-phase-on-fed-easing-bets-trump-tariff-shift-crypto-daybook-americas",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "362d689357a2",
+          "time": "12:04",
+          "category": "Crypto",
+          "title": "This Cohort Is the Main Force Behind Bitcoin’s Resistance in Price",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/20/this-cohort-is-the-main-force-behind-bitcoin-s-resistance-in-price",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "854f33e9176b",
+          "time": "12:01",
+          "category": "Markets",
+          "title": "Analyst Report: Bank of New York Mellon Corp",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_2777_AnalystReport_1760958070000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "tags": []
+        },
+        {
+          "id": "b85e27773539",
+          "time": "12:01",
+          "category": "Markets",
+          "title": "Analyst Report: Charles Schwab Corp.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3657_AnalystReport_1760958070000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "tags": []
+        },
+        {
+          "id": "a6887b5ef761",
+          "time": "12:01",
+          "category": "Markets",
+          "title": "Analyst Report: Alphabet Inc",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3012_AnalystReport_1760958070000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "tags": []
+        },
+        {
+          "id": "59404db88670",
+          "time": "12:01",
+          "category": "Markets",
+          "title": "Analyst Report: Fastenal Co.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3653_AnalystReport_1760958070000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "tags": []
+        },
+        {
+          "id": "da57bec60685",
+          "time": "11:33",
+          "category": "Crypto",
+          "title": "What is Bitcoin if not crypto? Rumored Satoshi Nakamoto weighs in",
+          "summary": "Jack Dorsey, long rumored to be Satoshi Nakamoto, reignited debate by declaring “Bitcoin is not crypto,” arguing BTC stands apart from other digital assets.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/bitcoin-is-not-crypto-jack-dorsey-community-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "d280a8521b8f",
+          "time": "11:28",
+          "category": "Crypto",
+          "title": "Bitcoin reaches $111K as classic chart pattern projects 70% gains next",
+          "summary": "The recovery came as Bitcoin achieved a weekly close above $108,000, with the technical setup on the charts targeting significant gains ahead.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/bitcoin-reaches-111k-classic-chart-pattern-projects-70-percent-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "069eafffde6a",
+          "time": "11:14",
+          "category": "Crypto",
+          "title": "NY Democrats Propose Companion Bill Targeting Proof-of-Work Mining",
+          "summary": "Assembly Bill 9138 mirrors earlier Senate legislation imposing tiered excise taxes on energy-intensive crypto mining operations.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/344947/ny-democrats-propose-companion-bill-targeting-proof-of-work-mining",
+          "tags": []
+        },
+        {
+          "id": "1af69c54d69a",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Best money market account rates today, October 20, 2025 (Earn up to 4.26% APY)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-october-20-2025-100007814.html",
+          "tags": []
+        },
+        {
+          "id": "c5812809a84a",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "HELOC rates today, October 20, 2025: Rates have been falling since mid-September",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-monday-october-20-2025-100004679.html",
+          "tags": []
+        },
+        {
+          "id": "3d4756a2e7ee",
+          "time": "10:57",
+          "category": "Crypto",
+          "title": "ChainLink Jumps 14% as Whales Accumulate $116M Worth of LINK Tokens Since Crash",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/business/2025/10/20/chainlink-jumps-14-as-whales-accumulate-usd116m-worth-of-link-tokens-since-crash",
+          "tags": []
+        },
+        {
+          "id": "3e74de7f197e",
+          "time": "10:55",
+          "category": "Crypto",
+          "title": "Aster’s quiet relisting on DefiLlama leaves ‘big gaps’ in data: Exec",
+          "summary": "Aster’s return to DefiLlama came with missing historical data, leaving transparency questions unresolved across DeFi dashboards.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/defillama-aster-data-integrity-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "877e469cc229",
+          "time": "10:38",
+          "category": "Crypto",
+          "title": "Michael Saylor Highlights Yield Gap Between STRF, STRD Preferred Stock Offerings",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/20/michael-saylor-highlights-yield-gap-between-strf-strd-preferred-stock-offerings",
+          "tags": []
+        },
+        {
+          "id": "f3c5b3f34faf",
+          "time": "10:19",
+          "category": "Crypto",
+          "title": "UK Bitcoin ETPs From BlackRock, Others Start Trading in London After FCA Ends Ban",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/20/blackrock-uk-bitcoin-etp-starts-trading-in-london-after-fca-eases-crypto-ban",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "6c859436fd74",
+          "time": "09:00",
+          "category": "Crypto",
+          "title": "Crypto Traders Eye Major Events to Relieve Market Woes: Crypto Week Ahead",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/16/crypto-traders-eye-major-events-to-relieve-market-woes-crypto-week-ahead",
+          "tags": []
+        },
+        {
+          "id": "b6010ba4113d",
+          "time": "08:26",
+          "category": "Crypto",
+          "title": "How to catch market manipulation in altcoins before they crash",
+          "summary": "Crypto market manipulation involves organized efforts to artificially move altcoin prices and mislead traders about their true value.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/how-to-catch-market-manipulation-in-altcoins-before-they-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "1c1186ce0640",
+          "time": "08:18",
+          "category": "Crypto",
+          "title": "Insider Testifies MIT Brothers Allegedly Planned $25M Crypto Heist for Months",
+          "summary": "A former employee told jurors the brothers spent months preparing to exploit Ethereum's blockchain in a 12-second operation dubbed \"Omakase.\"",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/344933/insider-testifies-mit-brothers-allegedly-planned-25m-crypto-heist",
+          "tags": []
+        },
+        {
+          "id": "4f84e163fafd",
+          "time": "08:09",
+          "category": "Crypto",
+          "title": "Bittensor, Zcash Lead Altcoin Rebound as BNB Rally Cools",
+          "summary": "Bittensor and Zcash are leading gains as traders rotate into high-beta assets, as analysts remain cautiously optimistic.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/344930/bittensor-zcash-lead-altcoin-rebound-as-bnb-rally-cools",
+          "tags": []
+        },
+        {
+          "id": "90b38b33f7b9",
+          "time": "07:22",
+          "category": "Crypto",
+          "title": "88% of crypto airdrops flop, here’s how to break the curse",
+          "summary": "Jackson Denka, CEO of Azura, believes crypto airdrops will eventually take a backseat to IPO’s, but what if there was a way to save them?",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/crypto-airdrops-token-failure-utility-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "8effcfb7f5c1",
+          "time": "06:59",
+          "category": "Crypto",
+          "title": "Bitcoin’s next rally will start once OGs finish selling: Analysts",
+          "summary": "Long-term Bitcoin holders took profits at record levels with realized gains hitting $1.7 billion daily as older coins re-entered circulation.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/bitcoin-ogs-selling-tradfi-remains-resistance-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "1229841e520d",
+          "time": "05:52",
+          "category": "Crypto",
+          "title": "AI can’t get you Starbucks, but it could with blockchain: Kevin O’Leary",
+          "summary": "AI will automate most retail purchases in the future, with blockchain used to finalize payments, Shark Tank co-host and venture capitalist Kevin O’Leary says.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/ai-blockchain-will-change-retail-forever-kevin-oleary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "15882f6f0d2e",
+          "time": "05:45",
+          "category": "Crypto",
+          "title": "67% of institutions see bullish 6 months for Bitcoin: Coinbase",
+          "summary": "Institutional investors have a positive outlook for Bitcoin over the next three to six months, with multiple forces contributing to a bullish Q4 for crypto.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/institutions-positive-bitcoin-strong-macro-backdrop-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "68f040d1c344",
+          "time": "04:54",
+          "category": "Crypto",
+          "title": "Has Bitcoin Bottomed? Here's What the Experts Say",
+          "summary": "Analysts believe Bitcoin is forming a local bottom as the Fed pivots toward rate cuts, though U.S.-China trade tensions remain a key risk.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/344927/has-bitcoin-bottomed-heres-what-the-experts-say",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "7a4d12068260",
+          "time": "04:04",
+          "category": "Crypto",
+          "title": "Beijing Halts Tech Giants' Stablecoin Ambitions in Hong Kong: FT",
+          "summary": "Mainland officials have paused efforts from two top tech companies to establish stablecoin businesses in Hong Kong.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/344925/beijing-halts-tech-giants-stablecoin-ambitions-in-hong-kong",
+          "tags": []
         }
       ]
     }
