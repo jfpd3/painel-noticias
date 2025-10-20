@@ -1,0 +1,116 @@
+{
+  "generated_at": "2025-10-20T22:29:12.796375",
+  "timezone": "Europe/Lisbon",
+  "days": [
+    {
+      "date": "2025-10-19",
+      "attention_points": [
+        "Relatório do FOMC divulgado",
+        "Alta nos rendimentos dos Treasuries",
+        "Volatilidade nas altcoins após queda do BTC"
+      ],
+      "items": [
+        {
+          "time": "09:15",
+          "category": "Crypto",
+          "title": "BTC inicia recuperação após liquidações massivas",
+          "summary": "Depois de cair abaixo dos 105k€, o Bitcoin reage com alta de 3% puxando o mercado.",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com",
+          "tags": [
+            "BTC",
+            "Altcoins"
+          ],
+          "numbers": {
+            "BTC": 107500,
+            "ETH": 3850
+          }
+        },
+        {
+          "time": "14:30",
+          "category": "US Macro",
+          "title": "Inflação americana surpreende e mercado ajusta apostas",
+          "summary": "O CPI acima do esperado leva traders a reduzir expectativas de corte de juros em dezembro.",
+          "source": "WSJ",
+          "url": "https://www.wsj.com",
+          "tags": [
+            "Fed",
+            "CPI",
+            "Inflação"
+          ]
+        },
+        {
+          "time": "21:00",
+          "category": "Markets",
+          "title": "S&P 500 fecha em leve alta com rotação para techs",
+          "summary": "Índices americanos terminam o dia positivos com Nasdaq liderando os ganhos.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com",
+          "tags": [
+            "S&P 500",
+            "Nasdaq"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2025-10-20",
+      "attention_points": [
+        "Resultados de grandes bancos dos EUA",
+        "Reação ao discurso do Fed",
+        "Possível movimento de consolidação no BTC"
+      ],
+      "items": [
+        {
+          "time": "07:50",
+          "category": "Regulation",
+          "title": "SEC prorroga prazo de análise de ETF Ethereum",
+          "summary": "A SEC decidiu adiar a decisão final sobre ETFs baseados em Ether por mais 45 dias.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com",
+          "tags": [
+            "SEC",
+            "ETH",
+            "ETF"
+          ]
+        },
+        {
+          "time": "10:20",
+          "category": "Crypto",
+          "title": "Bitcoin mantém suporte em 110k€ e altcoins seguem estáveis",
+          "summary": "Movimento calmo no mercado com dominância do BTC em leve alta.",
+          "source": "CoinTelegraph",
+          "url": "https://www.cointelegraph.com",
+          "tags": [
+            "BTC",
+            "ETH"
+          ]
+        },
+        {
+          "time": "13:00",
+          "category": "US Macro",
+          "title": "Declarações de dirigente do Fed indicam cautela",
+          "summary": "Membro do FOMC sugere que cortes de juros só devem ocorrer se inflação continuar controlada.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com",
+          "tags": [
+            "Fed",
+            "Taxas"
+          ]
+        },
+        {
+          "time": "17:30",
+          "category": "Markets",
+          "title": "Dow Jones avança com otimismo sobre resultados trimestrais",
+          "summary": "Ações financeiras impulsionam o índice com expectativas positivas para o setor bancário.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com",
+          "tags": [
+            "Dow Jones",
+            "Bancos"
+          ]
+        }
+      ]
+    }
+  ]
+}
