@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Painel — Cripto & Finanças (Dark • Mobile+)</title>
+  <meta name="description" content="Painel escuro otimizado para mobile: 24/48/7 dias, lidas, contador, chips roláveis e FAB de recarregar." />
+  <style>
+    :root{
+      --bg:#0f1117; --card:#161b22; --card-2:#1b212b;
+      --text:#e6e9ef; --muted:#9aa4b2; --border:#2a3240;
+      --accent:#4f7cff;
+      --safe-top: env(safe-area-inset-top);
+      --safe-bottom: env(safe-area-inset-bottom);
+    }
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{margin:0;background:var(--bg);color:var(--text);
+      font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;
+      -webkit-tap-highlight-color: transparent;
+    }
+    a{color:var(--accent);text-decoration:underline}
+    header{position:sticky;top:0;backdrop-filter:saturate(180%) blur(6px);
+      background:rgba(15,17,23,.85);border-bottom:1px solid var(--border);z-index:10;
+      padding-top: calc(var(--safe-top) + 0px);
+    }
+    .container{max-width:1100px;margin:0 auto;padding:10px 14px}
+    h1{font-size:18px;margin:0}
+    .row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+
+    .btn,.input,select,textarea{
+      border:1px solid var(--border);border-radius:14px;
+      padding:10px 14px;background:var(--card-2);color:var(--text);font-size:16px; /* >=16px evita zoom no iOS */
+      min-height:44px; /* alvo táctil recomendado */
+    }
+    .btn{cursor:pointer;transition:transform .05s ease}
+    .btn:active{transform:translateY(1px)}
+    .btn.primary{background:var(--accent);color:#fff;border-color:var(--accent)}
+
+    .toolbar{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px;align-items:center}
+    .toolbar-row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+
+    main{display:grid;grid-template-columns:1fr;gap:12px;padding:12px}
+    @media(min-width:980px){main{grid-template-columns:2fr 1fr;padding:16px;gap:16px}}
+
+    .card{background:var(--card);border:1px solid var(--border);border-radius:18px;padding:14px}
+    .news-card{transition:box-shadow .2s ease,transform .06s ease,opacity .2s ease}
+    .news-card:hover{box-shadow:0 8px 24px rgba(0,0,0,.25);transform:translateY(-1px)}
+    .news-card.read{opacity:.55}
+
+    .pill{display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border:1px solid var(--border);
+      border-radius:999px;font-size:12px;color:var(--text);background:#1d2330}
+
+    .muted{color:var(--muted)}
+    .grid{display:grid;gap:10px}
+
+    .numbers{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+    @media(min-width:540px){.numbers{grid-template-columns:repeat(4,minmax(0,1fr))}}
+    .num{border:1px solid var(--border);background:#121722;border-radius:12px;padding:8px}
+    .num .k{font-size:12px;color:var(--muted)} .num .v{font-weight:700}
+
+    footer{text-align:center;color:var(--muted);font-size:12px;padding:16px 0 calc(16px + var(--safe-bottom))}
+
+    .hidden{display:none!important} .flex{display:flex;align-items:center;gap:8px}
+    .spacer{flex:1}
+
+    /* Chips/categorias com scroll horizontal no mobile */
+    .chips{display:flex;gap:6px;overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:6px}
+    .chips::-webkit-scrollbar{display:none}
+    .chip{border:1px solid var(--border);padding:8px 12px;border-radius:999px;
+      background:#141923;cursor:pointer;font-size:14px;color:var(--text);white-space:nowrap}
+    .chip.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+
+    /* Barra fixa de ações no fundo (apenas mobile) */
+    .fabbar{
+      position:fixed;left:0;right:0;bottom:0;
+      padding:8px 12px calc(8px + var(--safe-bottom));
+      background:linear-gradient(180deg, rgba(15,17,23,0) 0%, rgba(15,17,23,.85) 30%);
+      display:flex;gap:8px;justify-content:center;z-index:20;
+    }
+    .fabbar .btn{min-width:140px}
+
+    /* Desktop: escondemos FAB e mostramos botões normais */
+    @media(min-width:980px){
+      .fabbar{display:none}
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="row">
+        <h1 style="display:flex;align-items:center;gap:10px;">
+          Painel — Cripto &amp; Finanças
+          <span id="countLabel" class="pill" style="font-size:13px;">0 itens</span>
+        </h1>
+        <div class="spacer"></div>
+        <div class="muted">Feed: <span id="feedUrlLabel">./noticias.json</span> — <span id="statusLabel">a carregar…</span></div>
+      </div>
+
+      <div class="toolbar">
+        <div class="toolbar-row">
+          <div class="chips" id="rangeChips">
+            <button class="chip active" data-range="24">24h</button>
+            <button class="chip" data-range="48">48h</button>
+            <button class="chip" data-range="168">7d</button>
+          </div>
+          <div class="chips" id="catChips"></div>
+        </div>
+
+        <div class="toolbar-row">
+          <input class="input" id="searchInput" placeholder="Pesquisar título, fonte, tags…" style="flex:1;min-width:220px"/>
+          <button class="btn" id="clearSearch">Limpar</button>
+          <label class="chip"><input type="checkbox" id="hideRead" style="margin-right:6px;"> Esconder lidas</label>
+          <button class="btn" id="refreshBtn" style="display:none">Recarregar</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="newsList" class="grid"></section>
+    <aside>
+      <div class="card">
+        <h3>Hoje: 3 pontos de atenção</h3>
+        <ol id="attentionList"></ol>
+      </div>
+    </aside>
+  </main>
+
+  <!-- Barra fixa de ações (aparece no mobile) -->
+  <div class="fabbar">
+    <button class="btn primary" id="fabRefresh">Recarregar</button>
+    <button class="btn" id="fabTop">Topo</button>
+  </div>
+
+  <footer>Mobile+: chips roláveis, alvos 44px, FAB inferior, safe-areas iOS, tipografia 16px.</footer>
+
+  <script>
+    const FEED_URL = (new URLSearchParams(location.search).get('feed') || '').trim() || './noticias.json';
+    const AUTO_REFRESH_MS = 5 * 60 * 1000;
+
+    let DATA = { generated_at:null, timezone:'Europe/Lisbon', days:[] };
+    const CATEGORIES = ['All','Crypto','US Macro','Regulation','Earnings','Markets'];
+
+    const newsList=document.getElementById('newsList');
+    const attentionList=document.getElementById('attentionList');
+    const statusLabel=document.getElementById('statusLabel');
+    const feedUrlLabel=document.getElementById('feedUrlLabel');
+    const searchInput=document.getElementById('searchInput');
+    const clearSearch=document.getElementById('clearSearch');
+    const refreshBtn=document.getElementById('refreshBtn');
+    const fabRefresh=document.getElementById('fabRefresh');
+    const fabTop=document.getElementById('fabTop');
+    const countLabel=document.getElementById('countLabel');
+    const hideRead=document.getElementById('hideRead');
+    const rangeChips=document.getElementById('rangeChips');
+    const catChips=document.getElementById('catChips');
+
+    let currentQuery = localStorage.getItem('pn_query') || '';
+    let currentCategory = localStorage.getItem('pn_cat') || 'All';
+    let hoursRange = parseInt(localStorage.getItem('pn_range')||'24',10);
+    const readSet = new Set(JSON.parse(localStorage.getItem('pn_read')||'[]'));
+
+    feedUrlLabel.textContent = FEED_URL;
+    searchInput.value = currentQuery;
+    Array.from(rangeChips.querySelectorAll('.chip')).forEach(b=>{
+      b.classList.toggle('active', parseInt(b.dataset.range,10)===hoursRange);
+    });
+
+    async function fetchFeed(){
+      statusLabel.textContent='a carregar…';
+      try{
+        const nocache = FEED_URL + (FEED_URL.includes('?')?'&':'?') + '_ts=' + Date.now();
+        const res = await fetch(nocache,{cache:'no-store'});
+        if(!res.ok) throw new Error('HTTP '+res.status);
+        const json = await res.json();
+        DATA = json || {days:[]};
+        renderAll();
+        statusLabel.textContent='OK';
+      }catch(e){
+        statusLabel.textContent='falhou';
+        console.error(e);
+      }
+    }
+
+    function toTs(dayDate, timeStr){
+      if(!dayDate) return 0;
+      const [y,m,d] = dayDate.split('-').map(Number);
+      let hh=0,mm=0;
+      if(timeStr && timeStr.includes(':')){ const [h,mi]=timeStr.split(':'); hh=parseInt(h||'0',10); mm=parseInt(mi||'0',10); }
+      return new Date(y,(m-1),d,hh,mm,0,0).getTime();
+    }
+    function timeAgo(ts){
+      const diff = Date.now()-ts;
+      const m = Math.floor(diff/60000), h = Math.floor(m/60), d = Math.floor(h/24);
+      if (d>0) return d+'d'; if (h>0) return h+'h'; return (m||1)+'m';
+    }
+
+    function flattenWithin(hours){
+      const items=[];
+      (DATA.days||[]).forEach(day => (day.items||[]).forEach(it => {
+        const _ts = toTs(day.date,it.time);
+        items.push({day:day.date,_ts,_id:(it.id || (day.date+'-'+(it.title||'').slice(0,24))), ...it});
+      }));
+      if(!items.length) return [];
+      const newest = Math.max(...items.map(i=>i._ts||0), Date.now());
+      const cutoff = newest - hours*60*60*1000;
+      let out = items.filter(i => (i._ts||0)>=cutoff);
+      if(currentCategory!=='All') out = out.filter(i => i.category===currentCategory);
+      if(currentQuery.trim()){
+        const q = currentQuery.toLowerCase();
+        out = out.filter(i =>
+          (i.title||'').toLowerCase().includes(q) ||
+          (i.summary||'').toLowerCase().includes(q) ||
+          (i.source||'').toLowerCase().includes(q) ||
+          (i.tags||[]).some(t => (t||'').toLowerCase().includes(q))
+        );
+      }
+      out.sort((a,b)=>(b._ts||0)-(a._ts||0));
+      return out;
+    }
+
+    function renderChips(){
+      catChips.innerHTML='';
+      CATEGORIES.forEach(cat=>{
+        const b=document.createElement('button');
+        b.className='chip'+(currentCategory===cat?' active':'');
+        b.textContent=(cat==='All'?'Todas':(cat==='Regulation'?'Regulação':cat));
+        b.onclick=()=>{
+          currentCategory=cat;
+          localStorage.setItem('pn_cat',currentCategory);
+          renderList();
+          renderCount();
+          renderChips();
+        };
+        catChips.appendChild(b);
+      });
+    }
+
+    function renderList(){
+      newsList.innerHTML='';
+      const items = flattenWithin(hoursRange);
+      const visible = hideRead.checked ? items.filter(i=>!readSet.has(i._id)) : items;
+      countLabel.textContent = visible.length + ' itens';
+
+      if(!visible.length){
+        const div=document.createElement('div');
+        div.className='card';
+        div.textContent='Sem notícias no intervalo selecionado.';
+        newsList.appendChild(div);
+        return;
+      }
+      visible.forEach(it=>{
+        const card=document.createElement('article');
+        card.className='card news-card'+(readSet.has(it._id)?' read':'');
+        const hh = new Date(it._ts).toLocaleTimeString('pt-PT',{hour:'2-digit',minute:'2-digit'});
+        const dd = new Date(it._ts).toLocaleDateString('pt-PT',{year:'numeric',month:'2-digit',day:'2-digit'});
+        card.innerHTML = `
+          <div class="flex" style="justify-content:space-between;align-items:center;">
+            <div class="muted">${hh} • ${dd} <span class="muted" style="margin-left:8px;">(${timeAgo(it._ts)} atrás)</span></div>
+            <span class="pill">${it.category||'—'}</span>
+          </div>
+          <h3 style="margin:8px 0 4px;font-size:18px;line-height:1.25;">${it.title||'(sem título)'}</h3>
+          ${it.summary?`<p class="muted" style="font-size:15px;line-height:1.5">${it.summary}</p>`:''}
+          <div class="flex" style="justify-content:space-between;align-items:center;margin-top:6px;gap:10px;flex-wrap:wrap">
+            <div class="flex">
+              ${it.source?`<span class="muted">${it.source}</span>`:''}
+              ${it.url?`<a href="${it.url}" target="_blank" rel="noreferrer" style="margin-left:10px;">Abrir fonte</a>`:''}
+            </div>
+            <label class="chip" style="cursor:pointer;">
+              <input type="checkbox" ${readSet.has(it._id)?'checked':''} data-id="${it._id}" class="markRead" style="margin-right:6px;"> Lida
+            </label>
+          </div>
+        `;
+        if(it.numbers){
+          const nums=document.createElement('div'); nums.className='numbers';
+          for(const [k,v] of Object.entries(it.numbers)){
+            const box=document.createElement('div'); box.className='num';
+            box.innerHTML=`<div class="k">${k.toUpperCase()}</div><div class="v">${typeof v==='number'?v.toLocaleString('pt-PT'):String(v)}</div>`;
+            nums.appendChild(box);
+          }
+          card.appendChild(nums);
+        }
+        newsList.appendChild(card);
+      });
+
+      // bind checkboxes
+      newsList.querySelectorAll('.markRead').forEach(cb=>{
+        cb.addEventListener('change',e=>{
+          const id=e.target.getAttribute('data-id');
+          if(e.target.checked){ readSet.add(id); } else { readSet.delete(id); }
+          localStorage.setItem('pn_read', JSON.stringify(Array.from(readSet)));
+          renderList();
+        });
+      });
+
+      // attention
+      attentionList.innerHTML='';
+      const recentDay=(DATA.days||[])[0];
+      if(recentDay && recentDay.attention_points){
+        recentDay.attention_points.slice(0,3).forEach(p=>{
+          const li=document.createElement('li'); li.textContent=p; attentionList.appendChild(li);
+        });
+      } else {
+        const li=document.createElement('li'); li.textContent='Sem prioridades definidas.'; attentionList.appendChild(li);
+      }
+    }
+
+    function renderAll(){
+      renderChips();
+      renderList();
+    }
+
+    // Events
+    [refreshBtn,fabRefresh].forEach(btn=>btn.addEventListener('click', fetchFeed));
+    fabTop.addEventListener('click',()=>window.scrollTo({top:0,behavior:'smooth'}));
+    clearSearch.addEventListener('click', ()=>{ searchInput.value=''; currentQuery=''; localStorage.setItem('pn_query',''); renderList(); });
+    searchInput.addEventListener('input', e=>{ currentQuery=e.target.value||''; localStorage.setItem('pn_query',currentQuery); renderList(); });
+    hideRead.addEventListener('change', ()=>{ renderList(); });
+    rangeChips.querySelectorAll('.chip').forEach(b=>{
+      b.addEventListener('click', ()=>{
+        rangeChips.querySelectorAll('.chip').forEach(x=>x.classList.remove('active'));
+        b.classList.add('active');
+        const hrs=parseInt(b.dataset.range,10);
+        localStorage.setItem('pn_range', String(hrs));
+        hoursRange=hrs; renderList();
+      });
+    });
+
+    // Start
+    fetchFeed();
+    setInterval(fetchFeed, AUTO_REFRESH_MS);
+  </script>
+</body>
+</html>
