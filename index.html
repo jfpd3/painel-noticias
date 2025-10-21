@@ -189,7 +189,7 @@ const RESOLVED_FEED_URL = qsFeed || FEED_URL;
     const a2hsBtn=document.getElementById('a2hsBtn');
 
     // mostra o feed resolvido no cabeçalho
-feedUrlLabel.textContent = RESOLVED_FEED_URL;
+ feedUrlLabel.textContent = RESOLVED_FEED_URL;
 
     let currentCategory = localStorage.getItem('pn_cat') || 'All';
     let hoursRange = parseInt(localStorage.getItem('pn_range') || '24', 10);
@@ -216,14 +216,11 @@ rangeChips.querySelectorAll('.chip').forEach(b => {
    async function fetchFeed(){
   statusLabel.textContent = 'a carregar…';
 
-  // 1) GH Pages (principal)
   const u1 = RESOLVED_FEED_URL + '?_ts=' + Date.now();
-
-  // 2) Fallback: raw do GitHub
   const u2 = 'https://raw.githubusercontent.com/jfpd3/painel-noticias/main/noticias.json?_ts=' + Date.now();
 
   const tries = [u1, u2];
-  let lastErr = null, json = null;
+  let json = null, lastErr = null;
 
   for (const url of tries) {
     try {
@@ -253,7 +250,8 @@ rangeChips.querySelectorAll('.chip').forEach(b => {
       <p class="muted">Testa abrir:
         <a href="${u1}" target="_blank" rel="noreferrer">${u1}</a><br/>
         <a href="${u2}" target="_blank" rel="noreferrer">${u2}</a>
-      </p>`;
+      </p>
+    `;
     newsList.appendChild(div);
   }
 }
