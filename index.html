@@ -59,7 +59,6 @@
           <button class="chip" data-range="24">24h</button>
           <button class="chip" data-range="48">48h</button>
           <button class="chip" data-range="168">7d</button>
-          <button class="chip" data-range="0">Todas</button>
         </div>
         <div class="chips" id="catChips"></div>
         <label class="row" style="margin-left:auto;gap:6px">
@@ -135,6 +134,12 @@
   let DATA   = { days: [] };
   let currentCategory = localStorage.getItem('pn_cat') || 'All';
   let hoursRange      = parseInt(localStorage.getItem('pn_range') || '24', 10);
+  // só permitimos 24/48/168; se houver 0 antigo, volta a 24
+const VALID_RANGES = [24, 48, 168];
+if (!VALID_RANGES.includes(hoursRange)) {
+  hoursRange = 24;
+  localStorage.setItem('pn_range', '24');
+}
 
   // “lidas”
   let readSet;
@@ -197,15 +202,15 @@
   function flattenWithin(hours){
     const out = [];
     const now = Date.now();
-    const cutoff = hours > 0 ? (now - hours * 3600 * 1000) : 0;
+    const cutoff = now - hours * 3600 * 1000; 
     (DATA.days || []).forEach(day=>{
       (day.items || []).forEach(it=>{
         const ts = toTs(day.date, it.time);
-        if (cutoff === 0 || (!isNaN(ts) && ts >= cutoff)) {
-          out.push({ ...it, _ts: ts, _day: day.date });
-        }
-      });
+        if (!isNaN(ts) && ts >= cutoff) {
+        out.push({ ...it, _ts: ts, _day: day.date });
+      }
     });
+  });
     out.sort((a,b)=> b._ts - a._ts);
     return out;
   }
