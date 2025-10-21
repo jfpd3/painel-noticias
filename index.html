@@ -161,7 +161,7 @@
   <footer>Mobile PWA: “Adicionar ao ecrã principal” no fundo da página • Auto-refresh 5min.</footer>
 
   <script>
-    const FEED_URL = (new URLSearchParams(location.search).get('feed') || '').trim() || './noticias.json';
+    const FEED_URL = '/painel-noticias/noticias.json';
     const AUTO_REFRESH_MS = 5 * 60 * 1000;
 
     let DATA = { generated_at:null, timezone:'Europe/Lisbon', days:[] };
@@ -206,35 +206,54 @@ rangeChips.querySelectorAll('.chip').forEach(b => {
     async function fetchFeed(){
   statusLabel.textContent = 'a carregar…';
 
-  // basePath = /painel-noticias/ (com barra final)
-  const basePath = location.pathname.replace(/[^/]+$/, '');
-  const nocache = FEED_URL + (FEED_URL.includes('?') ? '&' : '?') + '_ts=' + Date.now();
+  // 1) mesma origem (GH Pages) — network-first + no-store
+  const u1 = FEED_URL + '?_ts=' + Date.now();
 
-  // 3 tentativas: relativo, absoluto e raw do GitHub
-  const candidates = [
-    // 1) relativo (pasta do site)
-    new Request(nocache, { cache: 'no-store' }),
+  // 2) fallback: raw do GitHub (usa o teu utilizador e repo)
+  const GH_USER = 'jfpd3';
+  const GH_REPO = 'painel-noticias';
+  const u2 = `https://raw.githubusercontent.com/${GH_USER}/${GH_REPO}/main/noticias.json?_ts=${Date.now()}`;
 
-    // 2) absoluto no mesmo domínio
-    new Request(location.origin + basePath + 'noticias.json?_ts=' + Date.now(), { cache: 'no-store' }),
-
-    // 3) raw do GitHub (fallback duro)
-    new Request(`https://raw.githubusercontent.com/${location.pathname.split('/')[1]}/${location.pathname.split('/')[2]}/main/noticias.json?_ts=${Date.now()}`, { cache: 'no-store' }),
-  ];
-
+  const tries = [u1, u2];
   let lastErr = null, json = null;
 
-  for (const req of candidates) {
+  for (const url of tries) {
     try {
-      // IMPORTANTE: “reload” tenta furar o SW
-      const res = await fetch(req, { cache: 'reload' });
-      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const res = await fetch(url, {
+        cache: 'reload',             // tenta furar SW
+        headers: { 'Cache-Control': 'no-cache' }
+      });
+      if (!res.ok) throw new Error('HTTP ' + res.status + ' em ' + url);
       json = await res.json();
       break;
     } catch (e) {
       lastErr = e;
     }
   }
+
+  if (json) {
+    DATA = json || { days: [] };
+    renderAll();
+    statusLabel.textContent = 'OK';
+  } else {
+    statusLabel.textContent = 'falhou';
+    console.error('Falha a carregar noticias.json:', lastErr);
+
+    newsList.innerHTML = '';
+    const div = document.createElement('div');
+    div.className = 'card';
+    div.innerHTML = `
+      <strong>Erro a carregar o feed</strong>
+      <p class="muted" style="margin-top:6px">
+        ${lastErr ? String(lastErr).replace(/</g,'&lt;') : 'erro desconhecido'}
+      </p>
+      <p class="muted">Testa abrir:
+        <a href="${u1}" target="_blank" rel="noreferrer">/painel-noticias/noticias.json</a> ou
+        <a href="${u2}" target="_blank" rel="noreferrer">raw GitHub</a>.
+      </p>`;
+    newsList.appendChild(div);
+  }
+}
 
   if (json) {
     DATA = json || { days: [] };
