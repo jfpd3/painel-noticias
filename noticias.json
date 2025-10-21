@@ -1,26 +1,170 @@
 {
-  "generated_at": "2025-10-21T09:51+01:00",
+  "generated_at": "2025-10-21T10:38+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-21",
       "attention_points": [
-        "Bitcoin eyes CME gap below as BTC price dips 2.5% to risk $100K collapse",
-        "British Columbia to Permanently Ban New Crypto Mining Projects From Grid",
-        "US political turmoil tests ‘institutional confidence’ as crypto ETFs bleed"
+        "Ethereum fails again above $4K as traders grow frustrated with shakeouts",
+        "Astral partners with MMS for Think Big project development",
+        "Jeff Bezos siblings' Amazon stake now worth over $1B — 2 ways to get rich outside of the S"
       ],
       "items": [
+        {
+          "id": "6085ea1227af",
+          "time": "10:31",
+          "category": "Crypto",
+          "title": "Ethereum fails again above $4K as traders grow frustrated with shakeouts",
+          "summary": "Ether ran into resistance at $4,000 as the absence of new buyers and weak spot Ethereum flows threatened ETH price dropping to $3,100 next.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/ethereum-price-fails-above-4k-traders-grow-frustrated-shakeouts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "ETH"
+          ]
+        },
+        {
+          "id": "72cd82a15843",
+          "time": "10:17",
+          "category": "Markets",
+          "title": "Astral partners with MMS for Think Big project development",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/astral-partners-mms-think-big-091714841.html",
+          "tags": []
+        },
+        {
+          "id": "1cf60cdec749",
+          "time": "10:11",
+          "category": "Markets",
+          "title": "Jeff Bezos siblings' Amazon stake now worth over $1B — 2 ways to get rich outside of the S&P 500",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jeff-bezos-siblings-amazon-stake-091100683.html",
+          "tags": []
+        },
+        {
+          "id": "0b635176e097",
+          "time": "10:10",
+          "category": "Markets",
+          "title": "Iamgold to acquire Quebec-based Northern Superior Resources",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/iamgold-acquire-quebec-based-northern-091058614.html",
+          "tags": []
+        },
+        {
+          "id": "4bf9769fb59a",
+          "time": "10:10",
+          "category": "Markets",
+          "title": "Amcor announces operational launch of new MDO line in Peru",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/amcor-announces-operational-launch-mdo-091019951.html",
+          "tags": []
+        },
+        {
+          "id": "e9cfd254ab4b",
+          "time": "10:00",
+          "category": "Crypto",
+          "title": "Crypto, Fintech push back against banks’ war on open banking",
+          "summary": "The Blockchain Association, Crypto Council for Innovation and fintech allies urged the CFPB to finalize an open banking rule ensuring consumers, not banks, control their data.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/crypto-fintech-banks-war-open-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "1c4daf3615b7",
+          "time": "10:00",
+          "category": "Markets",
+          "title": "3 takeaways for investors tracking executive insider trades",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/3-takeaways-investors-tracking-executive-090000580.html",
+          "tags": []
+        },
+        {
+          "id": "47011ade3b1d",
+          "time": "09:58",
+          "category": "Markets",
+          "title": "Raphael Geminder explores sale of Asian packaging operations",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/raphael-geminder-explores-sale-asian-085814437.html",
+          "tags": []
+        },
+        {
+          "id": "1744b132a69f",
+          "time": "09:56",
+          "category": "Markets",
+          "title": "Prospex Energy restarts Viura-1B well in Spain",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/prospex-energy-restarts-viura-1b-085652226.html",
+          "tags": []
+        },
+        {
+          "id": "65765b8f4d0a",
+          "time": "09:53",
+          "category": "Crypto",
+          "title": "‘We Scaled Ethereum, Got Zero Help’ – Polygon and Sonic Labs Slam Ethereum Foundation",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/scaled-ethereum-got-zero-help-085341116.html",
+          "tags": [
+            "ETH"
+          ]
+        },
+        {
+          "id": "0cafeb3e6f91",
+          "time": "09:50",
+          "category": "Markets",
+          "title": "3 Cheap Tech Stocks to Buy Right Now",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/3-cheap-tech-stocks-buy-085000951.html",
+          "tags": []
+        },
+        {
+          "id": "76140669d053",
+          "time": "09:47",
+          "category": "Regulation",
+          "title": "Should You Buy Kratos Defense & Security Solutions Right Now?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/buy-kratos-defense-security-solutions-084700725.html",
+          "tags": []
+        },
         {
           "id": "0ea20a3a2d5f",
           "time": "09:45",
           "category": "Crypto",
-          "title": "Bitcoin eyes CME gap below as BTC price dips 2.5% to risk $100K collapse",
-          "summary": "Bitcoin price dropped 2.5% on the day to attempt to fill the latest weekend CME futures gap, while traders warned that $100,000 could fail as support.",
+          "title": "Bitcoin eyes CME gap below as BTC price dips 2.5%, risks $100K collapse",
+          "summary": "Bitcoin price dropped 2.5% on Tuesday in an attempt to fill the latest weekend CME futures gap, while traders warned that $100,000 could fail as support.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/bitcoin-cme-gap-btc-price-dips-risk-100k-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ]
+        },
+        {
+          "id": "2b0c0343accb",
+          "time": "09:34",
+          "category": "Markets",
+          "title": "Swiss exports to US surge in September as pharma shipments rise",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/swiss-exports-us-surge-september-083417280.html",
+          "tags": []
+        },
+        {
+          "id": "7a83da34a9a6",
+          "time": "09:15",
+          "category": "Markets",
+          "title": "Gold Remains Elevated Despite Signs Rally May Be Overextended",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/articles/gold-edges-higher-on-likely-dip-buying-interest-f9df606f?siteid=yhoof2&yptr=yahoo",
+          "tags": []
         },
         {
           "id": "d4370a7f5454",
@@ -33,6 +177,26 @@
           "tags": []
         },
         {
+          "id": "9008d118a773",
+          "time": "09:11",
+          "category": "Markets",
+          "title": "Apple Closes In on $4 Trillion Valuation",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2025/card/apple-closes-in-on-4-trillion-valuation-sh2hp2PRcICp9CoaIXyn?siteid=yhoof2&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "b9f93d856d3e",
+          "time": "09:11",
+          "category": "Markets",
+          "title": "Stocks rise and gold dips as investors recover risk appetite",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/stocks-rise-gold-dips-investors-081112583.html",
+          "tags": []
+        },
+        {
           "id": "574c1a63ef2d",
           "time": "09:10",
           "category": "Crypto",
@@ -40,6 +204,66 @@
           "summary": "The outflows came as “No Kings” protests swept across the US amid a prolonged government shutdown and political division, deepening market risk aversion.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/spot-bitcoin-ethereum-etfs-extend-outflows-amid-us-political-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "a55f1f61ba4a",
+          "time": "09:04",
+          "category": "Markets",
+          "title": "Oil Slides as Investors Await U.S.-China Trade Signals",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/articles/oil-edges-lower-amid-growing-signs-of-market-surplus-c199c63e?siteid=yhoof2&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "047c7d69d5bc",
+          "time": "08:56",
+          "category": "Earnings",
+          "title": "Stock Futures Fall as Markets Brace for Key Earnings",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102125/card/stock-futures-fall-as-markets-brace-for-key-earnings-sbesNNcjt1jCUXFgxna9?siteid=yhoof2&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "34655f079db2",
+          "time": "08:40",
+          "category": "Markets",
+          "title": "U.K. Government Overshoots Borrowing Target in First Half, Making Tax Rises Likely",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/world/uk/u-k-government-overshoots-borrowing-target-in-first-half-making-tax-rises-likely-c7baa51a?siteid=yhoof2&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "e3b4bb6ae7ba",
+          "time": "08:23",
+          "category": "Markets",
+          "title": "Long Duration Bonds Perform Well in 2025",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/articles/jgbs-edge-higher-tracking-gains-in-u-s-treasurys-9bf2e29c?siteid=yhoof2&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "15c54aa9ad62",
+          "time": "08:22",
+          "category": "Markets",
+          "title": "Venture Global Moves Closer to Unofficial Launch at Plaquemines",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/venture-global-moves-closer-unofficial-072225220.html",
+          "tags": []
+        },
+        {
+          "id": "231223d01db4",
+          "time": "08:19",
+          "category": "Markets",
+          "title": "Coca-Cola, Partner Sell Majority Stake in Africa Bottler for $2.6 Billion",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/deals/coca-cola-partner-sell-majority-stake-in-africa-bottler-for-2-6-billion-8f714fe9?siteid=yhoof2&yptr=yahoo",
           "tags": []
         },
         {
@@ -55,6 +279,16 @@
           ]
         },
         {
+          "id": "521db8e88e1c",
+          "time": "08:10",
+          "category": "Markets",
+          "title": "Analysis-US-Australia rare earths deal is a start but won't shake China dominance any time soon",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/analysis-us-australia-rare-earths-071012571.html",
+          "tags": []
+        },
+        {
           "id": "982812ed1423",
           "time": "08:00",
           "category": "Crypto",
@@ -62,6 +296,116 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/21/doge-consolidates-near-lows-but-watch-usd0-194-for-breakdown-or-short-cover-rally",
+          "tags": []
+        },
+        {
+          "id": "d4ac07521b4e",
+          "time": "07:58",
+          "category": "Markets",
+          "title": "Japan's next finance minister could unsettle yen bears",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/japans-next-finance-minister-could-065816797.html",
+          "tags": []
+        },
+        {
+          "id": "a54bf381e7fe",
+          "time": "07:46",
+          "category": "Markets",
+          "title": "Unilever Delays Ice-Cream Spinoff, Citing U.S. Shutdown",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/finance/stocks/unilever-delays-ice-cream-spinoff-citing-u-s-shutdown-5d757c58?siteid=yhoof2&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "e78bc2df8437",
+          "time": "07:41",
+          "category": "Markets",
+          "title": "Heard on the Street Monday Recap: No Web, No Problem",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2025/card/heard-on-the-street-monday-recap-no-web-no-problem-VSRFd2jnBrHHKxr6sBIJ?siteid=yhoof2&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "f9f29396fb83",
+          "time": "07:12",
+          "category": "US Macro",
+          "title": "Nordic American Tankers (NAT) Surges Amid Boost for Shipping Industry",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/nordic-american-tankers-nat-surges-061218101.html",
+          "tags": []
+        },
+        {
+          "id": "fd39f6047c2c",
+          "time": "07:12",
+          "category": "Markets",
+          "title": "Sunoco (SUN) Gains Amid Positive Update Regarding Parkland Takeover",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/sunoco-sun-gains-amid-positive-061217441.html",
+          "tags": []
+        },
+        {
+          "id": "e41db2108952",
+          "time": "07:12",
+          "category": "US Macro",
+          "title": "Teekay Tankers (TNK) Gains Following Delay in Carbon Tax for Shipping",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/teekay-tankers-tnk-gains-following-061215900.html",
+          "tags": []
+        },
+        {
+          "id": "a26822641829",
+          "time": "07:12",
+          "category": "Markets",
+          "title": "Select Water Solutions (WTTR) Gains After Analyst Initiates Coverage",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/select-water-solutions-wttr-gains-061214688.html",
+          "tags": []
+        },
+        {
+          "id": "102d8f11fc3c",
+          "time": "07:12",
+          "category": "Markets",
+          "title": "LandBridge Company (LB) – Among the Energy Stocks that Gained This Week",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/landbridge-company-lb-among-energy-061212651.html",
+          "tags": []
+        },
+        {
+          "id": "9377325d3122",
+          "time": "07:12",
+          "category": "Markets",
+          "title": "Oklo Inc. (OKLO) Hit a Fresh High Following Newcleo Agreement",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/oklo-inc-oklo-hit-fresh-061211074.html",
+          "tags": []
+        },
+        {
+          "id": "c789d9946779",
+          "time": "07:12",
+          "category": "Markets",
+          "title": "Solaris Energy Infrastructure (SEI) Gains Following Analyst Update",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/solaris-energy-infrastructure-sei-gains-061209805.html",
+          "tags": []
+        },
+        {
+          "id": "fb3b927688b0",
+          "time": "07:12",
+          "category": "Earnings",
+          "title": "Liberty Energy (LBRT) Gains Amid Positive Outlook for FY 2026",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/liberty-energy-lbrt-gains-amid-061207825.html",
           "tags": []
         },
         {
@@ -242,6 +586,16 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/policy/2025/10/20/senate-republicans-call-for-own-meeting-with-crypto-ceos-after-democrats-sitdown",
+          "tags": []
+        },
+        {
+          "id": "25e86643fed8",
+          "time": "00:32",
+          "category": "Earnings",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq futures stall as investors eye earnings ahead",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-as-investors-eye-earnings-ahead-233217550.html",
           "tags": []
         },
         {
@@ -565,6 +919,16 @@
           "tags": []
         },
         {
+          "id": "c42df0729577",
+          "time": "16:34",
+          "category": "Earnings",
+          "title": "GM Q3 earnings preview: Tariff exposure, EV business on investor agenda",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/gm-q3-earnings-preview-tariff-exposure-ev-business-on-investor-agenda-153424070.html",
+          "tags": []
+        },
+        {
           "id": "c7eadf184192",
           "time": "16:26",
           "category": "Crypto",
@@ -729,26 +1093,6 @@
           "tags": []
         },
         {
-          "id": "7ce4d2aae7ad",
-          "time": "14:29",
-          "category": "Crypto",
-          "title": "Elon Musk posts his pet dog Floki on X; memecoin pumps 29%",
-          "summary": "The Floki memecoin jumped almost 29% after Elon Musk posted a video of his Shiba Inu dog working as “CEO” of the social media platform X.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/elon-musk-floki-memecoin-price-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": []
-        },
-        {
-          "id": "504f08c30bc6",
-          "time": "14:23",
-          "category": "Crypto",
-          "title": "XRP price targets $3 as whale wallet count hits new all-time highs",
-          "summary": "XRP showed renewed strength after weeks of declines, emerging as one of day’s top performers among major cryptocurrencies.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/xrp-price-targets-3-as-whale-wallet-count-hits-new-all-time-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": []
-        },
-        {
           "id": "4a5132a21169",
           "time": "14:14",
           "category": "Crypto",
@@ -889,46 +1233,6 @@
           "summary": "Assembly Bill 9138 mirrors earlier Senate legislation imposing tiered excise taxes on energy-intensive crypto mining operations.",
           "source": "Decrypt",
           "url": "https://decrypt.co/344947/ny-democrats-propose-companion-bill-targeting-proof-of-work-mining",
-          "tags": []
-        },
-        {
-          "id": "752064e69912",
-          "time": "11:00",
-          "category": "US Macro",
-          "title": "Mortgage and refinance interest rates today for October 20, 2025: Weekly rates drop",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-monday-october-20-2025-103022306.html",
-          "tags": []
-        },
-        {
-          "id": "82a902cf056f",
-          "time": "11:00",
-          "category": "US Macro",
-          "title": "Best high-yield savings interest rates today, October 20, 2025 (Earn up to 4.36% APY)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-monday-october-20-2025-100013455.html",
-          "tags": []
-        },
-        {
-          "id": "1af69c54d69a",
-          "time": "11:00",
-          "category": "US Macro",
-          "title": "Best money market account rates today, October 20, 2025 (Earn up to 4.26% APY)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-october-20-2025-100007814.html",
-          "tags": []
-        },
-        {
-          "id": "c5812809a84a",
-          "time": "11:00",
-          "category": "US Macro",
-          "title": "HELOC rates today, October 20, 2025: Rates have been falling since mid-September",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-monday-october-20-2025-100004679.html",
           "tags": []
         }
       ]
