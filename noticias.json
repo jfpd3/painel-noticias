@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-10-22T00:10+01:00",
+  "generated_at": "2025-10-22T00:29+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
+    {
+      "date": "2025-10-22",
+      "attention_points": [
+        "Kadena blames ‘market conditions’ as founding team exits, tanking token"
+      ],
+      "items": [
+        {
+          "id": "1182f71bc414",
+          "time": "00:20",
+          "category": "Crypto",
+          "title": "Kadena blames ‘market conditions’ as founding team exits, tanking token",
+          "summary": "The team behind the Kadena blockchain said it is no longer able to continue business operations and will cease maintenance of the network immediately.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/kadena-team-discontinues-support-layer-1-kadena?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        }
+      ]
+    },
     {
       "date": "2025-10-21",
       "attention_points": [
@@ -821,18 +839,6 @@
           "tags": []
         },
         {
-          "id": "cce227bcaa2d",
-          "time": "08:17",
-          "category": "Crypto",
-          "title": "Bitcoin mining in 2025, explained: From hashrate to rewards",
-          "summary": "Discover how Bitcoin mining runs in 2025: From halving rewards and ASIC rigs to mining pools, hashprice shifts and power use.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/explained/bitcoin-mining-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [
-            "BTC"
-          ]
-        },
-        {
           "id": "175eeec221d8",
           "time": "06:23",
           "category": "Crypto",
@@ -1001,6 +1007,16 @@
           ]
         },
         {
+          "id": "2792aa067e26",
+          "time": "18:13",
+          "category": "Markets",
+          "title": "How much can you borrow with a HELOC?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-much-heloc-can-i-get-171355477.html",
+          "tags": []
+        },
+        {
           "id": "559412af999f",
           "time": "17:39",
           "category": "Crypto",
@@ -1063,6 +1079,16 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/livecoverage/government-shutdown-news-today-102025/card/argentine-peso-drops-as-investors-doubt-u-s-bailout-hFfsr5n6PRLnysXLQyvp?siteid=yhoof2&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "06e9a07d098e",
+          "time": "16:19",
+          "category": "Markets",
+          "title": "Here Are Analysts Biggest Calls of the Day: NVDA, AAPL, TSLA, NFLX",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/analysts-biggest-calls-day-nvda-151900766.html",
           "tags": []
         },
         {
@@ -1176,18 +1202,6 @@
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/chobani-raises-650m-support-growth-150000150.html",
           "tags": []
-        },
-        {
-          "id": "b6591420aa4c",
-          "time": "15:54",
-          "category": "Crypto",
-          "title": "BTC USD Price Wants Above $110,000: Will Bitcoin Price Reclaim Key Support?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/btc-usd-price-wants-above-145404701.html",
-          "tags": [
-            "BTC"
-          ]
         },
         {
           "id": "b00c318a886c",
