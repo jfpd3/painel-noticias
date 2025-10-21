@@ -27,9 +27,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install feedparser pytz python-dateutil pyyaml
 
-      - name: Generate noticias.json
-        run: |
-          python scripts/fetch_news.py
+      - name: Generate noticias.json (últimos 7 dias)
+  run: |
+    python scripts/fetch_news.py --days 7
 
       - name: Commit & push if changed
         run: |
