@@ -104,7 +104,14 @@
   // Se o teu site estiver noutro caminho, ajusta aqui:
   const FEED_URL = '/painel-noticias/noticias.json'; // <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
   const AUTO_REFRESH_MS = 5 * 60 * 1000;
-  const CATEGORIES = ['All','Crypto','US Macro','Regulação','Earnings','Markets'];
+  const CATEGORIES = [
+  { value: 'All',        label: 'Todas' },
+  { value: 'Crypto',     label: 'Crypto' },
+  { value: 'US Macro',   label: 'US Macro' },
+  { value: 'Regulation', label: 'Regulação' },
+  { value: 'Earnings',   label: 'Earnings' },
+  { value: 'Markets',    label: 'Markets' },
+];
 
   // Permite override via ?feed=https://...
   const qsFeed = new URLSearchParams(location.search).get('feed');
@@ -157,10 +164,12 @@
     updateToolbarState();
     renderAll();
   }
-  // constrói chips de categoria se não existirem
-  if (!catChips.querySelector('.chip')) {
-    catChips.innerHTML = CATEGORIES.map(c=>`<button class="chip" data-cat="${c}">${c}</button>`).join('');
-  }
+  // constrói chips de categoria com value/label
+   if (!catChips.querySelector('.chip')) {
+  catChips.innerHTML = CATEGORIES
+    .map(c => `<button class="chip" data-cat="${c.value}">${c.label}</button>`)
+    .join('');
+}
   // liga eventos
   rangeChips.querySelectorAll('.chip').forEach(b=>{
     b.addEventListener('click', ()=> setRange(b.dataset.range));
