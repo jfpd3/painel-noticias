@@ -1,15 +1,84 @@
 {
-  "generated_at": "2025-10-21T20:28+01:00",
+  "generated_at": "2025-10-21T21:40+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-21",
       "attention_points": [
-        "Streamer Sam Pepper Banned From Pump.fun, Kick After Injuring Girl With Firework Stunt",
-        "Galaxy Digital reports $505M Q3 profit on trading surge, institutional demand",
-        "SharpLink adds 19,000 ETH, lifting holdings to $3.5B as companies buy the dip"
+        "Bitcoin Giant Strategy Gets a 'Buy' From Citi—With a Warning",
+        "Kadena Token Crashes as Company Behind Network Says It's Closing Up Shop",
+        "Bitcoin rally to $114K highlights futures traders’ improving confidence"
       ],
       "items": [
+        {
+          "id": "0e8979f73e34",
+          "time": "21:14",
+          "category": "Crypto",
+          "title": "Bitcoin Giant Strategy Gets a 'Buy' From Citi—With a Warning",
+          "summary": "Strategy could shoot up in price this year, analysts at the bank said. But only if BTC's price meets expectations.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345267/bitcoin-giant-strategy-gets-buy-citi-warning",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "0f9bc037a05e",
+          "time": "21:09",
+          "category": "Crypto",
+          "title": "Kadena Token Crashes as Company Behind Network Says It's Closing Up Shop",
+          "summary": "The Kadena organization is shutting down, and while the JP Morgan vets' blockchain will remain online, the KDA token is quickly plummeting.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345276/kadena-token-crashes-company-behind-network-closing",
+          "tags": []
+        },
+        {
+          "id": "71dd7c33e7df",
+          "time": "21:03",
+          "category": "Crypto",
+          "title": "Bitcoin rally to $114K highlights futures traders’ improving confidence",
+          "summary": "Crypto futures traders are returning to the market and opening fresh positions as Bitcoin, SOL, and ETH rallied into overhead resistance levels today.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/bitcoin-rally-to-114k-highlights-futures-traders-improving-confidence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "16dd820de285",
+          "time": "20:58",
+          "category": "Crypto",
+          "title": "Bitcoin, Ethereum Rise as Gold Sinks Following Record Highs—Here's Why",
+          "summary": "Gold has shined in recent weeks, but Bitcoin is 11% away from its all-time high.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345263/bitcoin-ethereum-rise-gold-sinks-record-highs-why",
+          "tags": [
+            "BTC",
+            "ETH"
+          ]
+        },
+        {
+          "id": "d3a58a54bb83",
+          "time": "20:42",
+          "category": "Crypto",
+          "title": "Solana Saga Loses Security Updates and Support Following Seeker Phone Rollout",
+          "summary": "Solana Mobile will no longer provide software updates and security patches to its first-generation Android phone, the Saga.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345262/solana-saga-loses-security-updates-support-seeker-phone-rollout",
+          "tags": []
+        },
+        {
+          "id": "56ecb530af72",
+          "time": "20:36",
+          "category": "Crypto",
+          "title": "Bitcoin whale opens $235M BTC short, after netting $200M from market crash",
+          "summary": "The $11 billion Bitcoin whale made millions in profit from last week’s crypto market crash and continues betting on more downside.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/11b-bitcoin-whale-235m-btc-short-market-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
+        },
         {
           "id": "3e81dcd7bc5a",
           "time": "19:47",
@@ -814,16 +883,6 @@
           "tags": []
         },
         {
-          "id": "58fef5846294",
-          "time": "06:37",
-          "category": "Crypto",
-          "title": "Coinbase splashes $25M to revive a podcast from the last bull run",
-          "summary": "Coinbase has paid $25 million for an NFT that compels the once popular crypto podcast UpOnly to restart. Bull market vibes anyone?",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/coinbase-spends-25-million-nft-revive-uponly-crypto-podcast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": []
-        },
-        {
           "id": "175eeec221d8",
           "time": "06:23",
           "category": "Crypto",
@@ -843,18 +902,6 @@
           "url": "https://decrypt.co/345135/bitcoin-braces-for-first-inflation-test-since-us-shutdown",
           "tags": [
             "BTC"
-          ]
-        },
-        {
-          "id": "dd8c896dc66e",
-          "time": "06:12",
-          "category": "Crypto",
-          "title": "Polygon boss says he’s been ‘questioning his loyalty’ toward Ethereum",
-          "summary": "Polygon’s Sandeep Nailwal slammed the Ethereum community for underappreciating Polygon’s role in the Ethereum ecosystem, prompting a response from Vitalik Buterin.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/polygon-boss-has-been-questioning-his-loyalty-toward-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [
-            "ETH"
           ]
         },
         {
@@ -947,48 +994,6 @@
           "summary": "The Michigan Lottery confirmed the big ChatGPT-assisted Powerball win, but stressed that AI cannot predict random lottery results.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345029/she-asked-chatgpt-powerball-numbers-won-100k",
-          "tags": []
-        },
-        {
-          "id": "15c896dbdd2f",
-          "time": "21:25",
-          "category": "Crypto",
-          "title": "AI Crypto Trading Showdown: DeepSeek and Grok Are Cashing In as Gemini Implodes",
-          "summary": "Grok, DeepSeek, and Claude are posting serious gains in Alpha Arena’s live, real-money AI trading test, rattling Wall Street in the process.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345006/ai-crypto-trading-showdown-deepseek-grok-winning-gemini-implodes",
-          "tags": []
-        },
-        {
-          "id": "abe958c1d553",
-          "time": "21:14",
-          "category": "Crypto",
-          "title": "Bitcoin Mining Stocks Surge as Another Firm Embraces AI Boom",
-          "summary": "CleanSpark's shares rose on Monday, along with those of other major mining stocks.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345037/bitcoin-mining-surge-firm-embraces-ai-boom",
-          "tags": [
-            "BTC"
-          ]
-        },
-        {
-          "id": "3e1e38ea3e74",
-          "time": "21:01",
-          "category": "Crypto",
-          "title": "Prediction Markets Hit All-Time High of $2 Billion in Weekly Volume",
-          "summary": "Prediction markets hit $2 billion in weekly volume as Polymarket retakes lead and major funding pushes industry valuations into billions.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345033/prediction-markets-all-time-high-trading-volume",
-          "tags": []
-        },
-        {
-          "id": "f62ccbacbd2a",
-          "time": "20:46",
-          "category": "Crypto",
-          "title": "MetaMask Showing Zero Balances, Base Network Struggling as AWS Issues Persist",
-          "summary": "Key crypto trading platforms and apps struggled to regain functionality several hours after a widespread AWS outage began early Monday.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345036/metamask-showing-zero-balances-base-network-struggling-aws-issues-persist",
           "tags": []
         }
       ]
