@@ -258,25 +258,6 @@ rangeChips.querySelectorAll('.chip').forEach(b => {
   }
 }
 
-  if (json) {
-    DATA = json || { days: [] };
-    renderAll();
-    statusLabel.textContent = 'OK';
-  } else {
-    statusLabel.textContent = 'falhou';
-    console.error('Falha a carregar noticias.json:', lastErr);
-    newsList.innerHTML = `
-      <div class="card">
-        <strong>Erro a carregar o feed</strong>
-        <p class="muted" style="margin-top:6px">${lastErr ? String(lastErr).replace(/</g,'&lt;') : 'erro desconhecido'}</p>
-        <p class="muted">Testa abrir:
-          <a href="${u1}" target="_blank" rel="noreferrer">${u1}</a><br/>
-          <a href="${u2}" target="_blank" rel="noreferrer">${u2}</a>
-        </p>
-      </div>`;
-  }
-}
-
     function toTs(dayDate, timeStr){
       if(!dayDate) return 0;
       const [y,m,d] = dayDate.split('-').map(Number);
