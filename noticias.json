@@ -1,15 +1,47 @@
 {
-  "generated_at": "2025-10-21T08:32+01:00",
+  "generated_at": "2025-10-21T09:51+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-21",
       "attention_points": [
-        "Bitcoin mining in 2025, explained: From hashrate to rewards",
-        "DOGE Consolidates Near Lows, but Watch $0.194 for Breakdown or Short-Cover Rally",
-        "‘Corpo chains’ doomed unless they embrace crypto’s ethos: StarkWare CEO"
+        "Bitcoin eyes CME gap below as BTC price dips 2.5% to risk $100K collapse",
+        "British Columbia to Permanently Ban New Crypto Mining Projects From Grid",
+        "US political turmoil tests ‘institutional confidence’ as crypto ETFs bleed"
       ],
       "items": [
+        {
+          "id": "0ea20a3a2d5f",
+          "time": "09:45",
+          "category": "Crypto",
+          "title": "Bitcoin eyes CME gap below as BTC price dips 2.5% to risk $100K collapse",
+          "summary": "Bitcoin price dropped 2.5% on the day to attempt to fill the latest weekend CME futures gap, while traders warned that $100,000 could fail as support.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/bitcoin-cme-gap-btc-price-dips-risk-100k-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "d4370a7f5454",
+          "time": "09:11",
+          "category": "Crypto",
+          "title": "British Columbia to Permanently Ban New Crypto Mining Projects From Grid",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/policy/2025/10/21/british-columbia-to-permanently-ban-new-crypto-mining-projects-from-grid",
+          "tags": []
+        },
+        {
+          "id": "574c1a63ef2d",
+          "time": "09:10",
+          "category": "Crypto",
+          "title": "US political turmoil tests ‘institutional confidence’ as crypto ETFs bleed",
+          "summary": "The outflows came as “No Kings” protests swept across the US amid a prolonged government shutdown and political division, deepening market risk aversion.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/spot-bitcoin-ethereum-etfs-extend-outflows-amid-us-political-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
         {
           "id": "cce227bcaa2d",
           "time": "08:17",
@@ -751,16 +783,6 @@
           ]
         },
         {
-          "id": "236851869b32",
-          "time": "14:09",
-          "category": "Crypto",
-          "title": "Grok, DeepSeek outperform ChatGPT, Gemini with epic crypto market long",
-          "summary": "Grok 4 generated a 500% gain on the first day after identifying the crypto market bottom and switching to leveraged long positions.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/grok-deepseek-outperform-chatgpt-gemini-crypto-market-long?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": []
-        },
-        {
           "id": "0746600ac8a8",
           "time": "14:01",
           "category": "Crypto",
@@ -798,16 +820,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/20/bnb-climbs-as-crypto-markets-rebound-on-potential-fed-policy-shift",
-          "tags": []
-        },
-        {
-          "id": "c2d6d6b59318",
-          "time": "13:18",
-          "category": "Crypto",
-          "title": "Crypto funds’ two-week inflow streak ends: Here’s what went wrong",
-          "summary": "Onchain investors were more bearish about the Binance liquidity cascade, while crypto ETP traders largely shrugged off the Friday crash, according to CoinShares.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/crypto-funds-513-million-outflows-bitcoin-etp-bleed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": []
         },
         {
@@ -880,13 +892,43 @@
           "tags": []
         },
         {
-          "id": "3d4756a2e7ee",
-          "time": "10:57",
-          "category": "Crypto",
-          "title": "ChainLink Jumps 14% as Whales Accumulate $116M Worth of LINK Tokens Since Crash",
+          "id": "752064e69912",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Mortgage and refinance interest rates today for October 20, 2025: Weekly rates drop",
           "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/business/2025/10/20/chainlink-jumps-14-as-whales-accumulate-usd116m-worth-of-link-tokens-since-crash",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-monday-october-20-2025-103022306.html",
+          "tags": []
+        },
+        {
+          "id": "82a902cf056f",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Best high-yield savings interest rates today, October 20, 2025 (Earn up to 4.36% APY)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-monday-october-20-2025-100013455.html",
+          "tags": []
+        },
+        {
+          "id": "1af69c54d69a",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Best money market account rates today, October 20, 2025 (Earn up to 4.26% APY)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-october-20-2025-100007814.html",
+          "tags": []
+        },
+        {
+          "id": "c5812809a84a",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "HELOC rates today, October 20, 2025: Rates have been falling since mid-September",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-monday-october-20-2025-100004679.html",
           "tags": []
         }
       ]
