@@ -1,10 +1,9 @@
 name: Build noticias.json
 
 on:
+  workflow_dispatch: {}        # permite executar manualmente
   schedule:
-    # Corre todos os dias, de hora a hora (em UTC)
-    - cron: '0 * * * *'
-  workflow_dispatch: {}   # Permite correr manualmente também
+    - cron: "0 * * * *"        # corre todos os dias, de hora a hora (UTC)
 
 permissions:
   contents: write
@@ -20,7 +19,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install dependencies
         run: |
@@ -28,8 +27,8 @@ jobs:
           pip install feedparser pytz python-dateutil pyyaml
 
       - name: Generate noticias.json (últimos 7 dias)
-  run: |
-    python scripts/fetch_news.py --days 7
+        run: |
+          python scripts/fetch_news.py --days 7
 
       - name: Commit & push if changed
         run: |
