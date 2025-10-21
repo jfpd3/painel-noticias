@@ -193,6 +193,23 @@ const RESOLVED_FEED_URL = qsFeed || FEED_URL;
 
     let currentCategory = localStorage.getItem('pn_cat') || 'All';
     let hoursRange = parseInt(localStorage.getItem('pn_range') || '24', 10);
+    // itens “lidos”
+let readSet;
+try {
+  readSet = new Set(JSON.parse(localStorage.getItem('pn_read') || '[]'));
+} catch (_) {
+  readSet = new Set();
+}
+    function saveReadSet() {
+  localStorage.setItem('pn_read', JSON.stringify([...readSet]));
+}
+
+function markRead(id, isRead) {
+  if (isRead) readSet.add(id);
+  else readSet.delete(id);
+  saveReadSet();
+}
+
 
 function setRange(r) {
   hoursRange = parseInt(String(r), 10);
