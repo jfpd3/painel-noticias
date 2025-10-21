@@ -1,46 +1,268 @@
 {
-  "generated_at": "2025-10-21T11:42+01:00",
+  "generated_at": "2025-10-21T12:27+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-21",
       "attention_points": [
-        "GM posts mixed Q3 results but upbeat full-year guidance, as tariff exposure improves",
-        "Coca-Cola HBC expands in Africa with bottling M&A",
-        "SpaceX Moves $268M in Bitcoin: First Major BTC Transfer in Three Months"
+        "SPAYZ.io expands payment network to four countries",
+        "OCC Chief Plays Down Stablecoin 'Bank Run' Fears",
+        "Kodiak Copper expands MPD project in British Columbia"
       ],
       "items": [
         {
-          "id": "510f7d222cc5",
-          "time": "11:31",
-          "category": "Earnings",
-          "title": "GM posts mixed Q3 results but upbeat full-year guidance, as tariff exposure improves",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/gm-posts-mixed-q3-results-but-upbeat-full-year-guidance-as-tariff-exposure-improves-103112727.html",
-          "tags": []
-        },
-        {
-          "id": "53ba93eacec7",
-          "time": "11:29",
+          "id": "088cc8909f71",
+          "time": "12:17",
           "category": "Markets",
-          "title": "Coca-Cola HBC expands in Africa with bottling M&A",
+          "title": "SPAYZ.io expands payment network to four countries",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/coca-cola-hbc-expands-africa-102927296.html",
+          "url": "https://finance.yahoo.com/news/spayz-io-expands-payment-network-111755896.html",
           "tags": []
         },
         {
-          "id": "a3fde2d08941",
-          "time": "11:19",
-          "category": "Crypto",
-          "title": "SpaceX Moves $268M in Bitcoin: First Major BTC Transfer in Three Months",
+          "id": "7a5275f4add1",
+          "time": "12:14",
+          "category": "US Macro",
+          "title": "OCC Chief Plays Down Stablecoin 'Bank Run' Fears",
+          "summary": "Jonathan Gould dismissed deposit flight fears as banking groups demanded Congress close GENIUS Act “loopholes” allowing for stablecoin yield.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345150/occ-chief-plays-down-stablecoin-bank-run-fears",
+          "tags": []
+        },
+        {
+          "id": "59cd9af84ec8",
+          "time": "12:13",
+          "category": "Markets",
+          "title": "Kodiak Copper expands MPD project in British Columbia",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/spacex-moves-268m-bitcoin-first-101951916.html",
+          "url": "https://finance.yahoo.com/news/kodiak-copper-expands-mpd-project-111340788.html",
+          "tags": []
+        },
+        {
+          "id": "a39737eab33f",
+          "time": "12:11",
+          "category": "Markets",
+          "title": "Cypress Creek’s Sundance hybrid project in Colorado gains funding",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/cypress-creek-sundance-hybrid-project-111149683.html",
+          "tags": []
+        },
+        {
+          "id": "b13ff0a44618",
+          "time": "12:11",
+          "category": "Regulation",
+          "title": "Finster AI secures $15m funding for New York expansion",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/finster-ai-secures-15m-funding-111140073.html",
+          "tags": []
+        },
+        {
+          "id": "52b6ed886d21",
+          "time": "12:07",
+          "category": "US Macro",
+          "title": "Canada CPI Expected to Rise in September, Adding Pressure to BoC Easing Plans",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/canada-cpi-expected-rise-september-110728970.html",
+          "tags": []
+        },
+        {
+          "id": "b011716a4b02",
+          "time": "12:06",
+          "category": "Markets",
+          "title": "Starwood Capital gets approval for operation from DIFC-report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/starwood-capital-gets-approval-operation-110632267.html",
+          "tags": []
+        },
+        {
+          "id": "0fc7a1ddb55a",
+          "time": "12:05",
+          "category": "Markets",
+          "title": "BP confirms hydrocarbon discovery offshore Namibia",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bp-confirms-hydrocarbon-discovery-offshore-110510556.html",
+          "tags": []
+        },
+        {
+          "id": "812e94972ce8",
+          "time": "12:04",
+          "category": "Markets",
+          "title": "Retirement Made Easy: 5 Tips for Boomers To Ensure They’re Ready",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/boomers-guesswork-retirement-planning-know-110330175.html",
+          "tags": []
+        },
+        {
+          "id": "b989c64211a8",
+          "time": "12:03",
+          "category": "Markets",
+          "title": "Jamie Dimon says this red-hot asset could easily go up another 135% — adding it’s one of the ‘few times’ to own some",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jamie-dimon-says-red-hot-110300240.html",
+          "tags": []
+        },
+        {
+          "id": "5fb873be2b0f",
+          "time": "12:00",
+          "category": "Markets",
+          "title": "The Real Cost of Trade Tensions: How Geopolitical Shifts Impact E-Commerce",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/real-cost-trade-tensions-geopolitical-110000546.html",
+          "tags": []
+        },
+        {
+          "id": "9c521c02ceb4",
+          "time": "11:57",
+          "category": "Markets",
+          "title": "RTX raises 2025 forecast as strong demand offsets tariff worries",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/rtx-raises-2025-forecast-strong-105726487.html",
+          "tags": []
+        },
+        {
+          "id": "89b504e80eb3",
+          "time": "11:54",
+          "category": "US Macro",
+          "title": "US Fed to trim rates twice more this year; 2026 rate path very unclear",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/us-fed-trim-rates-twice-105453261.html",
+          "tags": []
+        },
+        {
+          "id": "38a9a3f3ba48",
+          "time": "11:52",
+          "category": "Earnings",
+          "title": "Earnings wave checks trade and shutdown hopes",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/earnings-wave-checks-trade-shutdown-105255182.html",
+          "tags": []
+        },
+        {
+          "id": "62af8542227f",
+          "time": "11:51",
+          "category": "Crypto",
+          "title": "Argo’s creditor grabs 87.5% stake in struggling miner in bold takeover move",
+          "summary": "Argo Blockchain will delist from the London Stock Exchange after its main creditor, Growler Mining, seized control through a debt-for-equity swap.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/argo-growler-mining-takeover-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "b51dda2a6c1a",
+          "time": "11:46",
+          "category": "Earnings",
+          "title": "General Motors lifts forecast as tariff outlook improves",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/general-motors-lifts-forecast-tariff-104657513.html",
+          "tags": []
+        },
+        {
+          "id": "7def2ecb4d98",
+          "time": "11:39",
+          "category": "Crypto",
+          "title": "Coinbase Acquires Crypto Fundraising Firm Echo for $375M",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/business/2025/10/21/coinbase-buys-crypto-fundraising-firm-echo-for-usd375m",
+          "tags": []
+        },
+        {
+          "id": "7936125ceded",
+          "time": "11:38",
+          "category": "Crypto",
+          "title": "Bitcoin Battles Key Technical Levels as Uptober Momentum Fades",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/21/bitcoin-battles-key-technical-levels-as-uptober-momentum-fades",
           "tags": [
             "BTC"
           ]
+        },
+        {
+          "id": "32d299714116",
+          "time": "11:37",
+          "category": "Markets",
+          "title": "AI-driven ATMs target sceptical Russians to cash in their gold",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ai-driven-atms-target-sceptical-103700511.html",
+          "tags": []
+        },
+        {
+          "id": "8bf8809a3aae",
+          "time": "11:35",
+          "category": "Markets",
+          "title": "Northrop raises annual profit forecast on strong demand",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/northrop-raises-annual-profit-forecast-103504064.html",
+          "tags": []
+        },
+        {
+          "id": "6b20acc096e2",
+          "time": "11:33",
+          "category": "Earnings",
+          "title": "Piper Sandler Maintains Overweight on Edwards Lifesciences (EW) Ahead of PARTNER 3 7-Year Results",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/piper-sandler-maintains-overweight-edwards-103319407.html",
+          "tags": []
+        },
+        {
+          "id": "eacc11bd10c3",
+          "time": "11:33",
+          "category": "Markets",
+          "title": "Abbott Laboratories (ABT) Rated Buy as Benchmark Highlights Diagnostics Growth and Global Resilience",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/abbott-laboratories-abt-rated-buy-103318048.html",
+          "tags": []
+        },
+        {
+          "id": "af81b0de04b9",
+          "time": "11:33",
+          "category": "Markets",
+          "title": "Analyst Visit Confirms Growth Potential for Boston Scientific Corporation (BSX), Buy Rating Retained",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/analyst-visit-confirms-growth-potential-103316419.html",
+          "tags": []
+        },
+        {
+          "id": "ff2b19c012a5",
+          "time": "11:33",
+          "category": "Crypto",
+          "title": "Bitcoin Falls Below $108K Amid $320M Liquidations as Excess Leverage Gets Flushed Out",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/21/bitcoin-falls-below-usd108k-amid-usd320m-liquidations",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "9f8469d8f7d1",
+          "time": "11:31",
+          "category": "Earnings",
+          "title": "GM stock jumps on upbeat full-year guidance, as tariff exposure improves in Q3",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/gm-stock-jumps-on-upbeat-full-year-guidance-as-tariff-exposure-improves-in-q3-103112144.html",
+          "tags": []
         },
         {
           "id": "4ceeb0cc85e0",
@@ -63,24 +285,16 @@
           "tags": []
         },
         {
-          "id": "e767f640ce92",
-          "time": "11:15",
-          "category": "Markets",
-          "title": "Retail returns to hit $849.9bn in 2025",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/retail-returns-hit-849-9bn-101543447.html",
-          "tags": []
-        },
-        {
-          "id": "ccd39626390c",
-          "time": "11:09",
+          "id": "70b0fc02c5b4",
+          "time": "11:11",
           "category": "Crypto",
-          "title": "Tron’s Market Cap Hits $31B — Is a Coinbase Listing Next?",
+          "title": "Debt-Fueled AI Pivot Puts Bitcoin Miners to the Test",
           "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/tron-market-cap-hits-31b-100914836.html",
-          "tags": []
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/21/debt-fueled-ai-pivot-puts-bitcoin-miners-to-the-test",
+          "tags": [
+            "BTC"
+          ]
         },
         {
           "id": "0b91451f68bf",
@@ -110,16 +324,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-october-21-2025-100053374.html",
-          "tags": []
-        },
-        {
-          "id": "055cb0533b05",
-          "time": "11:00",
-          "category": "Markets",
-          "title": "Wells Fargo Suggests 2 Energy Stocks to Buy in a Challenging Market",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/wells-fargo-suggests-2-energy-100031104.html",
           "tags": []
         },
         {
@@ -170,36 +374,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/finance/coinbase-strikes-deal-for-crypto-investing-platform-echo-86954fd5?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "48c8b3c3fc1d",
-          "time": "11:00",
-          "category": "Markets",
-          "title": "Hiltzik: The sudden financial collapse of this big auto parts firm points to the next market meltdown",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hiltzik-sudden-financial-collapse-big-100000923.html",
-          "tags": []
-        },
-        {
-          "id": "3a009048f132",
-          "time": "11:00",
-          "category": "Markets",
-          "title": "Rayliant Adds Strategies to Sowell Management's OCIO Platform",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/rayliant-adds-strategies-sowell-managements-100000080.html",
-          "tags": []
-        },
-        {
-          "id": "9754d71a8d0b",
-          "time": "11:00",
-          "category": "Markets",
-          "title": "Best Stock to Buy Right Now: Amazon vs. Alphabet",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/best-stock-buy-now-amazon-100000046.html",
           "tags": []
         },
         {
@@ -293,116 +467,6 @@
           "tags": []
         },
         {
-          "id": "c38348c77e75",
-          "time": "10:53",
-          "category": "Markets",
-          "title": "Morgan Stanley Maintains Buy Rating on ONEOK (OKE) Stock",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/morgan-stanley-maintains-buy-rating-095300763.html",
-          "tags": []
-        },
-        {
-          "id": "5c5a92f71fbc",
-          "time": "10:52",
-          "category": "Markets",
-          "title": "Wall Street Has a Mixed Opinion on Roivant Sciences Ltd (ROIV)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/wall-street-mixed-opinion-roivant-095259034.html",
-          "tags": []
-        },
-        {
-          "id": "cfe05d464ee6",
-          "time": "10:52",
-          "category": "Markets",
-          "title": "TD Cowen Maintains Hold Rating on The Kraft Heinz Company (KHC) Stock",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/td-cowen-maintains-hold-rating-095258048.html",
-          "tags": []
-        },
-        {
-          "id": "373cc7d902d5",
-          "time": "10:52",
-          "category": "Markets",
-          "title": "Viatris Inc. (VTRS) Acquires Aculys Pharma, Inc",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/viatris-inc-vtrs-acquires-aculys-095258584.html",
-          "tags": []
-        },
-        {
-          "id": "994732048741",
-          "time": "10:52",
-          "category": "Markets",
-          "title": "JPMorgan Lifts PT on Targa Resources (TRGP) Stock",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jpmorgan-lifts-pt-targa-resources-095257261.html",
-          "tags": []
-        },
-        {
-          "id": "af52c99a60f5",
-          "time": "10:52",
-          "category": "Regulation",
-          "title": "Bank of America Securities Raises PT on Teva Pharmaceutical Industries (TEVA), Keeps a Buy",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bank-america-securities-raises-pt-095256900.html",
-          "tags": []
-        },
-        {
-          "id": "dccd00feaa81",
-          "time": "10:52",
-          "category": "Markets",
-          "title": "Seaport Research Initiates Coverage of Verisk Analytics (VRSK) Stock with a Buy Rating",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/seaport-research-initiates-coverage-verisk-095255167.html",
-          "tags": []
-        },
-        {
-          "id": "7ebb4b901799",
-          "time": "10:52",
-          "category": "Markets",
-          "title": "Wall Street Bullish on ​Hewlett Packard Enterprise Company (HPE)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/wall-street-bullish-hewlett-packard-095254333.html",
-          "tags": []
-        },
-        {
-          "id": "b32ac7bd0a9e",
-          "time": "10:52",
-          "category": "Markets",
-          "title": "Raymond James Reduces PT on Old Dominion Freight Line (ODFL) Stock to $160, Keeps Outperform",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/raymond-james-reduces-pt-old-095253768.html",
-          "tags": []
-        },
-        {
-          "id": "c3ed2315574b",
-          "time": "10:52",
-          "category": "Earnings",
-          "title": "Pfizer Inc. (PFE) Announces Positive Results From its Phase 3 HER2CLIMB-05 Trial",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/pfizer-inc-pfe-announces-positive-095252257.html",
-          "tags": []
-        },
-        {
-          "id": "15840c94d97d",
-          "time": "10:52",
-          "category": "Markets",
-          "title": "Stephens Reduces PT on United Parcel Service (UPS) Stock",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stephens-reduces-pt-united-parcel-095251515.html",
-          "tags": []
-        },
-        {
           "id": "12ac386a9f55",
           "time": "10:45",
           "category": "Crypto",
@@ -423,26 +487,6 @@
           "tags": [
             "ETH"
           ]
-        },
-        {
-          "id": "1ea1c89b9faf",
-          "time": "10:37",
-          "category": "Markets",
-          "title": "Palantir, Snowflake Partner to Boost Enterprise AI and Analytics",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/palantir-snowflake-partner-boost-enterprise-093739259.html",
-          "tags": []
-        },
-        {
-          "id": "a6330aa607a3",
-          "time": "10:37",
-          "category": "Markets",
-          "title": "AMD, Oracle Expand Partnership to Deploy Next-Gen AI Supercluster with MI450 GPUs",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/amd-oracle-expand-partnership-deploy-093737884.html",
-          "tags": []
         },
         {
           "id": "6085ea1227af",
@@ -708,6 +752,16 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/policy/2025/10/20/senate-republicans-call-for-own-meeting-with-crypto-ceos-after-democrats-sitdown",
+          "tags": []
+        },
+        {
+          "id": "25e86643fed8",
+          "time": "00:32",
+          "category": "Earnings",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq futures stall as investors eye earnings ahead",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-as-investors-eye-earnings-ahead-233217550.html",
           "tags": []
         },
         {
@@ -1195,16 +1249,6 @@
           ]
         },
         {
-          "id": "43c4fa78dee0",
-          "time": "14:30",
-          "category": "Crypto",
-          "title": "New film ‘Code is Law’ explores moral quandary behind crypto hacks",
-          "summary": "James Craig and Louis Giles’ new film “Code Is Law” examines infamous crypto hacks and the moral reckoning used by the perpetrators.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/should-code-be-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": []
-        },
-        {
           "id": "4a5132a21169",
           "time": "14:14",
           "category": "Crypto",
@@ -1237,46 +1281,6 @@
           "tags": [
             "BTC"
           ]
-        },
-        {
-          "id": "0746600ac8a8",
-          "time": "14:01",
-          "category": "Crypto",
-          "title": "Gemini Unveils Solana Credit Card That Pays and Auto-Stakes SOL Rewards",
-          "summary": "Gemini is expanding its crypto credit card offerings with the release of the Solana Card, which will offer an auto-staking option.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/344880/gemini-unveils-solana-credit-card-pays-auto-stakes-sol-rewards",
-          "tags": []
-        },
-        {
-          "id": "544ffb5be88e",
-          "time": "14:00",
-          "category": "Crypto",
-          "title": "Crypto Exchange Gemini Launches Solana-Themed Credit Card With Auto-Staking Rewards",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/business/2025/10/20/crypto-exchange-gemini-launches-solana-themed-credit-card-with-auto-staking-rewards",
-          "tags": []
-        },
-        {
-          "id": "793f3a42fe39",
-          "time": "13:55",
-          "category": "Crypto",
-          "title": "Morning Minute: OpenSea Says SEA Is Coming Q1 2026",
-          "summary": "Devin Finzer shared new details about OpenSea's upcoming SEA token, which both 2021 NFT traders and current users will want to hear about.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/344956/morning-minute-opensea-says-sea-is-coming-q1-2026",
-          "tags": []
-        },
-        {
-          "id": "1ff324208c41",
-          "time": "13:24",
-          "category": "Crypto",
-          "title": "BNB Climbs as Crypto Markets Rebound on Potential Fed Policy Shift",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/20/bnb-climbs-as-crypto-markets-rebound-on-potential-fed-policy-shift",
-          "tags": []
         }
       ]
     }
