@@ -1,13 +1,69 @@
 {
-  "generated_at": "2025-10-21T00:38+01:00",
+  "generated_at": "2025-10-21T04:19+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-21",
       "attention_points": [
-        "X to Launch Handle Marketplace, Prices Rare Usernames Up to Seven Figures"
+        "Dogecoin’s House of Doge bets on Italian soccer underdog",
+        "Asia’s Stablecoin Race Sees Top Companies Vie for Dominance, Test Policy Lines",
+        "BitMine’s Lee says Ether’s ‘price dislocation’ is a signal to buy"
       ],
       "items": [
+        {
+          "id": "b718013d2aac",
+          "time": "03:44",
+          "category": "Crypto",
+          "title": "Dogecoin’s House of Doge bets on Italian soccer underdog",
+          "summary": "Dogecoin Foundation’s commercial arm has acquired a majority stake in US Triestina 1918 in a push for broader DOGE adoption, starting with sports.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/house-of-doge-snags-italian-football-club?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "44d3807c6bd5",
+          "time": "02:36",
+          "category": "Crypto",
+          "title": "Asia’s Stablecoin Race Sees Top Companies Vie for Dominance, Test Policy Lines",
+          "summary": "Japan’s banks plan a ¥1 trillion stablecoin, Singapore’s rules are maturing, and China tightens control as Asia’s strategies diverge.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345124/asias-stablecoin-race-top-companies-vie-dominance-test-policy-lines",
+          "tags": []
+        },
+        {
+          "id": "756694b9dc34",
+          "time": "02:33",
+          "category": "Crypto",
+          "title": "BitMine’s Lee says Ether’s ‘price dislocation’ is a signal to buy",
+          "summary": "BitMine chairman Tom Lee said he expects Ethereum to enter a supercycle, making the current price an attractive risk vs reward purchase.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/bitmine-buys-250m-ethereum-in-dip-buying-spree?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "ETH"
+          ]
+        },
+        {
+          "id": "5558fd586689",
+          "time": "02:16",
+          "category": "Crypto",
+          "title": "Asia Morning Briefing: Bitcoin Holds Steady as Market Resets After Leverage Flush",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/21/asia-morning-briefing-bitcoin-holds-steady-as-market-resets-after-leverage-flush",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "068b651a7780",
+          "time": "01:56",
+          "category": "Crypto",
+          "title": "Senate Republicans Call for Own Meeting With Crypto CEOs After Democrats' Sitdown",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/policy/2025/10/20/senate-republicans-call-for-own-meeting-with-crypto-ceos-after-democrats-sitdown",
+          "tags": []
+        },
         {
           "id": "e76811abd844",
           "time": "00:30",
@@ -664,16 +720,6 @@
           ]
         },
         {
-          "id": "0431c55323df",
-          "time": "12:40",
-          "category": "Markets",
-          "title": "Weekly Stock List",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_45059_StockPicks_1760960427000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": []
-        },
-        {
           "id": "bfbfc4027faa",
           "time": "12:29",
           "category": "Crypto",
@@ -720,46 +766,6 @@
           ]
         },
         {
-          "id": "854f33e9176b",
-          "time": "12:01",
-          "category": "Markets",
-          "title": "Analyst Report: Bank of New York Mellon Corp",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_2777_AnalystReport_1760958070000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": []
-        },
-        {
-          "id": "b85e27773539",
-          "time": "12:01",
-          "category": "Markets",
-          "title": "Analyst Report: Charles Schwab Corp.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3657_AnalystReport_1760958070000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": []
-        },
-        {
-          "id": "a6887b5ef761",
-          "time": "12:01",
-          "category": "Markets",
-          "title": "Analyst Report: Alphabet Inc",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3012_AnalystReport_1760958070000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": []
-        },
-        {
-          "id": "59404db88670",
-          "time": "12:01",
-          "category": "Markets",
-          "title": "Analyst Report: Fastenal Co.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3653_AnalystReport_1760958070000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": []
-        },
-        {
           "id": "da57bec60685",
           "time": "11:33",
           "category": "Crypto",
@@ -794,36 +800,6 @@
           "tags": []
         },
         {
-          "id": "82a902cf056f",
-          "time": "11:00",
-          "category": "US Macro",
-          "title": "Best high-yield savings interest rates today, October 20, 2025 (Earn up to 4.36% APY)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-monday-october-20-2025-100013455.html",
-          "tags": []
-        },
-        {
-          "id": "1af69c54d69a",
-          "time": "11:00",
-          "category": "US Macro",
-          "title": "Best money market account rates today, October 20, 2025 (Earn up to 4.26% APY)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-october-20-2025-100007814.html",
-          "tags": []
-        },
-        {
-          "id": "c5812809a84a",
-          "time": "11:00",
-          "category": "US Macro",
-          "title": "HELOC rates today, October 20, 2025: Rates have been falling since mid-September",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-monday-october-20-2025-100004679.html",
-          "tags": []
-        },
-        {
           "id": "3d4756a2e7ee",
           "time": "10:57",
           "category": "Crypto",
@@ -851,28 +827,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/20/michael-saylor-highlights-yield-gap-between-strf-strd-preferred-stock-offerings",
-          "tags": []
-        },
-        {
-          "id": "f3c5b3f34faf",
-          "time": "10:19",
-          "category": "Crypto",
-          "title": "UK Bitcoin ETPs From BlackRock, Others Start Trading in London After FCA Ends Ban",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/20/blackrock-uk-bitcoin-etp-starts-trading-in-london-after-fca-eases-crypto-ban",
-          "tags": [
-            "BTC"
-          ]
-        },
-        {
-          "id": "6c859436fd74",
-          "time": "09:00",
-          "category": "Crypto",
-          "title": "Crypto Traders Eye Major Events to Relieve Market Woes: Crypto Week Ahead",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/16/crypto-traders-eye-major-events-to-relieve-market-woes-crypto-week-ahead",
           "tags": []
         },
         {
@@ -928,28 +882,6 @@
           ]
         },
         {
-          "id": "1229841e520d",
-          "time": "05:52",
-          "category": "Crypto",
-          "title": "AI can’t get you Starbucks, but it could with blockchain: Kevin O’Leary",
-          "summary": "AI will automate most retail purchases in the future, with blockchain used to finalize payments, Shark Tank co-host and venture capitalist Kevin O’Leary says.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/ai-blockchain-will-change-retail-forever-kevin-oleary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": []
-        },
-        {
-          "id": "15882f6f0d2e",
-          "time": "05:45",
-          "category": "Crypto",
-          "title": "67% of institutions see bullish 6 months for Bitcoin: Coinbase",
-          "summary": "Institutional investors have a positive outlook for Bitcoin over the next three to six months, with multiple forces contributing to a bullish Q4 for crypto.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/institutions-positive-bitcoin-strong-macro-backdrop-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [
-            "BTC"
-          ]
-        },
-        {
           "id": "68f040d1c344",
           "time": "04:54",
           "category": "Crypto",
@@ -960,16 +892,6 @@
           "tags": [
             "BTC"
           ]
-        },
-        {
-          "id": "7a4d12068260",
-          "time": "04:04",
-          "category": "Crypto",
-          "title": "Beijing Halts Tech Giants' Stablecoin Ambitions in Hong Kong: FT",
-          "summary": "Mainland officials have paused efforts from two top tech companies to establish stablecoin businesses in Hong Kong.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/344925/beijing-halts-tech-giants-stablecoin-ambitions-in-hong-kong",
-          "tags": []
         }
       ]
     }
