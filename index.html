@@ -113,16 +113,19 @@
         <div class="spacer"></div>
         <div class="muted">Feed: <span id="feedUrlLabel">./noticias.json</span> — <span id="statusLabel">a carregar…</span></div>
       </div>
-
-      <div class="toolbar">
-        <div class="toolbar-row">
-          <div class="chips" id="rangeChips">
-            <button class="chip active" data-range="24">24h</button>
-            <button class="chip" data-range="48">48h</button>
-            <button class="chip" data-range="168">7d</button>
-          </div>
-          <div class="chips" id="catChips"></div>
-        </div>
+      
+<div class="toolbar">
+  <div class="toolbar-row">
+    <div class="chips" id="rangeChips">
+      <!-- NÃO deixes 'active' no HTML; o JS trata disso -->
+      <button class="chip" data-range="24">24h</button>
+      <button class="chip" data-range="48">48h</button>
+      <button class="chip" data-range="168">7d</button>
+      <button class="chip" data-range="0">Todas</button> <!-- 0 = sem filtro de tempo -->
+    </div>
+    <div class="chips" id="catChips"></div>
+  </div>
+</div>
 
         <div class="toolbar-row">
           <label class="chip"><input type="checkbox" id="hideRead" style="margin-right:6px;"> Esconder lidas</label>
@@ -210,25 +213,24 @@ function markRead(id, isRead) {
   saveReadSet();
 }
 
-
+// ---- Controle dos botões de intervalo (24h, 48h, 7d, Todas) ----
 function setRange(r) {
   hoursRange = parseInt(String(r), 10);
   localStorage.setItem('pn_range', String(hoursRange));
 
-  // Atualiza estado visual dos botões
+  // Atualiza visual dos botões
   rangeChips.querySelectorAll('.chip').forEach(b => {
     b.classList.toggle('active', parseInt(b.dataset.range, 10) === hoursRange);
-    b.onclick = () => setRange(b.dataset.range);
   });
 
-  // Re-renderiza o feed
+  // Atualiza lista e contador
   renderAll();
 }
 
-// Aplica o estado inicial e adiciona eventos de clique
+// Estado inicial e eventos de clique
 rangeChips.querySelectorAll('.chip').forEach(b => {
-  b.classList.toggle('active', parseInt(b.dataset.range, 10) === hoursRange);
   b.onclick = () => setRange(b.dataset.range);
+  b.classList.toggle('active', parseInt(b.dataset.range, 10) === hoursRange);
 });
 
    async function fetchFeed(){
