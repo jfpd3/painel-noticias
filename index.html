@@ -168,8 +168,6 @@ const FEED_URL = '/painel-noticias/noticias.json';
 const qsFeed = new URLSearchParams(location.search).get('feed');
 const RESOLVED_FEED_URL = qsFeed || FEED_URL;
 
-// mostra o feed resolvido no cabeçalho
-feedUrlLabel.textContent = RESOLVED_FEED_URL;
 
     const AUTO_REFRESH_MS = 5 * 60 * 1000;
 
@@ -189,6 +187,9 @@ feedUrlLabel.textContent = RESOLVED_FEED_URL;
     const catChips=document.getElementById('catChips');
     const a2hsBlock=document.getElementById('a2hsBlock');
     const a2hsBtn=document.getElementById('a2hsBtn');
+
+    // mostra o feed resolvido no cabeçalho
+feedUrlLabel.textContent = RESOLVED_FEED_URL;
 
     let currentCategory = localStorage.getItem('pn_cat') || 'All';
     let hoursRange = parseInt(localStorage.getItem('pn_range') || '24', 10);
