@@ -1,44 +1,100 @@
 {
-  "generated_at": "2025-10-21T18:34+01:00",
+  "generated_at": "2025-10-21T19:52+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-21",
       "attention_points": [
-        "Warner Bros. Discovery considers breakup options, citing 'unsolicited' takeover interest",
-        "Google Stock Falls Amid OpenAI Web Browser Announcement",
-        "Budget airline that filed for Chapter 11 gets surprising buyer"
+        "Streamer Sam Pepper Banned From Pump.fun, Kick After Injuring Girl With Firework Stunt",
+        "Galaxy Digital reports $505M Q3 profit on trading surge, institutional demand",
+        "SharpLink adds 19,000 ETH, lifting holdings to $3.5B as companies buy the dip"
       ],
       "items": [
         {
-          "id": "66594fb1c07a",
-          "time": "18:18",
-          "category": "Markets",
-          "title": "Warner Bros. Discovery considers breakup options, citing 'unsolicited' takeover interest",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/warner-bros-discovery-considers-breakup-options-citing-unsolicited-takeover-interest-164214644.html",
+          "id": "3e81dcd7bc5a",
+          "time": "19:47",
+          "category": "Crypto",
+          "title": "Streamer Sam Pepper Banned From Pump.fun, Kick After Injuring Girl With Firework Stunt",
+          "summary": "British streamer Sam Pepper is off Pump.fun and Kick after injuring a young teen girl due to launching a firework in her direction.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345229/streamer-sam-pepper-banned-pump-fun-kick-injuring-girl-firework-stunt",
           "tags": []
         },
         {
-          "id": "1d6daef5b3f9",
-          "time": "18:17",
-          "category": "Markets",
-          "title": "Google Stock Falls Amid OpenAI Web Browser Announcement",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/technology/google-stock-falls-openai-browser-announcement-speculation/?src=A00220&yptr=yahoo",
+          "id": "651d0da05b82",
+          "time": "19:45",
+          "category": "Crypto",
+          "title": "Galaxy Digital reports $505M Q3 profit on trading surge, institutional demand",
+          "summary": "Galaxy Digital reported higher quarterly profit as trading volumes increased 140%, reflecting stronger institutional activity in crypto markets.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/galaxy-digital-505m-q3-profit-trading-institutional-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": []
         },
         {
-          "id": "0de16a200c0f",
-          "time": "18:17",
-          "category": "Markets",
-          "title": "Budget airline that filed for Chapter 11 gets surprising buyer",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/budget-airline-filed-chapter-11-171700079.html",
+          "id": "46b5ad4a8337",
+          "time": "19:27",
+          "category": "Crypto",
+          "title": "SharpLink adds 19,000 ETH, lifting holdings to $3.5B as companies buy the dip",
+          "summary": "SharpLink increased its ETH holdings following a $76.5 million raise, with staking rewards topping $23 million since its treasury launch in June.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/sharplink-eth-holdings-35b-ethereum-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "ETH"
+          ]
+        },
+        {
+          "id": "76d5ced45b98",
+          "time": "19:05",
+          "category": "Crypto",
+          "title": "Fed Considering 'Skinny' Master Accounts for Crypto Banks on 'Streamlined Timeline'",
+          "summary": "“Skinny” master accounts would give banks focused on payments innovation access to the Fed, but restrict certain benefits.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345255/fed-considering-skinny-master-accounts-crypto-banks",
           "tags": []
+        },
+        {
+          "id": "3829681b3ada",
+          "time": "18:46",
+          "category": "Crypto",
+          "title": "Don’t let your Bitcoin die with you — here’s how to prepare before it’s too late",
+          "summary": "It is essential to secure your BTC, altcoins and NFTs with a crypto inheritance plan that safeguards keys and simplifies wealth transfer for heirs.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/how-to-set-up-a-crypto-inheritance-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "0723e75980d3",
+          "time": "18:45",
+          "category": "Crypto",
+          "title": "Aave Rebounds Above $230 Confirming Double-Bottom Reversal",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/21/aave-rebounds-above-usd230-confirming-double-bottom-reversal",
+          "tags": []
+        },
+        {
+          "id": "0ddc112a9b52",
+          "time": "18:37",
+          "category": "Crypto",
+          "title": "OpenAI Targets Google Chrome With ChatGPT Atlas AI Web Browser Launch",
+          "summary": "OpenAI has launched ChatGPT Atlas, an AI-powered web browser designed to integrate chat, browsing, and automation into one tool—a move that pits the AI pioneer directly against browser giants.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345227/openai-targets-google-chrome-chatgpt-atlas-ai-web-browser",
+          "tags": []
+        },
+        {
+          "id": "b923e0f2bb70",
+          "time": "18:26",
+          "category": "Crypto",
+          "title": "XRP Spikes 3% as Gold Slips and Bitcoin Extends Gains",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/21/xrp-spikes-3-as-gold-slips-and-bitcoin-extends-gains",
+          "tags": [
+            "BTC"
+          ]
         },
         {
           "id": "0851f9d6f77b",
@@ -51,293 +107,13 @@
           "tags": []
         },
         {
-          "id": "b2a6ed4cbb0e",
-          "time": "18:03",
-          "category": "Markets",
-          "title": "Adidas Lifts 2025 Views on Rising Sales, Margins",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/retail/adidas-lifts-2025-views-on-rising-sales-margins-f35b3538?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "460deaa4f0ba",
-          "time": "18:01",
-          "category": "Markets",
-          "title": "$30M For The Future Of Care: ExaCare AI's New Funding Round Promises AI Agents That Let Nurses Focus On Patients, Not Paperwork",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/30m-future-care-exacare-ais-170106114.html",
-          "tags": []
-        },
-        {
-          "id": "9792fedffd41",
-          "time": "17:59",
-          "category": "Markets",
-          "title": "Warner Bros. Discovery Is Up for Sale. Its Stock is Up 10%.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/warner-bros-discovery-sale-stock-165944647.html",
-          "tags": []
-        },
-        {
-          "id": "418d56e4bfea",
-          "time": "17:57",
-          "category": "Markets",
-          "title": "iQIYI (IQ) Rebounds 8% from 15-Day Drop. Here’s Why",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/iqiyi-iq-rebounds-8-15-165709148.html",
-          "tags": []
-        },
-        {
-          "id": "8b57b6d9d0b9",
-          "time": "17:56",
-          "category": "Earnings",
-          "title": "Riot (RIOT) Platforms Jumps 9.9% Ahead of Q3 Earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/riot-riot-platforms-jumps-9-165655357.html",
-          "tags": []
-        },
-        {
-          "id": "b797dd9e73cc",
-          "time": "17:56",
-          "category": "Markets",
-          "title": "Joby Aviation (JOBY) Soars 11% on Air Taxi Progress",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/joby-aviation-joby-soars-11-165645940.html",
-          "tags": []
-        },
-        {
-          "id": "02b98749e657",
-          "time": "17:56",
-          "category": "Markets",
-          "title": "Enovix (ENVX) Rockets 13% on China Battery Exports Curb",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/enovix-envx-rockets-13-china-165637507.html",
-          "tags": []
-        },
-        {
-          "id": "fbb24214f250",
-          "time": "17:56",
-          "category": "Markets",
-          "title": "Intellia (NTLA) Soars 13% to Fresh High",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/intellia-ntla-soars-13-fresh-165626129.html",
-          "tags": []
-        },
-        {
-          "id": "b580808c1d66",
-          "time": "17:56",
-          "category": "Earnings",
-          "title": "USA Rare Earth (USAR) Climbs 13.9% on Bullish Outlook",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/usa-rare-earth-usar-climbs-165618695.html",
-          "tags": []
-        },
-        {
-          "id": "895024bb83cb",
-          "time": "17:56",
-          "category": "Earnings",
-          "title": "Recursion Pharmaceuticals (RXRX) Surges 14% Ahead of Earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/recursion-pharmaceuticals-rxrx-surges-14-165609184.html",
-          "tags": []
-        },
-        {
-          "id": "afffc36dc9cd",
-          "time": "17:56",
-          "category": "US Macro",
-          "title": "Navitas (NVTS) Climbs to All-Time High Ahead of Earnings, Strong Optimism",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/navitas-nvts-climbs-time-high-165600198.html",
-          "tags": []
-        },
-        {
-          "id": "d2b319726b48",
-          "time": "17:55",
-          "category": "Markets",
-          "title": "Cleveland-Cliffs (CLF) Hits New All-Time High as Firm Sets Sights on Rare Earth Mining",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cleveland-cliffs-clf-hits-time-165550346.html",
-          "tags": []
-        },
-        {
-          "id": "7881331279bc",
-          "time": "17:54",
-          "category": "Markets",
-          "title": "D-Wave Quantum (QBTS) Loses 10% on Warrant Redemption, Stock Dilution",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/d-wave-quantum-qbts-loses-165421649.html",
-          "tags": []
-        },
-        {
-          "id": "2e61a056264c",
-          "time": "17:54",
-          "category": "Markets",
-          "title": "CoreWeave (CRWV) Gets Hammered by ISS Thumb Down of CORZ Merger",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/coreweave-crwv-gets-hammered-iss-165411635.html",
-          "tags": []
-        },
-        {
-          "id": "c3d00d50fef3",
-          "time": "17:54",
-          "category": "Markets",
-          "title": "Rigetti Computing (RGTI) Extends Losses as Funds Flee to Big Names",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/rigetti-computing-rgti-extends-losses-165402812.html",
-          "tags": []
-        },
-        {
-          "id": "cb601d55eb06",
-          "time": "17:53",
-          "category": "Markets",
-          "title": "Critical Metals (CRML) Drops 6% as on ‘Sell’ Reco",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/critical-metals-crml-drops-6-165352455.html",
-          "tags": []
-        },
-        {
-          "id": "45ba545b5c86",
-          "time": "17:53",
-          "category": "Earnings",
-          "title": "General Motors raises full-year forecasts despite sluggish Q3 results",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/general-motors-raises-full-forecasts-165329650.html",
-          "tags": []
-        },
-        {
-          "id": "fa47d7fd116a",
+          "id": "6ca6b76ae3f6",
           "time": "17:52",
-          "category": "Markets",
-          "title": "Fermi (FRMI) Falls on AI Bubble Impact Fears on Energy Stocks",
+          "category": "Crypto",
+          "title": "Filecoin Jumps More Than 4% After Retaking $1.60 Resistance Level",
           "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/fermi-frmi-falls-ai-bubble-165215403.html",
-          "tags": []
-        },
-        {
-          "id": "f4048a819a17",
-          "time": "17:50",
-          "category": "Earnings",
-          "title": "ICICI Bank (IBN) Declines as Investors Price In Better-than-Expected Earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/icici-bank-ibn-declines-investors-165034421.html",
-          "tags": []
-        },
-        {
-          "id": "36dde59c4155",
-          "time": "17:48",
-          "category": "Markets",
-          "title": "31 Stocks With Short Squeeze Potential",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/31-stocks-short-squeeze-potential-164835282.html",
-          "tags": []
-        },
-        {
-          "id": "4571713450b7",
-          "time": "17:48",
-          "category": "Markets",
-          "title": "Novo Nordisk to Shake Up Board After Obesity-Market Challenges",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/health/pharma/novo-nordisk-to-replace-chairman-and-other-board-members-75f39a52?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "760351e0b52c",
-          "time": "17:48",
-          "category": "Earnings",
-          "title": "GM Shares Surge 15% on Raised Guidance",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/autos/gm-earnings-tumble-on-tariffs-ev-write-downs-9448ac34?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "73d07926564e",
-          "time": "17:47",
-          "category": "Markets",
-          "title": "43-year-old grocery chain to close stores less than a year after opening",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/43-old-grocery-chain-close-164700773.html",
-          "tags": []
-        },
-        {
-          "id": "baf1eb46104f",
-          "time": "17:45",
-          "category": "Markets",
-          "title": "MANTRA And Inveniam Reveal Plans For Global CRE Derivatives: Could This Trigger OM Rally?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/mantra-inveniam-reveal-plans-global-164548870.html",
-          "tags": []
-        },
-        {
-          "id": "7f83483e07e9",
-          "time": "17:44",
-          "category": "Markets",
-          "title": "Why Balchem Stock Jumped Today",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-balchem-stock-jumped-today-164422475.html",
-          "tags": []
-        },
-        {
-          "id": "584609eb1c75",
-          "time": "17:44",
-          "category": "Markets",
-          "title": "Novo Nordisk's top investor seizes board control in weight-loss drug battle",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/novo-nordisks-top-investor-seizes-164420182.html",
-          "tags": []
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "17:42",
-          "category": "Earnings",
-          "title": "Nvidia Stock At Key Level As Magnificent Seven Earnings Loom",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/research/nvidia-nvda-stock-ai-tech-earnings/?src=A00220&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "de009baeb3b0",
-          "time": "17:39",
-          "category": "Markets",
-          "title": "Cracker Barrel CEO Explains Short-Lived Logo Change",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/cracker-barrel-ceo-explains-short-lived-logo-change-b0a1a5c7?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "04c352b5eb05",
-          "time": "17:39",
-          "category": "Markets",
-          "title": "Warner Bros. Discovery Explores Sale in Potential Industry Shake-Up",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/media/warner-bros-discovery-begins-strategic-review-amid-acquisition-interest-d884bf69?siteid=yhoof2&yptr=yahoo",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/21/filecoin-jumps-more-than-4-after-retaking-usd1-60-resistance-level",
           "tags": []
         },
         {
@@ -351,23 +127,13 @@
           "tags": []
         },
         {
-          "id": "4166b528bf4b",
+          "id": "c9949e77dd5b",
           "time": "17:37",
           "category": "Markets",
-          "title": "Auto & Transport Roundup: Market Talk",
+          "title": "Analyst Report: M & T Bank Corp",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-d6f38214?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "323dfa6833a9",
-          "time": "17:36",
-          "category": "Markets",
-          "title": "Swiss exports to US surge in September as pharma shipments rise ahead of tariff threat",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/swiss-exports-us-surge-september-163652970.html",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3644_AnalystReport_1761064627000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": []
         },
         {
@@ -383,16 +149,6 @@
           ]
         },
         {
-          "id": "9afd42e1580f",
-          "time": "17:34",
-          "category": "Markets",
-          "title": "L’Oréal Reports Sales Acceleration Helped by Improvement in Key Markets",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/retail/loreal-reports-sales-acceleration-helped-by-improvement-in-key-markets-c4462dfa?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
           "id": "a3b8e2828d55",
           "time": "17:32",
           "category": "Crypto",
@@ -403,36 +159,6 @@
           "tags": [
             "BTC"
           ]
-        },
-        {
-          "id": "bd4cec509fef",
-          "time": "17:31",
-          "category": "Markets",
-          "title": "Philip Morris International Inc. (PM) Expands U.S. Operations With New IQOS ILUMA Production Line",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/philip-morris-international-inc-pm-163115461.html",
-          "tags": []
-        },
-        {
-          "id": "9f78be73fd13",
-          "time": "17:31",
-          "category": "Markets",
-          "title": "Zillow Group, Inc. (Z) Expands Digital Capabilities With ChatGPT-Powered Home Search",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/zillow-group-inc-z-expands-163113408.html",
-          "tags": []
-        },
-        {
-          "id": "5b11640a919e",
-          "time": "17:31",
-          "category": "Markets",
-          "title": "Mailchimp’s Latest Upgrades Reflect Intuit Inc. (INTU)’s Push Into Data-Led Retail Marketing",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/mailchimp-latest-upgrades-reflect-intuit-163111659.html",
-          "tags": []
         },
         {
           "id": "431ddcfe8316",
@@ -714,7 +440,7 @@
           "id": "527a5d875bd5",
           "time": "14:00",
           "category": "Crypto",
-          "title": "Bitcoin Treasury Companies, Wither Thence",
+          "title": "Bitcoin Treasury Companies, Whither Thence",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/opinion/2025/10/20/bitcoin-treasury-companies-wither-thence",
@@ -862,16 +588,6 @@
           "tags": []
         },
         {
-          "id": "71bd6fd7e16c",
-          "time": "12:05",
-          "category": "Markets",
-          "title": "Analyst Report: KeyCorp",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3759_AnalystReport_1761044738000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": []
-        },
-        {
           "id": "a31333ad5890",
           "time": "12:05",
           "category": "Markets",
@@ -879,6 +595,16 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3099_AnalystReport_1761044738000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "tags": []
+        },
+        {
+          "id": "71bd6fd7e16c",
+          "time": "12:05",
+          "category": "Markets",
+          "title": "Analyst Report: KeyCorp",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3759_AnalystReport_1761044738000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": []
         },
         {
@@ -956,26 +682,6 @@
           "tags": [
             "BTC"
           ]
-        },
-        {
-          "id": "fd35ccc82bf7",
-          "time": "11:09",
-          "category": "Markets",
-          "title": "Daily – Vickers Top Insider Picks for 10/21/2025",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_45067_InsiderActivity_1761041369000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": []
-        },
-        {
-          "id": "1c69643359ff",
-          "time": "11:00",
-          "category": "US Macro",
-          "title": "Mortgage and refinance interest rates today, October 21, 2025: A tiny move lower",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-tuesday-october-21-2025-100053721.html",
-          "tags": []
         },
         {
           "id": "12ac386a9f55",
@@ -1076,16 +782,6 @@
           ]
         },
         {
-          "id": "982812ed1423",
-          "time": "08:00",
-          "category": "Crypto",
-          "title": "DOGE Consolidates Near Lows, but Watch $0.194 for Breakdown or Short-Cover Rally",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/21/doge-consolidates-near-lows-but-watch-usd0-194-for-breakdown-or-short-cover-rally",
-          "tags": []
-        },
-        {
           "id": "0673bd72afa9",
           "time": "07:11",
           "category": "Crypto",
@@ -1172,26 +868,6 @@
           "tags": []
         },
         {
-          "id": "0490e7720d69",
-          "time": "05:08",
-          "category": "Crypto",
-          "title": "Coinbase to US: Embrace blockchain if you want to fight crime on it",
-          "summary": "Coinbase urges US Treasury to fight crypto crime with blockchain analytics, AI and APIs  —and to create safe-harbors so firms can deploy them to modernize AML.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/coinbase-urges-ai-blockchain-aml-crypto-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": []
-        },
-        {
-          "id": "76a864ad45e6",
-          "time": "04:57",
-          "category": "Crypto",
-          "title": "Crypto’s next bear market will have a brand-new trigger: Willy Woo",
-          "summary": "Analyst Willy Woo warned the next crypto bear market could be driven by a business cycle downturn, last seen in 2008, before Bitcoin was invented.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/crypto-next-bear-market-brand-new-trigger-willy-woo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": []
-        },
-        {
           "id": "0246cbed532b",
           "time": "04:42",
           "category": "Crypto",
@@ -1202,16 +878,6 @@
           "tags": []
         },
         {
-          "id": "47e8a4cb1744",
-          "time": "04:34",
-          "category": "Crypto",
-          "title": "US gov shutdown ‘likely’ to end this week: Trump adviser",
-          "summary": "White House adviser Kevin Hassett says the US government shutdown will likely end this week, which could restart crypto regulatory progress.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/us-government-shutdown-likely-end-this-week-trump-adviser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": []
-        },
-        {
           "id": "44d3807c6bd5",
           "time": "02:36",
           "category": "Crypto",
@@ -1219,28 +885,6 @@
           "summary": "Japan’s banks plan a ¥1 trillion stablecoin, Singapore’s rules are maturing, and China tightens control as Asia’s strategies diverge.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345124/asias-stablecoin-race-top-companies-vie-dominance-test-policy-lines",
-          "tags": []
-        },
-        {
-          "id": "5558fd586689",
-          "time": "02:16",
-          "category": "Crypto",
-          "title": "Asia Morning Briefing: Bitcoin Holds Steady as Market Resets After Leverage Flush",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/21/asia-morning-briefing-bitcoin-holds-steady-as-market-resets-after-leverage-flush",
-          "tags": [
-            "BTC"
-          ]
-        },
-        {
-          "id": "068b651a7780",
-          "time": "01:56",
-          "category": "Crypto",
-          "title": "Senate Republicans Call for Own Meeting With Crypto CEOs After Democrats' Sitdown",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/policy/2025/10/20/senate-republicans-call-for-own-meeting-with-crypto-ceos-after-democrats-sitdown",
           "tags": []
         },
         {
@@ -1258,7 +902,9 @@
     {
       "date": "2025-10-20",
       "attention_points": [
-        "Dogecoin Firm House of Doge Acquires Controlling Share in Italian Soccer Club"
+        "Dogecoin Firm House of Doge Acquires Controlling Share in Italian Soccer Club",
+        "Solana Co-Founder Vibe Codes Hyperliquid Rival, Invites Devs to ‘Steal Idea’",
+        "Bitcoin Market Flips Bullish: Do the Charts Align With Sentiment?"
       ],
       "items": [
         {
@@ -1270,6 +916,92 @@
           "source": "Decrypt",
           "url": "https://decrypt.co/345076/dogecoin-firm-house-doge-acquires-controlling-share-italian-soccer-club",
           "tags": []
+        },
+        {
+          "id": "6760bca858d6",
+          "time": "22:23",
+          "category": "Crypto",
+          "title": "Solana Co-Founder Vibe Codes Hyperliquid Rival, Invites Devs to ‘Steal Idea’",
+          "summary": "Solana’s Yakovenko said he was just “messing around” with AI and never meant for the code to be public.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345079/solana-co-founder-vibe-codes-hyperliquid-rival",
+          "tags": []
+        },
+        {
+          "id": "4d48c5066495",
+          "time": "22:02",
+          "category": "Crypto",
+          "title": "Bitcoin Market Flips Bullish: Do the Charts Align With Sentiment?",
+          "summary": "Three days ago, traders were betting Bitcoin would crash to $100K. Now the odds have reversed—but do the charts agree?",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345039/bitcoin-bullish-sentiment-myriad-prediction-market",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "3a244d49b48a",
+          "time": "21:41",
+          "category": "Earnings",
+          "title": "She Asked ChatGPT for Powerball Numbers—Then Won $100K",
+          "summary": "The Michigan Lottery confirmed the big ChatGPT-assisted Powerball win, but stressed that AI cannot predict random lottery results.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345029/she-asked-chatgpt-powerball-numbers-won-100k",
+          "tags": []
+        },
+        {
+          "id": "15c896dbdd2f",
+          "time": "21:25",
+          "category": "Crypto",
+          "title": "AI Crypto Trading Showdown: DeepSeek and Grok Are Cashing In as Gemini Implodes",
+          "summary": "Grok, DeepSeek, and Claude are posting serious gains in Alpha Arena’s live, real-money AI trading test, rattling Wall Street in the process.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345006/ai-crypto-trading-showdown-deepseek-grok-winning-gemini-implodes",
+          "tags": []
+        },
+        {
+          "id": "abe958c1d553",
+          "time": "21:14",
+          "category": "Crypto",
+          "title": "Bitcoin Mining Stocks Surge as Another Firm Embraces AI Boom",
+          "summary": "CleanSpark's shares rose on Monday, along with those of other major mining stocks.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345037/bitcoin-mining-surge-firm-embraces-ai-boom",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "3e1e38ea3e74",
+          "time": "21:01",
+          "category": "Crypto",
+          "title": "Prediction Markets Hit All-Time High of $2 Billion in Weekly Volume",
+          "summary": "Prediction markets hit $2 billion in weekly volume as Polymarket retakes lead and major funding pushes industry valuations into billions.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345033/prediction-markets-all-time-high-trading-volume",
+          "tags": []
+        },
+        {
+          "id": "f62ccbacbd2a",
+          "time": "20:46",
+          "category": "Crypto",
+          "title": "MetaMask Showing Zero Balances, Base Network Struggling as AWS Issues Persist",
+          "summary": "Key crypto trading platforms and apps struggled to regain functionality several hours after a widespread AWS outage began early Monday.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345036/metamask-showing-zero-balances-base-network-struggling-aws-issues-persist",
+          "tags": []
+        },
+        {
+          "id": "7326579cf734",
+          "time": "20:17",
+          "category": "Crypto",
+          "title": "Will Satoshi Nakamoto Move Any Bitcoin This Year? Degens Are Betting on It",
+          "summary": "Prediction market users are speculating that Satoshi Nakamoto will move some Bitcoin before the end of the year—here’s why.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345028/will-satoshi-nakamoto-move-bitcoin-this-year-degens-betting",
+          "tags": [
+            "BTC"
+          ]
         }
       ]
     }
