@@ -428,9 +428,25 @@ rangeChips.querySelectorAll('.chip').forEach(b => {
       a2hsBtn.onclick = () => alert('No iPhone: Partilhar (ícone com seta) → “Adicionar ao ecrã principal”.');
     }
 
-    // Start
-    fetchFeed();
-    setInterval(fetchFeed, AUTO_REFRESH_MS);
-  </script>
+   // Start
+fetchFeed();
+setInterval(fetchFeed, AUTO_REFRESH_MS);
+</script>
+
+<script>
+// permite desligar SW com ?nosw=1
+const NOSW = new URLSearchParams(location.search).get('nosw') === '1';
+
+if ('serviceWorker' in navigator) {
+  if (NOSW) {
+    navigator.serviceWorker.getRegistrations().then(rs => rs.forEach(r => r.unregister()));
+  } else {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('./sw.js').catch(console.error);
+    });
+  }
+}
+</script>
+
 </body>
 </html>
