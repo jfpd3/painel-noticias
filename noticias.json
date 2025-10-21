@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-22T00:09+01:00",
+  "generated_at": "2025-10-22T00:10+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -1023,6 +1023,26 @@
           ]
         },
         {
+          "id": "1d6daef5b3f9",
+          "time": "17:18",
+          "category": "Earnings",
+          "title": "IBM Stock Near Highs With Earnings Due. Here's What Investors Are Watching.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/ibm-stock-ibm-q3-earnings-preview-ibm-news/?src=A00220&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "2540b46f7b8d",
+          "time": "17:04",
+          "category": "Markets",
+          "title": "Google or Meta Stock for AI? This Analyst Prefers the Search Company.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/google-or-meta-stock-for-ai-this-analyst-prefers-the-search-company-bb27f56c?siteid=yhoof2&yptr=yahoo",
+          "tags": []
+        },
+        {
           "id": "8c359675fa67",
           "time": "17:01",
           "category": "Crypto",
@@ -1046,6 +1066,46 @@
           "tags": []
         },
         {
+          "id": "85d0334223ac",
+          "time": "16:16",
+          "category": "Markets",
+          "title": "'Apparently, I Was Zero Years Old' — Employee Discovers Payroll Error That Blocked Their 401(k) For Years",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/apparently-zero-years-old-employee-151622451.html",
+          "tags": []
+        },
+        {
+          "id": "82c8afbfbc3f",
+          "time": "16:15",
+          "category": "Markets",
+          "title": "3 Top Stocks to Buy to Benefit From the AI and Quantum Computing Revolution",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/3-top-stocks-buy-benefit-151500396.html",
+          "tags": []
+        },
+        {
+          "id": "edd55f30dfcb",
+          "time": "16:14",
+          "category": "Markets",
+          "title": "Companies Projected to Pay At Least $1.2T More in 2025 Due to Tariffs",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/companies-projected-pay-least-1-151456960.html",
+          "tags": []
+        },
+        {
+          "id": "66a6f2044027",
+          "time": "16:11",
+          "category": "Markets",
+          "title": "BitMine Immersion Tech Boosts Holdings to $13.4B – What’s Driving the Accumulation?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bitmine-immersion-tech-boosts-holdings-151145728.html",
+          "tags": []
+        },
+        {
           "id": "857de74864f3",
           "time": "16:05",
           "category": "US Macro",
@@ -1053,6 +1113,26 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/ogrd-alliance-expands-oncovix-plpc-150532376.html",
+          "tags": []
+        },
+        {
+          "id": "8a1698e45f96",
+          "time": "16:02",
+          "category": "Markets",
+          "title": "Five Forces Behind Gold’s Record-Breaking Run",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/five-forces-behind-gold-record-150212358.html",
+          "tags": []
+        },
+        {
+          "id": "0373c291e51e",
+          "time": "16:00",
+          "category": "Crypto",
+          "title": "Crypto ETPs: How UK Investors Can Access Listed Crypto Exposure via the London Stock Exchange",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/crypto-etps-uk-investors-access-150027940.html",
           "tags": []
         },
         {
@@ -1120,16 +1200,6 @@
           "tags": []
         },
         {
-          "id": "f9cbcfc9ce34",
-          "time": "15:50",
-          "category": "Markets",
-          "title": "Alto shares double on plans to speed depression drug’s development",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/alto-shares-double-plans-speed-145000545.html",
-          "tags": []
-        },
-        {
           "id": "2e0f309b2281",
           "time": "15:49",
           "category": "Earnings",
@@ -1137,26 +1207,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/phreesia-phr-fell-q3-despite-144927151.html",
-          "tags": []
-        },
-        {
-          "id": "cf8e47cf8b27",
-          "time": "15:48",
-          "category": "Markets",
-          "title": "B&M reveals freight cost accounting error as CFO quits",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/b-m-reveals-freight-cost-144858327.html",
-          "tags": []
-        },
-        {
-          "id": "42fe9e3caa83",
-          "time": "15:48",
-          "category": "Markets",
-          "title": "Stock Market Today: Stocks Jump, Apple Notches New All-Time High on iPhone 17 Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stock-market-today-stocks-jump-144833373.html",
           "tags": []
         },
         {
@@ -1180,16 +1230,6 @@
           "tags": []
         },
         {
-          "id": "40794e65c999",
-          "time": "15:43",
-          "category": "Crypto",
-          "title": "Solana Accelerate APAC Begins: Latest Solana News and SOL USD Price Prediction This Week",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/solana-accelerate-apac-begins-latest-144342315.html",
-          "tags": []
-        },
-        {
           "id": "98d4a507378b",
           "time": "15:42",
           "category": "Markets",
@@ -1207,26 +1247,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/willdan-group-wldn-good-long-143943365.html",
-          "tags": []
-        },
-        {
-          "id": "f14162edf4c2",
-          "time": "15:37",
-          "category": "Markets",
-          "title": "2 Top Vanguard ETFs to Buy With $2,000 Right Now and Never Sell",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/2-top-vanguard-etfs-buy-143700736.html",
-          "tags": []
-        },
-        {
-          "id": "df9f6ca8a5f8",
-          "time": "15:37",
-          "category": "Markets",
-          "title": "Should You Buy Tesla Stock Before Wednesday Afternoon?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/buy-tesla-stock-wednesday-afternoon-143700459.html",
           "tags": []
         },
         {
@@ -1357,36 +1377,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/does-vertex-verx-demonstrate-favorable-135206422.html",
-          "tags": []
-        },
-        {
-          "id": "55abeafd640e",
-          "time": "14:41",
-          "category": "Markets",
-          "title": "Here’s Why Novanta (NOVT) Traded Down in Q3",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-novanta-novt-traded-down-134110365.html",
-          "tags": []
-        },
-        {
-          "id": "e2fb2c6b3cb2",
-          "time": "14:38",
-          "category": "Markets",
-          "title": "Here’s Why Conestoga Capital Advisors Decided to Sell Simulations Plus (SLP)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-conestoga-capital-advisors-decided-133850249.html",
-          "tags": []
-        },
-        {
-          "id": "f8c18b0d262d",
-          "time": "14:33",
-          "category": "Earnings",
-          "title": "Casella Waste Systems (CWST) Slipped Following the Results",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/casella-waste-systems-cwst-slipped-133331645.html",
           "tags": []
         },
         {
