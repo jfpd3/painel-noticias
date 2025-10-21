@@ -218,10 +218,11 @@ function setRange(r) {
   // Atualiza estado visual dos botões
   rangeChips.querySelectorAll('.chip').forEach(b => {
     b.classList.toggle('active', parseInt(b.dataset.range, 10) === hoursRange);
+    b.onclick = () => setRange(b.dataset.range);
   });
 
   // Re-renderiza o feed
-  renderList();
+  renderAll();
 }
 
 // Aplica o estado inicial e adiciona eventos de clique
@@ -286,20 +287,24 @@ rangeChips.querySelectorAll('.chip').forEach(b => {
       if (d>0) return d+'d'; if (h>0) return h+'h'; return (m||1)+'m';
     }
 
-    function flattenWithin(hours){
-      const items=[];
-      (DATA.days||[]).forEach(day => (day.items||[]).forEach(it => {
-        const _ts = toTs(day.date,it.time);
-        items.push({day:day.date,_ts,_id:(it.id || (day.date+'-'+(it.title||'').slice(0,24))), ...it});
-      }));
-      if(!items.length) return [];
-      const newest = Math.max(...items.map(i=>i._ts||0), Date.now());
-      const cutoff = newest - hours*60*60*1000;
-      let out = items.filter(i => (i._ts||0)>=cutoff);
-      if(currentCategory!=='All') out = out.filter(i => i.category===currentCategory);
-      out.sort((a,b)=>(b._ts||0)-(a._ts||0));
-      return out;
-    }
+    // Itens dentro das últimas N horas (ordenados do mais recente)
+function flattenWithin(hours){
+  const cutoff = Date.now() - hours * 60 * 60 * 1000;
+  const out = [];
+
+  (DATA.days || []).forEach(day => {
+    (day.items || []).forEach(it => {
+      const ts = toTs(day.date, it.time);      // usa a tua função toTs já existente
+      if (!isNaN(ts) && ts >= cutoff) {
+        out.push({ ...it, _ts: ts, _day: day.date });
+      }
+    });
+  });
+
+  out.sort((a,b) => b._ts - a._ts);
+  return out;
+}
+
 
     function renderChips(){
       catChips.innerHTML='';
@@ -317,64 +322,42 @@ rangeChips.querySelectorAll('.chip').forEach(b => {
     }
 
     function renderList(){
-      newsList.innerHTML='';
-      const items = flattenWithin(hoursRange);
-      const visible = hideRead.checked ? items.filter(i=>!readSet.has(i._id)) : items;
-      countLabel.textContent = visible.length + ' itens';
+  const items = flattenWithin(hoursRange);  // <- usa o intervalo
 
-      if(!visible.length){
-        const div=document.createElement('div');
-        div.className='card';
-        div.textContent='Sem notícias no intervalo selecionado.';
-        newsList.appendChild(div);
-        return;
-      }
-      visible.forEach(it=>{
-        const card=document.createElement('article');
-        card.className='card news-card'+(readSet.has(it._id)?' read':'');
-        const hh = new Date(it._ts).toLocaleTimeString('pt-PT',{hour:'2-digit',minute:'2-digit'});
-        const dd = new Date(it._ts).toLocaleDateString('pt-PT',{year:'numeric',month:'2-digit',day:'2-digit'});
-        card.innerHTML = `
-          <div class="flex" style="justify-content:space-between;align-items:center;">
-            <div class="muted">${hh} • ${dd} <span class="muted" style="margin-left:8px;">(${timeAgo(it._ts)} atrás)</span></div>
-            <span class="pill">${it.category||'—'}</span>
-          </div>
-          <h3 style="margin:8px 0 4px;font-size:18px;line-height:1.25;">${it.title||'(sem título)'}</h3>
-          ${it.summary?`<p class="muted" style="font-size:15px;line-height:1.5">${it.summary}</p>`:''}
-          <div class="flex" style="justify-content:space-between;align-items:center;margin-top:6px;gap:10px;flex-wrap:wrap">
-            <div class="flex">
-              ${it.source?`<span class="muted">${it.source}</span>`:''}
-              ${it.url?`<a href="${it.url}" target="_blank" rel="noreferrer" style="margin-left:10px;">Abrir fonte</a>`:''}
-            </div>
-            <label class="chip" style="cursor:pointer;">
-              <input type="checkbox" ${readSet.has(it._id)?'checked':''} data-id="${it._id}" class="markRead" style="margin-right:6px;"> Lida
-            </label>
-          </div>
-        `;
-        newsList.appendChild(card);
-      });
+  // filtros
+  const filtered = items.filter(it => {
+    if (currentCategory !== 'All' && it.category !== currentCategory) return false;
+    if (hideRead.checked && readSet.has(it.id)) return false;
+    return true;
+  });
 
-      // bind checkboxes
-      newsList.querySelectorAll('.markRead').forEach(cb=>{
-        cb.addEventListener('change',e=>{
-          const id=e.target.getAttribute('data-id');
-          if(e.target.checked){ readSet.add(id); } else { readSet.delete(id); }
-          localStorage.setItem('pn_read', JSON.stringify(Array.from(readSet)));
-          renderList();
-        });
-      });
+  // pintar
+  newsList.innerHTML = '';
+  filtered.forEach(it => {
+    const card = document.createElement('div');
+    card.className = 'news-card';
 
-      // attention
-      attentionList.innerHTML='';
-      const recentDay=(DATA.days||[])[0];
-      if(recentDay && recentDay.attention_points){
-        recentDay.attention_points.slice(0,3).forEach(p=>{
-          const li=document.createElement('li'); li.textContent=p; attentionList.appendChild(li);
-        });
-      } else {
-        const li=document.createElement('li'); li.textContent='Sem prioridades definidas.'; attentionList.appendChild(li);
-      }
-    }
+    // bolinha de impacto (mantém simples por agora; depois ligamos às tuas regras)
+    const dotClass = (it.impact === 'high') ? 'impact-high' : (it.impact === 'low' ? 'impact-low' : '');
+    const dot = dotClass ? `<span class="impact-dot ${dotClass}"></span>` : '';
+
+    card.innerHTML = `
+      ${dot}
+      <div class="meta"><span>${it.time}</span> <span class="chip">${it.category}</span></div>
+      <h3>${it.title}</h3>
+      ${it.summary ? `<p class="muted">${it.summary}</p>` : ''}
+      <div class="links">
+        <span class="muted">${it.source}</span>
+        <a href="${it.url}" target="_blank" rel="noreferrer">Abrir fonte</a>
+      </div>
+    `;
+    newsList.appendChild(card);
+  });
+
+  // contador no topo
+  countLabel.textContent = `${filtered.length} itens`;
+}
+
 
     function renderAll(){ renderChips(); renderList(); }
 
