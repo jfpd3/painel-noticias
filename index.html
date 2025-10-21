@@ -86,6 +86,20 @@
       padding:12px 16px;border-radius:14px;
     }
     .a2hs small{color:var(--muted)}
+    /* --- Impacto --- */
+:root {
+  --impact-high: #ff4d4f;   /* vermelho */
+  --impact-low:  #f5c542;   /* amarelo */
+}
+.news-card { position: relative; }
+.impact-dot {
+  position: absolute; top: 10px; right: 10px;
+  width: 12px; height: 12px; border-radius: 999px;
+  border: 2px solid rgba(0,0,0,.25);
+  box-shadow: 0 2px 6px rgba(0,0,0,.35);
+}
+.impact-high { background: var(--impact-high); }
+.impact-low  { background: var(--impact-low); }
   </style>
 </head>
 <body>
@@ -168,13 +182,26 @@
     const a2hsBtn=document.getElementById('a2hsBtn');
 
     let currentCategory = localStorage.getItem('pn_cat') || 'All';
-    let hoursRange = parseInt(localStorage.getItem('pn_range')||'24',10);
-    const readSet = new Set(JSON.parse(localStorage.getItem('pn_read')||'[]'));
+    let hoursRange = parseInt(localStorage.getItem('pn_range') || '24', 10);
 
-    feedUrlLabel.textContent = FEED_URL;
-    Array.from(rangeChips.querySelectorAll('.chip')).forEach(b=>{
-      b.classList.toggle('active', parseInt(b.dataset.range,10)===hoursRange);
-    });
+function setRange(r) {
+  hoursRange = parseInt(String(r), 10);
+  localStorage.setItem('pn_range', String(hoursRange));
+
+  // Atualiza estado visual dos botões
+  rangeChips.querySelectorAll('.chip').forEach(b => {
+    b.classList.toggle('active', parseInt(b.dataset.range, 10) === hoursRange);
+  });
+
+  // Re-renderiza o feed
+  renderList();
+}
+
+// Aplica o estado inicial e adiciona eventos de clique
+rangeChips.querySelectorAll('.chip').forEach(b => {
+  b.classList.toggle('active', parseInt(b.dataset.range, 10) === hoursRange);
+  b.onclick = () => setRange(b.dataset.range);
+});
 
     async function fetchFeed(){
       statusLabel.textContent='a carregar…';
