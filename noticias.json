@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-21T19:52+01:00",
+  "generated_at": "2025-10-21T20:28+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -568,16 +568,6 @@
           "tags": []
         },
         {
-          "id": "0a3dc951f456",
-          "time": "12:05",
-          "category": "Markets",
-          "title": "Analyst Report: Travelers Companies Inc.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3461_AnalystReport_1761044738000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": []
-        },
-        {
           "id": "c648744ce1b2",
           "time": "12:05",
           "category": "Markets",
@@ -588,13 +578,13 @@
           "tags": []
         },
         {
-          "id": "a31333ad5890",
+          "id": "0a3dc951f456",
           "time": "12:05",
           "category": "Markets",
-          "title": "Analyst Report: J.B. Hunt Transport Servs, Inc",
+          "title": "Analyst Report: Travelers Companies Inc.",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3099_AnalystReport_1761044738000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3461_AnalystReport_1761044738000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": []
         },
         {
@@ -605,6 +595,16 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3759_AnalystReport_1761044738000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "tags": []
+        },
+        {
+          "id": "a31333ad5890",
+          "time": "12:05",
+          "category": "Markets",
+          "title": "Analyst Report: J.B. Hunt Transport Servs, Inc",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3099_AnalystReport_1761044738000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": []
         },
         {
@@ -990,18 +990,6 @@
           "source": "Decrypt",
           "url": "https://decrypt.co/345036/metamask-showing-zero-balances-base-network-struggling-aws-issues-persist",
           "tags": []
-        },
-        {
-          "id": "7326579cf734",
-          "time": "20:17",
-          "category": "Crypto",
-          "title": "Will Satoshi Nakamoto Move Any Bitcoin This Year? Degens Are Betting on It",
-          "summary": "Prediction market users are speculating that Satoshi Nakamoto will move some Bitcoin before the end of the year—here’s why.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345028/will-satoshi-nakamoto-move-bitcoin-this-year-degens-betting",
-          "tags": [
-            "BTC"
-          ]
         }
       ]
     }
