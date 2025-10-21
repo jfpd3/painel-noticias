@@ -3,17 +3,18 @@ import json, time, hashlib, re
 from datetime import datetime, timedelta, timezone
 from dateutil import tz, parser as dtparser
 import feedparser, yaml
+import argparse
 
 TZ_LISBON = tz.gettz("Europe/Lisbon")
 NOW_UTC = datetime.now(timezone.utc)
 WINDOW_HOURS = 24  # últimas 24h
 
 CATEGORY_KEYWORDS = {
-    "Crypto": ["bitcoin","btc","ethereum","eth","crypto","blockchain","defi","nft","solana","binance","coinbase","etf bitcoin","etf ether","web3"],
+    "Crypto": ["bitcoin","btc","ethereum","eth","crypto","blockchain","defi","nft","solana","binance","coinbase","etf bitcoin","etf ether"],
     "US Macro": ["fed","fomc","cpi","ppi","payrolls","jobless","inflation","pce","rates","yields","treasury","usd","unemployment","housing starts","ism"],
     "Regulation": ["sec","cftc","doj","ftc","lawsuit","settlement","subpoena","investigation","regulation","regulatório","regulacao","compliance"],
     "Earnings": ["earnings","results","quarter","guidance","EPS","revenue","outlook","lucros","trimestre","balanço","balanco"],
-    "Markets": ["stocks","equities","nasdaq","dow","s&p","sp500","futures","futuros","options","commodities","oil","gold","silver","treasuries"]
+    "Markets": ["stocks","equities","nasdaq","dow","s&p","sp500","futures","futuros","options","commodities","oil","gold","silver","treasuries","web3"]
 }
 
 def guess_category(title, summary, source_name):
@@ -92,7 +93,23 @@ def dedupe(items):
         out.append(it)
     return out
 
+def parse_args():
+    p = argparse.ArgumentParser()
+    p.add_argument("--days", type=int, default=2, help="nº de dias de histórico a incluir (default: 2)")
+    return p.parse_args()
+
 def main():
+
+    args = parse_args()
+lookback_days = max(1, args.days)
+
+# agora (UTC) e cutoff (UTC)
+now_utc = datetime.now(timezone.utc)
+cutoff_utc = now_utc - timedelta(days=lookback_days)
+
+# fuso para Lisboa (para agrupar por dia e formatar horas)
+tz_local = tz.gettz("Europe/Lisbon")
+
     with open("config/feeds.yml","r",encoding="utf-8") as f:
         cfg = yaml.safe_load(f)
 
