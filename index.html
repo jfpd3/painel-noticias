@@ -1,424 +1,320 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pt-PT">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <title>Painel — Cripto & Finanças (Dark • Mobile • PWA)</title>
-  <meta name="description" content="Painel escuro otimizado para mobile com PWA: adicionar ao ecrã principal, 24/48/7 dias, lidas, contador." />
-  <meta name="theme-color" content="#0f1117" />
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Painel — Cripto & Finanças</title>
   <link rel="manifest" href="./manifest.webmanifest">
-  <link rel="icon" type="image/png" href="./favicon-64.png">
+  <link rel="icon" href="./icon-192.png">
   <style>
     :root{
-      --bg:#0f1117; --card:#161b22; --card-2:#1b212b;
-      --text:#e6e9ef; --muted:#9aa4b2; --border:#2a3240;
-      --accent:#4f7cff;
-      --safe-top: env(safe-area-inset-top);
-      --safe-bottom: env(safe-area-inset-bottom);
+      --bg:#0b1020; --card:#121a2f; --text:#e9efff; --muted:#8fa3c9; --border:#203055; --accent:#5aa2ff;
+      --impact-high:#ff4646; --impact-low:#ffc542;
     }
     *{box-sizing:border-box}
-    html,body{height:100%}
-    body{margin:0;background:var(--bg);color:var(--text);
-      font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;
-      -webkit-tap-highlight-color: transparent;
-    }
-    a{color:var(--accent);text-decoration:underline}
-    header{position:sticky;top:0;backdrop-filter:saturate(180%) blur(6px);
-      background:rgba(15,17,23,.85);border-bottom:1px solid var(--border);z-index:10;
-      padding-top: calc(var(--safe-top) + 0px);
-    }
-    .container{max-width:1100px;margin:0 auto;padding:10px 14px}
-    h1{font-size:18px;margin:0}
-    .row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
-
-    .btn{border:1px solid var(--border);border-radius:14px;
-      padding:10px 14px;background:var(--card-2);color:var(--text);font-size:16px;min-height:44px;cursor:pointer}
-    .btn.primary{background:var(--accent);color:#fff;border-color:var(--accent)}
-
-    .toolbar{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px;align-items:center}
-    .toolbar-row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
-
-    main{display:grid;grid-template-columns:1fr;gap:12px;padding:12px}
-    @media(min-width:980px){main{grid-template-columns:2fr 1fr;padding:16px;gap:16px}}
-
-    .card{background:var(--card);border:1px solid var(--border);border-radius:18px;padding:14px}
-    .news-card{transition:box-shadow .2s ease,transform .06s ease,opacity .2s ease}
-    .news-card:hover{box-shadow:0 8px 24px rgba(0,0,0,.25);transform:translateY(-1px)}
-    .news-card.read{opacity:.55}
-
-    .pill{display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border:1px solid var(--border);
-      border-radius:999px;font-size:12px;color:var(--text);background:#1d2330}
-
+    body{margin:0;background:var(--bg);color:var(--text);font:15px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial}
+    .container{max-width:1100px;margin:0 auto;padding:14px 16px}
+    header{position:sticky;top:0;background:rgba(11,16,32,.75);backdrop-filter:saturate(120%) blur(6px);border-bottom:1px solid var(--border);z-index:5}
+    h1{font-size:20px;margin:0;display:flex;align-items:center;gap:10px}
     .muted{color:var(--muted)}
-    .grid{display:grid;gap:10px}
-
-    .numbers{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
-    @media(min-width:540px){.numbers{grid-template-columns:repeat(4,minmax(0,1fr))}}
-    .num{border:1px solid var(--border);background:#121722;border-radius:12px;padding:8px}
-    .num .k{font-size:12px;color:var(--muted)} .num .v{font-weight:700}
-
-    footer{text-align:center;color:var(--muted);font-size:12px;padding:16px 0 calc(16px + var(--safe-bottom))}
-
-    .hidden{display:none!important} .flex{display:flex;align-items:center;gap:8px}
-    .spacer{flex:1}
-
-    .chips{display:flex;gap:6px;overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:6px}
-    .chips::-webkit-scrollbar{display:none}
-    .chip{border:1px solid var(--border);padding:8px 12px;border-radius:999px;
-      background:#141923;cursor:pointer;font-size:14px;color:var(--text);white-space:nowrap}
-    .chip.active{background:var(--accent);color:#fff;border-color:var(--accent)}
-
-    /* Barra inferior fixa (só recarregar/topo) */
-    .fabbar{
-      position:fixed;left:0;right:0;bottom:0;
-      padding:8px 12px calc(8px + var(--safe-bottom));
-      background:linear-gradient(180deg, rgba(15,17,23,0) 0%, rgba(15,17,23,.85) 30%);
-      display:flex;gap:8px;justify-content:center;z-index:20;flex-wrap:wrap;
-    }
-    .fabbar .btn{min-width:140px}
-    @media(min-width:980px){ .fabbar{display:none} }
-
-    /* A2HS fixo ao fundo da página (não flutuante) */
-    .a2hs-section{margin-top:16px}
-    .a2hs{
-      display:flex;align-items:center;gap:10px;justify-content:center;flex-wrap:wrap;
-      background:var(--card);border:1px solid var(--border);color:var(--text);
-      padding:12px 16px;border-radius:14px;
-    }
-    .a2hs small{color:var(--muted)}
-    /* --- Impacto --- */
-:root {
-  --impact-high: #ff4d4f;   /* vermelho */
-  --impact-low:  #f5c542;   /* amarelo */
-}
-.news-card { position: relative; }
-.impact-dot {
-  position: absolute; top: 10px; right: 10px;
-  width: 12px; height: 12px; border-radius: 999px;
-  border: 2px solid rgba(0,0,0,.25);
-  box-shadow: 0 2px 6px rgba(0,0,0,.35);
-}
-.impact-high { background: var(--impact-high); }
-.impact-low  { background: var(--impact-low); }
+    .row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+    .chips{display:flex;gap:8px;flex-wrap:wrap}
+    .chip{background:#0f1730;border:1px solid var(--border);color:var(--text);padding:8px 12px;border-radius:999px;cursor:pointer}
+    .chip.active{background:var(--accent);color:#0b1020;border-color:transparent}
+    .toolbar{margin-top:10px}
+    .pill{background:#0f1730;color:var(--muted);border:1px solid var(--border);padding:4px 8px;border-radius:999px}
+    main{display:grid;grid-template-columns:1fr 330px;gap:16px;margin-top:10px}
+    @media (max-width:980px){ main{grid-template-columns:1fr} }
+    .card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px}
+    .news-card{position:relative;background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px;margin-bottom:12px}
+    .news-card h3{margin:8px 0 6px 0;font-size:17px}
+    .meta{display:flex;gap:10px;align-items:center;color:var(--muted);font-size:13px}
+    .links{display:flex;gap:12px;align-items:center;margin-top:6px}
+    .links a{color:var(--accent);text-decoration:none}
+    .impact-dot{position:absolute;top:12px;right:12px;width:12px;height:12px;border-radius:50%;box-shadow:0 2px 6px rgba(0,0,0,.35);border:2px solid rgba(0,0,0,.25)}
+    .impact-high{background:var(--impact-high)}
+    .impact-low{background:var(--impact-low)}
+    .aside{display:flex;flex-direction:column;gap:12px}
+    .a2hs{display:none;margin-top:16px}
+    .fabbar{display:none}
+    footer{color:var(--muted);text-align:center;margin:16px 0}
+    small.kbd{padding:1px 6px;border:1px solid var(--border);border-radius:6px;background:#0f1730}
   </style>
 </head>
 <body>
-  <header>
-    <div class="container">
-      <div class="row">
-        <h1 style="display:flex;align-items:center;gap:10px;">
-          Painel — Cripto &amp; Finanças
-          <span id="countLabel" class="pill" style="font-size:13px;">0 itens</span>
-        </h1>
-        <div class="spacer"></div>
-        <div class="muted">Feed: <span id="feedUrlLabel">./noticias.json</span> — <span id="statusLabel">a carregar…</span></div>
-      </div>
-      
-<div class="toolbar">
-  <div class="toolbar-row">
-    <div class="chips" id="rangeChips">
-      <!-- NÃO deixes 'active' no HTML; o JS trata disso -->
-      <button class="chip" data-range="24">24h</button>
-      <button class="chip" data-range="48">48h</button>
-      <button class="chip" data-range="168">7d</button>
-      <button class="chip" data-range="0">Todas</button> <!-- 0 = sem filtro de tempo -->
+<header>
+  <div class="container">
+    <div class="row" style="justify-content:space-between">
+      <h1>
+        Painel — Cripto & Finanças
+        <span class="pill" id="countLabel">0 itens</span>
+      </h1>
+      <div class="muted">Feed: <span id="feedUrlLabel">/noticias.json</span> — <span id="statusLabel">a carregar…</span></div>
     </div>
-    <div class="chips" id="catChips"></div>
-  </div>
-</div>
 
-        <div class="toolbar-row">
-          <label class="chip"><input type="checkbox" id="hideRead" style="margin-right:6px;"> Esconder lidas</label>
-          <button class="btn" id="refreshBtn" style="display:none">Recarregar</button>
+    <div class="toolbar">
+      <div class="toolbar-row">
+        <div class="chips" id="rangeChips">
+          <!-- NÃO deixes 'active' no HTML; o JS trata disso -->
+          <button class="chip" data-range="24">24h</button>
+          <button class="chip" data-range="48">48h</button>
+          <button class="chip" data-range="168">7d</button>
+          <button class="chip" data-range="0">Todas</button>
         </div>
+        <div class="chips" id="catChips"></div>
+        <label class="row" style="margin-left:auto;gap:6px">
+          <input id="hideRead" type="checkbox"> <span class="muted">Esconder lidas</span>
+        </label>
       </div>
     </div>
-  </header>
+  </div>
+</header>
 
-  <main class="container">
-    <section id="newsList" class="grid"></section>
-    <aside>
-      <div class="card">
-        <h3>Hoje: 3 pontos de atenção</h3>
-        <ol id="attentionList"></ol>
-      </div>
-    </aside>
-
-    <!-- A2HS placed at the end of the page content -->
-    <section class="a2hs-section">
-      <div class="a2hs" id="a2hsBlock" style="display:none;">
-        <img src="./icon-192.png" alt="App" width="24" height="24" style="border-radius:6px">
-        <span>Adicionar ao ecrã principal</span>
-        <small>(abre como app, sem barra do browser)</small>
-        <button class="btn primary" id="a2hsBtn">Adicionar</button>
-      </div>
+<div class="container">
+  <main>
+    <section>
+      <div id="newsList"></div>
     </section>
+
+    <aside class="aside">
+      <div class="card">
+        <strong>Hoje: 3 pontos de atenção</strong>
+        <ol id="attentionList" style="margin:8px 0 0 18px;padding:0"></ol>
+      </div>
+
+      <section class="a2hs card" id="a2hsBlock">
+        <div class="row" style="align-items:center;justify-content:space-between;gap:10px">
+          <div>
+            <strong>Adicionar ao ecrã principal</strong>
+            <p class="muted" style="margin:6px 0 0">Abre como app, sem barra do browser.</p>
+          </div>
+          <button class="chip" id="a2hsBtn">Adicionar</button>
+        </div>
+      </section>
+    </aside>
   </main>
 
-  <!-- Barra fixa de ações (mobile) -->
-  <div class="fabbar">
-    <button class="btn primary" id="fabRefresh">Recarregar</button>
-    <button class="btn" id="fabTop">Topo</button>
-  </div>
+  <footer>
+    <small class="muted">Mobile PWA: “Adicionar ao ecrã principal” no fundo da página · Auto-refresh 5min.</small>
+  </footer>
+</div>
 
-  <footer>Mobile PWA: “Adicionar ao ecrã principal” no fundo da página • Auto-refresh 5min.</footer>
+<script>
+  // ======= CONFIG =======
+  // Se o teu site estiver noutro caminho, ajusta aqui:
+  const FEED_URL = '/painel-noticias/noticias.json'; // <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+  const AUTO_REFRESH_MS = 5 * 60 * 1000;
+  const CATEGORIES = ['All','Crypto','US Macro','Regulação','Earnings','Markets'];
 
-  <script>
-    // URL base do feed (fixo)
-const FEED_URL = '/painel-noticias/noticias.json';
+  // Permite override via ?feed=https://...
+  const qsFeed = new URLSearchParams(location.search).get('feed');
+  const RESOLVED_FEED_URL = qsFeed || FEED_URL;
 
-// permite override via ?feed=... no URL (útil para testes)
-const qsFeed = new URLSearchParams(location.search).get('feed');
-const RESOLVED_FEED_URL = qsFeed || FEED_URL;
+  // ======= DOM =======
+  const newsList = document.getElementById('newsList');
+  const attentionList = document.getElementById('attentionList');
+  const statusLabel = document.getElementById('statusLabel');
+  const feedUrlLabel = document.getElementById('feedUrlLabel');
+  const countLabel = document.getElementById('countLabel');
+  const rangeChips = document.getElementById('rangeChips');
+  const catChips   = document.getElementById('catChips');
+  const hideRead   = document.getElementById('hideRead');
+  const a2hsBlock  = document.getElementById('a2hsBlock');
+  const a2hsBtn    = document.getElementById('a2hsBtn');
 
+  feedUrlLabel.textContent = RESOLVED_FEED_URL;
 
-    const AUTO_REFRESH_MS = 5 * 60 * 1000;
+  // ======= STATE =======
+  let DATA   = { days: [] };
+  let currentCategory = localStorage.getItem('pn_cat') || 'All';
+  let hoursRange      = parseInt(localStorage.getItem('pn_range') || '24', 10);
 
-    let DATA = { generated_at:null, timezone:'Europe/Lisbon', days:[] };
-    const CATEGORIES = ['All','Crypto','US Macro','Regulation','Earnings','Markets'];
+  // “lidas”
+  let readSet;
+  try { readSet = new Set(JSON.parse(localStorage.getItem('pn_read') || '[]')); }
+  catch { readSet = new Set(); }
+  function saveReadSet(){ localStorage.setItem('pn_read', JSON.stringify([...readSet])); }
+  function markRead(id, isRead){ if(isRead) readSet.add(id); else readSet.delete(id); saveReadSet(); }
 
-    const newsList=document.getElementById('newsList');
-    const attentionList=document.getElementById('attentionList');
-    const statusLabel=document.getElementById('statusLabel');
-    const feedUrlLabel=document.getElementById('feedUrlLabel');
-    const refreshBtn=document.getElementById('refreshBtn');
-    const fabRefresh=document.getElementById('fabRefresh');
-    const fabTop=document.getElementById('fabTop');
-    const countLabel=document.getElementById('countLabel');
-    const hideRead=document.getElementById('hideRead');
-    const rangeChips=document.getElementById('rangeChips');
-    const catChips=document.getElementById('catChips');
-    const a2hsBlock=document.getElementById('a2hsBlock');
-    const a2hsBtn=document.getElementById('a2hsBtn');
-
-    // mostra o feed resolvido no cabeçalho
- feedUrlLabel.textContent = RESOLVED_FEED_URL;
-
-    let currentCategory = localStorage.getItem('pn_cat') || 'All';
-    let hoursRange = parseInt(localStorage.getItem('pn_range') || '24', 10);
-    // itens “lidos”
-let readSet;
-try {
-  readSet = new Set(JSON.parse(localStorage.getItem('pn_read') || '[]'));
-} catch (_) {
-  readSet = new Set();
-}
-    function saveReadSet() {
-  localStorage.setItem('pn_read', JSON.stringify([...readSet]));
-}
-
-function markRead(id, isRead) {
-  if (isRead) readSet.add(id);
-  else readSet.delete(id);
-  saveReadSet();
-}
-
-// ---- Controle dos botões de intervalo (24h, 48h, 7d, Todas) ----
-function setRange(r) {
-  hoursRange = parseInt(String(r), 10);
-  localStorage.setItem('pn_range', String(hoursRange));
-
-  // Atualiza visual dos botões
-  rangeChips.querySelectorAll('.chip').forEach(b => {
-    b.classList.toggle('active', parseInt(b.dataset.range, 10) === hoursRange);
+  // ======= TOOLBAR (tempo + categorias) =======
+  function updateToolbarState(){
+    rangeChips.querySelectorAll('.chip').forEach(b=>{
+      b.classList.toggle('active', parseInt(b.dataset.range,10) === hoursRange);
+    });
+    catChips.querySelectorAll('.chip').forEach(b=>{
+      b.classList.toggle('active', b.dataset.cat === currentCategory);
+    });
+  }
+  function setRange(r){
+    hoursRange = parseInt(String(r), 10);
+    localStorage.setItem('pn_range', String(hoursRange));
+    updateToolbarState();
+    renderAll();
+  }
+  function setCategory(cat){
+    currentCategory = cat;
+    localStorage.setItem('pn_cat', currentCategory);
+    updateToolbarState();
+    renderAll();
+  }
+  // constrói chips de categoria se não existirem
+  if (!catChips.querySelector('.chip')) {
+    catChips.innerHTML = CATEGORIES.map(c=>`<button class="chip" data-cat="${c}">${c}</button>`).join('');
+  }
+  // liga eventos
+  rangeChips.querySelectorAll('.chip').forEach(b=>{
+    b.addEventListener('click', ()=> setRange(b.dataset.range));
   });
+  catChips.addEventListener('click', (e)=>{
+    const btn = e.target.closest('.chip'); if(!btn) return;
+    setCategory(btn.dataset.cat);
+  });
+  if (hideRead) hideRead.addEventListener('change', ()=> renderAll());
+  updateToolbarState();
 
-  // Atualiza lista e contador
-  renderAll();
-}
-
-// Estado inicial e eventos de clique
-rangeChips.querySelectorAll('.chip').forEach(b => {
-  b.onclick = () => setRange(b.dataset.range);
-  b.classList.toggle('active', parseInt(b.dataset.range, 10) === hoursRange);
-});
-
-   async function fetchFeed(){
-  statusLabel.textContent = 'a carregar…';
-
-  const u1 = RESOLVED_FEED_URL + '?_ts=' + Date.now();
-  const u2 = 'https://raw.githubusercontent.com/jfpd3/painel-noticias/main/noticias.json?_ts=' + Date.now();
-
-  const tries = [u1, u2];
-  let json = null, lastErr = null;
-
-  for (const url of tries) {
-    try {
-      const res = await fetch(url, { cache: 'reload', headers: { 'Cache-Control': 'no-cache' } });
-      if (!res.ok) throw new Error('HTTP ' + res.status + ' em ' + url);
-      json = await res.json();
-      break;
-    } catch (e) { lastErr = e; }
+  // ======= UTILS =======
+  function toTs(dayDate, timeStr){
+    // dayDate: 'YYYY-MM-DD' ; timeStr: 'HH:MM'
+    if(!dayDate) return 0;
+    let h=0,m=0;
+    if (timeStr && timeStr.includes(':')) {
+      const [hh,mm] = timeStr.split(':');
+      h = parseInt(hh||'0',10); m = parseInt(mm||'0',10);
+    }
+    const [Y,Mo,D] = dayDate.split('-').map(Number);
+    return new Date(Y, (Mo-1), D, h, m, 0, 0).getTime();
   }
 
-  if (json) {
-    DATA = json || { days: [] };
-    renderAll();
-    statusLabel.textContent = 'OK';
-  } else {
-    statusLabel.textContent = 'falhou';
-    console.error('Falha a carregar noticias.json:', lastErr);
+  function flattenWithin(hours){
+    const out = [];
+    const now = Date.now();
+    const cutoff = hours > 0 ? (now - hours * 3600 * 1000) : 0;
+    (DATA.days || []).forEach(day=>{
+      (day.items || []).forEach(it=>{
+        const ts = toTs(day.date, it.time);
+        if (cutoff === 0 || (!isNaN(ts) && ts >= cutoff)) {
+          out.push({ ...it, _ts: ts, _day: day.date });
+        }
+      });
+    });
+    out.sort((a,b)=> b._ts - a._ts);
+    return out;
+  }
+
+  // ======= RENDER =======
+  function renderAttention(){
+    // usa o que vier no JSON para o dia corrente (primeiro da lista)
+    attentionList.innerHTML = '';
+    const day0 = (DATA.days||[])[0];
+    const arr = (day0 && day0.attention_points) ? day0.attention_points.slice(0,3) : [];
+    arr.forEach(t=>{
+      const li=document.createElement('li'); li.textContent=t; attentionList.appendChild(li);
+    });
+  }
+
+  function renderList(){
+    const items = flattenWithin(hoursRange).filter(it=>{
+      if (currentCategory !== 'All' && it.category !== currentCategory) return false;
+      if (hideRead && hideRead.checked && readSet.has(it.id)) return false;
+      return true;
+    });
 
     newsList.innerHTML = '';
-    const div = document.createElement('div');
-    div.className = 'card';
-    div.innerHTML = `
-      <strong>Erro a carregar o feed</strong>
-      <p class="muted" style="margin-top:6px">
-        ${lastErr ? String(lastErr).replace(/</g,'&lt;') : 'erro desconhecido'}
-      </p>
-      <p class="muted">Testa abrir:
-        <a href="${u1}" target="_blank" rel="noreferrer">${u1}</a><br/>
-        <a href="${u2}" target="_blank" rel="noreferrer">${u2}</a>
-      </p>
-    `;
-    newsList.appendChild(div);
+    items.forEach(it=>{
+      const card = document.createElement('div');
+      card.className = 'news-card';
+      const dotClass = it.impact === 'high' ? 'impact-high' : (it.impact === 'low' ? 'impact-low' : '');
+      const dot = dotClass ? `<span class="impact-dot ${dotClass}"></span>` : '';
+      card.innerHTML = `
+        ${dot}
+        <div class="meta">
+          <span>${it.time} • ${it._day||''}</span>
+          <span class="chip">${it.category}</span>
+          ${it.tags && it.tags.length ? it.tags.slice(0,3).map(t=>`<span class="pill">${t}</span>`).join('') : ''}
+        </div>
+        <h3>${it.title}</h3>
+        ${it.summary ? `<p class="muted">${it.summary}</p>` : ''}
+        <div class="links">
+          <span class="muted">${it.source||''}</span>
+          <a href="${it.url}" target="_blank" rel="noreferrer">Abrir fonte</a>
+          <label class="row" style="gap:6px;margin-left:auto">
+            <input type="checkbox" ${readSet.has(it.id)?'checked':''}
+                   onchange="(function(el){ ${/* closure segura */''}
+                     if(el.checked){ readSet.add('${it.id}'); } else { readSet.delete('${it.id}'); }
+                     localStorage.setItem('pn_read', JSON.stringify(Array.from(readSet)));
+                   })(this)">
+            <span class="muted">Lida</span>
+          </label>
+        </div>
+      `;
+      newsList.appendChild(card);
+    });
+
+    countLabel.textContent = `${items.length} itens`;
   }
-}
 
-    function toTs(dayDate, timeStr){
-      if(!dayDate) return 0;
-      const [y,m,d] = dayDate.split('-').map(Number);
-      let hh=0,mm=0;
-      if(timeStr && timeStr.includes(':')){ const [h,mi]=timeStr.split(':'); hh=parseInt(h||'0',10); mm=parseInt(mi||'0',10); }
-      return new Date(y,(m-1),d,hh,mm,0,0).getTime();
+  function renderAll(){
+    renderAttention();
+    renderList();
+  }
+
+  // ======= FETCH + FALLBACK =======
+  async function fetchFeed(){
+    statusLabel.textContent = 'a carregar…';
+    const u1 = RESOLVED_FEED_URL + '?_ts=' + Date.now();
+    const u2 = 'https://raw.githubusercontent.com/jfpd3/painel-noticias/main/noticias.json?_ts=' + Date.now();
+
+    const tries = [u1, u2];
+    let json=null, lastErr=null;
+
+    for (const url of tries){
+      try{
+        const res = await fetch(url, { cache:'reload', headers:{'Cache-Control':'no-cache'} });
+        if(!res.ok) throw new Error('HTTP '+res.status+' em '+url);
+        json = await res.json();
+        break;
+      }catch(e){ lastErr = e; }
     }
-    function timeAgo(ts){
-      const diff = Date.now()-ts;
-      const m = Math.floor(diff/60000), h = Math.floor(m/60), d = Math.floor(h/24);
-      if (d>0) return d+'d'; if (h>0) return h+'h'; return (m||1)+'m';
+
+    if (json){
+      DATA = json || { days:[] };
+      renderAll();
+      statusLabel.textContent = 'OK';
+    } else {
+      statusLabel.textContent = 'falhou';
+      console.error('Falha a carregar noticias.json:', lastErr);
+      newsList.innerHTML = '';
+      const div = document.createElement('div');
+      div.className = 'card';
+      div.innerHTML = `
+        <strong>Erro a carregar o feed</strong>
+        <p class="muted" style="margin-top:6px">${lastErr ? String(lastErr).replace(/</g,'&lt;') : 'erro desconhecido'}</p>
+        <p class="muted">Testa abrir:
+          <a href="${u1}" target="_blank" rel="noreferrer">${u1}</a><br/>
+          <a href="${u2}" target="_blank" rel="noreferrer">${u2}</a>
+        </p>
+      `;
+      newsList.appendChild(div);
     }
+  }
 
-    // Itens dentro das últimas N horas (ordenados do mais recente)
-function flattenWithin(hours){
-  const cutoff = Date.now() - hours * 60 * 60 * 1000;
-  const out = [];
-
-  (DATA.days || []).forEach(day => {
-    (day.items || []).forEach(it => {
-      const ts = toTs(day.date, it.time);      // usa a tua função toTs já existente
-      if (!isNaN(ts) && ts >= cutoff) {
-        out.push({ ...it, _ts: ts, _day: day.date });
-      }
-    });
+  // ======= A2HS (Add to Home Screen) =======
+  let deferredPrompt=null;
+  window.addEventListener('beforeinstallprompt', (e)=>{
+    e.preventDefault(); deferredPrompt = e; a2hsBlock.style.display='block';
+  });
+  a2hsBtn.addEventListener('click', async ()=>{
+    if(!deferredPrompt){ alert('No iPhone: Partilhar → “Adicionar ao ecrã principal”.'); return; }
+    deferredPrompt.prompt(); await deferredPrompt.userChoice; deferredPrompt=null; a2hsBlock.style.display='none';
   });
 
-  out.sort((a,b) => b._ts - a._ts);
-  return out;
-}
-
-
-    function renderChips(){
-      catChips.innerHTML='';
-      CATEGORIES.forEach(cat=>{
-        const b=document.createElement('button');
-        b.className='chip'+(currentCategory===cat?' active':'');
-        b.textContent=(cat==='All'?'Todas':(cat==='Regulation'?'Regulação':cat));
-        b.onclick=()=>{
-          currentCategory=cat;
-          localStorage.setItem('pn_cat',currentCategory);
-          renderList();
-        };
-        catChips.appendChild(b);
-      });
-    }
-
-    function renderList(){
-  const items = flattenWithin(hoursRange);  // <- usa o intervalo
-
-  // filtros
-  const filtered = items.filter(it => {
-    if (currentCategory !== 'All' && it.category !== currentCategory) return false;
-    if (hideRead.checked && readSet.has(it.id)) return false;
-    return true;
-  });
-
-  // pintar
-  newsList.innerHTML = '';
-  filtered.forEach(it => {
-    const card = document.createElement('div');
-    card.className = 'news-card';
-
-    // bolinha de impacto (mantém simples por agora; depois ligamos às tuas regras)
-    const dotClass = (it.impact === 'high') ? 'impact-high' : (it.impact === 'low' ? 'impact-low' : '');
-    const dot = dotClass ? `<span class="impact-dot ${dotClass}"></span>` : '';
-
-    card.innerHTML = `
-      ${dot}
-      <div class="meta"><span>${it.time}</span> <span class="chip">${it.category}</span></div>
-      <h3>${it.title}</h3>
-      ${it.summary ? `<p class="muted">${it.summary}</p>` : ''}
-      <div class="links">
-        <span class="muted">${it.source}</span>
-        <a href="${it.url}" target="_blank" rel="noreferrer">Abrir fonte</a>
-      </div>
-    `;
-    newsList.appendChild(card);
-  });
-
-  // contador no topo
-  countLabel.textContent = `${filtered.length} itens`;
-}
-
-
-    function renderAll(){ renderChips(); renderList(); }
-
-    // Eventos básicos
-    [refreshBtn,fabRefresh].forEach(btn=>btn.addEventListener('click', fetchFeed));
-    fabTop.addEventListener('click',()=>window.scrollTo({top:0,behavior:'smooth'}));
-    hideRead.addEventListener('change', ()=>{ renderList(); });
-    rangeChips.querySelectorAll('.chip').forEach(b=>{
-      b.addEventListener('click', ()=>{
-        rangeChips.querySelectorAll('.chip').forEach(x=>x.classList.remove('active'));
-        b.classList.add('active');
-        const hrs=parseInt(b.dataset.range,10);
-        localStorage.setItem('pn_range', String(hrs));
-        hoursRange=hrs; renderList();
-      });
-    });
-
-    // PWA: registar service worker
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js').catch(console.error);
-      });
-    }
-
-    // A2HS — mostrar bloco no fundo quando possível (Android/Chrome)
-    let deferredPrompt = null;
-    window.addEventListener('beforeinstallprompt', (e) => {
-      e.preventDefault();
-      deferredPrompt = e;
-      a2hsBlock.style.display = 'flex';
-    });
-    a2hsBtn.addEventListener('click', async () => {
-      if (deferredPrompt) {
-        deferredPrompt.prompt();
-        await deferredPrompt.userChoice;
-        deferredPrompt = null;
-        a2hsBlock.style.display = 'none';
-      } else {
-        alert('No iPhone: Partilhar → “Adicionar ao ecrã principal”.');
-      }
-    });
-
-    // iOS fallback: Safari não dispara beforeinstallprompt
-    const isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent);
-    const isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
-    if (isIOS && isSafari) {
-      a2hsBlock.style.display = 'flex';
-      a2hsBtn.onclick = () => alert('No iPhone: Partilhar (ícone com seta) → “Adicionar ao ecrã principal”.');
-    }
-
-   // Start
-fetchFeed();
-setInterval(fetchFeed, AUTO_REFRESH_MS);
+  // ======= START =======
+  fetchFeed(); setInterval(fetchFeed, AUTO_REFRESH_MS);
 </script>
 
 <script>
-// permite desligar SW com ?nosw=1
+// SW: permitir desligar com ?nosw=1
 const NOSW = new URLSearchParams(location.search).get('nosw') === '1';
-
 if ('serviceWorker' in navigator) {
   if (NOSW) {
     navigator.serviceWorker.getRegistrations().then(rs => rs.forEach(r => r.unregister()));
@@ -429,6 +325,5 @@ if ('serviceWorker' in navigator) {
   }
 }
 </script>
-
 </body>
 </html>
