@@ -1,15 +1,65 @@
 {
-  "generated_at": "2025-10-21T04:19+01:00",
+  "generated_at": "2025-10-21T05:41+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-21",
       "attention_points": [
-        "Dogecoin’s House of Doge bets on Italian soccer underdog",
-        "Asia’s Stablecoin Race Sees Top Companies Vie for Dominance, Test Policy Lines",
-        "BitMine’s Lee says Ether’s ‘price dislocation’ is a signal to buy"
+        "CRYPTO BOUNCES BACK, ALTCOINS BELOW FTX LEVELS, CPI THIS WEEK",
+        "Coinbase to US: Embrace blockchain if you want to fight crime on it",
+        "Crypto’s next bear market will have a brand-new trigger: Willy Woo"
       ],
       "items": [
+        {
+          "id": "7b6b3679fd7f",
+          "time": "05:18",
+          "category": "Crypto",
+          "title": "CRYPTO BOUNCES BACK, ALTCOINS BELOW FTX LEVELS, CPI THIS WEEK",
+          "summary": "Crypto Bounces After Hitting Extreme Fear Sentiment. Spot Btc Etf Suffer Ath Weekly Outflows. Revived Btc Supply Hits Highest Since January. Tough to Be Bullish With Btc Below $112k: Ansem. Top 50 Altcoins Below Level After Ftx Crash. Bitmine Has Bought $1.5b Eth Since Crash. New",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/videos/interviews/lY5ApB8F/crypto-bounces-back-altcoins-below-ftx-levels-cpi-this-week",
+          "tags": []
+        },
+        {
+          "id": "0490e7720d69",
+          "time": "05:08",
+          "category": "Crypto",
+          "title": "Coinbase to US: Embrace blockchain if you want to fight crime on it",
+          "summary": "Chief legal officer Paul Grewal said in his letter to the US Treasury Department that money laundering schemes have become increasingly sophisticated and law enforcement needs advanced technologies to counter them.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/coinbase-urges-ai-blockchain-aml-crypto-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "76a864ad45e6",
+          "time": "04:57",
+          "category": "Crypto",
+          "title": "Crypto’s next bear market will have a brand-new trigger: Willy Woo",
+          "summary": "Analyst Willy Woo warned the next crypto bear market could be driven by a business cycle downturn, last seen in 2008, before Bitcoin was invented.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/crypto-next-bear-market-brand-new-trigger-willy-woo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "0246cbed532b",
+          "time": "04:42",
+          "category": "Crypto",
+          "title": "Solana Company Touts Conviction as Investors Gain Right to Sell Shares",
+          "summary": "he Solana DAT firm says its resale registration is a show of confidence in its Solana-linked treasury strategy, even as HSDT shares fall.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345133/solana-company-touts-conviction-investors-gain-right-sell-shares",
+          "tags": []
+        },
+        {
+          "id": "47e8a4cb1744",
+          "time": "04:34",
+          "category": "Crypto",
+          "title": "US gov shutdown ‘likely’ to end this week: Trump adviser",
+          "summary": "White House adviser Kevin Hassett says the US government shutdown will likely end this week, which could restart crypto regulatory progress.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/us-government-shutdown-likely-end-this-week-trump-adviser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
         {
           "id": "b718013d2aac",
           "time": "03:44",
@@ -830,16 +880,6 @@
           "tags": []
         },
         {
-          "id": "b6010ba4113d",
-          "time": "08:26",
-          "category": "Crypto",
-          "title": "How to catch market manipulation in altcoins before they crash",
-          "summary": "Crypto market manipulation involves organized efforts to artificially move altcoin prices and mislead traders about their true value.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/how-to-catch-market-manipulation-in-altcoins-before-they-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": []
-        },
-        {
           "id": "1c1186ce0640",
           "time": "08:18",
           "category": "Crypto",
@@ -858,40 +898,6 @@
           "source": "Decrypt",
           "url": "https://decrypt.co/344930/bittensor-zcash-lead-altcoin-rebound-as-bnb-rally-cools",
           "tags": []
-        },
-        {
-          "id": "90b38b33f7b9",
-          "time": "07:22",
-          "category": "Crypto",
-          "title": "88% of crypto airdrops flop, here’s how to break the curse",
-          "summary": "Jackson Denka, CEO of Azura, believes crypto airdrops will eventually take a backseat to IPO’s, but what if there was a way to save them?",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/crypto-airdrops-token-failure-utility-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": []
-        },
-        {
-          "id": "8effcfb7f5c1",
-          "time": "06:59",
-          "category": "Crypto",
-          "title": "Bitcoin’s next rally will start once OGs finish selling: Analysts",
-          "summary": "Long-term Bitcoin holders took profits at record levels with realized gains hitting $1.7 billion daily as older coins re-entered circulation.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bitcoin-ogs-selling-tradfi-remains-resistance-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [
-            "BTC"
-          ]
-        },
-        {
-          "id": "68f040d1c344",
-          "time": "04:54",
-          "category": "Crypto",
-          "title": "Has Bitcoin Bottomed? Here's What the Experts Say",
-          "summary": "Analysts believe Bitcoin is forming a local bottom as the Fed pivots toward rate cuts, though U.S.-China trade tensions remain a key risk.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/344927/has-bitcoin-bottomed-heres-what-the-experts-say",
-          "tags": [
-            "BTC"
-          ]
         }
       ]
     }
