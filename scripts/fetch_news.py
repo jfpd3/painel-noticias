@@ -109,6 +109,7 @@ cutoff_utc = now_utc - timedelta(days=lookback_days)
 
 # fuso para Lisboa (para agrupar por dia e formatar horas)
 tz_local = tz.gettz("Europe/Lisbon")
+print(f"[fetch] usando lookback_days={lookback_days} (cutoff={cutoff_utc.isoformat()})")
 
     with open("config/feeds.yml","r",encoding="utf-8") as f:
         cfg = yaml.safe_load(f)
