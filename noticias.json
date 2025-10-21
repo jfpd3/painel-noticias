@@ -1,2253 +1,1420 @@
 {
-  "generated_at": "2025-10-21T23:25+01:00",
+  "generated_at": "2025-10-22T00:09+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-21",
       "attention_points": [
-        "",
-        "",
-        ""
+        "'Oh Fuck': Solana Meme Coin Refunds Investors—A Year After Accidentally Burning $10 Million",
+        "Here’s what happened in crypto today",
+        "Maple Finance stablecoins debut on Aave’s onchain lending markets"
       ],
       "items": [
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "ce932e73f138",
+          "time": "23:12",
           "category": "Crypto",
-          "title": "",
+          "title": "'Oh Fuck': Solana Meme Coin Refunds Investors—A Year After Accidentally Burning $10 Million",
+          "summary": "Solana meme coin investors have been refunded for the SOL they sent to the Slerf pre-sale wallet, which was mistakenly burned 19 months ago.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345284/solana-meme-coin-slerf-refunds-investors-year-after-burning-10-million",
+          "tags": []
+        },
+        {
+          "id": "b431ea497743",
+          "time": "23:09",
+          "category": "Crypto",
+          "title": "Here’s what happened in crypto today",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "4716207a938c",
+          "time": "23:05",
+          "category": "Crypto",
+          "title": "Maple Finance stablecoins debut on Aave’s onchain lending markets",
+          "summary": "The partnership links Aave’s liquidity with Maple Finance’s institutional credit pools, introducing yield-bearing stablecoins to Aave's lending markets.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/maple-finance-stablecoins-aave-lending-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "d594572ccf06",
+          "time": "22:31",
+          "category": "Crypto",
+          "title": "Ocean Protocol’s team faces $250K bounty after $120M crypto dump allegations",
+          "summary": "While Ocean Protocol denied the allegations, onchain data points to an Ocean Protocol-linked multisignature wallet converting about 661 million Ocean tokens into 286 million FET.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/ocean-protocol-250k-bounty-120m-crypto-dump-allegations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "67e9e6002eb6",
+          "time": "22:18",
+          "category": "Crypto",
+          "title": "Ethereum enters final testnet phase ahead of Dec. 3 Fusaka upgrade",
+          "summary": "The cap on individual transactions aims to improve block efficiency, reduce DoS risks and lay the groundwork for parallel execution in future upgrades like Glamsterdam.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/ethereum-fusaka-gas-cap-testnets-parallel-execution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "ETH"
+          ]
+        },
+        {
+          "id": "060db21eb445",
+          "time": "22:12",
+          "category": "Crypto",
+          "title": "Crypto’s ‘Decentralized’ Illusion Shattered Again by Another AWS Meltdown",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
+          "url": "https://www.coindesk.com/news-analysis/2025/10/21/crypto-s-decentralized-illusion-shattered-again-by-another-aws-meltdown",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "0e8979f73e34",
+          "time": "21:14",
           "category": "Crypto",
-          "title": "",
+          "title": "Bitcoin Giant Strategy Gets a 'Buy' From Citi—With a Warning",
+          "summary": "Strategy could shoot up in price this year, analysts at the bank said. But only if BTC's price meets expectations.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345267/bitcoin-giant-strategy-gets-buy-citi-warning",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "0f9bc037a05e",
+          "time": "21:09",
+          "category": "Crypto",
+          "title": "Kadena Token Crashes as Company Behind Network Says It's Closing Up Shop",
+          "summary": "The Kadena organization is shutting down, and while the JP Morgan vets' blockchain will remain online, the KDA token is quickly plummeting.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345276/kadena-token-crashes-company-behind-network-closing",
+          "tags": []
+        },
+        {
+          "id": "71dd7c33e7df",
+          "time": "21:03",
+          "category": "Crypto",
+          "title": "Bitcoin rally to $114K highlights futures traders’ improving confidence",
+          "summary": "Crypto futures traders are returning to the market and opening fresh positions as Bitcoin, SOL and ETH rallied into overhead resistance levels today.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/bitcoin-rally-to-114k-highlights-futures-traders-improving-confidence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "16dd820de285",
+          "time": "20:58",
+          "category": "Crypto",
+          "title": "Bitcoin, Ethereum Rise as Gold Sinks Following Record Highs—Here's Why",
+          "summary": "Gold has shined in recent weeks, but Bitcoin is 11% away from its all-time high.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345263/bitcoin-ethereum-rise-gold-sinks-record-highs-why",
+          "tags": [
+            "BTC",
+            "ETH"
+          ]
+        },
+        {
+          "id": "d3a58a54bb83",
+          "time": "20:42",
+          "category": "Crypto",
+          "title": "Solana Saga Loses Security Updates and Support Following Seeker Phone Rollout",
+          "summary": "Solana Mobile will no longer provide software updates and security patches to its first-generation Android phone, the Saga.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345262/solana-saga-loses-security-updates-support-seeker-phone-rollout",
+          "tags": []
+        },
+        {
+          "id": "56ecb530af72",
+          "time": "20:36",
+          "category": "Crypto",
+          "title": "Bitcoin whale opens $235M BTC short, after netting $200M from market crash",
+          "summary": "The $11 billion Bitcoin whale made millions in profit from last week’s crypto market crash and continues betting on more downside.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/11b-bitcoin-whale-235m-btc-short-market-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "3e81dcd7bc5a",
+          "time": "19:47",
+          "category": "Crypto",
+          "title": "Streamer Sam Pepper Banned From Pump.fun, Kick After Injuring Girl With Firework Stunt",
+          "summary": "British streamer Sam Pepper is off Pump.fun and Kick after injuring a young teen girl due to launching a firework in her direction.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345229/streamer-sam-pepper-banned-pump-fun-kick-injuring-girl-firework-stunt",
+          "tags": []
+        },
+        {
+          "id": "651d0da05b82",
+          "time": "19:45",
+          "category": "Crypto",
+          "title": "Galaxy Digital reports $505M Q3 profit on trading surge, institutional demand",
+          "summary": "Galaxy Digital reported higher quarterly profit as trading volumes increased 140%, reflecting stronger institutional activity in crypto markets.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/galaxy-digital-505m-q3-profit-trading-institutional-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "46b5ad4a8337",
+          "time": "19:27",
+          "category": "Crypto",
+          "title": "SharpLink adds 19,000 ETH, lifting holdings to $3.5B as companies buy the dip",
+          "summary": "SharpLink increased its ETH holdings following a $76.5 million raise, with staking rewards topping $23 million since its treasury launch in June.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/sharplink-eth-holdings-35b-ethereum-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "ETH"
+          ]
+        },
+        {
+          "id": "76d5ced45b98",
+          "time": "19:05",
+          "category": "Crypto",
+          "title": "Fed Considering 'Skinny' Master Accounts for Crypto Banks on 'Streamlined Timeline'",
+          "summary": "“Skinny” master accounts would give banks focused on payments innovation access to the Fed, but restrict certain benefits.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345255/fed-considering-skinny-master-accounts-crypto-banks",
+          "tags": []
+        },
+        {
+          "id": "3829681b3ada",
+          "time": "18:46",
+          "category": "Crypto",
+          "title": "Don’t let your Bitcoin die with you — here’s how to prepare before it’s too late",
+          "summary": "It is essential to secure your BTC, altcoins and NFTs with a crypto inheritance plan that safeguards keys and simplifies wealth transfer for heirs.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/how-to-set-up-a-crypto-inheritance-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "0723e75980d3",
+          "time": "18:45",
+          "category": "Crypto",
+          "title": "Aave Rebounds Above $230 Confirming Double-Bottom Reversal",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
+          "url": "https://www.coindesk.com/markets/2025/10/21/aave-rebounds-above-usd230-confirming-double-bottom-reversal",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "0ddc112a9b52",
+          "time": "18:37",
           "category": "Crypto",
-          "title": "",
+          "title": "OpenAI Targets Google Chrome With ChatGPT Atlas AI Web Browser Launch",
+          "summary": "OpenAI has launched ChatGPT Atlas, an AI-powered web browser designed to integrate chat, browsing, and automation into one tool—a move that pits the AI pioneer directly against browser giants.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345227/openai-targets-google-chrome-chatgpt-atlas-ai-web-browser",
+          "tags": []
+        },
+        {
+          "id": "b923e0f2bb70",
+          "time": "18:26",
+          "category": "Crypto",
+          "title": "XRP Spikes 3% as Gold Slips and Bitcoin Extends Gains",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
+          "url": "https://www.coindesk.com/markets/2025/10/21/xrp-spikes-3-as-gold-slips-and-bitcoin-extends-gains",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "0851f9d6f77b",
+          "time": "18:06",
+          "category": "Crypto",
+          "title": "Europol Takes Down Cybercrime Network in Latvia, Seizes $330,000 in Crypto",
+          "summary": "The network provided SIM boxes and cards that fraudsters used to set up fake online accounts, stealing more than $5 million in Austria.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345214/europol-takes-down-cybercrime-network-in-latvia-seizes-330000-in-crypto",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "6ca6b76ae3f6",
+          "time": "17:52",
           "category": "Crypto",
-          "title": "",
+          "title": "Filecoin Jumps More Than 4% After Retaking $1.60 Resistance Level",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
+          "url": "https://www.coindesk.com/markets/2025/10/21/filecoin-jumps-more-than-4-after-retaking-usd1-60-resistance-level",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "269e3df83db3",
+          "time": "17:37",
           "category": "Crypto",
-          "title": "",
+          "title": "British Columbia Wants to Permanently Ban New Crypto Mining Sites",
+          "summary": "The Canadian province says the move will protect clean energy for sectors creating jobs and growth.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345209/british-columbia-ban-crypto-mining-projects",
+          "tags": []
+        },
+        {
+          "id": "c9949e77dd5b",
+          "time": "17:37",
+          "category": "Markets",
+          "title": "Analyst Report: M & T Bank Corp",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3644_AnalystReport_1761064627000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "tags": []
+        },
+        {
+          "id": "7e89218f4b3b",
+          "time": "17:35",
+          "category": "Crypto",
+          "title": "SharpLink Makes First Ethereum Buy in Over a Month as ETH Holdings Top $3.5 Billion",
+          "summary": "Ethereum treasury firm SharpLink Gaming last week bought $79 million in ETH, marking its first crypto buy in over a month.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345197/sharplink-makes-first-ethereum-buy-month-eth-holdings-top-3-5-billion",
+          "tags": [
+            "ETH"
+          ]
+        },
+        {
+          "id": "a3b8e2828d55",
+          "time": "17:32",
+          "category": "Crypto",
+          "title": "Bitcoin whales quietly embrace BlackRock ETF following SEC rule change",
+          "summary": "Bitcoin’s biggest holders are moving billions into ETFs like BlackRock’s IBIT, signaling a new phase of institutional adoption.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/bitcoin-whales-move-into-etfs-blackrock-ibit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "431ddcfe8316",
+          "time": "17:22",
+          "category": "Markets",
+          "title": "Market Update: MTB",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_45075_MarketUpdate_1761063727000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "tags": []
+        },
+        {
+          "id": "f43bce526e35",
+          "time": "17:14",
+          "category": "Crypto",
+          "title": "HBAR Slides 4.3% as Institutional Selling Breaks Key Support",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
+          "url": "https://www.coindesk.com/markets/2025/10/21/hbar-slides-4-3-as-institutional-selling-breaks-key-support",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "ac685c76dbbb",
+          "time": "17:12",
           "category": "Crypto",
-          "title": "",
+          "title": "Fed mulls ‘skinny’ payment accounts to open rails for fintech, crypto firms",
+          "summary": "Industry watchers welcomed the idea of “skinny” master accounts as another sign of the end of crypto’s banking troubles, in what insiders describe as “Operation Chokepoint 2.0.”",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/fed-mulls-payment-accounts-fintechs-small-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "f79de0835b92",
+          "time": "16:44",
+          "category": "Crypto",
+          "title": "Ethereum Remains Volatile Ahead of US Inflation Report as ETH ETFs Shed Assets",
+          "summary": "Ethereum ETFs lost $145 million on Monday as investors awaited delayed inflation data amid the longest-ever government shutdown fears.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345203/ethereum-etf-losses-slow-eth-volatile-inflation-report",
+          "tags": [
+            "ETH"
+          ]
+        },
+        {
+          "id": "60fe28635fb5",
+          "time": "16:39",
+          "category": "Crypto",
+          "title": "BitcoinOS Raises $10M to Expand Institutional BTCFi Capabilities",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
+          "url": "https://www.coindesk.com/business/2025/10/21/bitcoinos-raises-usd10m-to-expand-institutional-btcfi-capabilities",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "e38afa52d229",
+          "time": "16:32",
+          "category": "Crypto",
+          "title": "Galaxy Stock Jumps on 140% Trading Volume Increase in Q3",
+          "summary": "The figure reflects an 80,000 Bitcoin sale.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345204/galaxy-stock-jumps-140-trading-increase-q3",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "5af8d40e3e1d",
+          "time": "16:24",
           "category": "Crypto",
-          "title": "",
+          "title": "Strategy Gets Buy Rating From Citi on Bullish Bitcoin Outlook",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
-          "tags": []
+          "url": "https://www.coindesk.com/markets/2025/10/21/strategy-gets-buy-rating-from-citi-on-bullish-bitcoin-outlook",
+          "tags": [
+            "BTC"
+          ]
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "1864678f3fe0",
+          "time": "16:13",
           "category": "Crypto",
-          "title": "",
+          "title": "Bitcoin Catches Bid, Jumping Above $112K as Gold and Silver Plunge",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
+          "url": "https://www.coindesk.com/markets/2025/10/21/bitcoin-catches-bid-jumping-above-usd112k-as-gold-and-silver-plunge",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "62f6e3326c3e",
+          "time": "16:10",
+          "category": "Crypto",
+          "title": "Andrew Cuomo’s crypto Hail Mary unlikely to give an edge over Mamdani",
+          "summary": "As the New York mayor’s race draws to a culmination, Andrew Cuomo has developed a crypto and AI strategy for the city.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/andrew-cuomo-crypto-hail-mary-unlikely-give-edge-mamdani?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "d28bb5a77c3f",
+          "time": "16:00",
           "category": "Crypto",
-          "title": "",
+          "title": "California just drew the line between crypto and cash: Here’s why it matters",
+          "summary": "California’s SB 822 ends forced crypto sell-offs and requires holders to send in-kind transfers of unclaimed crypto to the state, promoting stronger consumer rights.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/explained/california-just-drew-the-line-between-crypto-and-cash-here-s-why-it-matters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "ddd899dbd879",
+          "time": "15:55",
+          "category": "Crypto",
+          "title": "Galaxy Digital Says Helios a ‘Gold Rush,’ Reveals Q3 Revenue Beat and Client Growth",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
+          "url": "https://www.coindesk.com/markets/2025/10/21/galaxy-says-helios-a-gold-rush-reveals-q3-revenue-beat-and-client-growth",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "1e4b9f428841",
+          "time": "15:52",
           "category": "Crypto",
-          "title": "",
+          "title": "Gov. Waller: U.S. Fed to 'Embrace Disruption,' Pitches 'Skinny' Master Account Idea",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
+          "url": "https://www.coindesk.com/policy/2025/10/21/gov-waller-u-s-fed-to-embrace-disruption-pitches-skinny-master-account-idea",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "38489b8b2d00",
+          "time": "15:50",
           "category": "Crypto",
-          "title": "",
+          "title": "Bitcoin taps $110K as BTC price diverges from 5% gold correction",
+          "summary": "Bitcoin returned to $110,000 after bouncing at the weekend's CME futures gap, contrasting with 5.5% daily losses and a potential double top for gold.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/bitcoin-price-taps-110k-btc-price-diverges-from-5-gold-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "a37199c41d8f",
+          "time": "15:48",
+          "category": "Crypto",
+          "title": "How Batched Threshold Encryption could end extractive MEV and make DeFi fair again",
+          "summary": "BTE offers epochless, constant-size decryption shares (as small as 48 bytes) that can help layer-2 rollups to achieve pending transaction privacy.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/how-batched-threshold-encryption-could-end-extractive-mev-and-make-defi-fair-again?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "1129968502fd",
+          "time": "15:38",
+          "category": "Crypto",
+          "title": "Coinbase Sees TradFi Institutions Driving Crypto Derivatives Boom",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
+          "url": "https://www.coindesk.com/business/2025/10/21/coinbase-sees-tradfi-institutions-driving-crypto-derivatives-boom",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "c409b7b8aadb",
+          "time": "15:09",
           "category": "Crypto",
-          "title": "",
+          "title": "Fake social media accounts: The rise of Cointelegraph impersonators, explained",
+          "summary": "Fake “Cointelegraph” accounts are scamming crypto users. Learn how to spot impostors, verify identities and stay protected in 2025.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/fake-social-media-accounts-the-rise-of-cointelegraph-impersonators-explained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "4fbba03d301f",
+          "time": "15:00",
+          "category": "Crypto",
+          "title": "Arch Aims to Help Bitcoin Holders Slash U.S. Tax Bill With BTC Mining Investments",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
-          "tags": []
+          "url": "https://www.coindesk.com/business/2025/10/21/arch-aims-to-help-bitcoin-holders-slash-u-s-tax-bill-with-btc-mining-investments",
+          "tags": [
+            "BTC"
+          ]
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "8ff6547b90fd",
+          "time": "14:54",
           "category": "Crypto",
-          "title": "",
+          "title": "Ethereum Core Veteran: Vitalik Buterin Has 'Complete Indirect Control’ Over Ecosystem",
+          "summary": "Geth lead Péter Szilágyi’s criticisms of the Ethereum Foundation prompted Polygon CEO Sandeep Nailwal to chime in with his own issues.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345167/ethereum-core-veteran-vitalik-buterin-has-complete-indirect-control-over-ecosystem",
+          "tags": [
+            "ETH"
+          ]
+        },
+        {
+          "id": "10528fea3e11",
+          "time": "14:47",
+          "category": "Crypto",
+          "title": "CoreWeave CEO Stands Firm on $9B Core Scientific Offer as Shareholder Opposition Mounts",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
+          "url": "https://www.coindesk.com/markets/2025/10/21/coreweave-ceo-stands-firm-on-usd9b-core-scientific-offer-as-shareholder-opposition-mounts",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "734f91527dcb",
+          "time": "14:47",
           "category": "Crypto",
-          "title": "",
+          "title": "Binance’s $33M charity gift becomes Malta’s political minefield",
+          "summary": "Malta’s Finance Minister Clyde Caruana backed a government-run charity’s decision to reject a now $33 million Binance donation due to reputational concerns.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/binance-s-33m-charity-gift-becomes-malta-s-political-minefield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "395768e4b63f",
+          "time": "14:41",
+          "category": "Crypto",
+          "title": "Coinbase Acquires Crypto Fundraising Platform Echo for $375 Million",
+          "summary": "The deal marks Coinbase's another major acquisition this year as it builds infrastructure spanning token creation, fundraising, and secondary trading.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345168/coinbase-acquires-echo-375-million",
+          "tags": []
+        },
+        {
+          "id": "68af6f84819f",
+          "time": "14:30",
+          "category": "Crypto",
+          "title": "The P2E apocalypse is gaming’s best news",
+          "summary": "Play-to-earn gaming’s collapse isn’t a crisis; it’s a necessary reset that will force developers to prioritize fun over financial extraction mechanics.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/p2e-gaming-apocalypse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "16dede779211",
+          "time": "14:12",
+          "category": "Crypto",
+          "title": "CoinDesk 20 Performance Update: Index Drops 2% as All Constituents Trade Lower",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
+          "url": "https://www.coindesk.com/coindesk-indices/2025/10/21/coindesk-20-performance-update-index-drops-2-as-all-constituents-trade-lower",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "7ad1701dccf1",
+          "time": "14:11",
           "category": "Crypto",
-          "title": "",
+          "title": "Joe Lubin's Sharplink Gaming Resumes ETH Purchases, Bringing Holdings Over $3.5B",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
+          "url": "https://www.coindesk.com/business/2025/10/21/joe-lubin-s-sharplink-gaming-resumes-eth-purchases-bringing-holdings-over-usd3-5b",
+          "tags": [
+            "ETH"
+          ]
+        },
+        {
+          "id": "0497ab28249a",
+          "time": "14:02",
+          "category": "Crypto",
+          "title": "Will Solana price bounce below $180? Double bottom hints at 40% rally",
+          "summary": "Solana price data strongly suggests that the recent correction to $174 was a buy-the-dip opportunity as traders eye a rally to $250.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/solana-price-bounce-below-180-double-bottom-hints-40-percent-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "527a5d875bd5",
+          "time": "14:00",
           "category": "Crypto",
-          "title": "",
+          "title": "Bitcoin Treasury Companies, Whither Thence",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
-          "tags": []
+          "url": "https://www.coindesk.com/opinion/2025/10/20/bitcoin-treasury-companies-wither-thence",
+          "tags": [
+            "BTC"
+          ]
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "5bbefc0c111c",
+          "time": "14:00",
           "category": "Crypto",
-          "title": "",
+          "title": "U.S. Surging in Crypto Activity Under Trump: TRM Labs Report",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
+          "url": "https://www.coindesk.com/policy/2025/10/20/u-s-surging-in-crypto-activity-under-trump-trm-labs-report",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "e934ae7177a2",
+          "time": "13:58",
           "category": "Crypto",
-          "title": "",
+          "title": "Morning Minute: Coinbase Buys Cobie's Echo &#038; Up Only NFT for $375M",
+          "summary": "It's a major win for the on-chain economy, builders, investors—and even Crypto Twitter, which now gets its favorite show back.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345158/morning-minute-coinbase-buys-cobies-echo-up-only-nft-for-375m",
+          "tags": []
+        },
+        {
+          "id": "23717774b825",
+          "time": "13:30",
+          "category": "Crypto",
+          "title": "Coinbase bets $375M that onchain ICO crowdfunding is crypto’s next wave",
+          "summary": "Echo, a crowdfunding platform whose first fundraising project was Ethena, has been acquired by Coinbase after operating for less than two years.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/coinbase-acquires-capital-raising-platform-echo-375-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "58585c9f29c1",
+          "time": "13:08",
+          "category": "Crypto",
+          "title": "‘Keep pace’ or fall behind: CryptoUK says US-aligned rules key to UK crypto revival",
+          "summary": "The Bank of England is launching a consultation on new stablecoin rules that mirror the US approach to fiat-pegged crypto assets.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/uk-stablecoin-rules-aligned-with-us-crypto-confidence-cryptouk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "b5ef4a1c3b12",
+          "time": "13:03",
+          "category": "Crypto",
+          "title": "BNB Falls 3.3% as Market Shakeout Cuts Through Support",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
+          "url": "https://www.coindesk.com/markets/2025/10/21/bnb-falls-3-3-as-market-shakeout-cuts-through-support-volume-surges-on-heavy-selling",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "d5f13395c80c",
+          "time": "13:00",
           "category": "Crypto",
-          "title": "",
+          "title": "Crypto Markets Today: Bitcoin, Ether Drop as Selling Pressure Returns",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
-          "tags": []
+          "url": "https://www.coindesk.com/markets/2025/10/21/crypto-markets-today-btc-and-eth-slip-as-sell-pressure-returns-amid-potential-lower-high",
+          "tags": [
+            "BTC",
+            "ETH"
+          ]
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "e8c89e0e502e",
+          "time": "12:54",
           "category": "Crypto",
-          "title": "",
+          "title": "Bitcoin crash to $104K was ‘flush,’ not crypto cycle ‘failure’",
+          "summary": "Bitcoin’s four-day crash has initiated a healthy reset among investors, with momentum limited until long-term holders stop selling their BTC, according to Glassnode.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/bitcoin-crash-104k-flush-not-crypto-cycle-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "4117faa7b9ac",
+          "time": "12:43",
+          "category": "Crypto",
+          "title": "SpaceX moves $257M in Bitcoin, reignites questions over its crypto play",
+          "summary": "The SpaceX-labelled wallets made their second large-scale Bitcoin transfer in three months, raising speculation of a sale as the company faces growing competition.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/spacex-moves-257m-in-bitcoin-reigniting-questions-over-its-crypto-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "6424049eef82",
+          "time": "12:15",
+          "category": "Crypto",
+          "title": "Bitcoin Drops as Market ‘Flushes Excess Leverage:’ Crypto Daybook Americas",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
+          "url": "https://www.coindesk.com/daybook-us/2025/10/21/bitcoin-drops-as-market-flushes-excess-leverage-crypto-daybook-americas",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "7a5275f4add1",
+          "time": "12:14",
+          "category": "US Macro",
+          "title": "OCC Chief Plays Down Stablecoin 'Bank Run' Fears",
+          "summary": "Jonathan Gould dismissed deposit flight fears as banking groups demanded Congress close GENIUS Act “loopholes” allowing for stablecoin yield.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345150/occ-chief-plays-down-stablecoin-bank-run-fears",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "62af8542227f",
+          "time": "11:51",
           "category": "Crypto",
-          "title": "",
+          "title": "Argo’s creditor grabs 87.5% stake in struggling miner in bold takeover move",
+          "summary": "Argo Blockchain will delist from the London Stock Exchange after its main creditor, Growler Mining, seized control through a debt-for-equity swap.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/argo-growler-mining-takeover-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "7def2ecb4d98",
+          "time": "11:39",
+          "category": "Crypto",
+          "title": "Coinbase Acquires Crypto Fundraising Firm Echo for $375M",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
+          "url": "https://www.coindesk.com/business/2025/10/21/coinbase-buys-crypto-fundraising-firm-echo-for-usd375m",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "7936125ceded",
+          "time": "11:38",
           "category": "Crypto",
-          "title": "",
+          "title": "Bitcoin Battles Key Technical Levels as Uptober Momentum Fades",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
-          "tags": []
+          "url": "https://www.coindesk.com/markets/2025/10/21/bitcoin-battles-key-technical-levels-as-uptober-momentum-fades",
+          "tags": [
+            "BTC"
+          ]
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "ff2b19c012a5",
+          "time": "11:33",
           "category": "Crypto",
-          "title": "",
+          "title": "Bitcoin Falls Below $108K Amid $320M Liquidations as Excess Leverage Gets Flushed Out",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
+          "url": "https://www.coindesk.com/markets/2025/10/21/bitcoin-falls-below-usd108k-amid-usd320m-liquidations",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "4ceeb0cc85e0",
+          "time": "11:16",
+          "category": "Crypto",
+          "title": "'Have a Go' Australian Traders Top Global Charts for Meme Coin Holdings: Kraken",
+          "summary": "Kraken’s latest data shows Australians are diversifying beyond Bitcoin, favoring Ethereum, Solana, and meme coins such as WIF, PEPE and BONK.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345147/have-a-go-australian-traders-top-global-charts-for-meme-coin-holdings-kraken",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "70b0fc02c5b4",
+          "time": "11:11",
           "category": "Crypto",
-          "title": "",
+          "title": "Debt-Fueled AI Pivot Puts Bitcoin Miners to the Test",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
+          "url": "https://www.coindesk.com/markets/2025/10/21/debt-fueled-ai-pivot-puts-bitcoin-miners-to-the-test",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "12ac386a9f55",
+          "time": "10:45",
+          "category": "Crypto",
+          "title": "How to use Grok 4 for smarter crypto research before you invest",
+          "summary": "Turn social hype into smart signals with Grok 4: scan sentiment, summarize fundamentals and confirm onchain data before investing.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/how-to-use-grok-4-to-research-coins-before-you-invest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "28d34b71a127",
+          "time": "10:38",
           "category": "Crypto",
-          "title": "",
+          "title": "DPRK Hackers Use 'EtherHiding' to Host Malware on Ethereum, BNB Blockchains: Google",
+          "summary": "Google’s Threat Intelligence Group has linked North Korean hackers to EtherHiding, blockchain malware previously used by criminal groups.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345139/dprk-hackers-use-etherhiding-to-host-malware-on-ethereum-bnb-blockchains-google",
+          "tags": [
+            "ETH"
+          ]
+        },
+        {
+          "id": "6085ea1227af",
+          "time": "10:31",
+          "category": "Crypto",
+          "title": "Ethereum fails again above $4K as traders grow frustrated with shakeouts",
+          "summary": "Ether ran into resistance at $4,000 as the absence of new buyers and weak spot Ethereum flows threatened ETH price dropping to $3,100 next.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/ethereum-price-fails-above-4k-traders-grow-frustrated-shakeouts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "ETH"
+          ]
+        },
+        {
+          "id": "5c08fe4b5c5e",
+          "time": "10:00",
+          "category": "Crypto",
+          "title": "U.S. Crypto Coalition Warns Bank Data Fees Could Cut Off Stablecoins and Wallets",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "",
+          "url": "https://www.coindesk.com/policy/2025/10/21/u-s-crypto-coalition-warns-bank-data-fees-could-cut-off-stablecoins-and-wallets",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "e9cfd254ab4b",
+          "time": "10:00",
           "category": "Crypto",
-          "title": "",
-          "summary": "",
+          "title": "Crypto, Fintech push back against banks’ war on open banking",
+          "summary": "The Blockchain Association, Crypto Council for Innovation and fintech allies urged the CFPB to finalize an open banking rule ensuring consumers, not banks, control their data.",
           "source": "Cointelegraph.com News",
-          "url": "",
+          "url": "https://cointelegraph.com/news/crypto-fintech-banks-war-open-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "0ea20a3a2d5f",
+          "time": "09:45",
           "category": "Crypto",
-          "title": "",
-          "summary": "",
+          "title": "Bitcoin eyes CME gap below as BTC price dips 2.5%, risks $100K collapse",
+          "summary": "Bitcoin price dropped 2.5% on Tuesday in an attempt to fill the latest weekend CME futures gap, while traders warned that $100,000 could fail as support.",
           "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
+          "url": "https://cointelegraph.com/news/bitcoin-cme-gap-btc-price-dips-risk-100k-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "574c1a63ef2d",
+          "time": "09:10",
           "category": "Crypto",
-          "title": "",
-          "summary": "",
+          "title": "US political turmoil tests ‘institutional confidence’ as crypto ETFs bleed",
+          "summary": "The outflows came as “No Kings” protests swept across the US amid a prolonged government shutdown and political division, deepening market risk aversion.",
           "source": "Cointelegraph.com News",
-          "url": "",
+          "url": "https://cointelegraph.com/news/spot-bitcoin-ethereum-etfs-extend-outflows-amid-us-political-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "cce227bcaa2d",
+          "time": "08:17",
           "category": "Crypto",
-          "title": "",
-          "summary": "",
+          "title": "Bitcoin mining in 2025, explained: From hashrate to rewards",
+          "summary": "Discover how Bitcoin mining runs in 2025: From halving rewards and ASIC rigs to mining pools, hashprice shifts and power use.",
           "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
+          "url": "https://cointelegraph.com/explained/bitcoin-mining-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "175eeec221d8",
+          "time": "06:23",
           "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Cointelegraph.com News",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
+          "title": "Coinbase Tells US Treasury Old AML Rules Are 'Broken,' Pushes Tech Fixes for Crypto Crime",
+          "summary": "Coinbase wants AI safe harbors, blockchain analytics recognition, and zero-knowledge proof adoption to replace outdated compliance systems.",
           "source": "Decrypt",
-          "url": "",
+          "url": "https://decrypt.co/345137/coinbase-treasury-aml-rules-broken-pushes-tech-fixes-crypto-crime",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "4dad9c700ab5",
+          "time": "06:14",
           "category": "Crypto",
-          "title": "",
-          "summary": "",
+          "title": "Bitcoin Braces for First Inflation Test Since US Shutdown",
+          "summary": "Analysts expects a measured market reaction to Friday's CPI report, noting that tariff concerns and labor data outweigh the inflation print.",
           "source": "Decrypt",
-          "url": "",
-          "tags": []
+          "url": "https://decrypt.co/345135/bitcoin-braces-for-first-inflation-test-since-us-shutdown",
+          "tags": [
+            "BTC"
+          ]
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "7b6b3679fd7f",
+          "time": "05:18",
           "category": "Crypto",
-          "title": "",
-          "summary": "",
+          "title": "CRYPTO BOUNCES BACK, ALTCOINS BELOW FTX LEVELS, CPI THIS WEEK",
+          "summary": "Crypto Bounces After Hitting Extreme Fear Sentiment. Spot Btc Etf Suffer Ath Weekly Outflows. Revived Btc Supply Hits Highest Since January. Tough to Be Bullish With Btc Below $112k: Ansem. Top 50 Altcoins Below Level After Ftx Crash. Bitmine Has Bought $1.5b Eth Since Crash. New",
           "source": "Decrypt",
-          "url": "",
+          "url": "https://decrypt.co/videos/interviews/lY5ApB8F/crypto-bounces-back-altcoins-below-ftx-levels-cpi-this-week",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "0246cbed532b",
+          "time": "04:42",
           "category": "Crypto",
-          "title": "",
-          "summary": "",
+          "title": "Solana Company Touts Conviction as Investors Gain Right to Sell Shares",
+          "summary": "he Solana DAT firm says its resale registration is a show of confidence in its Solana-linked treasury strategy, even as HSDT shares fall.",
           "source": "Decrypt",
-          "url": "",
+          "url": "https://decrypt.co/345133/solana-company-touts-conviction-investors-gain-right-sell-shares",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "44d3807c6bd5",
+          "time": "02:36",
           "category": "Crypto",
-          "title": "",
-          "summary": "",
+          "title": "Asia’s Stablecoin Race Sees Top Companies Vie for Dominance, Test Policy Lines",
+          "summary": "Japan’s banks plan a ¥1 trillion stablecoin, Singapore’s rules are maturing, and China tightens control as Asia’s strategies diverge.",
           "source": "Decrypt",
-          "url": "",
+          "url": "https://decrypt.co/345124/asias-stablecoin-race-top-companies-vie-dominance-test-policy-lines",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "e76811abd844",
+          "time": "00:30",
           "category": "Crypto",
-          "title": "",
-          "summary": "",
+          "title": "X to Launch Handle Marketplace, Prices Rare Usernames Up to Seven Figures",
+          "summary": "X's new marketplace lets Premium subscribers claim inactive usernames, with rare handles priced up to seven figures.",
           "source": "Decrypt",
-          "url": "",
+          "url": "https://decrypt.co/345103/x-handle-marketplace-rare-usernames-seven-figures",
           "tags": []
-        },
+        }
+      ]
+    },
+    {
+      "date": "2025-10-20",
+      "attention_points": [
+        "Dogecoin Firm House of Doge Acquires Controlling Share in Italian Soccer Club",
+        "Solana Co-Founder Vibe Codes Hyperliquid Rival, Invites Devs to ‘Steal Idea’",
+        "Bitcoin Market Flips Bullish: Do the Charts Align With Sentiment?"
+      ],
+      "items": [
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "0993bb33f4b2",
+          "time": "22:44",
           "category": "Crypto",
-          "title": "",
-          "summary": "",
+          "title": "Dogecoin Firm House of Doge Acquires Controlling Share in Italian Soccer Club",
+          "summary": "House of Doge, the Dogecoin Foundation's commercial arm, is betting big on a European soccer club from Italy's Serie C league.",
           "source": "Decrypt",
-          "url": "",
+          "url": "https://decrypt.co/345076/dogecoin-firm-house-doge-acquires-controlling-share-italian-soccer-club",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "6760bca858d6",
+          "time": "22:23",
           "category": "Crypto",
-          "title": "",
-          "summary": "",
+          "title": "Solana Co-Founder Vibe Codes Hyperliquid Rival, Invites Devs to ‘Steal Idea’",
+          "summary": "Solana’s Yakovenko said he was just “messing around” with AI and never meant for the code to be public.",
           "source": "Decrypt",
-          "url": "",
+          "url": "https://decrypt.co/345079/solana-co-founder-vibe-codes-hyperliquid-rival",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "4d48c5066495",
+          "time": "22:02",
           "category": "Crypto",
-          "title": "",
-          "summary": "",
+          "title": "Bitcoin Market Flips Bullish: Do the Charts Align With Sentiment?",
+          "summary": "Three days ago, traders were betting Bitcoin would crash to $100K. Now the odds have reversed—but do the charts agree?",
           "source": "Decrypt",
-          "url": "",
+          "url": "https://decrypt.co/345039/bitcoin-bullish-sentiment-myriad-prediction-market",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "3a244d49b48a",
+          "time": "21:41",
+          "category": "Earnings",
+          "title": "She Asked ChatGPT for Powerball Numbers—Then Won $100K",
+          "summary": "The Michigan Lottery confirmed the big ChatGPT-assisted Powerball win, but stressed that AI cannot predict random lottery results.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345029/she-asked-chatgpt-powerball-numbers-won-100k",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "15c896dbdd2f",
+          "time": "21:25",
           "category": "Crypto",
-          "title": "",
-          "summary": "",
+          "title": "AI Crypto Trading Showdown: DeepSeek and Grok Are Cashing In as Gemini Implodes",
+          "summary": "Grok, DeepSeek, and Claude are posting serious gains in Alpha Arena’s live, real-money AI trading test, rattling Wall Street in the process.",
           "source": "Decrypt",
-          "url": "",
+          "url": "https://decrypt.co/345006/ai-crypto-trading-showdown-deepseek-grok-winning-gemini-implodes",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "abe958c1d553",
+          "time": "21:14",
           "category": "Crypto",
-          "title": "",
-          "summary": "",
+          "title": "Bitcoin Mining Stocks Surge as Another Firm Embraces AI Boom",
+          "summary": "CleanSpark's shares rose on Monday, along with those of other major mining stocks.",
           "source": "Decrypt",
-          "url": "",
-          "tags": []
+          "url": "https://decrypt.co/345037/bitcoin-mining-surge-firm-embraces-ai-boom",
+          "tags": [
+            "BTC"
+          ]
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "3e1e38ea3e74",
+          "time": "21:01",
           "category": "Crypto",
-          "title": "",
-          "summary": "",
+          "title": "Prediction Markets Hit All-Time High of $2 Billion in Weekly Volume",
+          "summary": "Prediction markets hit $2 billion in weekly volume as Polymarket retakes lead and major funding pushes industry valuations into billions.",
           "source": "Decrypt",
-          "url": "",
+          "url": "https://decrypt.co/345033/prediction-markets-all-time-high-trading-volume",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "f62ccbacbd2a",
+          "time": "20:46",
           "category": "Crypto",
-          "title": "",
-          "summary": "",
+          "title": "MetaMask Showing Zero Balances, Base Network Struggling as AWS Issues Persist",
+          "summary": "Key crypto trading platforms and apps struggled to regain functionality several hours after a widespread AWS outage began early Monday.",
           "source": "Decrypt",
-          "url": "",
+          "url": "https://decrypt.co/345036/metamask-showing-zero-balances-base-network-struggling-aws-issues-persist",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "7326579cf734",
+          "time": "20:17",
           "category": "Crypto",
-          "title": "",
-          "summary": "",
+          "title": "Will Satoshi Nakamoto Move Any Bitcoin This Year? Degens Are Betting on It",
+          "summary": "Prediction market users are speculating that Satoshi Nakamoto will move some Bitcoin before the end of the year—here’s why.",
           "source": "Decrypt",
-          "url": "",
-          "tags": []
+          "url": "https://decrypt.co/345028/will-satoshi-nakamoto-move-bitcoin-this-year-degens-betting",
+          "tags": [
+            "BTC"
+          ]
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "559412af999f",
+          "time": "17:39",
           "category": "Crypto",
-          "title": "",
-          "summary": "",
+          "title": "Ripple Backs Crypto Treasury That's Raising Over $1 Billion to Buy XRP",
+          "summary": "Evernorth is raising more than $1 billion to buy up XRP, with backing from Ripple and support from the firm's executives.",
           "source": "Decrypt",
-          "url": "",
+          "url": "https://decrypt.co/344998/ripple-backs-crypto-treasury-raising-1-billion-buy-xrp",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "ffe6fbda301d",
+          "time": "17:21",
           "category": "Crypto",
-          "title": "",
-          "summary": "",
+          "title": "Tom Lee's BitMine Shares Pump After Buying the Ethereum Dip",
+          "summary": "The Ethereum treasury last week bought over 200,000 ETH.",
           "source": "Decrypt",
-          "url": "",
-          "tags": []
+          "url": "https://decrypt.co/344988/tom-lee-bitmine-pump-buying-ethereum-dip",
+          "tags": [
+            "ETH"
+          ]
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "8c359675fa67",
+          "time": "17:01",
           "category": "Crypto",
-          "title": "",
-          "summary": "",
+          "title": "Bitcoin, Ethereum Funds Lost $513 Million Last Week",
+          "summary": "Bitcoin funds shed nearly $1 billion after tariff-driven crash, but dip-buyers rotated into Ethereum, Solana, and XRP as European investors stepped in.",
           "source": "Decrypt",
-          "url": "",
-          "tags": []
+          "url": "https://decrypt.co/344984/bitcoinethereum-funds-lost-513-million-last-week",
+          "tags": [
+            "BTC",
+            "ETH"
+          ]
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Crypto",
-          "title": "",
-          "summary": "",
-          "source": "Decrypt",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "2ca4b8619d2a",
+          "time": "16:19",
           "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "WSJ.com: Markets",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "WSJ.com: Markets",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "WSJ.com: Markets",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "WSJ.com: Markets",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "WSJ.com: Markets",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "WSJ.com: Markets",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "WSJ.com: Markets",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "WSJ.com: Markets",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "WSJ.com: Markets",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "WSJ.com: Markets",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "WSJ.com: Markets",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "WSJ.com: Markets",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "WSJ.com: Markets",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "WSJ.com: Markets",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "WSJ.com: Markets",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "WSJ.com: Markets",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "WSJ.com: Markets",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "WSJ.com: Markets",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "WSJ.com: Markets",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "WSJ.com: Markets",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
+          "title": "Argentine Peso Drops as Investors Doubt U.S. Bailout",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://www.barrons.com/livecoverage/government-shutdown-news-today-102025/card/argentine-peso-drops-as-investors-doubt-u-s-bailout-hFfsr5n6PRLnysXLQyvp?siteid=yhoof2&yptr=yahoo",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
+          "id": "857de74864f3",
+          "time": "16:05",
+          "category": "US Macro",
+          "title": "OGRD Alliance Expands OncoVix and PLPC-DB Initiatives from the Emirates to Asia and MENA Regions",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/ogrd-alliance-expands-oncovix-plpc-150532376.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
+          "id": "4b1d50d64adb",
+          "time": "16:00",
+          "category": "Crypto",
+          "title": "Coinbase One Card Opens Up to American Users With Bitcoin Rewards",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
-          "tags": []
+          "url": "https://finance.yahoo.com/news/coinbase-one-card-opens-american-150003884.html",
+          "tags": [
+            "BTC"
+          ]
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "f9f7aa943f16",
+          "time": "16:00",
           "category": "Markets",
-          "title": "",
+          "title": "Oil Prices Sink as Tanker Traffic Highlights Supply Surge",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/oil-prices-sink-tanker-traffic-150000108.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "f06e9bab2142",
+          "time": "16:00",
           "category": "Markets",
-          "title": "",
+          "title": "Why hazmat loads are a double-edged sword",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/why-hazmat-loads-double-edged-150000096.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "e9a6c8bce000",
+          "time": "16:00",
           "category": "Markets",
-          "title": "",
+          "title": "Chobani raises $650M to support growth, innovation",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/chobani-raises-650m-support-growth-150000150.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
+          "id": "b6591420aa4c",
+          "time": "15:54",
+          "category": "Crypto",
+          "title": "BTC USD Price Wants Above $110,000: Will Bitcoin Price Reclaim Key Support?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
-          "tags": []
+          "url": "https://finance.yahoo.com/news/btc-usd-price-wants-above-145404701.html",
+          "tags": [
+            "BTC"
+          ]
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "b00c318a886c",
+          "time": "15:50",
           "category": "Markets",
-          "title": "",
+          "title": "The March Goes On for Records. S&P 500, Nasdaq, and the Dow Are Ever So Close.",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102025/card/the-march-goes-on-for-records-s-p-500-nasdaq-and-the-dow-are-ever-so-close--kRUShJOLmfnflzZMXzWI?siteid=yhoof2&yptr=yahoo",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "f9cbcfc9ce34",
+          "time": "15:50",
           "category": "Markets",
-          "title": "",
+          "title": "Alto shares double on plans to speed depression drug’s development",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/alto-shares-double-plans-speed-145000545.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
+          "id": "2e0f309b2281",
+          "time": "15:49",
+          "category": "Earnings",
+          "title": "Phreesia (PHR) Fell in Q3 Despite Reporting Better Results",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/phreesia-phr-fell-q3-despite-144927151.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "cf8e47cf8b27",
+          "time": "15:48",
           "category": "Markets",
-          "title": "",
+          "title": "B&M reveals freight cost accounting error as CFO quits",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/b-m-reveals-freight-cost-144858327.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "42fe9e3caa83",
+          "time": "15:48",
           "category": "Markets",
-          "title": "",
+          "title": "Stock Market Today: Stocks Jump, Apple Notches New All-Time High on iPhone 17 Report",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/stock-market-today-stocks-jump-144833373.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "9897c0dea474",
+          "time": "15:46",
           "category": "Markets",
-          "title": "",
+          "title": "Varied Growth Drivers Boosted Mama’s Creations (MAMA) in Q3",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/varied-growth-drivers-boosted-mama-144623975.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "168325770d97",
+          "time": "15:43",
           "category": "Markets",
-          "title": "",
+          "title": "Alpha Teknova (TKNO) Surged Following Accelerated Demand",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/alpha-teknova-tkno-surged-following-144359173.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
+          "id": "40794e65c999",
+          "time": "15:43",
+          "category": "Crypto",
+          "title": "Solana Accelerate APAC Begins: Latest Solana News and SOL USD Price Prediction This Week",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/solana-accelerate-apac-begins-latest-144342315.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "98d4a507378b",
+          "time": "15:42",
           "category": "Markets",
-          "title": "",
+          "title": "Bowman Consulting Group, Ltd. (BWMN) Surged on Broad-Based Growth Drivers",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/bowman-consulting-group-ltd-bwmn-144203482.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "ed4b709efe52",
+          "time": "15:39",
           "category": "Markets",
-          "title": "",
+          "title": "Is Willdan Group (WLDN) a Good Long-Term Bet?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/willdan-group-wldn-good-long-143943365.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "f14162edf4c2",
+          "time": "15:37",
           "category": "Markets",
-          "title": "",
+          "title": "2 Top Vanguard ETFs to Buy With $2,000 Right Now and Never Sell",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/2-top-vanguard-etfs-buy-143700736.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "df9f6ca8a5f8",
+          "time": "15:37",
           "category": "Markets",
-          "title": "",
+          "title": "Should You Buy Tesla Stock Before Wednesday Afternoon?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/buy-tesla-stock-wednesday-afternoon-143700459.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "8a28ac6ed542",
+          "time": "15:36",
           "category": "Markets",
-          "title": "",
+          "title": "Planet Labs PBC (PL) Rallied on Improved Investor Sentiment",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/planet-labs-pbc-pl-rallied-143638033.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "2bc9ff3b429c",
+          "time": "15:35",
           "category": "Markets",
-          "title": "",
+          "title": "Tariffs are here to stay — and US manufacturing can't keep up, former Coach CEO says",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/tariffs-are-here-to-stay--and-us-manufacturing-cant-keep-up-former-coach-ceo-says-143512714.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "0550c60d28b5",
+          "time": "15:30",
           "category": "Markets",
-          "title": "",
+          "title": "Jack Henry & Associates (JKHY) Declined in Line with Broader Industry Downturn",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/jack-henry-associates-jkhy-declined-143059269.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "ade0943c5090",
+          "time": "15:29",
           "category": "Markets",
-          "title": "",
+          "title": "Here’s Why Tyler Technologies (TYL) Traded Down in Q3",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/why-tyler-technologies-tyl-traded-142932079.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "1cd04db3b6f8",
+          "time": "15:25",
           "category": "Markets",
-          "title": "",
+          "title": "Should You Continue Holding Q2 Holdings (QTWO)?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/continue-holding-q2-holdings-qtwo-142550182.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "1d6daef5b3f9",
+          "time": "15:23",
           "category": "Markets",
-          "title": "",
+          "title": "Cleveland-Cliffs Rides Trump Tariffs To Transformative Deal; CLF Stock Surges",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://www.investors.com/news/cleveland-cliffs-foreign-steelmaker-trump-tariffs-rare-earths-clf-stock/?src=A00220&yptr=yahoo",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "3197abe7ee20",
+          "time": "15:22",
           "category": "Markets",
-          "title": "",
+          "title": "Improved Investor Confidence Boosted West Pharmaceutical Services (WST)",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/improved-investor-confidence-boosted-west-142259074.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "8f20d2ecb2b8",
+          "time": "15:20",
           "category": "Markets",
-          "title": "",
+          "title": "Here’s Why Generac Holdings (GNRC) Surged in Q3",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/why-generac-holdings-gnrc-surged-142059745.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "53f442e2db67",
+          "time": "15:19",
           "category": "Markets",
-          "title": "",
+          "title": "Solid Demand Sent EVI Industries (EVI) Higher in Q3",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/solid-demand-sent-evi-industries-141901305.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "7236a7cbf9f8",
+          "time": "15:00",
           "category": "Markets",
-          "title": "",
+          "title": "Does Mirion Technologies (MIR) Have an Attractive Growth Potential?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/does-mirion-technologies-mir-attractive-140052608.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "ae2374c5874f",
+          "time": "14:57",
           "category": "Markets",
-          "title": "",
+          "title": "Should You Hold SPS Commerce (SPSC)?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/hold-sps-commerce-spsc-135741416.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "3fd493768349",
+          "time": "14:55",
           "category": "Markets",
-          "title": "",
+          "title": "Descartes Systems Group (DSGX) Fell on Softer Global Trade and Muted Volume",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/descartes-systems-group-dsgx-fell-135500977.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "52b1f2daedcb",
+          "time": "14:52",
           "category": "Markets",
-          "title": "",
+          "title": "Does Vertex (VERX) Demonstrate Favorable Long-Term Trend?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/does-vertex-verx-demonstrate-favorable-135206422.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "55abeafd640e",
+          "time": "14:41",
           "category": "Markets",
-          "title": "",
+          "title": "Here’s Why Novanta (NOVT) Traded Down in Q3",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/why-novanta-novt-traded-down-134110365.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "e2fb2c6b3cb2",
+          "time": "14:38",
           "category": "Markets",
-          "title": "",
+          "title": "Here’s Why Conestoga Capital Advisors Decided to Sell Simulations Plus (SLP)",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/why-conestoga-capital-advisors-decided-133850249.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
+          "id": "f8c18b0d262d",
+          "time": "14:33",
+          "category": "Earnings",
+          "title": "Casella Waste Systems (CWST) Slipped Following the Results",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/casella-waste-systems-cwst-slipped-133331645.html",
           "tags": []
         },
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
+          "id": "79fa92eabf84",
+          "time": "13:14",
+          "category": "Earnings",
+          "title": "Chinese battery maker CATL posts faster profit growth in third quarter",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "",
+          "url": "https://finance.yahoo.com/news/chinese-battery-maker-catl-posts-121426740.html",
           "tags": []
-        },
+        }
+      ]
+    },
+    {
+      "date": "2025-10-16",
+      "attention_points": [
+        "Statement Regarding Minimum Pricing Increments and Access Fee Caps"
+      ],
+      "items": [
         {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
+          "id": "1e41df9ce11e",
+          "time": "00:47",
           "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Press Releases",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
+          "title": "Statement Regarding Minimum Pricing Increments and Access Fee Caps",
+          "summary": "Statement Regarding Minimum Pricing Increments and Access Fee Caps\nPaul S. Atkins, Chairman\nOct. 15, 2025",
           "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
-          "tags": []
-        },
-        {
-          "id": "da39a3ee5e6b",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "",
-          "summary": "",
-          "source": "Speeches and Statements",
-          "url": "",
+          "url": "https://www.sec.gov/newsroom/speeches-statements/atkins-101525-statement-regarding-minimum-pricing-increments-access-fee-caps",
           "tags": []
         }
       ]
