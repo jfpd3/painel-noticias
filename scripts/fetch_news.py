@@ -5,6 +5,21 @@ from dateutil import tz, parser as dtparser
 import feedparser, yaml
 import argparse
 
+# --- Filtros anti-lixo/duplicados de feeds genéricos ---
+IGNORE_TITLE_PATTERNS = [
+    r"^CoinDesk:\s*Bitcoin,\s*Ethereum,\s*Crypto News and Price Data$",
+]
+import re as _re
+def _should_ignore(title: str, link: str) -> bool:
+    t = (title or "").strip()
+    for pat in IGNORE_TITLE_PATTERNS:
+        if _re.search(pat, t, _re.IGNORECASE):
+            return True
+    # ignora páginas índice sem artigo
+    if "coindesk.com" in (link or "") and "/live/" in link:
+        return True
+    return False
+
 # --- Constantes de fuso/tempo ---
 TZ_LISBON = tz.gettz("Europe/Lisbon")
 NOW_UTC = datetime.now(timezone.utc)
@@ -99,6 +114,21 @@ def dedupe(items):
         seen.add(key)
         out.append(it)
     return out
+    
+def dedupe_keep_latest(items_with_dt):
+    """
+    items_with_dt: lista de tuples (item_dict, dt)
+    Dedupe por (titulo, fonte) mantendo o dt mais recente.
+    """
+    best = {}
+    for it, dt in items_with_dt:
+        key = ((it.get("title") or "")[:120].lower(), (it.get("source") or "").lower())
+        cur = best.get(key)
+        if (cur is None) or (dt > cur[1]):
+            best[key] = (it, dt)
+    # devolve lista ordenada já fora
+    return list(best.values())
+
 
 def parse_args():
     p = argparse.ArgumentParser()
@@ -129,32 +159,39 @@ def main():
     elif isinstance(cfg, list):
         all_entries.extend(collect_from(cfg))
 
-    # -------- NOVO: filtrar por cutoff_utc (dias), não 24h fixos ----
-    filtered = [(it, dt, feed_title) for (it, dt, feed_title) in all_entries if dt >= cutoff_utc]
-    # ----------------------------------------------------------------
+    # Filtra lixo repetitivo (títulos genéricos) ANTES de montar items
+filtered = [
+    (it, dt, feed_title)
+    for (it, dt, feed_title) in filtered
+    if not _should_ignore(it.get("title"), it.get("url"))
+]
 
-    # Enriquecer: categoria + tags simples
-    items = []
-    for it, dt, feed_title in filtered:
-        cat = guess_category(it["title"], it["summary"], it["source"] or feed_title)
-        it["category"] = cat
-        tags = []
-        t = (it["title"] or "").lower()
-        if "bitcoin" in t or "btc" in t: tags.append("BTC")
-        if "ethereum" in t or "eth" in t: tags.append("ETH")
-        it["tags"] = tags
-        items.append((it, dt))
+# Enriquecer: categoria + tags simples
+items_with_dt = []
+for it, dt, feed_title in filtered:
+    cat = guess_category(it["title"], it["summary"], it["source"] or feed_title)
+    it["category"] = cat
+    tags = []
+    t = (it["title"] or "").lower()
+    if "bitcoin" in t or "btc" in t: tags.append("BTC")
+    if "ethereum" in t or "eth" in t: tags.append("ETH")
+    it["tags"] = tags
+    items_with_dt.append((it, dt))
 
     # Ordenar por mais recente
-    items.sort(key=lambda x: x[1], reverse=True)
+    items_with_dt.sort(key=lambda x: x[1], reverse=True)
 
-    # Cap global para não inchar o ficheiro (ajusta se quiseres)
+    # Dedupe mantendo mais recente
+    items_with_dt = dedupe_keep_latest(items_with_dt)
+
+    # Cap para não inchar o ficheiro
     MAX_ITEMS = 400
-    items = items[:MAX_ITEMS]
+    items_with_dt = items_with_dt[:MAX_ITEMS]
+
 
     # Agrupar por dia (Lisboa)
     days_map = {}
-    for it, dt in items:
+    for it, dt in items_with_dt:
         d_lis = dt.astimezone(TZ_LISBON).date().isoformat()
         days_map.setdefault(d_lis, {"date": d_lis, "attention_points": [], "items": []})
         it.pop("time_iso", None)  # remover helper
@@ -162,10 +199,13 @@ def main():
 
     # Pontos de atenção: top 3 títulos do próprio dia
     for d in days_map.values():
-        # opcional: ordenar por hora desc dentro do dia
-        d["items"].sort(key=lambda x: x.get("time","00:00"), reverse=True)
-        for h in d["items"][:3]:
-            d["attention_points"].append(h["title"][:120])
+    d["items"].sort(key=lambda x: x.get("time","00:00"), reverse=True)
+    for h in d["items"]:
+        title_clean = (h.get("title") or "").strip()
+        if title_clean:
+            d["attention_points"].append(title_clean[:120])
+        if len(d["attention_points"]) >= 3:
+            break
 
     # Ordena dias do mais recente para o mais antigo
     days = sorted(days_map.values(), key=lambda d: d["date"], reverse=True)
