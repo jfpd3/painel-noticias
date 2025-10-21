@@ -212,10 +212,10 @@ rangeChips.querySelectorAll('.chip').forEach(b => {
   b.onclick = () => setRange(b.dataset.range);
 });
 
-    async function fetchFeed(){
+   async function fetchFeed(){
   statusLabel.textContent = 'a carregar…';
 
-  // 1) GH Pages da própria página
+  // 1) GH Pages (principal)
   const u1 = RESOLVED_FEED_URL + '?_ts=' + Date.now();
 
   // 2) Fallback: raw do GitHub
@@ -232,6 +232,30 @@ rangeChips.querySelectorAll('.chip').forEach(b => {
       break;
     } catch (e) { lastErr = e; }
   }
+
+  if (json) {
+    DATA = json || { days: [] };
+    renderAll();
+    statusLabel.textContent = 'OK';
+  } else {
+    statusLabel.textContent = 'falhou';
+    console.error('Falha a carregar noticias.json:', lastErr);
+
+    newsList.innerHTML = '';
+    const div = document.createElement('div');
+    div.className = 'card';
+    div.innerHTML = `
+      <strong>Erro a carregar o feed</strong>
+      <p class="muted" style="margin-top:6px">
+        ${lastErr ? String(lastErr).replace(/</g,'&lt;') : 'erro desconhecido'}
+      </p>
+      <p class="muted">Testa abrir:
+        <a href="${u1}" target="_blank" rel="noreferrer">${u1}</a><br/>
+        <a href="${u2}" target="_blank" rel="noreferrer">${u2}</a>
+      </p>`;
+    newsList.appendChild(div);
+  }
+}
 
   if (json) {
     DATA = json || { days: [] };
