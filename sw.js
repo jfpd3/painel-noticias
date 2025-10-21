@@ -1,4 +1,4 @@
-const CACHE_NAME = 'painel-news-v2'; // <- novo nome para forçar update
+const CACHE_NAME = 'painel-news-v3'; // <- novo nome para forçar update
 
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(CACHE_NAME)); // sem pré-cache do JSON
