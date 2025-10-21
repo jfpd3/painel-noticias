@@ -204,20 +204,58 @@ rangeChips.querySelectorAll('.chip').forEach(b => {
 });
 
     async function fetchFeed(){
-      statusLabel.textContent='a carregar…';
-      try{
-        const nocache = FEED_URL + (FEED_URL.includes('?')?'&':'?') + '_ts=' + Date.now();
-        const res = await fetch(nocache,{cache:'no-store'});
-        if(!res.ok) throw new Error('HTTP '+res.status);
-        const json = await res.json();
-        DATA = json || {days:[]};
-        renderAll();
-        statusLabel.textContent='OK';
-      }catch(e){
-        statusLabel.textContent='falhou';
-        console.error(e);
-      }
+  statusLabel.textContent = 'a carregar…';
+
+  // basePath = /painel-noticias/ (com barra final)
+  const basePath = location.pathname.replace(/[^/]+$/, '');
+  const nocache = FEED_URL + (FEED_URL.includes('?') ? '&' : '?') + '_ts=' + Date.now();
+
+  // 3 tentativas: relativo, absoluto e raw do GitHub
+  const candidates = [
+    // 1) relativo (pasta do site)
+    new Request(nocache, { cache: 'no-store' }),
+
+    // 2) absoluto no mesmo domínio
+    new Request(location.origin + basePath + 'noticias.json?_ts=' + Date.now(), { cache: 'no-store' }),
+
+    // 3) raw do GitHub (fallback duro)
+    new Request(`https://raw.githubusercontent.com/${location.pathname.split('/')[1]}/${location.pathname.split('/')[2]}/main/noticias.json?_ts=${Date.now()}`, { cache: 'no-store' }),
+  ];
+
+  let lastErr = null, json = null;
+
+  for (const req of candidates) {
+    try {
+      // IMPORTANTE: “reload” tenta furar o SW
+      const res = await fetch(req, { cache: 'reload' });
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      json = await res.json();
+      break;
+    } catch (e) {
+      lastErr = e;
     }
+  }
+
+  if (json) {
+    DATA = json || { days: [] };
+    renderAll();
+    statusLabel.textContent = 'OK';
+  } else {
+    statusLabel.textContent = 'falhou';
+    console.error('Falha a carregar noticias.json:', lastErr);
+
+    // Mostra um cartão de erro no UI
+    newsList.innerHTML = '';
+    const div = document.createElement('div');
+    div.className = 'card';
+    div.innerHTML = `
+      <strong>Erro a carregar o feed</strong>
+      <p class="muted">Tenta abrir diretamente: <a href="./noticias.json" target="_blank" rel="noreferrer">/noticias.json</a>.
+      Se abrir 404, o ficheiro não está na raiz do repositório. Se abrir, o problema é cache do browser/Service Worker.</p>
+    `;
+    newsList.appendChild(div);
+  }
+}
 
     function toTs(dayDate, timeStr){
       if(!dayDate) return 0;
