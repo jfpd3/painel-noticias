@@ -195,7 +195,6 @@ def main():
     for it, dt in items_with_dt:
         d_lis = dt.astimezone(TZ_LISBON).date().isoformat()
         bucket = days_map.setdefault(d_lis, {"date": d_lis, "attention_points": [], "items": []})
-        it.pop("time_iso", None)  # não precisamos no JSON final
         bucket["items"].append(it)
 
     # ordenar itens por hora e preencher 3 pontos de atenção não vazios
