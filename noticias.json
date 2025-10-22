@@ -1,15 +1,261 @@
 {
-  "generated_at": "2025-10-22T10:41+01:00",
+  "generated_at": "2025-10-22T11:43+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-22",
       "attention_points": [
-        "Sen. Lummis Pushes US Regulator to Finalize Open Banking Rule Backing Crypto",
-        "Hong Kong approves its first spot Solana ETF ahead of US",
-        "Hong Kong's Securities Regulator Approves First Solana ETF"
+        "Hong Kong SFC Clears City's First Spot Solana ETF",
+        "Bitcoin’s MVRV Ratio hints at ‘cyclical bottom’ forming below $110K",
+        "Prediction markets hit new high as Polymarket enters Sam Altman’s World"
       ],
       "items": [
+        {
+          "id": "26a6bb5742fb",
+          "time": "11:41",
+          "category": "Crypto",
+          "title": "Hong Kong SFC Clears City's First Spot Solana ETF",
+          "summary": "The new exchange-traded fund marks Hong Kong’s latest step to widen crypto access under its highly-regulated market framework.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345340/hong-kong-sfc-clears-citys-first-spot-solana-etf",
+          "tags": []
+        },
+        {
+          "id": "c05139ac2dcd",
+          "time": "11:36",
+          "category": "Crypto",
+          "title": "Bitcoin’s MVRV Ratio hints at ‘cyclical bottom’ forming below $110K",
+          "summary": "Bitcoin’s valuation indicator showed BTC entering an “undervaluation phase” and a potential local bottom, pointing to a near-term price rebound.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/bitcoin-mvrv-ratio-cyclical-bottom-forming-below-110k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "47c7d982a39c",
+          "time": "11:20",
+          "category": "Crypto",
+          "title": "Prediction markets hit new high as Polymarket enters Sam Altman’s World",
+          "summary": "World’s Polymarket Mini App integration came amid prediction markets surging past 2024 records, with $2 billion in weekly trading volumes.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/world-app-polymarket-prediction-market-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "ddef361e6350",
+          "time": "11:19",
+          "category": "Markets",
+          "title": "VW denies chip supply issues as production pauses planned",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/vw-denies-chip-supply-issues-101905400.html",
+          "tags": []
+        },
+        {
+          "id": "18af7c597c39",
+          "time": "11:11",
+          "category": "Crypto",
+          "title": "$19B market crash paves way for Bitcoin’s rise to $200K: Standard Chartered",
+          "summary": "The $19 billion market crash may be a buying opportunity as dust settles in the coming weeks, Standard Chartered’s Geoff Kendrick told Cointelegraph in an exclusive interview.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/19b-market-crash-buying-opportunity-fuel-bitcoin-200k-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "4c6263b0fb87",
+          "time": "11:10",
+          "category": "Crypto",
+          "title": "How to find coins before they get listed on Binance or Coinbase",
+          "summary": "AI tools, onchain data and community signals are influencing how traders spot tokens before they hit major exchanges.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/how-to-spot-coins-before-they-get-listed-on-binance-or-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "38b677ee2d8a",
+          "time": "11:04",
+          "category": "Markets",
+          "title": "Down More Than 40%: These 2 ‘Strong Buy’ Stocks Flirt With a Bottom",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/down-more-40-2-strong-100443120.html",
+          "tags": []
+        },
+        {
+          "id": "0a31f7e694cc",
+          "time": "11:01",
+          "category": "Crypto",
+          "title": "DePIN-Powered AIOZ Network ‘Evolving a People‑Powered Internet’",
+          "summary": "AIOZ Network is aiming to tackle issues holding consumers and businesses back across storage, streaming and AI.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/344949/depin-powered-aioz-network-evolving-a-people-powered-internet",
+          "tags": []
+        },
+        {
+          "id": "4a7a1ab86b97",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Best money market account rates today, October 22, 2025 (secure up to 4.26% APY)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-wednesday-october-22-2025-100053844.html",
+          "tags": []
+        },
+        {
+          "id": "afb540448559",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Mortgage and refinance interest rates today, October 22, 2025: Lower again. Could it be a trend?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-wednesday-october-22-2025-100047321.html",
+          "tags": []
+        },
+        {
+          "id": "93ee7f7f0dda",
+          "time": "11:00",
+          "category": "Markets",
+          "title": "The stock market is about to care about the calendar",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/the-stock-market-is-about-to-care-about-the-calendar-100046412.html",
+          "tags": []
+        },
+        {
+          "id": "d8c48ac90b53",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Best high-yield savings interest rates today, October 22, 2025 (Earn up to 4.36% APY)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-october-22-2025-100012957.html",
+          "tags": []
+        },
+        {
+          "id": "fb616c0f84da",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Best CD rates today, October 22, 2025: Lock in up to 4.1% APY",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-october-22-2025---lock-in-up-to-410-apy-100008764.html",
+          "tags": []
+        },
+        {
+          "id": "ff8a8ffb4a93",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "HELOC rates today, October 22, 2025: Low now; likely even lower soon — here's why",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-wednesday-october-22-2025-100008233.html",
+          "tags": []
+        },
+        {
+          "id": "f93b2fc9cd91",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Waller, a Top Fed Chair Contender, Backs Rate Cuts Without Bowing to Trump",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/waller-top-fed-chair-contender-100000901.html",
+          "tags": []
+        },
+        {
+          "id": "9b0eda3114e6",
+          "time": "11:00",
+          "category": "Markets",
+          "title": "Elon Musk Just Gave Nvidia Investors 20 Billion Reasons to Cheer",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/elon-musk-just-gave-nvidia-100000459.html",
+          "tags": []
+        },
+        {
+          "id": "8f3575c84d71",
+          "time": "11:00",
+          "category": "Markets",
+          "title": "California insurers set to charge homeowners for L.A. County fire costs",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/california-insurers-set-charge-homeowners-100000946.html",
+          "tags": []
+        },
+        {
+          "id": "a63d1e140936",
+          "time": "11:00",
+          "category": "Markets",
+          "title": "Rise Growth Takes Minority Stake in $4B Krilogy",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/rise-growth-takes-minority-stake-100000088.html",
+          "tags": []
+        },
+        {
+          "id": "bf519c76aa4f",
+          "time": "10:58",
+          "category": "Markets",
+          "title": "Restaurant Depot launches digital ordering platform with Instacart",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/restaurant-depot-launches-digital-ordering-095834141.html",
+          "tags": []
+        },
+        {
+          "id": "bd2aef53fb81",
+          "time": "10:58",
+          "category": "Earnings",
+          "title": "L’Oréal Stock Takes a Hit After Q3 Results Release",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/l-al-stock-takes-hit-095809822.html",
+          "tags": []
+        },
+        {
+          "id": "667f701324e5",
+          "time": "10:56",
+          "category": "Crypto",
+          "title": "Deribit, Komainu Join Forces for Institutional In-Custody Crypto Trading",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/business/2025/10/22/deribit-komainu-join-forces-for-institutional-in-custody-crypto-trading",
+          "tags": []
+        },
+        {
+          "id": "3405ae60b06d",
+          "time": "10:50",
+          "category": "Earnings",
+          "title": "CATL reports higher revenue and profits in Q3",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/catl-reports-higher-revenue-profits-095003262.html",
+          "tags": []
+        },
+        {
+          "id": "d7640be73c2d",
+          "time": "10:47",
+          "category": "Crypto",
+          "title": "Bitcoin Fear and Greed Index May Signal Prolonged Market Anxiety",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/22/bitcoin-fear-and-greed-index-may-signal-prolonged-market-anxiety",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "5b0bb43efd38",
+          "time": "10:00",
+          "category": "Crypto",
+          "title": "XDC Network Acquires Contour to Expand Stablecoins and Tokenization in Trade Finance",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/business/2025/10/22/xdc-network-acquires-contour-to-expand-stablecoins-and-tokenization-in-trade-finance",
+          "tags": []
+        },
         {
           "id": "16d679b7ab22",
           "time": "09:43",
@@ -254,6 +500,16 @@
           "tags": []
         },
         {
+          "id": "49d929cd72a0",
+          "time": "00:46",
+          "category": "Earnings",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq futures hit pause as investors brace for Tesla earnings after Netflix disappoints",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-as-investors-brace-for-tesla-earnings-after-netflix-disappoints-234617907.html",
+          "tags": []
+        },
+        {
           "id": "1182f71bc414",
           "time": "00:20",
           "category": "Crypto",
@@ -333,6 +589,16 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/news-analysis/2025/10/21/crypto-s-decentralized-illusion-shattered-again-by-another-aws-meltdown",
+          "tags": []
+        },
+        {
+          "id": "66af338da8dc",
+          "time": "21:35",
+          "category": "Earnings",
+          "title": "Earnings live: GM stock soars, Netflix sinks as third quarter results pour in",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/live/earnings-live-gm-stock-soars-netflix-sinks-as-third-quarter-results-pour-in-203527339.html",
           "tags": []
         },
         {
@@ -675,16 +941,6 @@
           ]
         },
         {
-          "id": "a37199c41d8f",
-          "time": "15:48",
-          "category": "Crypto",
-          "title": "How Batched Threshold Encryption could end extractive MEV and make DeFi fair again",
-          "summary": "BTE offers epochless, constant-size decryption shares (as small as 48 bytes) that can help layer-2 rollups to achieve pending transaction privacy.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/how-batched-threshold-encryption-could-end-extractive-mev-and-make-defi-fair-again?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": []
-        },
-        {
           "id": "1129968502fd",
           "time": "15:38",
           "category": "Crypto",
@@ -729,16 +985,6 @@
           "tags": []
         },
         {
-          "id": "734f91527dcb",
-          "time": "14:47",
-          "category": "Crypto",
-          "title": "Binance’s $33M charity gift becomes Malta’s political minefield",
-          "summary": "Malta’s Finance Minister Clyde Caruana backed a government-run charity’s decision to reject a now $33 million Binance donation due to reputational concerns.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/binance-s-33m-charity-gift-becomes-malta-s-political-minefield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": []
-        },
-        {
           "id": "395768e4b63f",
           "time": "14:41",
           "category": "Crypto",
@@ -746,16 +992,6 @@
           "summary": "The deal marks Coinbase's another major acquisition this year as it builds infrastructure spanning token creation, fundraising, and secondary trading.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345168/coinbase-acquires-echo-375-million",
-          "tags": []
-        },
-        {
-          "id": "68af6f84819f",
-          "time": "14:30",
-          "category": "Crypto",
-          "title": "The P2E apocalypse is gaming’s best news",
-          "summary": "Play-to-earn gaming’s collapse isn’t a crisis; it’s a necessary reset that will force developers to prioritize fun over financial extraction mechanics.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/p2e-gaming-apocalypse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": []
         },
         {
@@ -781,38 +1017,6 @@
           ]
         },
         {
-          "id": "0497ab28249a",
-          "time": "14:02",
-          "category": "Crypto",
-          "title": "Will Solana price bounce below $180? Double bottom hints at 40% rally",
-          "summary": "Solana price data strongly suggests that the recent correction to $174 was a buy-the-dip opportunity as traders eye a rally to $250.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/solana-price-bounce-below-180-double-bottom-hints-40-percent-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": []
-        },
-        {
-          "id": "527a5d875bd5",
-          "time": "14:00",
-          "category": "Crypto",
-          "title": "Bitcoin Treasury Companies, Whither Thence",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/opinion/2025/10/20/bitcoin-treasury-companies-wither-thence",
-          "tags": [
-            "BTC"
-          ]
-        },
-        {
-          "id": "5bbefc0c111c",
-          "time": "14:00",
-          "category": "Crypto",
-          "title": "U.S. Surging in Crypto Activity Under Trump: TRM Labs Report",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/policy/2025/10/20/u-s-surging-in-crypto-activity-under-trump-trm-labs-report",
-          "tags": []
-        },
-        {
           "id": "e934ae7177a2",
           "time": "13:58",
           "category": "Crypto",
@@ -820,16 +1024,6 @@
           "summary": "It's a major win for the on-chain economy, builders, investors—and even Crypto Twitter, which now gets its favorite show back.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345158/morning-minute-coinbase-buys-cobies-echo-up-only-nft-for-375m",
-          "tags": []
-        },
-        {
-          "id": "b5ef4a1c3b12",
-          "time": "13:03",
-          "category": "Crypto",
-          "title": "BNB Falls 3.3% as Market Shakeout Cuts Through Support",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/21/bnb-falls-3-3-as-market-shakeout-cuts-through-support-volume-surges-on-heavy-selling",
           "tags": []
         },
         {
@@ -904,6 +1098,126 @@
           "summary": "he Solana DAT firm says its resale registration is a show of confidence in its Solana-linked treasury strategy, even as HSDT shares fall.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345133/solana-company-touts-conviction-investors-gain-right-sell-shares",
+          "tags": []
+        },
+        {
+          "id": "769fe0ec2a70",
+          "time": "04:08",
+          "category": "Markets",
+          "title": "Truist Lowers PT on Vericel Corporation (VCEL) to $41 From $46",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/truist-lowers-pt-vericel-corporation-030844441.html",
+          "tags": []
+        },
+        {
+          "id": "771d42e76a17",
+          "time": "04:08",
+          "category": "Markets",
+          "title": "Roth MKM Maintains a Buy on Rezolve AI PLC (RZLV)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/roth-mkm-maintains-buy-rezolve-030838295.html",
+          "tags": []
+        },
+        {
+          "id": "11e3b0d649c7",
+          "time": "04:08",
+          "category": "Markets",
+          "title": "Barclays Initiates Coverage of Celldex Therapeutics (CLDX) With an Underweight Rating",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/barclays-initiates-coverage-celldex-therapeutics-030835531.html",
+          "tags": []
+        },
+        {
+          "id": "2a4a154d32b5",
+          "time": "04:08",
+          "category": "Markets",
+          "title": "Janux Therapeutics (JANX) Gets Initiated With a Buy Rating at Truist Financial",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/janux-therapeutics-janx-gets-initiated-030833833.html",
+          "tags": []
+        },
+        {
+          "id": "d0834daa2ee1",
+          "time": "04:08",
+          "category": "Earnings",
+          "title": "Wolfe Research Lowers Cigna (CI) Price Target but Keeps Outperform Rating",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/wolfe-research-lowers-cigna-ci-030803737.html",
+          "tags": []
+        },
+        {
+          "id": "fe7d8c6bbbe7",
+          "time": "04:08",
+          "category": "Markets",
+          "title": "Is Gen Digital (GEN) One of the Best Dirt Cheap Stocks to Buy?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/gen-digital-gen-one-best-030802555.html",
+          "tags": []
+        },
+        {
+          "id": "d2bf50e7ece7",
+          "time": "04:07",
+          "category": "Earnings",
+          "title": "Jefferies Lowers Huntington Bancshares (HBAN) Price Target, Keeps Buy Rating",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jefferies-lowers-huntington-bancshares-hban-030755361.html",
+          "tags": []
+        },
+        {
+          "id": "0e1c106f0c58",
+          "time": "04:07",
+          "category": "Markets",
+          "title": "JPMorgan and UBS Raise PT for Teva Pharmaceutical (TEVA)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jpmorgan-ubs-raise-pt-teva-030754224.html",
+          "tags": []
+        },
+        {
+          "id": "c41d28837257",
+          "time": "04:07",
+          "category": "Earnings",
+          "title": "KeyBanc Cuts Charter Communications (CHTR) PT, Keeps Overweight Rating",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/keybanc-cuts-charter-communications-chtr-030752051.html",
+          "tags": []
+        },
+        {
+          "id": "e1a5ba87f247",
+          "time": "04:07",
+          "category": "Earnings",
+          "title": "UBS Cuts Coterra Energy (CTRA) Price Target, Keeps Buy Rating",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ubs-cuts-coterra-energy-ctra-030751698.html",
+          "tags": []
+        },
+        {
+          "id": "0ef55e8f9307",
+          "time": "04:07",
+          "category": "Earnings",
+          "title": "Goldman Sachs Keeps Buy Rating on Venture Global (VG) After Arbitration Decision",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/goldman-sachs-keeps-buy-rating-030749471.html",
+          "tags": []
+        },
+        {
+          "id": "6e526348f486",
+          "time": "03:42",
+          "category": "Markets",
+          "title": "South Korean court clears Kakao founder of stock manipulation charges",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/south-korean-court-clears-kakao-024256745.html",
           "tags": []
         },
         {
@@ -987,16 +1301,6 @@
           "tags": []
         },
         {
-          "id": "c13f8bf3cb40",
-          "time": "00:34",
-          "category": "Markets",
-          "title": "We Have a K-Shaped Economy: Despirito",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/video/k-shaped-economy-despirito-233404051.html",
-          "tags": []
-        },
-        {
           "id": "e76811abd844",
           "time": "00:30",
           "category": "Crypto",
@@ -1027,26 +1331,6 @@
           "tags": []
         },
         {
-          "id": "011f3b0ed258",
-          "time": "00:27",
-          "category": "Markets",
-          "title": "'Get Started' in Alternatives: JPM's David Kelly",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/video/started-alternatives-jpms-david-kelly-232707701.html",
-          "tags": []
-        },
-        {
-          "id": "4d7e21ade3b0",
-          "time": "00:18",
-          "category": "Crypto",
-          "title": "BERA Crypto Treasuries Are Coming: BERA Price Prediction Amid $110m Berachain TradFi Treasury Move",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bera-crypto-treasuries-coming-bera-231813370.html",
-          "tags": []
-        },
-        {
           "id": "453859c8172b",
           "time": "00:00",
           "category": "Markets",
@@ -1065,37 +1349,17 @@
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/china-becomes-canada-biggest-crude-230000254.html",
           "tags": []
-        },
-        {
-          "id": "61c31d18002c",
-          "time": "00:00",
-          "category": "Markets",
-          "title": "Backers of bankrupt airline shut down in Chapter 11 arrested for fraud",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/backers-bankrupt-airline-shut-down-230000199.html",
-          "tags": []
         }
       ]
     },
     {
       "date": "2025-10-20",
       "attention_points": [
-        "Why Progressive Stock Sank on Monday",
         "Scotiabank: Canadian Stocks May be Headed for Another Leg Higher",
-        "Are you making these personal loan mistakes without realizing it?"
+        "Are you making these personal loan mistakes without realizing it?",
+        "Dogecoin Firm House of Doge Acquires Controlling Share in Italian Soccer Club"
       ],
       "items": [
-        {
-          "id": "4207f67bd825",
-          "time": "23:53",
-          "category": "Markets",
-          "title": "Why Progressive Stock Sank on Monday",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-progressive-stock-sank-monday-225304311.html",
-          "tags": []
-        },
         {
           "id": "63c16f07881f",
           "time": "23:42",
@@ -1117,96 +1381,6 @@
           "tags": []
         },
         {
-          "id": "ba6ee180f3af",
-          "time": "23:20",
-          "category": "Earnings",
-          "title": "Starboard Value to Urge Steps to Improve Fluor's Stock Price",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2025/card/starboard-value-to-urge-steps-to-improve-fluor-s-stock-price-842QIQiVUblO638kwS3G?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "0a41dce789be",
-          "time": "23:16",
-          "category": "Markets",
-          "title": "Amazon Says Web Services Have Largely Been Restored",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/tech/amazon-web-services-internet-outage-728806dc?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "55d2d6e99a09",
-          "time": "23:10",
-          "category": "Markets",
-          "title": "ISS recommends investors reject CoreWeave deal for Core Scientific",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/iss-recommends-investors-reject-coreweave-221043254.html",
-          "tags": []
-        },
-        {
-          "id": "3030af42cfc2",
-          "time": "23:01",
-          "category": "Markets",
-          "title": "No deal for Forward Air sends shares lower",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/no-deal-forward-air-sends-220153245.html",
-          "tags": []
-        },
-        {
-          "id": "c1d47b72b5b9",
-          "time": "23:00",
-          "category": "Markets",
-          "title": "Wells Fargo customer lost $4,400 just hours after depositing a check — and a legal loophole nearly left her in the lurch",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/wells-fargo-customer-loses-4k-220000160.html",
-          "tags": []
-        },
-        {
-          "id": "28bb14c433b7",
-          "time": "23:00",
-          "category": "Markets",
-          "title": "Trump Increases Pressure On China For Pro-Iranian Energy Moves",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/trump-increases-pressure-china-pro-220000382.html",
-          "tags": []
-        },
-        {
-          "id": "8d8b5fe7c31e",
-          "time": "23:00",
-          "category": "Markets",
-          "title": "Activist Starboard Takes Big Stake in Construction Firm",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/deals/starboard-stake-fluor-construction-firm-135c7df1?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "91562ec3b261",
-          "time": "22:54",
-          "category": "Earnings",
-          "title": "Crown Holdings Boosts Outlook as European Beverage Volumes Jump",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/earnings/crown-holdings-boosts-outlook-as-european-beverage-volumes-jump-6336897e?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "5405e20aba9c",
-          "time": "22:49",
-          "category": "Markets",
-          "title": "Kering Sells Beauty Business to L’Oréal. Everyone but This Company Wins.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/kering-stock-price-loreal-coty-0b6a28eb?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
           "id": "0993bb33f4b2",
           "time": "22:44",
           "category": "Crypto",
@@ -1214,68 +1388,6 @@
           "summary": "House of Doge, the Dogecoin Foundation's commercial arm, is betting big on a European soccer club from Italy's Serie C league.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345076/dogecoin-firm-house-doge-acquires-controlling-share-italian-soccer-club",
-          "tags": []
-        },
-        {
-          "id": "e5b5a6cac107",
-          "time": "22:42",
-          "category": "Markets",
-          "title": "Corn Pulls Out Gains into Monday’s Close",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/corn-pulls-gains-monday-close-214242522.html",
-          "tags": []
-        },
-        {
-          "id": "9fa113155e76",
-          "time": "22:42",
-          "category": "Markets",
-          "title": "Soybeans Rally on Monday",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/soybeans-rally-monday-214242626.html",
-          "tags": []
-        },
-        {
-          "id": "ada45e041bc3",
-          "time": "22:38",
-          "category": "Crypto",
-          "title": "Why Bitcoin Is Surging Today",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-bitcoin-surging-today-213813805.html",
-          "tags": [
-            "BTC"
-          ]
-        },
-        {
-          "id": "c357e1cc8d9a",
-          "time": "22:38",
-          "category": "Crypto",
-          "title": "DeepSeek AI Returns 30% Crypto Profits in Just 3 Days Using Simple Prompts",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/deepseek-ai-returns-30-crypto-213807079.html",
-          "tags": []
-        },
-        {
-          "id": "6804b8afaa65",
-          "time": "22:37",
-          "category": "Markets",
-          "title": "Review & Preview: We’re Back!",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/review-preview-were-back-3a939365?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "7ba98d8e7935",
-          "time": "22:31",
-          "category": "Earnings",
-          "title": "Dan Ives Says Robotaxi Rollout Across US, xAI Investment And Elon Musk's Pay Packet Will Be 'Major Focus' Of Tesla Earnings Call",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/dan-ives-says-robotaxi-rollout-213120016.html",
           "tags": []
         },
         {
@@ -1308,48 +1420,6 @@
           "summary": "The Michigan Lottery confirmed the big ChatGPT-assisted Powerball win, but stressed that AI cannot predict random lottery results.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345029/she-asked-chatgpt-powerball-numbers-won-100k",
-          "tags": []
-        },
-        {
-          "id": "15c896dbdd2f",
-          "time": "21:25",
-          "category": "Crypto",
-          "title": "AI Crypto Trading Showdown: DeepSeek and Grok Are Cashing In as Gemini Implodes",
-          "summary": "Grok, DeepSeek, and Claude are posting serious gains in Alpha Arena’s live, real-money AI trading test, rattling Wall Street in the process.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345006/ai-crypto-trading-showdown-deepseek-grok-winning-gemini-implodes",
-          "tags": []
-        },
-        {
-          "id": "abe958c1d553",
-          "time": "21:14",
-          "category": "Crypto",
-          "title": "Bitcoin Mining Stocks Surge as Another Firm Embraces AI Boom",
-          "summary": "CleanSpark's shares rose on Monday, along with those of other major mining stocks.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345037/bitcoin-mining-surge-firm-embraces-ai-boom",
-          "tags": [
-            "BTC"
-          ]
-        },
-        {
-          "id": "3e1e38ea3e74",
-          "time": "21:01",
-          "category": "Crypto",
-          "title": "Prediction Markets Hit All-Time High of $2 Billion in Weekly Volume",
-          "summary": "Prediction markets hit $2 billion in weekly volume as Polymarket retakes lead and major funding pushes industry valuations into billions.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345033/prediction-markets-all-time-high-trading-volume",
-          "tags": []
-        },
-        {
-          "id": "2792aa067e26",
-          "time": "18:13",
-          "category": "Markets",
-          "title": "How much can you borrow with a HELOC?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-much-heloc-can-i-get-171355477.html",
           "tags": []
         }
       ]
