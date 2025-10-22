@@ -37,6 +37,16 @@ CATEGORY_KEYWORDS = {
         "options","commodities","oil","gold","silver","treasuries","web3"
     ]
 }
+# score?
+score = 0
+t = (it["title"] + " " + it["summary"]).lower()
+if any(k in t for k in ["cpi","pce","fed","fomc","sec","cftc","ban","etf","collapse","lawsuit","bankruptcy"]):
+    score = 3
+elif any(k in t for k in ["btc","bitcoin","eth","ethereum","earnings","guidance","record","drop","surge"]):
+    score = 2
+else:
+    score = 1
+it["impact_score"] = score
 
 def guess_category(title: str, summary: str, source_name: str) -> str:
     text = f"{title} {summary} {source_name}".lower()
@@ -199,7 +209,7 @@ def main():
 
     # ordenar itens por hora e preencher 3 pontos de atenção não vazios
     for d in days_map.values():
-        d["items"].sort(key=lambda x: x.get("time","00:00"), reverse=True)
+        d["items"].sort(key=lambda x: (x.get("impact_score",0), x.get("time","00:00")), reverse=True)
         for h in d["items"]:
             title_clean = (h.get("title") or "").strip()
             if title_clean:
