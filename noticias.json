@@ -1,13 +1,13 @@
 {
-  "generated_at": "2025-10-22T07:53+01:00",
+  "generated_at": "2025-10-22T08:31+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-22",
       "attention_points": [
         "Why most ‘crypto cities’ flop — and the blueprint execs say might work",
-        "Solana-Based Jupiter DEX Launches Kalshi-Powered Prediction Market For F1 Mexico Grand Prix Winner",
-        "OpenAI launches browser with a brain powered by agentic AI"
+        "Kadena Foundation to Cease Operations, Leaving Blockchain to Run Without Core Team",
+        "Jupiter DEX Launches Kalshi-Powered Prediction Market for F1 Mexico Grand Prix Winner"
       ],
       "items": [
         {
@@ -21,10 +21,20 @@
           "tags": []
         },
         {
+          "id": "e4fef07eb705",
+          "time": "07:26",
+          "category": "Crypto",
+          "title": "Kadena Foundation to Cease Operations, Leaving Blockchain to Run Without Core Team",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/22/kadena-foundation-to-cease-operations-leaving-blockchain-to-run-without-core-team",
+          "tags": []
+        },
+        {
           "id": "f32d938dc0bf",
           "time": "07:15",
           "category": "Crypto",
-          "title": "Solana-Based Jupiter DEX Launches Kalshi-Powered Prediction Market For F1 Mexico Grand Prix Winner",
+          "title": "Jupiter DEX Launches Kalshi-Powered Prediction Market for F1 Mexico Grand Prix Winner",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/22/solana-based-jupiter-dex-kalshi-powered-prediction-market-for-f1-mexico-grand-prix-winner",
@@ -39,6 +49,18 @@
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/openai-announces-browser-with-brain-powered-agentic-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": []
+        },
+        {
+          "id": "72775765385a",
+          "time": "07:05",
+          "category": "Crypto",
+          "title": "Crypto Bulls and Bears Lose $300M Each as Bitcoin Climbs to $113K, Then Dumps",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/22/bulls-and-bears-lose-usd300m-each-as-bitcoin-climbs-to-usd103k-then-dumps",
+          "tags": [
+            "BTC"
+          ]
         },
         {
           "id": "d44b05c7a767",
@@ -76,7 +98,7 @@
           "id": "458e0252bb83",
           "time": "05:38",
           "category": "Crypto",
-          "title": "Bitcoin OG, Who Profited from Trump’s China Tariffs, Now Holds $234M in BTC Short Position: Arkham",
+          "title": "Bitcoin OG Who Profited From Trump’s China Tariffs Now Holds $234M in BTC Short Position: Arkham",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/22/bitcoin-og-who-profited-from-trump-s-china-tariffs-now-holds-usd234m-in-btc-short-position-arkham",
@@ -804,18 +826,6 @@
           ]
         },
         {
-          "id": "6424049eef82",
-          "time": "12:15",
-          "category": "Crypto",
-          "title": "Bitcoin Drops as Market ‘Flushes Excess Leverage:’ Crypto Daybook Americas",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/daybook-us/2025/10/21/bitcoin-drops-as-market-flushes-excess-leverage-crypto-daybook-americas",
-          "tags": [
-            "BTC"
-          ]
-        },
-        {
           "id": "7a5275f4add1",
           "time": "12:14",
           "category": "US Macro",
@@ -823,16 +833,6 @@
           "summary": "Jonathan Gould dismissed deposit flight fears as banking groups demanded Congress close GENIUS Act “loopholes” allowing for stablecoin yield.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345150/occ-chief-plays-down-stablecoin-bank-run-fears",
-          "tags": []
-        },
-        {
-          "id": "7def2ecb4d98",
-          "time": "11:39",
-          "category": "Crypto",
-          "title": "Coinbase Acquires Crypto Fundraising Firm Echo for $375M",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/business/2025/10/21/coinbase-buys-crypto-fundraising-firm-echo-for-usd375m",
           "tags": []
         },
         {
@@ -972,6 +972,86 @@
           "tags": []
         },
         {
+          "id": "1d6daef5b3f9",
+          "time": "21:40",
+          "category": "Earnings",
+          "title": "Palo Alto Networks Profit And Revenue Growth Accelerated The Last 3 Quarters In A Row; Gets Key Rating Upgrade",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/stocks-generating-improved-relative-strength-palo-alto-networks-2/?src=A00220&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "5c9ef6fe1a10",
+          "time": "21:39",
+          "category": "Markets",
+          "title": "A Guide to Cushioning Your Portfolio Against an AI Bust",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/finance/stocks/a-guide-to-cushioning-your-portfolio-against-an-ai-bust-ef80e6de?siteid=yhoof2&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "7a2385539a4a",
+          "time": "21:34",
+          "category": "Earnings",
+          "title": "Stocks Rally on Easing Trade Tensions and Solid Q3 Earnings",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/stocks-rally-easing-trade-tensions-203420359.html",
+          "tags": []
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "21:33",
+          "category": "Markets",
+          "title": "Apple Stock Hits Buy Point On Improving Sentiment, Notches Record High",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/apple-stock-buy-point-improving-sentiment/?src=A00220&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "916a7ca11b4a",
+          "time": "21:32",
+          "category": "Markets",
+          "title": "Apple, Trade Thaw Lift Stocks Toward New Highs",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-10-20-2025-38481702?siteid=yhoof2&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "21:28",
+          "category": "Markets",
+          "title": "Quantum Computing Stocks, AI Infrastructure Plays Tumble As Major Indexes Rally",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/quantum-computing-stocks/?src=A00220&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "641f54b4d197",
+          "time": "21:28",
+          "category": "Markets",
+          "title": "How to Turn Volatility into a High-Power Trade, Using This 1 ETF and an Option Collar",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/turn-volatility-high-power-trade-202800353.html",
+          "tags": []
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "21:27",
+          "category": "Markets",
+          "title": "Adobe Launches Company-Specific Generative AI Models",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/adobe-stock-adbe-tailored-gen-ai-models/?src=A00220&yptr=yahoo",
+          "tags": []
+        },
+        {
           "id": "4399431a589a",
           "time": "21:27",
           "category": "Markets",
@@ -1074,6 +1154,36 @@
           "tags": []
         },
         {
+          "id": "b8cd79385194",
+          "time": "21:07",
+          "category": "US Macro",
+          "title": "Evernorth to Build World’s Largest Institutional XRP Treasury via $1B SPAC Merger",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/evernorth-build-world-largest-institutional-200705904.html",
+          "tags": []
+        },
+        {
+          "id": "7b6f67990eb9",
+          "time": "21:05",
+          "category": "Markets",
+          "title": "5 key questions to calculate the new alternative minimum tax",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/5-key-questions-calculate-alternative-200554169.html",
+          "tags": []
+        },
+        {
+          "id": "57c7f1e134d5",
+          "time": "21:04",
+          "category": "Earnings",
+          "title": "What to watch for when Tesla reports Q3 earnings this week",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/watch-tesla-reports-q3-earnings-200448584.html",
+          "tags": []
+        },
+        {
           "id": "85c63ee03ade",
           "time": "21:04",
           "category": "Markets",
@@ -1101,6 +1211,26 @@
           "summary": "Prediction markets hit $2 billion in weekly volume as Polymarket retakes lead and major funding pushes industry valuations into billions.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345033/prediction-markets-all-time-high-trading-volume",
+          "tags": []
+        },
+        {
+          "id": "0fa6f7eb0e8a",
+          "time": "21:01",
+          "category": "Markets",
+          "title": "Prediction Markets Hit All-Time High of $2 Billion in Weekly Volume",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/prediction-markets-hit-time-high-200142742.html",
+          "tags": []
+        },
+        {
+          "id": "becfaaf927bb",
+          "time": "21:00",
+          "category": "Markets",
+          "title": "What Are the 2 Top Artificial Intelligence (AI) Stocks to Buy Right Now?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/2-top-artificial-intelligence-ai-200000888.html",
           "tags": []
         },
         {
@@ -1144,6 +1274,26 @@
           "tags": []
         },
         {
+          "id": "0a7e1c71dd66",
+          "time": "20:45",
+          "category": "Markets",
+          "title": "Retail Traders Sending Beyond Meat 80% Higher Today",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/retail-traders-sending-beyond-meat-194546519.html",
+          "tags": []
+        },
+        {
+          "id": "7f30c81ac59a",
+          "time": "20:44",
+          "category": "Markets",
+          "title": "USA Rare Earth Is Skyrocketing Today -- Is the Stock a Buy Right Now?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/usa-rare-earth-skyrocketing-today-194432279.html",
+          "tags": []
+        },
+        {
           "id": "e8b6e4c3145f",
           "time": "20:40",
           "category": "Crypto",
@@ -1151,6 +1301,16 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/crypto-crash-worse-indicators-yes-194040128.html",
+          "tags": []
+        },
+        {
+          "id": "09164c6ca374",
+          "time": "20:39",
+          "category": "Markets",
+          "title": "JPMorgan anti-RTO petition is heading to Jamie Dimon's desk",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jpmorgan-anti-rto-petition-heading-193927300.html",
           "tags": []
         },
         {
@@ -1181,6 +1341,16 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/dollar-edges-higher-us-china-193554361.html",
+          "tags": []
+        },
+        {
+          "id": "6c6589cf2087",
+          "time": "20:35",
+          "category": "Crypto",
+          "title": "Wyoming Tests FRNT Stablecoin Across Seven Blockchains in Multi-Chain Deployment",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/wyoming-tests-frnt-stablecoin-across-193530897.html",
           "tags": []
         },
         {
@@ -1224,16 +1394,6 @@
           "tags": []
         },
         {
-          "id": "39b16c72bc13",
-          "time": "20:20",
-          "category": "Markets",
-          "title": "Fire at Dhaka Airport Sparks $1 Billion Loss as the Bangladesh Apparel Industry Faces Week of Crises",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/fire-dhaka-airport-sparks-1-192000369.html",
-          "tags": []
-        },
-        {
           "id": "95bc7d92eb9b",
           "time": "20:15",
           "category": "Markets",
@@ -1241,16 +1401,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/buy-short-squeeze-beyond-meat-191515356.html",
-          "tags": []
-        },
-        {
-          "id": "f4dbdbf9610b",
-          "time": "20:14",
-          "category": "Markets",
-          "title": "What WaFd Bank Is Building with its New Wealth Business",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/wafd-bank-building-wealth-business-191405703.html",
           "tags": []
         },
         {
@@ -1264,154 +1414,16 @@
           "tags": []
         },
         {
-          "id": "d0a4f3b58118",
-          "time": "20:11",
-          "category": "Markets",
-          "title": "Up Over 100% in 24 Hours, Is Beyond Meat Stock the Next AMC?",
+          "id": "fdfbbccac3be",
+          "time": "17:23",
+          "category": "Crypto",
+          "title": "Bitcoin jumps, retakes $111,000, leading crypto stocks higher as markets stabilize after October sell-off",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/over-100-24-hours-beyond-191151936.html",
-          "tags": []
-        },
-        {
-          "id": "f853853431f2",
-          "time": "20:07",
-          "category": "Markets",
-          "title": "15 Money Hacks for When Your Paycheck Can’t Cover Your Bills",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/24-things-more-bills-paycheck-140001248.html",
-          "tags": []
-        },
-        {
-          "id": "a10cea7bb87c",
-          "time": "20:07",
-          "category": "Markets",
-          "title": "Betterment on Track with Direct Indexing, Referral Program in 2026",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/betterment-track-direct-indexing-referral-190724711.html",
-          "tags": []
-        },
-        {
-          "id": "c551d8432346",
-          "time": "20:04",
-          "category": "Markets",
-          "title": "Historic Signal Says Chewy Stock Has More Room to Run",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/historic-signal-says-chewy-stock-190438135.html",
-          "tags": []
-        },
-        {
-          "id": "50dc9c6ac25e",
-          "time": "20:02",
-          "category": "US Macro",
-          "title": "Tokenized treasury bills are ‘the easiest use case,’ says Nexplace CEO",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/tokenized-treasury-bills-easiest-case-190246426.html",
-          "tags": []
-        },
-        {
-          "id": "5522fbcc9009",
-          "time": "20:01",
-          "category": "Markets",
-          "title": "As Cybertruck Sales Fall Flat, Should You Buy, Sell, or Hold Tesla Stock?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cybertruck-sales-fall-flat-buy-190101829.html",
-          "tags": []
-        },
-        {
-          "id": "0a7df3bb7c90",
-          "time": "20:00",
-          "category": "Markets",
-          "title": "Grain Bulls Are Showing Some Signs of Life. Here’s What to Watch Next.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/grain-bulls-showing-signs-life-190002779.html",
-          "tags": []
-        },
-        {
-          "id": "78d44c79a7ec",
-          "time": "20:00",
-          "category": "Markets",
-          "title": "Nvidia Stock Erases Loss as TSMC Produces First ‘Wafer’ for Blackwell Chips on US Soil",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/nvidia-stock-price-tsmc-chip-made-us-7d78d89f?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "ec88901f2d27",
-          "time": "19:59",
-          "category": "Regulation",
-          "title": "Nvidia-Backed Cohere to Offer Secondary Sale of Employee Shares",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nvidia-backed-cohere-offer-secondary-185909812.html",
-          "tags": []
-        },
-        {
-          "id": "1d3181e05b7a",
-          "time": "19:58",
-          "category": "Markets",
-          "title": "Dynasty, Diamond Consultants Launch Investment Banking for Breakaways",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/dynasty-diamond-consultants-launch-investment-185850577.html",
-          "tags": []
-        },
-        {
-          "id": "dbb82b79c2f5",
-          "time": "19:55",
-          "category": "Markets",
-          "title": "One of Wall Street's 'golden' geese is under fire. Here's how worried you should be about private credit.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/one-wall-streets-golden-geese-185526429.html",
-          "tags": []
-        },
-        {
-          "id": "f97f463134ca",
-          "time": "19:55",
-          "category": "Markets",
-          "title": "Wells Fargo Unveils New Financial Advisor Compensation Plan for 2026",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/advisor/articles/wells-fargo-financial-advisors-compensation-plan-cd682ad1?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "d5f5516db25f",
-          "time": "19:48",
-          "category": "Markets",
-          "title": "Signal: Buy the Dip on Struggling Carvana Stock",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/signal-buy-dip-struggling-carvana-184833907.html",
-          "tags": []
-        },
-        {
-          "id": "6092c6a3506c",
-          "time": "19:47",
-          "category": "Markets",
-          "title": "1 Delicious Options Strategy to Trade Apple Stock at Record Highs",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/1-delicious-options-strategy-trade-184718027.html",
-          "tags": []
-        },
-        {
-          "id": "f80d18e2157b",
-          "time": "19:41",
-          "category": "Markets",
-          "title": "Lululemon’s Founder Picks a Fight With the Board. The Stock Could End Up Winning.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/lululemon-stock-founder-chip-wilson-activist-campaign-b63af5a6?siteid=yhoof2&yptr=yahoo",
-          "tags": []
+          "url": "https://finance.yahoo.com/news/bitcoin-jumps-retakes-111000-leading-crypto-stocks-higher-as-markets-stabilize-after-october-sell-off-162353102.html",
+          "tags": [
+            "BTC"
+          ]
         }
       ]
     },
