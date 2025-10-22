@@ -86,6 +86,22 @@
 .impact-red   { background:#e53935; }   /* grande impacto */
 .impact-amber { background:#f6c343; }   /* pouco impacto  */
 
+    /* ===== Ajustes visuais dos botões ===== */
+
+/* 1) Espaço horizontal entre o grupo de timeframes e o de categorias */
+#rangeChips { margin-right: 14px; }
+
+/* 2) Quando a linha quebrar, cria espaçamento vertical entre grupos */
+.toolbar-row { display: flex; flex-wrap: wrap; gap: 10px 16px; }
+
+/* 3) Em ecrãs estreitos, deixa as categorias irem para a linha seguinte a 100% */
+@media (max-width: 820px){
+  #catChips { flex: 1 1 100%; }
+}
+
+/* 4) Opcional: aumentar ligeiramente o conforto visual dos chips */
+.chip { padding: 8px 14px; }
+
   </style>
 </head>
 <body>
