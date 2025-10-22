@@ -246,6 +246,43 @@ if (!VALID_RANGES.includes(hoursRange)) {
     });
   }
 
+  function impactLevel(item){
+  const cat = (item.category || '').toLowerCase();
+  const t   = (item.title || '').toLowerCase();
+
+  const hit = (arr) => arr.some(k => t.includes(k));
+
+  // Alto impacto: macro/regulatório/earnings/markets com palavras “fortes”
+  if (["us macro","regulation","earnings","markets"].includes(cat)){
+    if (hit(["cpi","pce","payroll","jobs","unemployment","fed","fomc","rate",
+             "cut","hike","sec","cftc","lawsuit","settlement","ban","halt",
+             "chapter 11","bankruptcy","merger","acquisition","m&a","guidance",
+             "beats","misses","downgrade","upgrade","record","plunge","surge"])) {
+      return "high";
+    }
+  }
+
+  // Alto impacto em cripto com eventos/regras relevantes
+  if (cat === "crypto"){
+    if (hit(["bitcoin","btc","ethereum","eth","etf","hack","exploit",
+             "liquidation","outflow","inflow","ath","all-time high",
+             "%", "dump", "pump", "halt"])) {
+      return "high";
+    }
+  }
+
+  // Caso contrário: baixo
+  return "low";
+}
+
+function appendImpactDot(cardEl, item){
+  const span = document.createElement('span');
+  const lvl  = impactLevel(item);
+  span.className = 'impact-dot ' + (lvl === 'high' ? 'impact-high' : 'impact-low');
+  cardEl.appendChild(span);
+}
+
+
   function renderList(){
     const items = flattenWithin(hoursRange).filter(it=>{
       if (currentCategory !== 'All' && it.category !== currentCategory) return false;
@@ -287,6 +324,15 @@ if (!VALID_RANGES.includes(hoursRange)) {
     countLabel.textContent = `${items.length} itens`;
   }
 
+  
+  function impactLevel(it){
+  const t = ((it?.title||'') + ' ' + (it?.summary||'')).toLowerCase();
+  // heurística simples: palavras “fortes” => alto impacto
+  if (/\b(cpi|pce|payroll|jobs|fed|fomc|rate|hike|cut|sec|cftc|etf|halts|ban|probe|lawsuit|bankruptcy|default|surge|plunge|record)\b/.test(t)) return 'impact-high';
+  if (/\b(btc|bitcoin|eth|ethereum|solana|binance|coinbase|dow|nasdaq|s&p|sp500|earnings|guidance)\b/.test(t)) return 'impact-low';
+  return 'impact-low';
+}
+  
   function renderAll(){
     renderAttention();
     renderList();
@@ -331,6 +377,28 @@ if (!VALID_RANGES.includes(hoursRange)) {
       newsList.appendChild(div);
     }
   }
+
+  function decorateImpactDots(){
+  try{
+    const host = document.getElementById('newsList') || document;
+    const cards = host.querySelectorAll('.card, .news-card');
+    cards.forEach(card=>{
+      if (card.querySelector('.impact-dot')) return; // já tem
+      // tenta obter título e resumo do cartão
+      const title = card.querySelector('strong, h3, .title')?.textContent?.trim() || '';
+      // escolhe o primeiro <p> “normal” como resumo
+      let summary = '';
+      const p = Array.from(card.querySelectorAll('p')).find(x=>!x.classList.contains('muted'));
+      if (p) summary = p.textContent.trim();
+      const it = { title, summary };
+      const level = impactLevel(it); // 'impact-high' ou 'impact-low'
+      const dot = document.createElement('span');
+      dot.className = `impact-dot ${level}`;
+      card.appendChild(dot);
+    });
+  }catch(e){ console.error('decorateImpactDots falhou:', e); }
+}
+
 
   // ======= A2HS (Add to Home Screen) =======
   let deferredPrompt=null;
