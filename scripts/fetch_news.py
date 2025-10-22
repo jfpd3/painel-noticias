@@ -33,7 +33,7 @@ CATEGORY_KEYWORDS = {
         "lucros","trimestre","balanço","balanco"
     ],
     "Markets": [
-        "stocks","equities","nasdaq","dow","s&p","sp500","futures","futuros",
+        "stocks","equities","nasdaq","dow","s&p","s&p 500","sp500","futures","futuros",
         "options","commodities","oil","gold","silver","treasuries","web3"
     ]
 }
@@ -62,12 +62,19 @@ def should_ignore(title: str, link: str) -> bool:
     for pat in IGNORE_TITLE_PATTERNS:
         if re.search(pat, t, flags=re.IGNORECASE):
             return True
-    # ignora páginas índice/live ou listagens
+
     l = (link or "").lower()
-    if "coindesk.com" in l and ("/live/" in l or l.endswith("/")):
-        # muitas vezes estas páginas são hubs sem artigo
-        return True
+
+    # CoinDesk: ignora apenas hubs/listagens, não artigos normais
+    if "coindesk.com" in l:
+        if "/live/" in l:
+            return True
+        # hubs comuns (categorias, autores, pesquisa, etc.)
+        if re.search(r"/(category|tags|video|videos|authors|search)(/|$)", l):
+            return True
+
     return False
+
 
 # --------- Normalização de cada entrada ----------
 def normalize_item(entry: Any, feed_title: str) -> Tuple[Dict[str, Any], datetime]:
@@ -182,9 +189,7 @@ def main():
     # ordenar desc por data, dedupe e cap
     items_with_dt.sort(key=lambda x: x[1], reverse=True)
     items_with_dt = dedupe_keep_latest(items_with_dt)
-    MAX_ITEMS = 600
-    items_with_dt = items_with_dt[:MAX_ITEMS]
-
+    MAX_ITEMS = 1000
     # agrupar por dia (Lisboa)
     days_map: Dict[str, Dict[str, Any]] = {}
     for it, dt in items_with_dt:
