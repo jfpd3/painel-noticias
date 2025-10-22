@@ -7,25 +7,49 @@
   <link rel="manifest" href="./manifest.webmanifest">
   <link rel="icon" href="./icon-192.png">
   <style>
+    
+/* bolinhas dos cards*/
+/*    :root{
+/*    --impact-high: #ff4444;   /* vermelho */
+ /*   --impact-low:  #ffc542;   /* amarelo  */
+ /* } 
 
-      :root{
-    --impact-high: #ff4444;   /* vermelho */
-    --impact-low:  #ffc542;   /* amarelo  */
-  }
+  /* === Bolinhas de impacto - versão premium === */
+.news-card { position: relative; }
 
-  .card, .news-card { position: relative; }
+.impact-dot {
+  position: absolute;
+  top: 10px; right: 10px;
+  width: 11px; height: 11px;
+  border-radius: 50%;
+  display: inline-block;
+  opacity: 0.95;
+  box-shadow: 0 0 0 2px rgba(255,255,255,0.15), 0 1px 6px rgba(0,0,0,0.45);
+  transition: transform .2s ease, box-shadow .2s ease;
+}
 
-  .impact-dot{
-    position: absolute;
-    top: 10px; right: 10px;
-    width: 12px; height: 12px;
-    border-radius: 50%;
-    border: 2px solid rgba(0,0,0,.25);
-    box-shadow: 0 2px 6px rgba(0,0,0,.35);
-  }
+.impact-dot:hover {
+  transform: scale(1.25);
+  box-shadow: 0 0 10px rgba(255,255,255,0.25);
+}
 
-  .impact-high{ background: var(--impact-high); }
-  .impact-low { background: var(--impact-low);  }
+/* Impacto alto – vermelho neon */
+.impact-red {
+  background: radial-gradient(circle at 30% 30%, #ff5555 0%, #b70000 90%);
+  border: 1px solid rgba(255,120,120,0.8);
+}
+
+/* Impacto médio – âmbar quente */
+.impact-amber {
+  background: radial-gradient(circle at 30% 30%, #ffdb66 0%, #c89b00 90%);
+  border: 1px solid rgba(255,220,130,0.7);
+}
+
+/* Impacto neutro – cinza elegante */
+.impact-gray {
+  background: radial-gradient(circle at 30% 30%, #b3b3b3 0%, #505050 90%);
+  border: 1px solid rgba(200,200,200,0.4);
+}
     
     :root{
       --bg:#0b1020; --card:#121a2f; --text:#e9efff; --muted:#8fa3c9; --border:#203055; --accent:#5aa2ff;
@@ -430,7 +454,7 @@ function appendImpactDot(cardEl, item){
   fetchFeed(); setInterval(fetchFeed, AUTO_REFRESH_MS);
 
   // Regra simples: US Macro/Regulation ou BTC/ETH/ETF/CPI/PCE/SEC/CFTC => vermelho; resto amarelo
-function classifyImpact(card){
+function cl{
   const cat = (card.querySelector('.chip')?.textContent || '').trim().toLowerCase();
   const pills = [...card.querySelectorAll('.pill')].map(p=>p.textContent.trim().toLowerCase());
   const title = (card.querySelector('h3')?.textContent || '').toLowerCase();
@@ -442,15 +466,42 @@ function classifyImpact(card){
   return (redByCat || redByPill || redByTitle) ? 'red' : 'amber';
 }
 
+  // Decide a cor do impacto com base na categoria, pills e título
+function classifyImpact(card){
+  const cat = (card.querySelector('.chip')?.textContent || '').trim().toLowerCase();
+  const pills = [...card.querySelectorAll('.pill')].map(p=>p.textContent.trim().toLowerCase());
+  const title = (card.querySelector('h3')?.textContent || '').toLowerCase();
+
+  // Sinais de impacto ALTO (vermelho)
+  const redByCat   = cat === 'us macro' || cat === 'regulation';
+  const redByPill  = pills.some(p => ['btc','eth','sol'].includes(p));
+  const redByTitle = /(cpi|pce|payrolls|jobs|inflation|sec|cftc|fed|fomc|ban|halt|tariff|default|treasury|yields|etf|collapse)/.test(title);
+
+  // Sinais de impacto MÉDIO (âmbar)
+  const amberByCat   = cat === 'earnings' || cat === 'markets';
+  const amberByTitle = /(guidance|beats|misses|update|trend|report|futuros|volatility|drop|rise)/.test(title);
+
+  if (redByCat || redByPill || redByTitle) return 'red';
+  if (amberByCat || amberByTitle) return 'amber';
+  return 'gray'; // resto é neutro
+}
+
+
 function applyImpactDots(){
   document.querySelectorAll('.news-card').forEach(card=>{
     // evita duplicar
     if (card.querySelector('.impact-dot')) return;
 
-    const impact = classifyImpact(card); // 'red' ou 'amber'
+    const impact = classifyImpact(card); // 'red' | 'amber' | 'gray'
+    const cls = impact === 'red' ? 'impact-red'
+             : impact === 'amber' ? 'impact-amber'
+             : 'impact-gray';
+
     const dot = document.createElement('span');
-    dot.className = 'impact-dot ' + (impact === 'red' ? 'impact-red' : 'impact-amber');
-    dot.title = impact === 'red' ? 'Grande impacto' : 'Pouco impacto';
+    dot.className = 'impact-dot ' + cls;
+    dot.title = impact === 'red' ? 'Impacto alto'
+             : impact === 'amber' ? 'Impacto médio'
+             : 'Impacto baixo';
     card.appendChild(dot);
   });
 }
