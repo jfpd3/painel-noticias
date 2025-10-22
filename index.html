@@ -284,6 +284,17 @@ if (!VALID_RANGES.includes(hoursRange)) {
   out.sort((a, b) => b._ts - a._ts);
   return out;
 }
+  // Devolve idade relativa do item, a partir do timestamp absoluto (_ts)
+function formatAge(ts){
+  if (!ts) return '';
+  const diffMs = Date.now() - ts;
+  const mins = Math.floor(diffMs / 60000);
+  if (mins < 60) return `${Math.max(mins, 1)}min`;
+  const hours = Math.floor(mins / 60);
+  if (hours < 24) return `${hours}hr`;
+  const days = Math.floor(hours / 24);
+  return `${days}d`;
+}
 
   // ======= RENDER =======
   function renderAttention(){
@@ -346,10 +357,11 @@ function appendImpactDot(cardEl, item){
       card.className = 'news-card';
       const dotClass = it.impact === 'high' ? 'impact-high' : (it.impact === 'low' ? 'impact-low' : '');
       const dot = dotClass ? `<span class="impact-dot ${dotClass}"></span>` : '';
+      const age = formatAge(it._ts);
       card.innerHTML = `
         ${dot}
         <div class="meta">
-          <span>${it.time} • ${it._day||''}</span>
+          <span>${age ? `(${age}) ` : ''}${it.time} • ${it._day||''}</span>
           <span class="chip">${it.category}</span>
           ${it.tags && it.tags.length ? it.tags.slice(0,3).map(t=>`<span class="pill">${t}</span>`).join('') : ''}
         </div>
