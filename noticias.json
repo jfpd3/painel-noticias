@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-22T09:52+01:00",
+  "generated_at": "2025-10-22T10:41+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -7,7 +7,7 @@
       "attention_points": [
         "Sen. Lummis Pushes US Regulator to Finalize Open Banking Rule Backing Crypto",
         "Hong Kong approves its first spot Solana ETF ahead of US",
-        "Fake social media accounts: The rise of Cointelegraph impersonators, explained"
+        "Hong Kong's Securities Regulator Approves First Solana ETF"
       ],
       "items": [
         {
@@ -28,6 +28,16 @@
           "summary": "Hong Kong joins Canada, Brazil and Kazakhstan in approving a spot Solana ETF, further widening the gap with the US, which has yet to authorize one.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/hong-kong-approves-first-solana-spot-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "cfad514f4a81",
+          "time": "09:16",
+          "category": "Crypto",
+          "title": "Hong Kong's Securities Regulator Approves First Solana ETF",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/22/hong-kong-regulator-approves-solana-etf",
           "tags": []
         },
         {
@@ -823,19 +833,6 @@
           "tags": []
         },
         {
-          "id": "d5f13395c80c",
-          "time": "13:00",
-          "category": "Crypto",
-          "title": "Crypto Markets Today: Bitcoin, Ether Drop as Selling Pressure Returns",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/21/crypto-markets-today-btc-and-eth-slip-as-sell-pressure-returns-amid-potential-lower-high",
-          "tags": [
-            "BTC",
-            "ETH"
-          ]
-        },
-        {
           "id": "7a5275f4add1",
           "time": "12:14",
           "category": "US Macro",
@@ -910,6 +907,26 @@
           "tags": []
         },
         {
+          "id": "b1138bcd702c",
+          "time": "03:02",
+          "category": "Markets",
+          "title": "TotalEnergies Sells GreenFlex to Oteis to Refocus on Core Energy Operations",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/totalenergies-sells-greenflex-oteis-refocus-020209840.html",
+          "tags": []
+        },
+        {
+          "id": "7d9f4f8f284c",
+          "time": "02:52",
+          "category": "Markets",
+          "title": "Brent Flirts With $60 as Oversupply Fears Deepen",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/brent-flirts-60-oversupply-fears-015200156.html",
+          "tags": []
+        },
+        {
           "id": "44d3807c6bd5",
           "time": "02:36",
           "category": "Crypto",
@@ -917,6 +934,16 @@
           "summary": "Japan’s banks plan a ¥1 trillion stablecoin, Singapore’s rules are maturing, and China tightens control as Asia’s strategies diverge.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345124/asias-stablecoin-race-top-companies-vie-dominance-test-policy-lines",
+          "tags": []
+        },
+        {
+          "id": "629f068bddce",
+          "time": "02:00",
+          "category": "Markets",
+          "title": "How Sam Altman Tied Tech’s Biggest Players to OpenAI",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/tech/ai/sam-altman-open-ai-nvidia-deals-d10a6525?siteid=yhoof2&yptr=yahoo",
           "tags": []
         },
         {
@@ -960,6 +987,16 @@
           "tags": []
         },
         {
+          "id": "c13f8bf3cb40",
+          "time": "00:34",
+          "category": "Markets",
+          "title": "We Have a K-Shaped Economy: Despirito",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/video/k-shaped-economy-despirito-233404051.html",
+          "tags": []
+        },
+        {
           "id": "e76811abd844",
           "time": "00:30",
           "category": "Crypto",
@@ -990,13 +1027,23 @@
           "tags": []
         },
         {
-          "id": "9b17b08a56be",
-          "time": "00:00",
+          "id": "011f3b0ed258",
+          "time": "00:27",
           "category": "Markets",
-          "title": "China Becomes Canada’s Biggest Crude Customer Thanks to Trans Mountain",
+          "title": "'Get Started' in Alternatives: JPM's David Kelly",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/china-becomes-canada-biggest-crude-230000254.html",
+          "url": "https://finance.yahoo.com/video/started-alternatives-jpms-david-kelly-232707701.html",
+          "tags": []
+        },
+        {
+          "id": "4d7e21ade3b0",
+          "time": "00:18",
+          "category": "Crypto",
+          "title": "BERA Crypto Treasuries Are Coming: BERA Price Prediction Amid $110m Berachain TradFi Treasury Move",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bera-crypto-treasuries-coming-bera-231813370.html",
           "tags": []
         },
         {
@@ -1008,17 +1055,47 @@
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/finance/argentina-bailout-banks-collateral-721bc2b5?siteid=yhoof2&yptr=yahoo",
           "tags": []
+        },
+        {
+          "id": "9b17b08a56be",
+          "time": "00:00",
+          "category": "Markets",
+          "title": "China Becomes Canada’s Biggest Crude Customer Thanks to Trans Mountain",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/china-becomes-canada-biggest-crude-230000254.html",
+          "tags": []
+        },
+        {
+          "id": "61c31d18002c",
+          "time": "00:00",
+          "category": "Markets",
+          "title": "Backers of bankrupt airline shut down in Chapter 11 arrested for fraud",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/backers-bankrupt-airline-shut-down-230000199.html",
+          "tags": []
         }
       ]
     },
     {
       "date": "2025-10-20",
       "attention_points": [
+        "Why Progressive Stock Sank on Monday",
         "Scotiabank: Canadian Stocks May be Headed for Another Leg Higher",
-        "Are you making these personal loan mistakes without realizing it?",
-        "Starboard Value to Urge Steps to Improve Fluor's Stock Price"
+        "Are you making these personal loan mistakes without realizing it?"
       ],
       "items": [
+        {
+          "id": "4207f67bd825",
+          "time": "23:53",
+          "category": "Markets",
+          "title": "Why Progressive Stock Sank on Monday",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-progressive-stock-sank-monday-225304311.html",
+          "tags": []
+        },
         {
           "id": "63c16f07881f",
           "time": "23:42",
@@ -1080,13 +1157,13 @@
           "tags": []
         },
         {
-          "id": "8d8b5fe7c31e",
+          "id": "c1d47b72b5b9",
           "time": "23:00",
           "category": "Markets",
-          "title": "Activist Starboard Takes Big Stake in Construction Firm",
+          "title": "Wells Fargo customer lost $4,400 just hours after depositing a check — and a legal loophole nearly left her in the lurch",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/deals/starboard-stake-fluor-construction-firm-135c7df1?siteid=yhoof2&yptr=yahoo",
+          "url": "https://finance.yahoo.com/news/wells-fargo-customer-loses-4k-220000160.html",
           "tags": []
         },
         {
@@ -1100,13 +1177,13 @@
           "tags": []
         },
         {
-          "id": "c1d47b72b5b9",
+          "id": "8d8b5fe7c31e",
           "time": "23:00",
           "category": "Markets",
-          "title": "Wells Fargo customer lost $4,400 just hours after depositing a check — and a legal loophole nearly left her in the lurch",
+          "title": "Activist Starboard Takes Big Stake in Construction Firm",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/wells-fargo-customer-loses-4k-220000160.html",
+          "url": "https://www.wsj.com/business/deals/starboard-stake-fluor-construction-firm-135c7df1?siteid=yhoof2&yptr=yahoo",
           "tags": []
         },
         {
@@ -1160,6 +1237,28 @@
           "tags": []
         },
         {
+          "id": "ada45e041bc3",
+          "time": "22:38",
+          "category": "Crypto",
+          "title": "Why Bitcoin Is Surging Today",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-bitcoin-surging-today-213813805.html",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "c357e1cc8d9a",
+          "time": "22:38",
+          "category": "Crypto",
+          "title": "DeepSeek AI Returns 30% Crypto Profits in Just 3 Days Using Simple Prompts",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/deepseek-ai-returns-30-crypto-213807079.html",
+          "tags": []
+        },
+        {
           "id": "6804b8afaa65",
           "time": "22:37",
           "category": "Markets",
@@ -1170,13 +1269,13 @@
           "tags": []
         },
         {
-          "id": "d1908530ad09",
-          "time": "22:27",
-          "category": "Markets",
-          "title": "Zions Profit ‘Marred’ by Charge Tied to Bad Loans",
+          "id": "7ba98d8e7935",
+          "time": "22:31",
+          "category": "Earnings",
+          "title": "Dan Ives Says Robotaxi Rollout Across US, xAI Investment And Elon Musk's Pay Packet Will Be 'Major Focus' Of Tesla Earnings Call",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/banking/zions-logs-higher-third-quarter-profit-despite-50-million-charge-8d38e852?siteid=yhoof2&yptr=yahoo",
+          "url": "https://finance.yahoo.com/news/dan-ives-says-robotaxi-rollout-213120016.html",
           "tags": []
         },
         {
@@ -1190,108 +1289,6 @@
           "tags": []
         },
         {
-          "id": "9d959214654d",
-          "time": "22:23",
-          "category": "Markets",
-          "title": "The WSJ Dollar Index Rises 0.02% to 95.90",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/yen-weakens-as-japans-political-uncertainty-fades-337aa2d7?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "18d192d07dbb",
-          "time": "22:19",
-          "category": "Markets",
-          "title": "Why Planet Labs Stock Topped the Market Today",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-planet-labs-stock-topped-211925493.html",
-          "tags": []
-        },
-        {
-          "id": "d2c00ff8c20e",
-          "time": "22:16",
-          "category": "Markets",
-          "title": "Oil Companies Want In on the Data-Center Boom. One Stock Has Jumped.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/oil-services-companies-ai-data-centers-power-03d9ce9f?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "62fe9b62ddf5",
-          "time": "22:12",
-          "category": "Markets",
-          "title": "JPMorgan Says Correction Will Be “Healthy” – 5 Safe High-Yield Dividend Stocks",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jpmorgan-says-correction-healthy-5-211230979.html",
-          "tags": []
-        },
-        {
-          "id": "d68c6bfb0db5",
-          "time": "22:11",
-          "category": "Markets",
-          "title": "Edelman, Mariner Move to Exclude Each Others’ Expert Witnesses",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/edelman-mariner-move-exclude-others-211155308.html",
-          "tags": []
-        },
-        {
-          "id": "1ee66e62e6e2",
-          "time": "22:09",
-          "category": "Markets",
-          "title": "Gold is smashing records as the dollar wavers — prompting precious-metal miners to come off the sidelines",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/gold-smashing-records-dollar-wavers-210900401.html",
-          "tags": []
-        },
-        {
-          "id": "27ff345db142",
-          "time": "22:06",
-          "category": "Markets",
-          "title": "Energy & Utilities Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/energy-utilities-roundup-market-talk-c28ed639?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "f6a38f25b2fa",
-          "time": "22:05",
-          "category": "Crypto",
-          "title": "Bitcoin Bounce Stalls as XRP, Zcash Lead Gains; Arca Says Rally Not a Dead-Cat Bounce",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bitcoin-bounce-stalls-xrp-zcash-210534630.html",
-          "tags": [
-            "BTC"
-          ]
-        },
-        {
-          "id": "db3ab4d5986d",
-          "time": "22:04",
-          "category": "Markets",
-          "title": "Tech, Media & Telecom Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-6c9a9f41?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "6e7b4df376d3",
-          "time": "22:04",
-          "category": "Markets",
-          "title": "Auto & Transport Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-08f65a45?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
           "id": "4d48c5066495",
           "time": "22:02",
           "category": "Crypto",
@@ -1302,78 +1299,6 @@
           "tags": [
             "BTC"
           ]
-        },
-        {
-          "id": "ed7d9fcf96bc",
-          "time": "22:02",
-          "category": "Crypto",
-          "title": "Bitcoin Market Flips Bullish: Do the Charts Align With Sentiment?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bitcoin-market-flips-bullish-charts-210215583.html",
-          "tags": [
-            "BTC"
-          ]
-        },
-        {
-          "id": "b78cca389c74",
-          "time": "22:01",
-          "category": "Markets",
-          "title": "Financial Services Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-ffe30a28?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "4dda2e0a2f79",
-          "time": "22:00",
-          "category": "Markets",
-          "title": "Heard on the Street Recap: No Web, No Problem",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2025/card/heard-on-the-street-recap-no-web-no-problem-X2EcEu9VSkfdlM5U9cmn?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "d71e430a0f27",
-          "time": "22:00",
-          "category": "Markets",
-          "title": "Why BlackSky Technology Stock Soared Today",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-blacksky-technology-stock-soared-210000259.html",
-          "tags": []
-        },
-        {
-          "id": "2cf1c0a1ccb4",
-          "time": "21:59",
-          "category": "Markets",
-          "title": "Basic Materials Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/basic-materials-roundup-market-talk-23db0986?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "65794de1f4fa",
-          "time": "21:56",
-          "category": "Markets",
-          "title": "These Stocks Moved the Most Today: Apple, Amazon, TSMC, Cleveland-Cliffs, Super Micro, Cooper Cos., Tesla, Netflix, and More",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/stock-movers-58ae7b2b?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "2b2ccffccb53",
-          "time": "21:56",
-          "category": "Markets",
-          "title": "Why USA Rare Earth Stock Leaped by Almost 14% Today",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-usa-rare-earth-stock-205600191.html",
-          "tags": []
         },
         {
           "id": "3a244d49b48a",
@@ -1415,6 +1340,16 @@
           "summary": "Prediction markets hit $2 billion in weekly volume as Polymarket retakes lead and major funding pushes industry valuations into billions.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345033/prediction-markets-all-time-high-trading-volume",
+          "tags": []
+        },
+        {
+          "id": "2792aa067e26",
+          "time": "18:13",
+          "category": "Markets",
+          "title": "How much can you borrow with a HELOC?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-much-heloc-can-i-get-171355477.html",
           "tags": []
         }
       ]
