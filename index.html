@@ -59,6 +59,18 @@
     .fabbar{display:none}
     footer{color:var(--muted);text-align:center;margin:16px 0}
     small.kbd{padding:1px 6px;border:1px solid var(--border);border-radius:6px;background:#0f1730}
+
+    /* bolinha de impacto no canto */
+    .news-card{ position:relative; }
+    .impact-dot{
+    position:absolute; top:10px; right:10px;
+    width:10px; height:10px; border-radius:50%;
+    display:inline-block; opacity:0.95;
+    box-shadow:0 0 0 2px rgba(255,255,255,0.2), 0 1px 6px rgba(0,0,0,0.35);
+}
+.impact-red   { background:#e53935; }   /* grande impacto */
+.impact-amber { background:#f6c343; }   /* pouco impacto  */
+
   </style>
 </head>
 <body>
@@ -336,6 +348,7 @@ function appendImpactDot(cardEl, item){
   function renderAll(){
     renderAttention();
     renderList();
+    applyImpactDots();
   }
 
   // ======= FETCH + FALLBACK =======
@@ -358,6 +371,9 @@ function appendImpactDot(cardEl, item){
 
     if (json){
       DATA = json || { days:[] };
+      renderAll();
+      applyImpactDots();
+
       renderAll();
       statusLabel.textContent = 'OK';
     } else {
@@ -412,8 +428,35 @@ function appendImpactDot(cardEl, item){
 
   // ======= START =======
   fetchFeed(); setInterval(fetchFeed, AUTO_REFRESH_MS);
-</script>
 
+  // Regra simples: US Macro/Regulation ou BTC/ETH/ETF/CPI/PCE/SEC/CFTC => vermelho; resto amarelo
+function classifyImpact(card){
+  const cat = (card.querySelector('.chip')?.textContent || '').trim().toLowerCase();
+  const pills = [...card.querySelectorAll('.pill')].map(p=>p.textContent.trim().toLowerCase());
+  const title = (card.querySelector('h3')?.textContent || '').toLowerCase();
+
+  const redByCat   = cat === 'us macro' || cat === 'regulation';
+  const redByPill  = pills.some(p => p === 'btc' || p === 'eth');
+  const redByTitle = /(etf|cpi|jobs|payrolls|pce|sec|cftc|fed|fomc|tariff|shutdown|treasury|yields)/i.test(title);
+
+  return (redByCat || redByPill || redByTitle) ? 'red' : 'amber';
+}
+
+function applyImpactDots(){
+  document.querySelectorAll('.news-card').forEach(card=>{
+    // evita duplicar
+    if (card.querySelector('.impact-dot')) return;
+
+    const impact = classifyImpact(card); // 'red' ou 'amber'
+    const dot = document.createElement('span');
+    dot.className = 'impact-dot ' + (impact === 'red' ? 'impact-red' : 'impact-amber');
+    dot.title = impact === 'red' ? 'Grande impacto' : 'Pouco impacto';
+    card.appendChild(dot);
+  });
+}
+
+</script>
+  
 <script>
 // SW: permitir desligar com ?nosw=1
 const NOSW = new URLSearchParams(location.search).get('nosw') === '1';
