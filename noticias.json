@@ -1,15 +1,253 @@
 {
-  "generated_at": "2025-10-22T15:46+01:00",
+  "generated_at": "2025-10-22T16:37+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-22",
       "attention_points": [
-        "Stablecoin Transaction Volume Up 83% Year-on-Year: TRM Labs",
-        "Crypto Exchanges Begin Delisting Kadena After 65% Price Plunge on Shutdown Plans",
-        "BMO Capital Markets lead financial adviser in metals and mining during Q1–Q3 2025"
+        "Inveniam Capital Partners Acquires Storj to Advance Decentralized Data Infrastructure",
+        "Crypto Stocks Plunge Wednesday, With Galaxy, Bitcoin Miners Leading Decline",
+        "The Protocol: AWS Outage Halts Some Crypto Apps"
       ],
       "items": [
+        {
+          "id": "e1c3efe66b01",
+          "time": "16:29",
+          "category": "Crypto",
+          "title": "Inveniam Capital Partners Acquires Storj to Advance Decentralized Data Infrastructure",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/business/2025/10/22/inveniam-capital-partners-acquires-storj-to-advance-decentralized-data-infrastructure",
+          "tags": []
+        },
+        {
+          "id": "3355aa955cb3",
+          "time": "16:28",
+          "category": "Crypto",
+          "title": "Crypto Stocks Plunge Wednesday, With Galaxy, Bitcoin Miners Leading Decline",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/22/crypto-stocks-plunge-wednesday-with-galaxy-bitcoin-miners-leading-decline",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "8cdc9afe2fab",
+          "time": "16:26",
+          "category": "Crypto",
+          "title": "The Protocol: AWS Outage Halts Some Crypto Apps",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/tech/2025/10/22/the-protocol-aws-outage-halts-some-crypto-apps",
+          "tags": []
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "16:14",
+          "category": "Earnings",
+          "title": "Capital One Earnings Easily Beat. The Stock Is Flashing An Early Entry.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/capital-one-stock-earnings-q3-2025/?src=A00220&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "c8fd4296ed69",
+          "time": "16:12",
+          "category": "Earnings",
+          "title": "Stock Market Today: Stocks Decline As Earnings Season Picks Up Pace",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/stock-market-today-stocks-decline-151233569.html",
+          "tags": []
+        },
+        {
+          "id": "83dd0e9a89ea",
+          "time": "16:10",
+          "category": "Crypto",
+          "title": "BTC Reverses 3.5% Pump Ahead of CPI — Will Inflation Data Trigger a Crypto Comeback?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/btc-reverses-3-5-pump-151053273.html",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "47fb3779d107",
+          "time": "16:09",
+          "category": "Crypto",
+          "title": "Crypto chop continues, Gold drops, DraftKings buys prediction market",
+          "summary": "Crypto chop continues, tariff headlines dominate. ZEC breaks $300 before falling, leads altcoins. Waller signs Fed’s shift towards embracing crypto. ETH Foundation moves $654m ETH. BlackRock trying to pull in BTC whales to its ETFs. HK approves first SOL ETF. SOL ends support for",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/videos/interviews/2VMsivBC/crypto-chop-continues-gold-drops-draftkings-buys-prediction-market",
+          "tags": []
+        },
+        {
+          "id": "dd47aa0aec81",
+          "time": "16:07",
+          "category": "Markets",
+          "title": "Suze Orman: 5 Key Signs You’ve Made a Smart Investment",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/suze-orman-5-key-signs-150708057.html",
+          "tags": []
+        },
+        {
+          "id": "9ecabf31254c",
+          "time": "16:07",
+          "category": "Markets",
+          "title": "Cathie Wood sells $8 million of popular tech stock",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/cathie-wood-sells-8-million-150700435.html",
+          "tags": []
+        },
+        {
+          "id": "a3a52759f0da",
+          "time": "16:06",
+          "category": "Earnings",
+          "title": "Netflix Tumbles After Q3 Earnings Miss. Is This Your Chance to Buy?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/netflix-tumbles-q3-earnings-miss-150656639.html",
+          "tags": []
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "16:05",
+          "category": "Markets",
+          "title": "Boston Scientific Makes A Bullish Move After Sales In One Segment Skyrocket 63%",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/boston-scientific-stock-boston-scientific-earnings-q3-2025/?src=A00220&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "6ec352f51362",
+          "time": "16:03",
+          "category": "Earnings",
+          "title": "Freight locomotive sales power Wabtec earnings",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/freight-locomotive-sales-power-wabtec-150346442.html",
+          "tags": []
+        },
+        {
+          "id": "8e2bc36d1b2f",
+          "time": "16:01",
+          "category": "Earnings",
+          "title": "Hilton Stock Jumps as Luxury Brands Boost Earnings",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/hilton-stock-jumps-luxury-brands-150141822.html",
+          "tags": []
+        },
+        {
+          "id": "a23765d539f7",
+          "time": "16:00",
+          "category": "Crypto",
+          "title": "Andreessen Horowitz Says Crypto Has Entered a ‘New Era’ of Real Utility",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/22/andreessen-horowitz-says-crypto-has-entered-a-new-era-of-real-utility",
+          "tags": []
+        },
+        {
+          "id": "64bcf3133dd4",
+          "time": "15:59",
+          "category": "Crypto",
+          "title": "Bitcoin Primed for $100K before 'Uptober' Resumes, Says Standard Chartered",
+          "summary": "Gold weakened against Bitcoin on Tuesday.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345407/bitcoin-primed-100k-uptober-resumes-standard-chartered",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "6577cc925c46",
+          "time": "15:59",
+          "category": "Crypto",
+          "title": "Bitcoin Primed for $100K before 'Uptober' Resumes, Says Standard Chartered",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bitcoin-primed-100k-uptober-resumes-145913745.html",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "7a699c2be55c",
+          "time": "15:58",
+          "category": "Markets",
+          "title": "Is Nigeria’s eNaira Dead? CBN Forms New Task Force for Official Stablecoin",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/nigeria-enaira-dead-cbn-forms-145827147.html",
+          "tags": []
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "15:57",
+          "category": "US Macro",
+          "title": "Amphenol Earnings Growth Accelerates Again. But The AI Play Slashes Early Gain.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/amphenol-earnings-ai-play/?src=A00220&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "58fb0518f066",
+          "time": "15:52",
+          "category": "Crypto",
+          "title": "AAVE Bounces Amid $50M Token Buyback Governance Proposal",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/22/aave-bounces-amid-usd50m-token-buyback-governance-proposal",
+          "tags": []
+        },
+        {
+          "id": "45e6b012c97d",
+          "time": "15:51",
+          "category": "Markets",
+          "title": "Analyst Explains Why He Likes Advanced Micro Devices (AMD) – Says There Are ‘Other Options’ Beyond Nvidia",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/analyst-explains-why-likes-advanced-145127899.html",
+          "tags": []
+        },
+        {
+          "id": "d7b3966c5522",
+          "time": "15:44",
+          "category": "Crypto",
+          "title": "Dogecoin Tests $0.19 Support as Descending Channel Signals Breakout Potential",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/22/dogecoin-tests-usd0-19-support-as-descending-channel-signals-breakout-potential",
+          "tags": []
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "15:42",
+          "category": "Markets",
+          "title": "Stock Market Today: Dow Slides As Gold Loses Its Luster; Data Leader Dives (Live Coverage)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-netflix-nflx-stock-tesla-earnings-tsla-stock/?src=A00220&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "15:41",
+          "category": "Earnings",
+          "title": "Tesla Earnings: What To Expect From Results And The Elon Musk Call",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/tesla-earnings-elon-musk-conference-call-tesla-stock/?src=A00220&yptr=yahoo",
+          "tags": []
+        },
         {
           "id": "ed5268401483",
           "time": "15:39",
@@ -31,14 +269,57 @@
           "tags": []
         },
         {
-          "id": "728dc83541d4",
-          "time": "15:25",
-          "category": "Markets",
-          "title": "BMO Capital Markets lead financial adviser in metals and mining during Q1–Q3 2025",
+          "id": "1d6daef5b3f9",
+          "time": "15:33",
+          "category": "Earnings",
+          "title": "AT&T Earnings In-Line, Wireless Subscriber Growth Tops Estimates",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bmo-capital-markets-lead-financial-142545052.html",
+          "url": "https://www.investors.com/news/technology/att-stock-att-earnings-wireless-subscriber/?src=A00220&yptr=yahoo",
           "tags": []
+        },
+        {
+          "id": "3e29e81c0610",
+          "time": "15:27",
+          "category": "Markets",
+          "title": "UK data centre spend to soar to £10 billion a year - Barbour ABI",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/uk-data-centre-spend-soar-142702869.html",
+          "tags": []
+        },
+        {
+          "id": "166e484ec5d8",
+          "time": "15:27",
+          "category": "Markets",
+          "title": "Gold Falls Further. What’s Driving This Brutal Selloff.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/gold-price-today-selloff-7305f702?siteid=yhoof2&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "902662a33efd",
+          "time": "15:24",
+          "category": "Earnings",
+          "title": "Tesla Stock Falls in Early Trading Ahead of Earnings",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/livecoverage/tesla-earnings-stock-price-elon-musk-news/card/tesla-stock-falls-in-early-trading-ahead-of-earnings-UGzv1hubYOUs8FFY9DG4?siteid=yhoof2&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "a77e26bea324",
+          "time": "15:23",
+          "category": "Crypto",
+          "title": "Bitcoin, Ethereum Drop Again. Melania Trump’s Crypto Architects Accused of Fraud.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/bitcoin-ethereum-melania-trump-crypto-fraud-638eba3b?siteid=yhoof2&yptr=yahoo",
+          "tags": [
+            "BTC",
+            "ETH"
+          ]
         },
         {
           "id": "d73e2464485c",
@@ -53,33 +334,13 @@
           ]
         },
         {
-          "id": "910e1086b0a6",
+          "id": "1d6daef5b3f9",
           "time": "15:20",
           "category": "Markets",
-          "title": "Gold's rally just cracked, but one private Swiss bank says it's not over",
+          "title": "Intuitive Surgical Zooms Higher After Da Vinci Helps Smash Forecasts",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/golds-rally-just-cracked-one-142037369.html",
-          "tags": []
-        },
-        {
-          "id": "85165dfec45b",
-          "time": "15:20",
-          "category": "Markets",
-          "title": "Can Ford Be More Like GM?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ford-more-gm-142004980.html",
-          "tags": []
-        },
-        {
-          "id": "8c391ce21f6e",
-          "time": "15:18",
-          "category": "Markets",
-          "title": "Jamie Dimon Delivers A Harsh Statement",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jamie-dimon-delivers-harsh-statement-141835646.html",
+          "url": "https://www.investors.com/news/technology/intuitive-surgical-stock-intuitive-surgical-earnings-q3-2025/?src=A00220&yptr=yahoo",
           "tags": []
         },
         {
@@ -100,36 +361,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/news/sp-500-ge-vernova-third-quarter-earnings-stock-market/?src=A00220&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "bb8b6f0f696d",
-          "time": "15:16",
-          "category": "Markets",
-          "title": "Herbert Smith, Cassels Brock top legal advisers in metals and mining in Q1–Q3 2025",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/herbert-smith-cassels-brock-top-141629053.html",
-          "tags": []
-        },
-        {
-          "id": "4176f8b8981b",
-          "time": "15:16",
-          "category": "Markets",
-          "title": "UK data centre spend to soar to £10 billion a year - Barbour ABI",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/uk-data-centre-spend-soar-141617871.html",
-          "tags": []
-        },
-        {
-          "id": "568c05096715",
-          "time": "15:15",
-          "category": "Markets",
-          "title": "Amazon Plans to Replace 500,000 People With Robots",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/amazon-plans-replace-500-000-141540433.html",
           "tags": []
         },
         {
@@ -155,6 +386,16 @@
           "tags": []
         },
         {
+          "id": "3244d42c5a8c",
+          "time": "15:11",
+          "category": "Markets",
+          "title": "MP Materials, Other Rare-Earth Stocks Drop. There Are Lots of Reasons.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/mp-materials-stock-usar-rare-earths-trump-china-afad09ed?siteid=yhoof2&yptr=yahoo",
+          "tags": []
+        },
+        {
           "id": "750f8c3d62e0",
           "time": "15:10",
           "category": "Crypto",
@@ -162,16 +403,6 @@
           "summary": "Fewer buyers and weakening price technicals could spell trouble for the BNB price, as bulls must hold $1,000 support or face a deeper correction.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/bnb-price-analysis-here-s-why-bulls-must-hold-1k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": []
-        },
-        {
-          "id": "4671213bc019",
-          "time": "15:08",
-          "category": "Markets",
-          "title": "Here’s the Minimum Net Worth You Need To Be in the Top 1% in Your 50s",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/minimum-net-worth-considered-top-142151045.html",
           "tags": []
         },
         {
@@ -185,33 +416,33 @@
           "tags": []
         },
         {
-          "id": "1d6daef5b3f9",
+          "id": "9ecde0577568",
+          "time": "15:05",
+          "category": "Markets",
+          "title": "Is Beyond Meat the Next Meme Stock? What’s Behind the Rally.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/beyond-meat-meme-stock-price-0961d3c6?siteid=yhoof2&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "e9113f71c38b",
+          "time": "15:02",
+          "category": "Markets",
+          "title": "These Stocks Are Moving the Most Today: Netflix, Tesla, Texas Instruments, AT&T, Intuitive Surgical, Amphenol, Vertiv, and More",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/stock-movers-ccc86435?siteid=yhoof2&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "baf7988cd6a6",
           "time": "15:02",
           "category": "Earnings",
-          "title": "Tesla Earnings: What To Expect From Results And The Elon Musk Call",
+          "title": "This AI Stock Smashed Earnings. Oh Yeah, It’s an Industrial Company, Too.",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/tesla-earnings-elon-musk-conference-call-tesla-stock/?src=A00220&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "4233a7f2754e",
-          "time": "15:01",
-          "category": "Markets",
-          "title": "Banks Will Face Headaches as They Move Into Digital Custody, Warns Xapo Bank Director Joey Garcia",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/banks-face-headaches-move-digital-140159072.html",
-          "tags": []
-        },
-        {
-          "id": "bbfdb7878d14",
-          "time": "15:01",
-          "category": "Markets",
-          "title": "Capital One Announces $16 Billion Buyback as Profit Soars",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/capital-one-profit-tops-estimates-202537045.html",
+          "url": "https://www.barrons.com/articles/aph-stock-price-earnings-amphenol-ai-977b52fd?siteid=yhoof2&yptr=yahoo",
           "tags": []
         },
         {
@@ -247,6 +478,16 @@
           "tags": []
         },
         {
+          "id": "1538af79ea64",
+          "time": "14:57",
+          "category": "Earnings",
+          "title": "Stocks Are Little Changed. Tesla Set to Kick Off Tech Earnings.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102225/card/stocks-are-little-changed-tesla-set-to-kick-off-tech-earnings--MSJuDADQVR36baewAjEW?siteid=yhoof2&yptr=yahoo",
+          "tags": []
+        },
+        {
           "id": "b431ea497743",
           "time": "14:57",
           "category": "Crypto",
@@ -254,6 +495,16 @@
           "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "3637a77f0077",
+          "time": "14:57",
+          "category": "Markets",
+          "title": "GE Vernova Stock Is Falling. These 2 Things Are Cushioning the Drop.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/ge-vernova-earnings-stock-price-9b4c99cf?siteid=yhoof2&yptr=yahoo",
           "tags": []
         },
         {
@@ -277,56 +528,6 @@
           "tags": []
         },
         {
-          "id": "fba330aecec8",
-          "time": "14:52",
-          "category": "Markets",
-          "title": "Bridging the AI Gap for Energy Utilities",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bridging-ai-gap-energy-utilities-135246061.html",
-          "tags": []
-        },
-        {
-          "id": "f14b28fcd9db",
-          "time": "14:51",
-          "category": "Markets",
-          "title": "Analyst Explains Why He Likes Amazon.com (AMZN) Despite It Being a ‘Laggard’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/analyst-explains-why-likes-amazon-135119578.html",
-          "tags": []
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "14:49",
-          "category": "Earnings",
-          "title": "Stock Market Today: Dow Drops As Netflix Dives On Earnings Miss; Tesla Results Next (Live Coverage)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-netflix-nflx-stock-tesla-earnings-tsla-stock/?src=A00220&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "5276315d1bfa",
-          "time": "14:48",
-          "category": "Markets",
-          "title": "Novo Nordisk shares fall as top investor drives board overhaul",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/novo-nordisk-shares-fall-top-134858418.html",
-          "tags": []
-        },
-        {
-          "id": "7c87733782bd",
-          "time": "14:48",
-          "category": "Markets",
-          "title": "Stocks to Watch Wednesday: Tesla, Netflix, Mattel",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-tesla-earnings-10-22-2025/card/stocks-to-watch-wednesday-tesla-netflix-mattel-VPKIxnHq5INSWkXslHLA?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
           "id": "b6796745abeb",
           "time": "14:45",
           "category": "Crypto",
@@ -339,16 +540,6 @@
           ]
         },
         {
-          "id": "ff74bbf6a155",
-          "time": "14:43",
-          "category": "Markets",
-          "title": "What Makes Becton Dickinson & Co. (BDX) a Good Investment?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/makes-becton-dickinson-co-bdx-134337009.html",
-          "tags": []
-        },
-        {
           "id": "8b2641389aed",
           "time": "14:41",
           "category": "Crypto",
@@ -356,26 +547,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/22/nhl-opens-door-to-prediction-markets-in-landmark-deals-with-kalshi-polymarket-wsj",
-          "tags": []
-        },
-        {
-          "id": "fafaa4641ea2",
-          "time": "14:38",
-          "category": "Markets",
-          "title": "Here are the Reasons to Invest in OneMain Holdings (OMF)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/reasons-invest-onemain-holdings-omf-133815836.html",
-          "tags": []
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "14:36",
-          "category": "Markets",
-          "title": "Gold Prices Keep Falling After Worst Loss In 12 Years; These ETFs, Miners Extend Losses",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/gold-prices-suffer-worst-loss-in-12-years-etfs-miners-plunge/?src=A00220&yptr=yahoo",
           "tags": []
         },
         {
@@ -389,23 +560,13 @@
           "tags": []
         },
         {
-          "id": "1d6daef5b3f9",
-          "time": "14:33",
-          "category": "Markets",
-          "title": "Avadel Jumps On $2.1 Billion Takeover Deal. But Buyer, Alkermes, Dives.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/technology/avadel-pharmaceuticals-alkermes-buyout-sleep-disorders/?src=A00220&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "2d8753456d15",
+          "id": "321caf5482b3",
           "time": "14:31",
           "category": "Earnings",
-          "title": "Stock market today: Dow, S&P 500, Nasdaq wobble as Netflix slides, Tesla earnings loom",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq slide as Netflix sinks, Tesla earnings loom",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-as-netflix-slides-tesla-earnings-loom-133157493.html",
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-netflix-sinks-tesla-earnings-loom-133157286.html",
           "tags": []
         },
         {
@@ -419,16 +580,6 @@
           "tags": []
         },
         {
-          "id": "4f87b1464460",
-          "time": "14:28",
-          "category": "Markets",
-          "title": "Here’s 1 Main Capital Partners’ Investment Thesis for Radiant Logistics (RLGT)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/1-main-capital-partners-investment-132840997.html",
-          "tags": []
-        },
-        {
           "id": "ed5e8a118bb8",
           "time": "14:28",
           "category": "Crypto",
@@ -436,56 +587,6 @@
           "summary": "The proposal would make Aave’s $50 million annual buyback a permanent feature, expanding on the success of previous buyback initiatives.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/aave-dao-50m-annual-buyback-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": []
-        },
-        {
-          "id": "e1efb8c6f058",
-          "time": "14:27",
-          "category": "Crypto",
-          "title": "UK regulator sues crypto exchange HTX over unlawful promotions",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/uk-regulator-sues-crypto-exchange-132706333.html",
-          "tags": []
-        },
-        {
-          "id": "50861ce8cd95",
-          "time": "14:25",
-          "category": "Markets",
-          "title": "Volkswagen warns workers of potential stoppages as chip crunch looms",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/volkswagen-warns-workers-potential-stoppages-132520993.html",
-          "tags": []
-        },
-        {
-          "id": "fbf0a0a85b62",
-          "time": "14:20",
-          "category": "Markets",
-          "title": "Here’s Why Gartner (IT) Traded Down in Q3",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-gartner-traded-down-q3-132024537.html",
-          "tags": []
-        },
-        {
-          "id": "01171a6d8acb",
-          "time": "14:20",
-          "category": "Markets",
-          "title": "Barclays Assesses Credit Risks After $150 Million Tricolor Hit",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/banking/barclays-upbeat-on-outlook-as-bank-moves-to-quarterly-buybacks-6de07820?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "d7d14ddbc629",
-          "time": "14:19",
-          "category": "Markets",
-          "title": "Verisk Analytics (VRSK) Retreated in Q3 Following a Strong First Half",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/verisk-analytics-vrsk-retreated-q3-131904990.html",
           "tags": []
         },
         {
@@ -509,36 +610,6 @@
           "tags": [
             "BTC"
           ]
-        },
-        {
-          "id": "f93884db1edc",
-          "time": "14:15",
-          "category": "Markets",
-          "title": "Here’s What Pressured Fortinet (FTNT) in Q3",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/pressured-fortinet-ftnt-q3-131509067.html",
-          "tags": []
-        },
-        {
-          "id": "0bc64b43e5d7",
-          "time": "14:12",
-          "category": "Markets",
-          "title": "Here’s Why Conestoga Capital Advisors Sold its Stake in Factset Research Systems (FDS)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-conestoga-capital-advisors-sold-131238671.html",
-          "tags": []
-        },
-        {
-          "id": "0b60f307d399",
-          "time": "14:09",
-          "category": "Markets",
-          "title": "Robust Demand Lifted Xylem (XYL) in Q3",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/robust-demand-lifted-xylem-xyl-130951453.html",
-          "tags": []
         },
         {
           "id": "86333f4b9ccf",
@@ -641,6 +712,16 @@
           "tags": [
             "BTC"
           ]
+        },
+        {
+          "id": "b00ba035840d",
+          "time": "13:09",
+          "category": "Earnings",
+          "title": "Earnings live: Netflix stock dives, AT&T, GE Vernova, and Hilton rise as Tesla earnings loom",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/live/earnings-live-netflix-stock-dives-att-ge-vernova-and-hilton-rise-as-tesla-earnings-loom-120948724.html",
+          "tags": []
         },
         {
           "id": "a736fc9976ec",
@@ -927,16 +1008,6 @@
           "tags": []
         },
         {
-          "id": "5b0bb43efd38",
-          "time": "10:00",
-          "category": "Crypto",
-          "title": "XDC Network Acquires Contour to Expand Stablecoins and Tokenization in Trade Finance",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/business/2025/10/22/xdc-network-acquires-contour-to-expand-stablecoins-and-tokenization-in-trade-finance",
-          "tags": []
-        },
-        {
           "id": "16d679b7ab22",
           "time": "09:43",
           "category": "Crypto",
@@ -954,16 +1025,6 @@
           "summary": "Hong Kong joins Canada, Brazil and Kazakhstan in approving a spot Solana ETF, further widening the gap with the US, which has yet to authorize one.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/hong-kong-approves-first-solana-spot-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": []
-        },
-        {
-          "id": "cfad514f4a81",
-          "time": "09:16",
-          "category": "Crypto",
-          "title": "Hong Kong's Securities Regulator Approves First Solana ETF",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/22/hong-kong-regulator-approves-solana-etf",
           "tags": []
         },
         {
@@ -987,26 +1048,6 @@
           "tags": []
         },
         {
-          "id": "e4fef07eb705",
-          "time": "07:26",
-          "category": "Crypto",
-          "title": "Kadena Foundation to Cease Operations, Leaving Blockchain to Run Without Core Team",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/22/kadena-foundation-to-cease-operations-leaving-blockchain-to-run-without-core-team",
-          "tags": []
-        },
-        {
-          "id": "f32d938dc0bf",
-          "time": "07:15",
-          "category": "Crypto",
-          "title": "Jupiter DEX Launches Kalshi-Powered Prediction Market for F1 Mexico Grand Prix Winner",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/22/solana-based-jupiter-dex-kalshi-powered-prediction-market-for-f1-mexico-grand-prix-winner",
-          "tags": []
-        },
-        {
           "id": "1aeb9aba0585",
           "time": "07:12",
           "category": "Crypto",
@@ -1015,18 +1056,6 @@
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/openai-announces-browser-with-brain-powered-agentic-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": []
-        },
-        {
-          "id": "72775765385a",
-          "time": "07:05",
-          "category": "Crypto",
-          "title": "Crypto Bulls and Bears Lose $300M Each as Bitcoin Climbs to $113K, Then Dumps",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/22/bulls-and-bears-lose-usd300m-each-as-bitcoin-climbs-to-usd103k-then-dumps",
-          "tags": [
-            "BTC"
-          ]
         },
         {
           "id": "d44b05c7a767",
@@ -1039,16 +1068,6 @@
           "tags": [
             "BTC"
           ]
-        },
-        {
-          "id": "70642b7c257b",
-          "time": "06:12",
-          "category": "Crypto",
-          "title": "XRP Edges Higher to $2.43 as Volume Surges Above Weekly Average",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/22/xrp-edges-higher-to-usd2-43-as-volume-surges-above-weekly-average",
-          "tags": []
         },
         {
           "id": "cf174e42fb75",
@@ -1172,21 +1191,11 @@
     {
       "date": "2025-10-21",
       "attention_points": [
-        "Netflix stock falls after earnings miss estimates, operating profit takes a hit",
         "'Oh Fuck': Solana Meme Coin Refunds Investors—A Year After Accidentally Burning $10 Million",
-        "Maple Finance stablecoins debut on Aave’s onchain lending markets"
+        "Maple Finance stablecoins debut on Aave’s onchain lending markets",
+        "Ocean Protocol’s team faces $250K bounty after $120M crypto dump allegations"
       ],
       "items": [
-        {
-          "id": "3ab700e45161",
-          "time": "23:23",
-          "category": "Earnings",
-          "title": "Netflix stock falls after earnings miss estimates, operating profit takes a hit",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/netflix-stock-falls-after-earnings-miss-estimates-operating-profit-takes-a-hit-201113517.html",
-          "tags": []
-        },
         {
           "id": "ce932e73f138",
           "time": "23:12",
@@ -1411,28 +1420,6 @@
           ]
         },
         {
-          "id": "175eeec221d8",
-          "time": "06:23",
-          "category": "Crypto",
-          "title": "Coinbase Tells US Treasury Old AML Rules Are 'Broken,' Pushes Tech Fixes for Crypto Crime",
-          "summary": "Coinbase wants AI safe harbors, blockchain analytics recognition, and zero-knowledge proof adoption to replace outdated compliance systems.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345137/coinbase-treasury-aml-rules-broken-pushes-tech-fixes-crypto-crime",
-          "tags": []
-        },
-        {
-          "id": "4dad9c700ab5",
-          "time": "06:14",
-          "category": "Crypto",
-          "title": "Bitcoin Braces for First Inflation Test Since US Shutdown",
-          "summary": "Analysts expects a measured market reaction to Friday's CPI report, noting that tariff concerns and labor data outweigh the inflation print.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345135/bitcoin-braces-for-first-inflation-test-since-us-shutdown",
-          "tags": [
-            "BTC"
-          ]
-        },
-        {
           "id": "7b6b3679fd7f",
           "time": "05:18",
           "category": "Crypto",
@@ -1440,6 +1427,24 @@
           "summary": "Crypto Bounces After Hitting Extreme Fear Sentiment. Spot Btc Etf Suffer Ath Weekly Outflows. Revived Btc Supply Hits Highest Since January. Tough to Be Bullish With Btc Below $112k: Ansem. Top 50 Altcoins Below Level After Ftx Crash. Bitmine Has Bought $1.5b Eth Since Crash. New",
           "source": "Decrypt",
           "url": "https://decrypt.co/videos/interviews/lY5ApB8F/crypto-bounces-back-altcoins-below-ftx-levels-cpi-this-week",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "date": "2025-10-17",
+      "attention_points": [
+        "How the government shutdown impacts the housing market: Loan availability, closing times, and more"
+      ],
+      "items": [
+        {
+          "id": "ce7a30e1db18",
+          "time": "18:36",
+          "category": "Markets",
+          "title": "How the government shutdown impacts the housing market: Loan availability, closing times, and more",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-government-shutdown-impacts-housing-market-173617101.html",
           "tags": []
         }
       ]
