@@ -15,6 +15,7 @@
  /* } 
 
   /* === Bolinhas de impacto - versão premium === */
+/* === Bolinhas de impacto - versão premium === */
 .news-card { position: relative; }
 
 .impact-dot {
@@ -27,25 +28,22 @@
   box-shadow: 0 0 0 2px rgba(255,255,255,0.15), 0 1px 6px rgba(0,0,0,0.45);
   transition: transform .2s ease, box-shadow .2s ease;
 }
-
 .impact-dot:hover {
   transform: scale(1.25);
   box-shadow: 0 0 10px rgba(255,255,255,0.25);
 }
 
-/* Impacto alto – vermelho neon */
+/* Alto impacto (vermelho premium) */
 .impact-red {
   background: radial-gradient(circle at 30% 30%, #ff5555 0%, #b70000 90%);
   border: 1px solid rgba(255,120,120,0.8);
 }
-
-/* Impacto médio – âmbar quente */
+/* Médio (âmbar premium) */
 .impact-amber {
   background: radial-gradient(circle at 30% 30%, #ffdb66 0%, #c89b00 90%);
   border: 1px solid rgba(255,220,130,0.7);
 }
-
-/* Impacto neutro – cinza elegante */
+/* Baixo (cinza premium) */
 .impact-gray {
   background: radial-gradient(circle at 30% 30%, #b3b3b3 0%, #505050 90%);
   border: 1px solid rgba(200,200,200,0.4);
@@ -84,14 +82,7 @@
     footer{color:var(--muted);text-align:center;margin:16px 0}
     small.kbd{padding:1px 6px;border:1px solid var(--border);border-radius:6px;background:#0f1730}
 
-    /* bolinha de impacto no canto */
-    .news-card{ position:relative; }
-    .impact-dot{
-    position:absolute; top:10px; right:10px;
-    width:10px; height:10px; border-radius:50%;
-    display:inline-block; opacity:0.95;
-    box-shadow:0 0 0 2px rgba(255,255,255,0.2), 0 1px 6px rgba(0,0,0,0.35);
-}
+
 .impact-red   { background:#e53935; }   /* grande impacto */
 .impact-amber { background:#f6c343; }   /* pouco impacto  */
 
@@ -394,28 +385,25 @@ function appendImpactDot(cardEl, item){
     }
 
     if (json){
-      DATA = json || { days:[] };
-      renderAll();
-      applyImpactDots();
-
-      renderAll();
-      statusLabel.textContent = 'OK';
-    } else {
-      statusLabel.textContent = 'falhou';
-      console.error('Falha a carregar noticias.json:', lastErr);
-      newsList.innerHTML = '';
-      const div = document.createElement('div');
-      div.className = 'card';
-      div.innerHTML = `
-        <strong>Erro a carregar o feed</strong>
-        <p class="muted" style="margin-top:6px">${lastErr ? String(lastErr).replace(/</g,'&lt;') : 'erro desconhecido'}</p>
-        <p class="muted">Testa abrir:
-          <a href="${u1}" target="_blank" rel="noreferrer">${u1}</a><br/>
-          <a href="${u2}" target="_blank" rel="noreferrer">${u2}</a>
-        </p>
-      `;
-      newsList.appendChild(div);
-    }
+  DATA = json || { days:[] };
+  statusLabel.textContent = 'OK';
+  renderAll();              // já chama applyImpactDots()
+} else {
+  statusLabel.textContent = 'falhou';
+  console.error('Falha a carregar noticias.json:', lastErr);
+  newsList.innerHTML = '';
+  const div = document.createElement('div');
+  div.className = 'card';
+  div.innerHTML = `
+    <strong>Erro a carregar o feed</strong>
+    <p class="muted" style="margin-top:6px">${lastErr ? String(lastErr).replace(/</g,'&lt;') : 'erro desconhecido'}</p>
+    <p class="muted">Testa abrir:
+      <a href="${u1}" target="_blank" rel="noreferrer">${u1}</a><br/>
+      <a href="${u2}" target="_blank" rel="noreferrer">${u2}</a>
+    </p>
+  `;
+  newsList.appendChild(div);
+}
   }
 
   function decorateImpactDots(){
@@ -452,19 +440,6 @@ function appendImpactDot(cardEl, item){
 
   // ======= START =======
   fetchFeed(); setInterval(fetchFeed, AUTO_REFRESH_MS);
-
-  // Regra simples: US Macro/Regulation ou BTC/ETH/ETF/CPI/PCE/SEC/CFTC => vermelho; resto amarelo
-function cl{
-  const cat = (card.querySelector('.chip')?.textContent || '').trim().toLowerCase();
-  const pills = [...card.querySelectorAll('.pill')].map(p=>p.textContent.trim().toLowerCase());
-  const title = (card.querySelector('h3')?.textContent || '').toLowerCase();
-
-  const redByCat   = cat === 'us macro' || cat === 'regulation';
-  const redByPill  = pills.some(p => p === 'btc' || p === 'eth');
-  const redByTitle = /(etf|cpi|jobs|payrolls|pce|sec|cftc|fed|fomc|tariff|shutdown|treasury|yields)/i.test(title);
-
-  return (redByCat || redByPill || redByTitle) ? 'red' : 'amber';
-}
 
   // Decide a cor do impacto com base na categoria, pills e título
 function classifyImpact(card){
