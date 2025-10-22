@@ -1,15 +1,35 @@
 {
-  "generated_at": "2025-10-22T04:35+01:00",
+  "generated_at": "2025-10-22T05:41+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-22",
       "attention_points": [
-        "Man Earns $5.8K in Ethereum, Gets Three Years' Probation",
-        "Asia’s stock exchanges are pushing back against crypto treasuries: Report",
-        "'Uptober' Falters as Bitcoin and Ethereum Slip, Solana Leads Double-Digit Declines"
+        "Retail crypto TXs have doubled on regulatory clarity: TRM Labs",
+        "Coinbase CEO reveals 'private transactions' are coming to Base",
+        "Man Earns $5.8K in Ethereum, Gets Three Years' Probation"
       ],
       "items": [
+        {
+          "id": "41a0e91bbbb5",
+          "time": "05:10",
+          "category": "Crypto",
+          "title": "Retail crypto TXs have doubled on regulatory clarity: TRM Labs",
+          "summary": "Most crypto activity over the last year has been tied to practical use cases such as payments, remittances and preserving value in volatile economic conditions.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/crypto-adoption-2025-multiple-drivers-global-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
+        {
+          "id": "f69de2ab487e",
+          "time": "04:51",
+          "category": "Crypto",
+          "title": "Coinbase CEO reveals 'private transactions' are coming to Base",
+          "summary": "Coinbase CEO Brian Armstrong credited the company’s acquisition of Iron Fish in March to drive the effort, though there are questions about how private the transactions really will be.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/private-transactions-coming-base-coinbase-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": []
+        },
         {
           "id": "495310578ab9",
           "time": "04:31",
@@ -832,16 +852,6 @@
           ]
         },
         {
-          "id": "12ac386a9f55",
-          "time": "10:45",
-          "category": "Crypto",
-          "title": "How to use Grok 4 for smarter crypto research before you invest",
-          "summary": "Turn social hype into smart signals with Grok 4: scan sentiment, summarize fundamentals and confirm onchain data before investing.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/how-to-use-grok-4-to-research-coins-before-you-invest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": []
-        },
-        {
           "id": "28d34b71a127",
           "time": "10:38",
           "category": "Crypto",
@@ -849,18 +859,6 @@
           "summary": "Google’s Threat Intelligence Group has linked North Korean hackers to EtherHiding, blockchain malware previously used by criminal groups.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345139/dprk-hackers-use-etherhiding-to-host-malware-on-ethereum-bnb-blockchains-google",
-          "tags": [
-            "ETH"
-          ]
-        },
-        {
-          "id": "6085ea1227af",
-          "time": "10:31",
-          "category": "Crypto",
-          "title": "Ethereum fails again above $4K as traders grow frustrated with shakeouts",
-          "summary": "Ether ran into resistance at $4,000 as the absence of new buyers and weak spot Ethereum flows threatened ETH price dropping to $3,100 next.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/ethereum-price-fails-above-4k-traders-grow-frustrated-shakeouts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
             "ETH"
           ]
@@ -1019,6 +1017,38 @@
           "summary": "Key crypto trading platforms and apps struggled to regain functionality several hours after a widespread AWS outage began early Monday.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345036/metamask-showing-zero-balances-base-network-struggling-aws-issues-persist",
+          "tags": []
+        },
+        {
+          "id": "101690d0fcc2",
+          "time": "19:20",
+          "category": "Crypto",
+          "title": "85-year-old Texan saved from a Bitcoin ATM scam by ‘guardian angel’ — the $250M warning all Americans should heed",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/85-old-texan-saved-bitcoin-182000613.html",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
+          "id": "cf6c09ff7df6",
+          "time": "19:10",
+          "category": "Crypto",
+          "title": "Crypto Treasury Companies Are the New SPACs",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/crypto-treasury-companies-are-the-new-spacs-5c00b005?siteid=yhoof2&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "f9a3f76062f0",
+          "time": "19:06",
+          "category": "Markets",
+          "title": "Munis Are Having a Moment. Washington Could Knock Them Off Track.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/municipal-bonds-outlook-federal-cuts-7632bd09?siteid=yhoof2&yptr=yahoo",
           "tags": []
         },
         {
@@ -1212,6 +1242,41 @@
           "tags": []
         },
         {
+          "id": "fefa062cf76e",
+          "time": "17:52",
+          "category": "Crypto",
+          "title": "Why Wall Street Is Dumping Bitcoin for Ethereum’s Hidden Goldmine",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-wall-street-dumping-bitcoin-165257441.html",
+          "tags": [
+            "BTC",
+            "ETH"
+          ]
+        },
+        {
+          "id": "1ffbf8126ca4",
+          "time": "17:50",
+          "category": "US Macro",
+          "title": "Evernorth to Raise $1 Billion for the Largest XRP Treasury",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/evernorth-raise-1-billion-largest-165002790.html",
+          "tags": []
+        },
+        {
+          "id": "1963c9a00ba3",
+          "time": "17:45",
+          "category": "Crypto",
+          "title": "Bitcoin Miner CleanSpark Expands Into AI Data Centers, Stock Surges 14%",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bitcoin-miner-cleanspark-expands-ai-164543938.html",
+          "tags": [
+            "BTC"
+          ]
+        },
+        {
           "id": "9bc612e82d5b",
           "time": "17:45",
           "category": "Markets",
@@ -1219,6 +1284,66 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/texas-instruments-stock-downgrade-8af12f45?siteid=yhoof2&yptr=yahoo",
+          "tags": []
+        },
+        {
+          "id": "a99c43d67dd2",
+          "time": "17:39",
+          "category": "Crypto",
+          "title": "Ripple Backs Crypto Treasury That's Raising Over $1 Billion to Buy XRP",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ripple-backs-crypto-treasury-thats-163912564.html",
+          "tags": []
+        },
+        {
+          "id": "b548cf3cab33",
+          "time": "17:37",
+          "category": "Markets",
+          "title": "Where Will XRP Be in 3 Years?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/where-xrp-3-years-163700280.html",
+          "tags": []
+        },
+        {
+          "id": "751914fcda32",
+          "time": "17:34",
+          "category": "Markets",
+          "title": "High-Yield vs. Money Market: The Savings Decision That Could Cost You Hundreds",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/high-yield-vs-money-market-163449868.html",
+          "tags": []
+        },
+        {
+          "id": "058551218b29",
+          "time": "17:33",
+          "category": "Markets",
+          "title": "The 60/40 portfolio is back for a surprising reason",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/60-40-portfolio-back-surprising-163329301.html",
+          "tags": []
+        },
+        {
+          "id": "63a7a9a41224",
+          "time": "17:32",
+          "category": "Markets",
+          "title": "FLOKI Jumps, DASH Draws Turnover, FET Rallies: Is Altcoin Season Crawling Back Or Just Head-Faking?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/floki-jumps-dash-draws-turnover-163217617.html",
+          "tags": []
+        },
+        {
+          "id": "5d050203db21",
+          "time": "17:32",
+          "category": "Markets",
+          "title": "Apple’s share price hits record high as iPhone sales surge",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/apple-share-price-hits-record-163204097.html",
           "tags": []
         },
         {
@@ -1239,119 +1364,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/research/animal-health-philbro-stock-pahc-livestock/?src=A00220&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "17:18",
-          "category": "Earnings",
-          "title": "IBM Stock Near Highs With Earnings Due. Here's What Investors Are Watching.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/technology/ibm-stock-ibm-q3-earnings-preview-ibm-news/?src=A00220&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "2540b46f7b8d",
-          "time": "17:04",
-          "category": "Markets",
-          "title": "Google or Meta Stock for AI? This Analyst Prefers the Search Company.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/google-or-meta-stock-for-ai-this-analyst-prefers-the-search-company-bb27f56c?siteid=yhoof2&yptr=yahoo",
-          "tags": []
-        },
-        {
-          "id": "cbaa0d17e57f",
-          "time": "16:54",
-          "category": "Markets",
-          "title": "Top Stock Movers Now: Apple, Cleveland-Cliffs, USA Rare Earth, and More",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/top-stock-movers-now-apple-155449191.html",
-          "tags": []
-        },
-        {
-          "id": "5ac39b8d20c8",
-          "time": "16:53",
-          "category": "Markets",
-          "title": "I Asked a Financial Planner How To Retire Comfortably on $500K: Here’s What He Said",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/asked-financial-planner-retire-comfortably-155321556.html",
-          "tags": []
-        },
-        {
-          "id": "c4deb26370a4",
-          "time": "16:51",
-          "category": "Markets",
-          "title": "Wayfair to shutter Kentucky plant as part of logistics network revamp",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/wayfair-shutter-kentucky-plant-part-155100757.html",
-          "tags": []
-        },
-        {
-          "id": "8c6975ca2a92",
-          "time": "16:49",
-          "category": "Markets",
-          "title": "AI Has Picked the Best Luxury Electric Vehicle -- But Is the Stock a Strong Buy?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ai-picked-best-luxury-electric-154900516.html",
-          "tags": []
-        },
-        {
-          "id": "bb9ec244c826",
-          "time": "16:45",
-          "category": "Markets",
-          "title": "3 Things Netflix Will Need to Get Right This Week",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/3-things-netflix-week-154500608.html",
-          "tags": []
-        },
-        {
-          "id": "3b62626033a3",
-          "time": "16:44",
-          "category": "Markets",
-          "title": "Chinese staff go rogue after Dutch seize control of chip firm",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/chinese-staff-rogue-dutch-seize-154428829.html",
-          "tags": []
-        },
-        {
-          "id": "56aee09e63ec",
-          "time": "16:42",
-          "category": "Markets",
-          "title": "Why XRP Is Rising Today",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-xrp-rising-today-154254771.html",
-          "tags": []
-        },
-        {
-          "id": "4dc27ac59f11",
-          "time": "16:40",
-          "category": "Crypto",
-          "title": "Bitcoin, Ethereum recover ahead of Fed roundtable",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bitcoin-ethereum-recover-ahead-fed-154025122.html",
-          "tags": [
-            "BTC",
-            "ETH"
-          ]
-        },
-        {
-          "id": "2c85a9a9f266",
-          "time": "16:38",
-          "category": "Markets",
-          "title": "Brian Armstrong Net Worth Explained: How The Trump Presidency Boosted CEO's Wallet By Billions",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/brian-armstrong-net-worth-explained-153801493.html",
           "tags": []
         }
       ]
