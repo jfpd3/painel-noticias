@@ -247,20 +247,27 @@ if (!VALID_RANGES.includes(hoursRange)) {
   }
 
   function flattenWithin(hours){
-    const out = [];
-    const now = Date.now();
-    const cutoff = now - hours * 3600 * 1000; 
-    (DATA.days || []).forEach(day=>{
-      (day.items || []).forEach(it=>{
-        const ts = toTs(day.date, it.time);
-        if (!isNaN(ts) && ts >= cutoff) {
+  const out = [];
+  const cutoff = Date.now() - hours * 3600 * 1000;
+
+  (DATA.days || []).forEach(day => {
+    (day.items || []).forEach(it => {
+      let ts;
+      if (it.time_iso) {
+        // usa o carimbo ISO (Lisboa) gerado pelo fetch — mais robusto em fusos horários
+        ts = new Date(it.time_iso).getTime();
+      } else {
+        // fallback para compatibilidade antiga
+        ts = toTs(day.date, it.time);
+      }
+      if (!isNaN(ts) && ts >= cutoff) {
         out.push({ ...it, _ts: ts, _day: day.date });
       }
     });
   });
-    out.sort((a,b)=> b._ts - a._ts);
-    return out;
-  }
+  out.sort((a, b) => b._ts - a._ts);
+  return out;
+}
 
   // ======= RENDER =======
   function renderAttention(){
