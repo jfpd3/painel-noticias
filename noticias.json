@@ -1,15 +1,37 @@
 {
-  "generated_at": "2025-10-23T17:17+01:00",
+  "generated_at": "2025-10-23T17:47+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-23",
       "attention_points": [
-        "Revolut Secures MiCA License in Cyprus—Is a Stablecoin Next?",
-        "Oil jumps after Russia sanctions; stocks, US yields inch higher",
-        "Apple loses UK lawsuit over app store commissions"
+        "3 secrets about Medicare that experts want you to know",
+        "Hasbro's tariff battle could make playtime pricier",
+        "Revolut Secures MiCA License in Cyprus—Is a Stablecoin Next?"
       ],
       "items": [
+        {
+          "id": "4ace6bda7c8c",
+          "time": "17:31",
+          "category": "Regulation",
+          "title": "3 secrets about Medicare that experts want you to know",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/3-secrets-about-medicare-that-experts-want-you-to-know-163112121.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "206b77889194",
+          "time": "17:15",
+          "category": "Markets",
+          "title": "Hasbro's tariff battle could make playtime pricier",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/hasbros-tariff-battle-could-make-playtime-pricier-161503799.html",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "e6a4c44afc39",
           "time": "17:01",
@@ -18,6 +40,17 @@
           "summary": "An EU lawyer said the European banking giant is now ‘positioned to legally issue its own stablecoin,’ with a 2026 launch ‘plausible.’",
           "source": "Decrypt",
           "url": "https://decrypt.co/345674/revolut-secures-mica-license-in-cyprus-is-a-stablecoin-next",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "1400b922874c",
+          "time": "17:01",
+          "category": "Regulation",
+          "title": "Revolut Secures MiCA License in Cyprus—Is a Stablecoin Next?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/revolut-secures-mica-license-cyprus-160103192.html",
           "tags": [],
           "impact_score": 3
         },
@@ -40,17 +73,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/apple-loses-uk-lawsuit-over-155741116.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "5e27063e89a7",
-          "time": "16:32",
-          "category": "Markets",
-          "title": "Here’s How Netflix (NFLX) Rewarded Patient Investors",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/netflix-nflx-rewarded-patient-investors-153202898.html",
           "tags": [],
           "impact_score": 3
         },
@@ -252,6 +274,30 @@
           "impact_score": 3
         },
         {
+          "id": "6f21f411ce0a",
+          "time": "17:24",
+          "category": "Crypto",
+          "title": "Legendary trader who predicted 1980s 50% gold crash now warns Bitcoin could be next",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/legendary-trader-predicted-1980s-50-162442578.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "68b42b673173",
+          "time": "17:04",
+          "category": "Markets",
+          "title": "Average long-term US mortgage rate drops to 6.19%, lowest level in more than a year",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/average-long-term-us-mortgage-160414770.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "1d6daef5b3f9",
           "time": "17:04",
           "category": "Earnings",
@@ -274,17 +320,6 @@
           "impact_score": 2
         },
         {
-          "id": "48c24667e9f4",
-          "time": "16:59",
-          "category": "Earnings",
-          "title": "Intel Stock Faces a Crucial Earnings Test Today. Here’s What You Need To Know",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/intel-stock-faces-crucial-earnings-155925584.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "a5ae5f817da3",
           "time": "16:51",
           "category": "Markets",
@@ -296,13 +331,13 @@
           "impact_score": 2
         },
         {
-          "id": "9f876dc23a9b",
-          "time": "16:36",
+          "id": "6bbf46778663",
+          "time": "16:45",
           "category": "Earnings",
-          "title": "Visteon (VC) Q3 2025 Earnings Call Transcript",
+          "title": "Southwest Airlines Stock Is Falling After Earnings Beat. The Changes Don’t Impress Wall Street.",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/visteon-vc-q3-2025-earnings-153635141.html",
+          "url": "https://www.barrons.com/articles/southwest-airlines-earnings-stock-price-147d1b29?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 2
         },
@@ -557,15 +592,180 @@
           "impact_score": 2
         },
         {
-          "id": "1863f5e3a34f",
+          "id": "22cf80a31a8e",
           "time": "01:26",
           "category": "Earnings",
-          "title": "Stock market today: Dow, S&P 500, Nasdaq rise as oil jumps, fresh earnings roll in after Tesla's flop",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq rise as oil jumps, earnings roll in after Tesla disappoints",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-oil-jumps-fresh-earnings-roll-in-after-teslas-flop-002648084.html",
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-oil-jumps-earnings-roll-in-after-tesla-disappoints-002648199.html",
           "tags": [],
           "impact_score": 2
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "17:33",
+          "category": "Markets",
+          "title": "Stock Market Today: S&P 500 Rises But Nasdaq Leads; Tesla Sinks; Resort Name Soars (Live Coverage)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-tesla-tsla-stock-q3-earnings/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f02bade608d6",
+          "time": "17:31",
+          "category": "Markets",
+          "title": "'It Shouldn't Be This Difficult To Be Successful' — Worker Earning $240K Says The U.S. Economy Is 'Failing The Middle Class'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/shouldnt-difficult-successful-worker-earning-163104023.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a003d1f45f94",
+          "time": "17:27",
+          "category": "Earnings",
+          "title": "Barclays Raises PT on Capital One Financial to $271, Keeps Buy Rating",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/barclays-raises-pt-capital-one-162734308.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "68f8e6dd0f70",
+          "time": "17:27",
+          "category": "Markets",
+          "title": "Home Sales Picked Up in September. But This Is the Important Number to Watch.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/home-sales-up-september-mortgages-inventory-rises-40efaf72?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "694961ba08a7",
+          "time": "17:26",
+          "category": "Markets",
+          "title": "Morgan Stanley Reduces Price Target on Diageo (DEO) Following $750,000 Fine From COMESA",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/morgan-stanley-reduces-price-target-162631207.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1f0cf6f37db3",
+          "time": "17:26",
+          "category": "Markets",
+          "title": "I Achieved A $2.4 Million Net Worth with an $80,000 Salary",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/achieved-2-4-million-net-162615028.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4f02aaa31c8d",
+          "time": "17:24",
+          "category": "Markets",
+          "title": "Oppenheimer Raises Rating on Jefferies (JEF), Citing Greater Confidence in its Long-term Strategy",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/oppenheimer-raises-rating-jefferies-jef-162439227.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f9a2e8bd81ce",
+          "time": "17:24",
+          "category": "Markets",
+          "title": "AI-Exposed Jobs See Bigger Wage Gains, Research Finds",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/ai-jobs-wage-gains-layoffs-economy-e3adeba2?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "800cd904ac6e",
+          "time": "17:23",
+          "category": "Markets",
+          "title": "Elon Musk presses for $1 trillion pay plan because he needs to influence Tesla's future 'robot army'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/elon-musk-presses-for-1-trillion-pay-plan-because-he-needs-to-influence-teslas-future-robot-army-162353294.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c9756fbd7b3a",
+          "time": "17:15",
+          "category": "Markets",
+          "title": "Biotech recovery in Q3 2025 as venture funding grows 70.9% from Q2 2025",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/biotech-recovery-q3-2025-venture-161520537.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "987170a9106a",
+          "time": "17:10",
+          "category": "US Macro",
+          "title": "Mortgage rates hit lowest level in over a year",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/mortgage-rates-hit-lowest-level-in-over-a-year-161030853.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "17:10",
+          "category": "Markets",
+          "title": "Meta Stock Ahead Fifth Straight Day Amid AI Job Cuts Report, $27 Billion Data Center Deal",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/meta-stock-ai-blue-owl-data-center-q3-earnings/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "74a5deab7026",
+          "time": "17:07",
+          "category": "US Macro",
+          "title": "Uncle Sam Is Taking Stakes in Companies. This New Activism Is Here to Stay.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/rare-earths-equity-stakes-trump-intel-68202494?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "dbb3d2b2dc15",
+          "time": "17:07",
+          "category": "Markets",
+          "title": "The Best Stocks to Invest $1,000 In Right Now",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/best-stocks-invest-1-000-160700156.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "743d49d6ebec",
+          "time": "17:03",
+          "category": "Markets",
+          "title": "The S&P 500 Has Been Jumpy. It's Still Trapped in Its Oct. 10 Intraday Range.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102325/card/the-s-p-500-has-been-jumpy-it-s-still-trapped-in-its-oct-10-intraday-range--1U7dvvhyeTruZ35cWQuN?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "1d6daef5b3f9",
@@ -575,6 +775,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/research/travere-therapeutics-stock-tvtx-stock-buy-point/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a8996f6129e7",
+          "time": "17:00",
+          "category": "Markets",
+          "title": "Fiber Producers Adapt to Market Demands",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fiber-producers-adapt-market-demands-160000137.html",
           "tags": [],
           "impact_score": 1
         },
@@ -612,17 +823,6 @@
           "impact_score": 1
         },
         {
-          "id": "8fdc568823f2",
-          "time": "16:50",
-          "category": "Markets",
-          "title": "Microsoft (NASDAQ: MSFT) Stock Price Prediction for 2025: Where Will It Be in 1 Year",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/microsoft-nasdaq-msft-stock-price-155004201.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "3a497e9edf7d",
           "time": "16:49",
           "category": "Markets",
@@ -652,17 +852,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/analyst-says-more-upside-wells-154818320.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "02793f72e1cc",
-          "time": "16:47",
-          "category": "Markets",
-          "title": "Top Stock Movers Now: IBM, Tesla, Molina Healthcare, and More",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/top-stock-movers-now-ibm-154724714.html",
           "tags": [],
           "impact_score": 1
         },
@@ -700,17 +889,6 @@
           "impact_score": 1
         },
         {
-          "id": "780c2f156896",
-          "time": "16:46",
-          "category": "US Macro",
-          "title": "This VC Fund Is Backing the Next Generation of Autism Breakthroughs – and Investors Are Taking Notice",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/vc-fund-backing-next-generation-154602607.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "9ac6b893f316",
           "time": "16:44",
           "category": "Markets",
@@ -718,50 +896,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/makes-bio-rad-laboratories-bio-154409682.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "257b68302624",
-          "time": "16:43",
-          "category": "Earnings",
-          "title": "Oil Jumps as Trump Steps Up Pressure on Russia With Sanctions",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/oil-jumps-us-sanctions-russia-222110181.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6a02fbf82a4d",
-          "time": "16:42",
-          "category": "Markets",
-          "title": "Here’s Upslope Capital Management’s Views on International Money Express (IMXI)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/upslope-capital-management-views-international-154221976.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "73f98ae981c1",
-          "time": "16:41",
-          "category": "Earnings",
-          "title": "Honeywell Third-Quarter Aerospace Sales Jump Ahead of Spin-Off",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/earnings/honeywell-posts-higher-3q-sales-raises-earnings-view-amid-restructuring-6ab23bee?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "96d1a762f92c",
-          "time": "16:40",
-          "category": "Earnings",
-          "title": "Honeywell lifts 2025 profit outlook despite Solstice spinoff, shares rise",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/honeywell-lifts-2025-profit-outlook-154056819.html",
           "tags": [],
           "impact_score": 1
         },
@@ -777,17 +911,6 @@
           "impact_score": 1
         },
         {
-          "id": "df065de66cd9",
-          "time": "16:37",
-          "category": "US Macro",
-          "title": "Existing home sales jump in September, helped by lower rates and more inventory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/existing-home-sales-jump-in-september-helped-by-lower-rates-and-more-inventory-153709254.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "21799bdc2137",
           "time": "16:36",
           "category": "Crypto",
@@ -795,61 +918,6 @@
           "summary": "Cointelegraph takes a look at the latest devices from Ledger and Trezor, two long-time leaders in self-custody hardware wallets.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/ledger-trezor-2025-hardware-wallets-key-updates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ff9a3f192b36",
-          "time": "16:34",
-          "category": "Crypto",
-          "title": "Europe’s Crypto ETP Providers Target US Expansion as FalconX To Acquire 21shares",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/europe-crypto-etp-providers-target-153456770.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e3e3d9ce83e6",
-          "time": "16:34",
-          "category": "Markets",
-          "title": "Union Pacific profits rise on operational efficiency, pricing gains",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/union-pacific-profits-rise-operational-153419562.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "417b749902a2",
-          "time": "16:34",
-          "category": "Markets",
-          "title": "What Makes Adyen (ADYEY) a Highest-Quality Fintech Business?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/makes-adyen-adyey-highest-quality-153415172.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "16:33",
-          "category": "Markets",
-          "title": "This Battery Startup Beats Views, Sending Shares Up Sharply",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/quantumscape-qs-stock-ev-battery/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8e34c0827c0a",
-          "time": "16:33",
-          "category": "Markets",
-          "title": "Here are Rowan Street Capital’s Updates on The Trade Desk (TTD)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/rowan-street-capital-updates-trade-153323423.html",
           "tags": [],
           "impact_score": 1
         },
@@ -865,17 +933,6 @@
           "impact_score": 1
         },
         {
-          "id": "fc83a2ffc4cc",
-          "time": "16:29",
-          "category": "Markets",
-          "title": "Rowan Street Capital’s Views on Spotify (SPOT)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/rowan-street-capital-views-spotify-152956739.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "e2b9d72bce33",
           "time": "16:27",
           "category": "Crypto",
@@ -883,61 +940,6 @@
           "summary": "U.S. President Donald Trump has pardoned Binance founder Changpeng \"CZ\" Zhao, the White House confirmed to Decrypt.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345681/trump-pardons-binance-founder-changpeng-zhao",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "bc7cbbcb4f08",
-          "time": "16:26",
-          "category": "Markets",
-          "title": "Rowan Street Capital on Its New Addition to Tesla (TSLA)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/rowan-street-capital-addition-tesla-152608091.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0b75a096fbfa",
-          "time": "16:22",
-          "category": "Markets",
-          "title": "Shopify (SHOP) Compounded 29% Annually. Here’s How",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/shopify-shop-compounded-29-annually-152256960.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "eaad8ca4e5ed",
-          "time": "16:20",
-          "category": "Markets",
-          "title": "Meta Platforms (META): An Example of the Strength of Long-Term Investment",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/meta-platforms-meta-example-strength-152044144.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0af16ee0d5c0",
-          "time": "16:20",
-          "category": "Markets",
-          "title": "STMicroelectronics Shares Slide After Tesla Chip Supplier Forecasts Lower Annual Sales",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/earnings/tesla-supplier-stmicroelectronics-expects-lower-annual-sales-amid-slow-recovery-in-chip-demand-01854079?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "16:19",
-          "category": "Markets",
-          "title": "Should You Stay Or Should You Go? Here's When To Take Profits In Winning Stocks",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/how-to-invest/investors-corner/should-you-stay-or-should-you-go-heres-when-to-take-profits-in-winning-stocks/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -1268,17 +1270,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_45093_InsiderActivity_1761214150000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e4a379bed050",
-          "time": "11:00",
-          "category": "US Macro",
-          "title": "Best high-yield savings interest rates today, October 23, 2025 (top account pays 4.25% APY)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-thursday-october-23-2025-100040150.html",
           "tags": [],
           "impact_score": 1
         },
