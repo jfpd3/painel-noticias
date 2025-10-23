@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-23T19:07+01:00",
+  "generated_at": "2025-10-23T19:52+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-23",
       "attention_points": [
+        "The Crypto Industry Must Evolve to Match Real-World Security Risks",
         "Spark marks first major rotation from US Treasurys into regulated DeFi",
-        "Woman Thinks Reverse Mortgages Are a Scam, but 'My Husband is Sucked in and Is Pushing Really Hard to Do It'",
-        "Bankwell Financial (BWFG) Q3 2025 Earnings Call Transcript"
+        "Swiss Crypto Bank AMINA Taps Tokeny to Build Compliant 'Bridge' for Asset Tokenization"
       ],
       "items": [
+        {
+          "id": "f053d9c30311",
+          "time": "19:00",
+          "category": "Crypto",
+          "title": "The Crypto Industry Must Evolve to Match Real-World Security Risks",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/opinion/2025/10/22/the-crypto-industry-must-evolve-to-match-real-world-security-risks",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "a96eabcf2661",
           "time": "19:00",
@@ -22,28 +33,6 @@
           "impact_score": 3
         },
         {
-          "id": "87b0db03f375",
-          "time": "18:31",
-          "category": "Markets",
-          "title": "Woman Thinks Reverse Mortgages Are a Scam, but 'My Husband is Sucked in and Is Pushing Really Hard to Do It'",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/woman-thinks-reverse-mortgages-scam-173104318.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "4fc4547a8958",
-          "time": "18:22",
-          "category": "Earnings",
-          "title": "Bankwell Financial (BWFG) Q3 2025 Earnings Call Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bankwell-financial-bwfg-q3-2025-172257543.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "27f175e316e9",
           "time": "18:20",
           "category": "Crypto",
@@ -51,74 +40,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/business/2025/10/23/swiss-crypto-bank-amina-taps-tokeny-to-build-compliant-bridge-for-asset-tokenization",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "9a6298001823",
-          "time": "18:19",
-          "category": "Crypto",
-          "title": "Republic Technologies Raises $100 Million to Expand Validator-Backed Ethereum Treasury",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/republic-technologies-raises-100-million-171929137.html",
-          "tags": [
-            "ETH"
-          ],
-          "impact_score": 3
-        },
-        {
-          "id": "b07d0e80de22",
-          "time": "17:51",
-          "category": "US Macro",
-          "title": "Investors Expect Above-Target Inflation Friday, Fed Rate Cut Next Week",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2025/card/investors-expect-above-target-inflation-friday-fed-rate-cut-next-week-NX1Jbgj5HLfALQNCv05H?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "4ace6bda7c8c",
-          "time": "17:31",
-          "category": "Regulation",
-          "title": "3 secrets about Medicare that experts want you to know",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/3-secrets-about-medicare-that-experts-want-you-to-know-163112121.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "f702e3710eb1",
-          "time": "17:26",
-          "category": "Markets",
-          "title": "Alcoa Stock Rises After Company Says Aluminum Pricing Is Offsetting Tariffs",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2025/card/alcoa-stock-rises-after-company-says-aluminum-pricing-is-offsetting-tariffs-p6noNaKQfcRH4a7trZE1?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "206b77889194",
-          "time": "17:15",
-          "category": "Markets",
-          "title": "Hasbro's tariff battle could make playtime pricier",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hasbros-tariff-battle-could-make-playtime-pricier-161503799.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "e5c7711b171a",
-          "time": "17:13",
-          "category": "US Macro",
-          "title": "FBS: The Market Learns to Move Without the Fed",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/fbs-market-learns-move-without-161309411.html",
           "tags": [],
           "impact_score": 3
         },
@@ -202,17 +123,6 @@
           "impact_score": 3
         },
         {
-          "id": "b736799fd9ed",
-          "time": "11:59",
-          "category": "Regulation",
-          "title": "Daily Spotlight: Not All Sectors Are Equal",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_45098_MarketOutlook_1761217162000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "1595b7c0e5f2",
           "time": "10:59",
           "category": "Crypto",
@@ -232,19 +142,6 @@
           "source": "Decrypt",
           "url": "https://decrypt.co/345621/decentralized-exchange-bunni-pulls-the-plug-following-8-4m-flash-loan-exploit",
           "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "1d94a654fcb7",
-          "time": "09:29",
-          "category": "Crypto",
-          "title": "Quantum Solutions Adds 2K ETH to Become 11th-Largest Ether Treasury Company",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/business/2025/10/23/quantum-solutions-adds-2k-eth-to-become-11th-largest-ether-treasury-company",
-          "tags": [
-            "ETH"
-          ],
           "impact_score": 3
         },
         {
@@ -309,15 +206,43 @@
           "impact_score": 3
         },
         {
-          "id": "7d63c3a48980",
-          "time": "03:58",
+          "id": "12e4fa7814ac",
+          "time": "19:47",
           "category": "Crypto",
-          "title": "Another ‘legacy’ asset manager enters the crypto ETF ‘land rush’",
-          "summary": "T. Rowe Price, a $1.8 trillion asset manager, has made its first crypto play, filing to list a US-listed Active Crypto ETF in a twist that surprised some analysts.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/t-rowe-price-makes-surprising-filing-crypto-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 3
+          "title": "Bitcoin Climbs to $111K as Whipsaw Action in Crypto Continues",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/23/bitcoin-climbs-to-usd111k-as-whipsaw-action-in-crypto-continues",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "d942506e2459",
+          "time": "19:31",
+          "category": "Crypto",
+          "title": "No Bull? Bitcoin Recognized as 'Apex Predator of Money' With Shark Statue",
+          "summary": "The artwork also pays homage to Damien Hirst.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345710/no-bull-bitcoiners-tribute-predator-money-shark-satutue",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "b781e4a6c176",
+          "time": "19:03",
+          "category": "Crypto",
+          "title": "Institutions Drive CME Crypto Options to $9B as ETH, SOL, XRP Set Records",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/23/institutions-drive-cme-crypto-options-to-usd9b-as-eth-sol-xrp-set-records",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 2
         },
         {
           "id": "7de1a7ea17fa",
@@ -333,28 +258,6 @@
           "impact_score": 2
         },
         {
-          "id": "1d6daef5b3f9",
-          "time": "18:27",
-          "category": "Markets",
-          "title": "Super Micro Computer Stock Drops As Projects Delayed",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/technology/smci-stock-drops-supermicro-projects-delayed/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "fb1f5fa0b187",
-          "time": "18:14",
-          "category": "Earnings",
-          "title": "Tri Pointe (TPH) Q3 2025 Earnings Call Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/tri-pointe-tph-q3-2025-171400457.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "5454d60e87b3",
           "time": "18:01",
           "category": "Crypto",
@@ -365,17 +268,6 @@
           "tags": [
             "ETH"
           ],
-          "impact_score": 2
-        },
-        {
-          "id": "4830d1d4463f",
-          "time": "17:57",
-          "category": "Markets",
-          "title": "Oil surges 5% after US sanctions Russian firms Rosneft, Lukoil",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/oil-surges-5-us-sanctions-165751219.html",
-          "tags": [],
           "impact_score": 2
         },
         {
@@ -529,30 +421,6 @@
           "impact_score": 2
         },
         {
-          "id": "30aeb216a296",
-          "time": "08:43",
-          "category": "Crypto",
-          "title": "Canada’s Anti-Money Laundering Watchdog Levies Record $126M Fine on Cryptomus",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/policy/2025/10/23/canada-s-anti-money-laundering-watchdog-levies-record-usd126m-fine-on-cryptomus",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "4a820f42fd19",
-          "time": "07:33",
-          "category": "Crypto",
-          "title": "BTC, XRP, SOL, ADA Hold Flat as Google’s Quantum Breakthrough Rekindles Old Crypto Fears",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/23/btc-xrp-sol-ada-hold-flat-as-google-s-quantum-breakthrough-rekindles-old-crypto-fears",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "7e2350068318",
           "time": "07:09",
           "category": "Crypto",
@@ -579,19 +447,6 @@
           "impact_score": 2
         },
         {
-          "id": "5f0c131c2b75",
-          "time": "04:53",
-          "category": "Crypto",
-          "title": "Bitcoin may ‘final flush’ to $104K before the bull market returns",
-          "summary": "Crypto analysts predicted Bitcoin could fall to its 50-week moving average before reversing, citing leverage concerns and historical support patterns.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/analysts-see-final-flush-104k-before-bull-market-resumes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "254141655931",
           "time": "02:11",
           "category": "Crypto",
@@ -603,299 +458,79 @@
           "impact_score": 2
         },
         {
-          "id": "22cf80a31a8e",
-          "time": "01:26",
-          "category": "Earnings",
-          "title": "Stock market today: Dow, S&P 500, Nasdaq rise as oil jumps, earnings roll in after Tesla disappoints",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-oil-jumps-earnings-roll-in-after-tesla-disappoints-002648199.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "edf832a48812",
-          "time": "18:49",
+          "id": "6fdf90f34003",
+          "time": "19:42",
           "category": "Markets",
-          "title": "Progressive auto insurance review 2025: 3.2 out of 5 stars",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/insurance/review/progressive-auto-insurance-review-174942814.html",
+          "title": "Can Beyond Meat Match the GameStop Meme Stock Craze?",
+          "summary": "Beyond Meat is facing its first test since becoming a meme stock sensation, with its stock down more than half since the peak. Can it rebound?",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345722/can-beyond-meat-match-gamestop-meme-stock-craze",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "1e66d9cc1a13",
-          "time": "18:33",
+          "id": "eb94c594662d",
+          "time": "19:42",
+          "category": "Crypto",
+          "title": "Fidelity opens the door to Solana, making SOL available to clients",
+          "summary": "The addition of SOL comes amid growing institutional interest in the Solana network, as the community positions it as the hub of internet capital markets.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/fidelity-opens-door-solana-available-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b8af0dc918f4",
+          "time": "19:21",
+          "category": "Crypto",
+          "title": "Aave expands consumer DeFi footprint with Stable Finance acquisition",
+          "summary": "Aave Labs’ latest deal follows a string of institutional initiatives, including its Maple Finance integration and Horizon RWA marketplace.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/aave-labs-acquires-stable-finance-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "18c38fbfd8b8",
+          "time": "18:29",
           "category": "Markets",
-          "title": "Concurrent Snares $1.3B Team From Raymond James",
+          "title": "Analyst Report: Lam Research Corp.",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/concurrent-snares-1-3b-team-173321363.html",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3712_AnalystReport_1761240591000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "7fb1a7c8f3c3",
-          "time": "18:24",
+          "id": "860efa3f6052",
+          "time": "18:29",
           "category": "Markets",
-          "title": "Prada Group CEO Andrea Guerra on Potential Growth as Sales Top 4B Euros",
+          "title": "Analyst Report: International Business Machine",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/prada-group-ceo-andrea-guerra-172426727.html",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3073_AnalystReport_1761240591000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "721eccff1ada",
-          "time": "18:16",
+          "id": "4d657eead816",
+          "time": "18:29",
           "category": "Markets",
-          "title": "France edges towards further consolidation in telecoms",
+          "title": "Analyst Report: Las Vegas Sands Corp",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/france-edges-towards-further-consolidation-171625508.html",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3161_AnalystReport_1761240591000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "0325b762fbae",
-          "time": "18:15",
+          "id": "e8210114438a",
+          "time": "18:29",
           "category": "Markets",
-          "title": "Molina Healthcare stock falls as medical costs spike, Obamacare worries mount",
+          "title": "Analyst Report: AT&T, Inc.",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/molina-healthcare-stock-falls-as-medical-costs-spike-obamacare-worries-mount-171521043.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "577191e625a0",
-          "time": "18:15",
-          "category": "Markets",
-          "title": "Meet the CEO of China's version of Nvidia, who's had a great week in the stock market",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/meet-ceo-chinas-version-nvidia-171502639.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5b2ea23c38c3",
-          "time": "18:11",
-          "category": "Markets",
-          "title": "IonQ, Rigetti, Other Quantum-Computing Stocks Jump on U.S. Stake Interest",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2025/card/ionq-rigetti-other-quantum-computing-stocks-jump-on-u-s-stake-interest-rHgcplqmNdLJj4pqCclc?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5089fe08889a",
-          "time": "18:00",
-          "category": "Earnings",
-          "title": "Hasbro Lifts Outlook as Holiday Orders Accelerate",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/earnings/hasbro-toymaker-quarterly-profit-revenue-rise-6207958c?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "2893cca9d5f0",
-          "time": "17:49",
-          "category": "Markets",
-          "title": "US existing home sales hit 7-month high; affordability remains a challenge",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/us-existing-home-sales-hit-164934450.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "17:48",
-          "category": "Markets",
-          "title": "Marathon Petroleum Stock Earns 82 RS Rating",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/marathon-petroleum-earns-82-rs-rating/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "17:46",
-          "category": "Earnings",
-          "title": "SAP Stock Falls On Revenue Miss, Weak Cloud Order Backlog",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/technology/sap-stock-sap-earnings-news-q32025/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4802988f7d99",
-          "time": "17:44",
-          "category": "Markets",
-          "title": "Oil futures return to structure signalling tight supply on Russia sanctions",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/oil-futures-return-structure-signalling-164455403.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "17:35",
-          "category": "Markets",
-          "title": "How To Make Marvell Stock Float Like A Butterfly With This Trade",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/research/options/marvell-technology-mrvl-stock-butterfly-spread/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "17:33",
-          "category": "Markets",
-          "title": "Stock Market Today: S&P 500 Rises But Nasdaq Leads; Tesla Sinks As Resort Name Soars (Live Coverage)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-tesla-tsla-stock-q3-earnings/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "586d418cd08b",
-          "time": "17:32",
-          "category": "Markets",
-          "title": "Basic Materials Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/basic-materials-roundup-market-talk-5b8359ea?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3d72a9b79a83",
-          "time": "17:30",
-          "category": "Markets",
-          "title": "Energy & Utilities Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/energy-utilities-roundup-market-talk-89876a5b?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "316c6251b7f6",
-          "time": "17:30",
-          "category": "Markets",
-          "title": "Financial Services Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/financial-services-roundup-a6e6cd54?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b124941612da",
-          "time": "17:29",
-          "category": "Markets",
-          "title": "Auto & Transport Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-f0bc6ad2?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "a003d1f45f94",
-          "time": "17:27",
-          "category": "Earnings",
-          "title": "Barclays Raises PT on Capital One Financial to $271, Keeps Buy Rating",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/barclays-raises-pt-capital-one-162734308.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "68f8e6dd0f70",
-          "time": "17:27",
-          "category": "Markets",
-          "title": "Home Sales Picked Up in September. But This Is the Important Number to Watch.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/home-sales-up-september-mortgages-inventory-rises-40efaf72?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "694961ba08a7",
-          "time": "17:26",
-          "category": "Markets",
-          "title": "Morgan Stanley Reduces Price Target on Diageo (DEO) Following $750,000 Fine From COMESA",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/morgan-stanley-reduces-price-target-162631207.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f1ff79f9468a",
-          "time": "17:26",
-          "category": "Markets",
-          "title": "Tech, Media & Telecom Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-7adecefa?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4f02aaa31c8d",
-          "time": "17:24",
-          "category": "Markets",
-          "title": "Oppenheimer Raises Rating on Jefferies (JEF), Citing Greater Confidence in its Long-term Strategy",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/oppenheimer-raises-rating-jefferies-jef-162439227.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f9a2e8bd81ce",
-          "time": "17:24",
-          "category": "Markets",
-          "title": "AI-Exposed Jobs See Bigger Wage Gains, Research Finds",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/ai-jobs-wage-gains-layoffs-economy-e3adeba2?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "800cd904ac6e",
-          "time": "17:23",
-          "category": "Markets",
-          "title": "Elon Musk presses for $1 trillion pay plan because he needs to influence Tesla's future 'robot army'",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/elon-musk-presses-for-1-trillion-pay-plan-because-he-needs-to-influence-teslas-future-robot-army-162353294.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0e9d9d0cd35c",
-          "time": "17:15",
-          "category": "US Macro",
-          "title": "Home Sales Rose in September, Boosted by Falling Mortgage Rates",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/economy/housing/home-sales-in-september-rose-boosted-by-falling-mortgage-rates-97ba9261?siteid=yhoof2&yptr=yahoo",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3432_AnalystReport_1761240591000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -1186,39 +821,6 @@
           "impact_score": 1
         },
         {
-          "id": "76eedc815ec5",
-          "time": "11:55",
-          "category": "Markets",
-          "title": "Analyst Report: Regions Financial Corp.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_4213_AnalystReport_1761216926000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "2358a50bb1e9",
-          "time": "11:55",
-          "category": "Markets",
-          "title": "Analyst Report: Capital One Financial Corp.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_2854_AnalystReport_1761216926000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "9d2563e17fd3",
-          "time": "11:55",
-          "category": "Markets",
-          "title": "Analyst Report: General Motors Company",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3571_AnalystReport_1761216926000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "66ff830dbd8a",
           "time": "11:52",
           "category": "Crypto",
@@ -1230,28 +832,6 @@
           "impact_score": 1
         },
         {
-          "id": "7ef7a6e57b26",
-          "time": "11:40",
-          "category": "Markets",
-          "title": "Technical Assessment: Bullish in the Intermediate-Term",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_45097_TechnicalAnalysis_1761216051000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8bd05accb374",
-          "time": "11:40",
-          "category": "Markets",
-          "title": "Market Digest: COF, NFLX, RF, PM, GM, HLT",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_45095_MarketSummary_1761216026000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "5ca9294291b8",
           "time": "11:26",
           "category": "Crypto",
@@ -1259,17 +839,6 @@
           "summary": "WazirX’s phased comeback begins Friday, offering 30 days of zero-fee trading as the exchange rebuilds liquidity and trust after a long hiatus.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/wazirx-restart-zero-fee-trading-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ce58f84fa5ec",
-          "time": "11:09",
-          "category": "Markets",
-          "title": "Daily – Vickers Top Buyers & Sellers for 10/23/2025",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_45094_TopBottomInsiderActivity_1761214150000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -1446,17 +1015,6 @@
           "impact_score": 3
         },
         {
-          "id": "11da191890b2",
-          "time": "15:34",
-          "category": "Crypto",
-          "title": "Crypto Exchanges Begin Delisting Kadena After 65% Price Plunge on Shutdown Plans",
-          "summary": "Bybit and OKX are both pulling KDA trading services after the company behind the Kadena blockchain said it’s closing down.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345392/crypto-exchanges-delisting-kadena-65-price-plunge-shutdown-plans",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "64ff76e9ca97",
           "time": "13:45",
           "category": "Crypto",
@@ -1475,6 +1033,39 @@
           "summary": "Crypto Dips Despite Continue Strength in Stocks. Another $320m of Liquidations in Drop. Fed to Host Crypto Innovation Conference Today. Strategy Bought $19m Btc, Bitmine Buys $251m Eth. Coinbase Buys Cobie’s Echo for $375m. Coinbase Buys Cobie’s Up Only Nft for $25m. Sol Co-found",
           "source": "Decrypt",
           "url": "https://decrypt.co/videos/interviews/OCWVFPCp/crypto-falls-fed-crypto-conference-today-coinbase-acquires-echo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "57421aca13c7",
+          "time": "10:17",
+          "category": "Regulation",
+          "title": "Mizuho Securities Reduces the PT on ​MercadoLibre (MELI), Keeps a Buy",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/mizuho-securities-reduces-pt-mercadolibre-091722278.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "897d0f9b526a",
+          "time": "10:08",
+          "category": "Markets",
+          "title": "Indonesia’s Central Bank Surprises With Rate Hold",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/articles/indonesias-central-bank-surprises-with-rate-hold-4bd02b29?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "4fd26f8f0a8f",
+          "time": "09:43",
+          "category": "Crypto",
+          "title": "Sen. Lummis Pushes US Regulator to Finalize Open Banking Rule Backing Crypto",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/sen-lummis-pushes-us-regulator-084338173.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1551,13 +1142,125 @@
           "impact_score": 2
         },
         {
-          "id": "ed5268401483",
-          "time": "15:39",
+          "id": "ebc845795815",
+          "time": "10:20",
+          "category": "Markets",
+          "title": "Jim Cramer Says Precious Metals Could Have a Rally if Freeport-McMoRan Management “Talk a Good Game”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-precious-metals-092009131.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "b1d83baa4f86",
+          "time": "10:17",
+          "category": "Earnings",
+          "title": "Here’s What Wall Street Thinks About Tesla, Inc (TSLA) Ahead of its Earnings Release",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/wall-street-thinks-tesla-inc-091736615.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "cf74d6c3d536",
+          "time": "10:17",
           "category": "Crypto",
-          "title": "Stablecoin Transaction Volume Up 83% Year-on-Year: TRM Labs",
-          "summary": "The analytics firm told Decrypt ‘we are still just at the beginning of the stablecoin adoption curve,’ following record gains.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345390/trm-labs-stablecoin-transaction-volume-up-83-year-on-year",
+          "title": "Coinbase Global (COIN) Launches US Bitcoin Yield Fund",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/coinbase-global-coin-launches-us-091731010.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "09ee7e44cb56",
+          "time": "09:45",
+          "category": "Earnings",
+          "title": "What to Expect From TKO Group's Next Quarterly Earnings Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/expect-tko-groups-next-quarterly-084514392.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "3ea6c1abe07f",
+          "time": "09:39",
+          "category": "Earnings",
+          "title": "What You Need to Know Ahead of STERIS’ Earnings Release",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/know-ahead-steris-earnings-release-083958032.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "881938da52c0",
+          "time": "09:33",
+          "category": "Earnings",
+          "title": "What to Expect From Humana's Q3 2025 Earnings Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/expect-humanas-q3-2025-earnings-083322026.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "864053ffce68",
+          "time": "09:30",
+          "category": "Earnings",
+          "title": "What You Need to Know Ahead of Sempra’s Earnings Release",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/know-ahead-sempra-earnings-release-083057275.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "471b9be08c4b",
+          "time": "09:24",
+          "category": "Earnings",
+          "title": "Match Group’s Q3 2025 Earnings: What to Expect",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/match-group-q3-2025-earnings-082456007.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "6b26ebd69f6e",
+          "time": "09:19",
+          "category": "Earnings",
+          "title": "What to Expect From Howmet Aerospace’s Next Quarterly Earnings Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/expect-howmet-aerospace-next-quarterly-081959915.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "2e2207c0133e",
+          "time": "09:15",
+          "category": "Earnings",
+          "title": "CVS Health’s Quarterly Earnings Preview: What You Need to Know",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/cvs-health-quarterly-earnings-preview-081503742.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "161872564a5c",
+          "time": "09:13",
+          "category": "Earnings",
+          "title": "Earnings Preview: What to Expect From Corteva's Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/earnings-preview-expect-cortevas-report-081313067.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1582,13 +1285,300 @@
           "url": "https://decrypt.co/345425/forget-gamestop-meme-stock-traders-pumping-beyond-meat",
           "tags": [],
           "impact_score": 1
+        },
+        {
+          "id": "c6926eb5c443",
+          "time": "10:20",
+          "category": "Markets",
+          "title": "Jim Cramer Says Honeywell Stock “Feels Totally Snakebit”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-honeywell-stock-092012470.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8a601e98f30d",
+          "time": "10:20",
+          "category": "Markets",
+          "title": "Jim Cramer Says Be Prepared for T-Mobile Stock to Run",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-prepared-t-092010322.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9fe022847514",
+          "time": "10:20",
+          "category": "Markets",
+          "title": "Jim Cramer Says International Business Machines CEO has “The Best Quantum Computing Campaign”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-international-business-092007814.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "22ef3d0dc2aa",
+          "time": "10:17",
+          "category": "Markets",
+          "title": "Wall Street Has a Mixed Opinion on Palantir Technologies (PLTR)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/wall-street-mixed-opinion-palantir-091734623.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "bfd3a6f1e12a",
+          "time": "10:17",
+          "category": "Earnings",
+          "title": "Is KKR & Co. Inc (KKR) One of the Best Revenue Growth Stocks to Invest in?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/kkr-co-inc-kkr-one-091733973.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "25ab5cf3d61b",
+          "time": "10:17",
+          "category": "Markets",
+          "title": "Wall Street Remains Bullish on Carvana Co (CVNA)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/wall-street-remains-bullish-carvana-091730202.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a748ae1ed1a9",
+          "time": "10:17",
+          "category": "Earnings",
+          "title": "Morgan Stanley Raises PT on DoorDash, Inc. (DASH), Keeps a Buy Rating",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/morgan-stanley-raises-pt-doordash-091728420.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6a9cb5efb9ef",
+          "time": "10:17",
+          "category": "Earnings",
+          "title": "Oppenheimer Raises the PT on Snowflake Inc (SNOW), Keeps a Buy Rating",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/oppenheimer-raises-pt-snowflake-inc-091727045.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "59423c05feb1",
+          "time": "10:17",
+          "category": "US Macro",
+          "title": "JPMorgan Reiterates a Buy Rating on Sea Limited (SE), Keeps the PT",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jpmorgan-reiterates-buy-rating-sea-091725499.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "053f105a960e",
+          "time": "10:17",
+          "category": "Markets",
+          "title": "​Advanced Micro Devices (AMD) Presents The New “Helios” Rack-Scale Platform",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/advanced-micro-devices-amd-presents-091724995.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "77aa48426a80",
+          "time": "10:17",
+          "category": "US Macro",
+          "title": "Bernstein Reiterates a Buy Rating on Uber Technologies (UBER), Keeps the PT Unchanged",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bernstein-reiterates-buy-rating-uber-091721038.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0337268f31fe",
+          "time": "10:17",
+          "category": "Markets",
+          "title": "NVIDIA Corporation (NVDA) And Taiwan Semiconductor Manufacturing (TSM) Produces the First Blackwell Wafer in US",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-taiwan-semiconductor-091719296.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "123eab1dfdc2",
+          "time": "10:17",
+          "category": "US Macro",
+          "title": "UK inflation unexpectedly holds steady and bolsters hopes of November rate cut",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/uk-inflation-unexpectedly-holds-steady-091718500.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e3a6c7660c5b",
+          "time": "10:10",
+          "category": "Markets",
+          "title": "Gold sags after flash crash, stocks bulls take a breather",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/gold-sags-flash-crash-stocks-091006798.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "88c6e64c585c",
+          "time": "10:00",
+          "category": "Markets",
+          "title": "The Average Cost of a Family Health Insurance Plan Is Now $27,000",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/health/healthcare/the-average-cost-of-a-family-health-insurance-plan-is-now-27-000-9fe92b79?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0f5bb61d32cc",
+          "time": "09:50",
+          "category": "Crypto",
+          "title": "Is the Cryptocurrency XRP (Ripple) a Millionaire Maker?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/cryptocurrency-xrp-ripple-millionaire-maker-085000404.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d7d3335b5654",
+          "time": "09:48",
+          "category": "Markets",
+          "title": "TrueLayer signs agreement to acquire Zimpler",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/truelayer-signs-agreement-acquire-zimpler-084851760.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b793fabcc352",
+          "time": "09:48",
+          "category": "US Macro",
+          "title": "U.S. Futures, Global Markets Mixed; Sterling Slips After U.K. Inflation Data",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/finance/investing/u-s-futures-global-markets-mixed-sterling-slips-after-u-k-inflation-data-8541b722?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "267ee77be5f2",
+          "time": "09:47",
+          "category": "Markets",
+          "title": "Galp to select partner for Namibia’s Mopane field by year-end",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/galp-select-partner-namibia-mopane-084720726.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7247546586a1",
+          "time": "09:46",
+          "category": "Crypto",
+          "title": "Hong Kong Stock Exchange Tightens Scrutiny on Crypto Hoarding Vehicles: Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/hong-kong-stock-exchange-tightens-084605171.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "13521b2a214b",
+          "time": "09:45",
+          "category": "Markets",
+          "title": "Your First $1,000 Investing Blueprint: A Simple Plan to Build Wealth Like Buffett",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/first-1-000-investing-blueprint-084500189.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c92ed1085677",
+          "time": "09:45",
+          "category": "US Macro",
+          "title": "With Warren Buffett Stepping Down in January, Is Berkshire Hathaway Still a Buy?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/warren-buffett-stepping-down-january-084500764.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4632986a9ce3",
+          "time": "09:44",
+          "category": "Markets",
+          "title": "Prediction: This Artificial Intelligence (AI) Stock Could Be the Next Trillion-Dollar Giant",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/prediction-artificial-intelligence-ai-stock-084400889.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b3b4494811e7",
+          "time": "09:43",
+          "category": "Markets",
+          "title": "Novo Nordisk shares fall as top investor drives board overhaul",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/novo-nordisk-shares-fall-top-084322993.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "badf1274e869",
+          "time": "09:37",
+          "category": "Markets",
+          "title": "Meta, Blue Owl Capital create JV for Hyperion data centre campus",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/meta-blue-owl-capital-create-083742192.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "30b583355f34",
+          "time": "09:12",
+          "category": "Markets",
+          "title": "L’Oreal Shares Fall After Sales Miss Expectations",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/earnings/loreal-shares-fall-after-sales-miss-expectations-a5de4a05?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
         }
       ]
     },
     {
       "date": "2025-10-21",
       "attention_points": [
-        "CRYPTO BOUNCES BACK, ALTCOINS BELOW FTX LEVELS, CPI THIS WEEK"
+        "CRYPTO BOUNCES BACK, ALTCOINS BELOW FTX LEVELS, CPI THIS WEEK",
+        "Intuitive Surgical beats earnings estimates on strong demand for surgical robots"
       ],
       "items": [
         {
@@ -1601,6 +1591,17 @@
           "url": "https://decrypt.co/videos/interviews/lY5ApB8F/crypto-bounces-back-altcoins-below-ftx-levels-cpi-this-week",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "b50fde5f5c87",
+          "time": "21:43",
+          "category": "Earnings",
+          "title": "Intuitive Surgical beats earnings estimates on strong demand for surgical robots",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/intuitive-surgical-beats-earnings-estimates-204329658.html",
+          "tags": [],
+          "impact_score": 2
         }
       ]
     }
