@@ -532,20 +532,28 @@ if ('serviceWorker' in navigator) {
 }
 </script>
 
-  <script>
+<script>
 document.addEventListener('DOMContentLoaded', () => {
   try {
     const url = 'https://painel.jfpd3.workers.dev';
-    const payload = JSON.stringify({ path: location.pathname });
+    const payloadStr = JSON.stringify({ path: location.pathname });
+
     if (navigator.sendBeacon) {
-      const blob = new Blob([payload], { type: 'application/json' });
+      const blob = new Blob([payloadStr], { type: 'text/plain' }); // evita preflight
       navigator.sendBeacon(url, blob);
     } else {
-      fetch(url, { method:'POST', headers:{'Content-Type':'application/json'}, body: payload, keepalive:true });
+      fetch(url, {
+        method:'POST',
+        headers: { 'Content-Type':'text/plain' }, // simples, sem preflight
+        body: payloadStr,
+        keepalive:true,
+        mode:'cors'
+      });
     }
   } catch(e) {}
 });
 </script>
+
   
 </body>
 </html>
