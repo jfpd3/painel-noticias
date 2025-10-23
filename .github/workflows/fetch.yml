@@ -1,18 +1,30 @@
-name: Update noticias.json
+name: Fetch news & build
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # a cada 15 minutos
-  workflow_dispatch:         # permite disparar manualmente
+    - cron: "*/30 6-22 * * 1-5"   # a cada 30 min, 06:00–22:59 UTC, seg–sex
+    - cron: "0 9-20 * * 0,6"      # de hora em hora, 09:00–20:59 UTC, sáb–dom
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/fetch_news.py"
+      - "config/feeds.yml"
+      - ".github/workflows/fetch.yml"
+
+permissions:
+  contents: write      # necessário para fazer commit
+  pages: write
+  id-token: write
 
 jobs:
-  build:
+  fetch:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
@@ -22,12 +34,29 @@ jobs:
           python -m pip install --upgrade pip
           pip install feedparser python-dateutil pyyaml
 
-      - name: Run fetch
+      - name: Run fetch script
         run: |
-          python fetch_news.py --days 7
+          set -e
+          python scripts/fetch_news.py --days 7
+          test -s noticias.json || (echo "noticias.json não gerado"; exit 2)
+          jq . noticias.json | head -n 40 || true  # debug opcional
 
-      - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update noticias.json"
-          file_pattern: noticias.json
+      - name: Commit changes (if any)
+        run: |
+          set -e
+          if ! git diff --quiet noticias.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add noticias.json
+            git commit -m "chore: update noticias.json [skip ci]"
+            git push
+          else
+            echo "Sem alterações."
+          fi
+
+  build-deploy:
+    needs: fetch
+    uses: actions/jekyll-build-pages/.github/workflows/build.yml@v1   # ou o workflow que você já usa para Pages
+    permissions:
+      pages: write
+      id-token: write
