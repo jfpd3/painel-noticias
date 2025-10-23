@@ -2,8 +2,8 @@ name: Fetch news & build
 
 on:
   schedule:
-    - cron: "*/30 6-22 * * 1-5"   # a cada 30 min, 06:00–22:59 UTC, seg–sex
-    - cron: "0 9-20 * * 0,6"      # de hora em hora, 09:00–20:59 UTC, sáb–dom
+    - cron: "*/30 6-22 * * 1-5" # a cada 30 min, 06:00-22:59 UTC, seg-sex
+    - cron: "0 9-20 * * 0,6"   # de hora em hora, 09:00-20:59 UTC, sáb-dom
   workflow_dispatch:
   push:
     paths:
@@ -12,7 +12,7 @@ on:
       - ".github/workflows/fetch.yml"
 
 permissions:
-  contents: write      # necessário para fazer commit
+  contents: write   # necessário para fazer commit
   pages: write
   id-token: write
 
@@ -27,7 +27,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.x"
 
       - name: Install deps
         run: |
@@ -56,7 +56,9 @@ jobs:
 
   build-deploy:
     needs: fetch
-    uses: actions/jekyll-build-pages/.github/workflows/build.yml@v1   # ou o workflow que você já usa para Pages
-    permissions:
-      pages: write
-      id-token: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Build and deploy to GitHub Pages
+        uses: actions/jekyll-build-pages@v1.0.8
+        with:
+          jekyll_src: .
