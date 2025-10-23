@@ -1,15 +1,28 @@
 {
-  "generated_at": "2025-10-23T18:33+01:00",
+  "generated_at": "2025-10-23T18:34+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-23",
       "attention_points": [
+        "Republic Technologies Raises $100 Million to Expand Validator-Backed Ethereum Treasury",
         "3 secrets about Medicare that experts want you to know",
-        "Hasbro's tariff battle could make playtime pricier",
-        "FBS: The Market Learns to Move Without the Fed"
+        "Hasbro's tariff battle could make playtime pricier"
       ],
       "items": [
+        {
+          "id": "9a6298001823",
+          "time": "18:19",
+          "category": "Crypto",
+          "title": "Republic Technologies Raises $100 Million to Expand Validator-Backed Ethereum Treasury",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/republic-technologies-raises-100-million-171929137.html",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 3
+        },
         {
           "id": "4ace6bda7c8c",
           "time": "17:31",
@@ -707,17 +720,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/oil-futures-return-structure-signalling-164455403.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "a129a334d348",
-          "time": "17:40",
-          "category": "Markets",
-          "title": "Cathie Wood buys $21.3 million worth of Robinhood shares",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cathie-wood-buys-21-3-164027386.html",
           "tags": [],
           "impact_score": 1
         },
