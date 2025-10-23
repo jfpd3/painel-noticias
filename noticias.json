@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-23T20:25+01:00",
+  "generated_at": "2025-10-23T20:41+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -204,6 +204,19 @@
           "url": "https://cointelegraph.com/news/hyperliquid-strategies-files-1b-raise-buy-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "a892dc07bd5c",
+          "time": "20:30",
+          "category": "Crypto",
+          "title": "Benchmark Boosts Bitcoin Miner Maker Canaan's Stock Target, Praising 'Turnaround Story'",
+          "summary": "The firm's stock rose Thursday, and has traded solidly above $1 during October.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345720/benchmark-boosts-bitcoin-maker-canaans-stock-target-turnaround",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
         },
         {
           "id": "12e4fa7814ac",
@@ -456,6 +469,17 @@
           "url": "https://decrypt.co/345576/crypto-adoption-australia-stalls-trust-drops-labors-push-regulation",
           "tags": [],
           "impact_score": 2
+        },
+        {
+          "id": "89c7e2c2c7e6",
+          "time": "20:33",
+          "category": "Crypto",
+          "title": "Fireblocks acquires Dynamic to expand enterprise wallet infrastructure",
+          "summary": "The acquisition completes Fireblocks' tech stack, the company said on Thursday, allowing it to offer more institutional-grade services to clients.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/fireblocks-acquires-dynamic-wallet-institution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "a06484d1a949",
@@ -909,17 +933,6 @@
           "impact_score": 1
         },
         {
-          "id": "f5b90cfd4bae",
-          "time": "05:11",
-          "category": "Crypto",
-          "title": "Jupiter eyes full launch of its new predictions market before 2026",
-          "summary": "Solana DEX Jupiter has launched a beta prediction market built with Kalshi, letting users bet on real-world events ahead of a full rollout in Q4 2025.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/dex-aggregator-jupiter-q4-full-launch-new-predictions-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "3f18cdff8e59",
           "time": "02:32",
           "category": "Crypto",
@@ -1059,6 +1072,17 @@
           "impact_score": 3
         },
         {
+          "id": "f3214d4a5637",
+          "time": "10:30",
+          "category": "Regulation",
+          "title": "Citic Securities rides Hong Kong's IPO wave, sponsoring dozens of firms seeking listings",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/citic-securities-rides-hong-kongs-093000337.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "3d961f015eab",
           "time": "10:30",
           "category": "Crypto",
@@ -1077,17 +1101,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/hong-kong-approves-first-solana-093000841.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "f3214d4a5637",
-          "time": "10:30",
-          "category": "Regulation",
-          "title": "Citic Securities rides Hong Kong's IPO wave, sponsoring dozens of firms seeking listings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/citic-securities-rides-hong-kongs-093000337.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1162,16 +1175,14 @@
           "impact_score": 2
         },
         {
-          "id": "64bcf3133dd4",
-          "time": "15:59",
-          "category": "Crypto",
-          "title": "Bitcoin Primed for Dip to $100K Before 'Uptober' Resumes, Says Standard Chartered",
-          "summary": "Gold weakened against Bitcoin on Tuesday.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345407/bitcoin-primed-100k-uptober-resumes-standard-chartered",
-          "tags": [
-            "BTC"
-          ],
+          "id": "7f7fa62ac9ee",
+          "time": "10:30",
+          "category": "Earnings",
+          "title": "Is the Magnificent Seven's Earnings Edge Fading?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/magnificent-sevens-earnings-edge-fading-093000852.html",
+          "tags": [],
           "impact_score": 2
         },
         {
@@ -1210,17 +1221,6 @@
           "impact_score": 2
         },
         {
-          "id": "c7fd63f350c5",
-          "time": "10:11",
-          "category": "Crypto",
-          "title": "Gold Price Drop? Why Is Gold Rugging Like a Sh*tcoin On The Solana Network?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/gold-price-drop-why-gold-091107468.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "93ab287551bf",
           "time": "23:06",
           "category": "Crypto",
@@ -1239,6 +1239,50 @@
           "summary": "Roaring Kitty and meme stock traders pushed GameStop (GME) to unprecedented highs in 2021. Can history repeat with Beyond Meat (BYND)?",
           "source": "Decrypt",
           "url": "https://decrypt.co/345425/forget-gamestop-meme-stock-traders-pumping-beyond-meat",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "38c6f54530ee",
+          "time": "10:47",
+          "category": "Markets",
+          "title": "Oil Rises on Prospect of India Agreeing to Reduce Russian Oil Imports",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102225/card/oil-rises-on-prospect-of-india-agreeing-to-reduce-russian-oil-imports-RKS5smB4ruxNgwlrABXN?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1945df7433c9",
+          "time": "10:46",
+          "category": "Markets",
+          "title": "Hermes Sales Growth Gains Pace as Hopes of Luxury Rebound Mount",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/retail/birkin-bag-maker-hermess-sales-accelerate-as-hopes-of-luxury-rebound-mount-c7dca951?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "712f179730bc",
+          "time": "10:38",
+          "category": "Markets",
+          "title": "Canary launches AI hub to expedite hotel sales and event contract closures",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/canary-launches-ai-hub-expedite-093814076.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "069df6da1278",
+          "time": "10:33",
+          "category": "Markets",
+          "title": "KKR and Quadrantis Capital to acquire minority stakes in Peak Reinsurance",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/kkr-quadrantis-capital-acquire-minority-093351621.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1265,17 +1309,6 @@
           "impact_score": 1
         },
         {
-          "id": "0294d39fb822",
-          "time": "10:30",
-          "category": "Markets",
-          "title": "Is the Flurry of Circular AI Deals a Win-Win—or Sign of a Bubble?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/tech/ai/is-the-flurry-of-circular-ai-deals-a-win-winor-sign-of-a-bubble-8a2d70c5?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "50b25550b7cd",
           "time": "10:30",
           "category": "Markets",
@@ -1298,6 +1331,28 @@
           "impact_score": 1
         },
         {
+          "id": "0294d39fb822",
+          "time": "10:30",
+          "category": "Markets",
+          "title": "Is the Flurry of Circular AI Deals a Win-Win—or Sign of a Bubble?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/tech/ai/is-the-flurry-of-circular-ai-deals-a-win-winor-sign-of-a-bubble-8a2d70c5?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e109f9ff39a5",
+          "time": "10:30",
+          "category": "Markets",
+          "title": "Tilray Brands Stock Is on Track for Its Best Year Since 2018. Has It Become a Good Buy?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/tilray-brands-stock-track-best-093000307.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "900979a7be17",
           "time": "10:28",
           "category": "Markets",
@@ -1305,6 +1360,28 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/ntt-data-announces-acquisition-alchemy-092803196.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4eff3ea8611f",
+          "time": "10:28",
+          "category": "Markets",
+          "title": "Hologic set for $18.3bn takeover by Blackstone and TPG",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/hologic-set-18-3bn-takeover-092801532.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9e4b86ddedeb",
+          "time": "10:26",
+          "category": "Markets",
+          "title": "Meet the Little-Known Dividend Growth Stock That Has Skyrocketed 80% Higher Since 2022",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/meet-little-known-dividend-growth-092600139.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1430,17 +1507,6 @@
           "impact_score": 1
         },
         {
-          "id": "91c1a141b397",
-          "time": "10:20",
-          "category": "Markets",
-          "title": "3 Consumer Goods Buys That Wall Street Loves",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/3-consumer-goods-buys-wall-092000190.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "22ef3d0dc2aa",
           "time": "10:17",
           "category": "Markets",
@@ -1529,17 +1595,6 @@
           "impact_score": 1
         },
         {
-          "id": "0337268f31fe",
-          "time": "10:17",
-          "category": "Markets",
-          "title": "NVIDIA Corporation (NVDA) And Taiwan Semiconductor Manufacturing (TSM) Produces the First Blackwell Wafer in US",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-taiwan-semiconductor-091719296.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "123eab1dfdc2",
           "time": "10:17",
           "category": "US Macro",
@@ -1549,58 +1604,13 @@
           "url": "https://finance.yahoo.com/news/uk-inflation-unexpectedly-holds-steady-091718500.html",
           "tags": [],
           "impact_score": 1
-        },
-        {
-          "id": "cd3ed3a0fa0e",
-          "time": "10:15",
-          "category": "Markets",
-          "title": "If I Could Only Buy and Hold a Single Stock, This Would Be It",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/could-only-buy-hold-single-091500998.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ef2d8dfa2b82",
-          "time": "10:14",
-          "category": "US Macro",
-          "title": "Appian and IFC launch $1bn fund for critical minerals market",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/appian-ifc-launch-1bn-fund-091432031.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "36a3ee941ce1",
-          "time": "10:12",
-          "category": "Markets",
-          "title": "Clearpool (CPOOL) Breaks 2-Month High After Dual Listing on Upbit and Bithumb",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/clearpool-cpool-breaks-2-month-091245486.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e3a6c7660c5b",
-          "time": "10:10",
-          "category": "Markets",
-          "title": "Gold sags after flash crash, stocks bulls take a breather",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/gold-sags-flash-crash-stocks-091006798.html",
-          "tags": [],
-          "impact_score": 1
         }
       ]
     },
     {
       "date": "2025-10-21",
       "attention_points": [
-        "CRYPTO BOUNCES BACK, ALTCOINS BELOW FTX LEVELS, CPI THIS WEEK",
-        "Intuitive Surgical beats earnings estimates on strong demand for surgical robots"
+        "CRYPTO BOUNCES BACK, ALTCOINS BELOW FTX LEVELS, CPI THIS WEEK"
       ],
       "items": [
         {
@@ -1613,17 +1623,6 @@
           "url": "https://decrypt.co/videos/interviews/lY5ApB8F/crypto-bounces-back-altcoins-below-ftx-levels-cpi-this-week",
           "tags": [],
           "impact_score": 3
-        },
-        {
-          "id": "b50fde5f5c87",
-          "time": "21:43",
-          "category": "Earnings",
-          "title": "Intuitive Surgical beats earnings estimates on strong demand for surgical robots",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/intuitive-surgical-beats-earnings-estimates-204329658.html",
-          "tags": [],
-          "impact_score": 2
         }
       ]
     }
