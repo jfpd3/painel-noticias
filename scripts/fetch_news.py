@@ -37,16 +37,6 @@ CATEGORY_KEYWORDS = {
         "options","commodities","oil","gold","silver","treasuries","web3"
     ]
 }
-# score?
-score = 0
-t = (it["title"] + " " + it["summary"]).lower()
-if any(k in t for k in ["cpi","pce","fed","fomc","sec","cftc","ban","etf","collapse","lawsuit","bankruptcy"]):
-    score = 3
-elif any(k in t for k in ["btc","bitcoin","eth","ethereum","earnings","guidance","record","drop","surge"]):
-    score = 2
-else:
-    score = 1
-it["impact_score"] = score
 
 def guess_category(title: str, summary: str, source_name: str) -> str:
     text = f"{title} {summary} {source_name}".lower()
@@ -75,16 +65,15 @@ def should_ignore(title: str, link: str) -> bool:
 
     l = (link or "").lower()
 
-    # CoinDesk: ignora apenas hubs/listagens, não artigos normais
+    # CoinDesk: ignora hubs/listagens, não artigos normais
     if "coindesk.com" in l:
         if "/live/" in l:
             return True
-        # hubs comuns (categorias, autores, pesquisa, etc.)
+        # hubs comuns (categorias, autores, pesquisa, vídeo, etc.)
         if re.search(r"/(category|tags|video|videos|authors|search)(/|$)", l):
             return True
 
     return False
-
 
 # --------- Normalização de cada entrada ----------
 def normalize_item(entry: Any, feed_title: str) -> Tuple[Dict[str, Any], datetime]:
@@ -184,32 +173,57 @@ def main():
         if not should_ignore(it.get("title"), it.get("url"))
     ]
 
-    # enriquecer com categoria + tags
+    # enriquecer com categoria + tags + impact_score
     items_with_dt: List[Tuple[Dict[str,Any], datetime]] = []
     for it, dt, feed_title in filtered:
+        # categoria
         cat = guess_category(it["title"], it["summary"], it["source"] or feed_title)
         it["category"] = cat
+
+        # tags rápidas
+        t_title = (it["title"] or "").lower()
         tags = []
-        t = (it["title"] or "").lower()
-        if "bitcoin" in t or "btc" in t: tags.append("BTC")
-        if "ethereum" in t or "eth" in t: tags.append("ETH")
+        if "bitcoin" in t_title or "btc" in t_title: tags.append("BTC")
+        if "ethereum" in t_title or "eth" in t_title: tags.append("ETH")
         it["tags"] = tags
+
+        # ---------- impact score (3 = alto, 2 = médio, 1 = baixo) ----------
+        t_all = f'{it.get("title","")} {it.get("summary","")}'.lower()
+        if any(k in t_all for k in [
+            "cpi","pce","fed","fomc","sec","cftc","ban","etf","collapse","lawsuit",
+            "bankruptcy","halt","shutdown","tariff","default","treasury","yields"
+        ]):
+            it["impact_score"] = 3
+        elif any(k in t_all for k in [
+            "btc","bitcoin","eth","ethereum","earnings","guidance","record","drop",
+            "surge","plunge","rally","upgrade","downgrade"
+        ]):
+            it["impact_score"] = 2
+        else:
+            it["impact_score"] = 1
+        # -------------------------------------------------------------------
+
         items_with_dt.append((it, dt))
 
     # ordenar desc por data, dedupe e cap
     items_with_dt.sort(key=lambda x: x[1], reverse=True)
     items_with_dt = dedupe_keep_latest(items_with_dt)
     MAX_ITEMS = 1000
+    items_with_dt = items_with_dt[:MAX_ITEMS]  # aplica o limite
+
     # agrupar por dia (Lisboa)
     days_map: Dict[str, Dict[str, Any]] = {}
     for it, dt in items_with_dt:
         d_lis = dt.astimezone(TZ_LISBON).date().isoformat()
         bucket = days_map.setdefault(d_lis, {"date": d_lis, "attention_points": [], "items": []})
+
+        # não queremos time_iso no JSON final
+        it.pop("time_iso", None)
         bucket["items"].append(it)
 
-    # ordenar itens por hora e preencher 3 pontos de atenção não vazios
+    # ordenar itens por impacto + hora e preencher os 3 pontos de atenção
     for d in days_map.values():
-        d["items"].sort(key=lambda x: (x.get("impact_score",0), x.get("time","00:00")), reverse=True)
+        d["items"].sort(key=lambda x: (x.get("impact_score", 0), x.get("time", "00:00")), reverse=True)
         for h in d["items"]:
             title_clean = (h.get("title") or "").strip()
             if title_clean:
@@ -233,4 +247,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
