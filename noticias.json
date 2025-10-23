@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T00:33+01:00",
+  "generated_at": "2025-10-24T00:45+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -1021,6 +1021,17 @@
           "impact_score": 3
         },
         {
+          "id": "13c224310058",
+          "time": "17:08",
+          "category": "Regulation",
+          "title": "FAT Brands and investors move to settle lawsuit over alleged misuse of company funds",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fat-brands-investors-move-settle-160838342.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "8f2fec6cf647",
           "time": "17:02",
           "category": "Regulation",
@@ -1188,6 +1199,17 @@
           "impact_score": 2
         },
         {
+          "id": "c0760be0e627",
+          "time": "17:08",
+          "category": "Markets",
+          "title": "BNB Chain News: 24B Slide, New Listings Defy the Drop",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bnb-chain-news-24b-slide-160836033.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "67e317a67a1d",
           "time": "17:00",
           "category": "Earnings",
@@ -1217,17 +1239,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/johnson-controls-quarterly-earnings-preview-155400894.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "5bc6b5b42ad8",
-          "time": "16:49",
-          "category": "Earnings",
-          "title": "Tesla Is Set To Report Earnings Today. Here's What You Need To Know.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/tesla-set-report-earnings-today-154950413.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1265,39 +1276,6 @@
           "impact_score": 2
         },
         {
-          "id": "1d6daef5b3f9",
-          "time": "16:14",
-          "category": "Earnings",
-          "title": "Capital One Stock Slashes Gains After Earnings Beat Teased Buy Point",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/capital-one-stock-earnings-q3-2025/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "6e09f4552f88",
-          "time": "16:12",
-          "category": "Earnings",
-          "title": "Trading, Dealmaking Lift Stifel Earnings. The Stock Is Rallying.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/advisor/articles/stifel-financial-stock-price-earnings-907babd5?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "9ecde0577568",
-          "time": "16:05",
-          "category": "Markets",
-          "title": "Is Beyond Meat the Next Meme Stock? What’s Behind the Rally.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/beyond-meat-meme-stock-price-0961d3c6?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "cfdb201d2a71",
           "time": "10:02",
           "category": "Crypto",
@@ -1329,6 +1307,28 @@
           "summary": "Senate Democrats and Republicans remain far apart on timeline and other key issues after flashy meetings with crypto leaders on Wednesday.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345503/big-gaps-remain-crypto-execs-meet-senators-market-structure-bill",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "adbdb6c1d7d0",
+          "time": "17:44",
+          "category": "Markets",
+          "title": "Sugar Prices Under Pressure as Global Supplies Increase",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/sugar-prices-under-pressure-global-164417442.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "17:40",
+          "category": "Markets",
+          "title": "Google Stock Climbs Amid Anthropic Cloud Talks, Quantum Advances",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/google-stock-anthropic-quantum-computing/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -1373,6 +1373,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/hard-conviction-lululemon-stock-now-161038507.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8d1c4eb1733f",
+          "time": "17:05",
+          "category": "Markets",
+          "title": "Wonder Bread maker names former Total Wine exec CFO",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/wonder-bread-maker-names-former-160522080.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1476,17 +1487,6 @@
           "impact_score": 1
         },
         {
-          "id": "2c75c095e3d0",
-          "time": "16:52",
-          "category": "Markets",
-          "title": "Can Travis Kelce Save Six Flags?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/travis-kelce-save-six-flags-155200691.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "18cbf9deb1d7",
           "time": "16:50",
           "category": "Markets",
@@ -1542,6 +1542,17 @@
           "impact_score": 1
         },
         {
+          "id": "b38bdc53435f",
+          "time": "16:31",
+          "category": "Markets",
+          "title": "7 costly first-time home buyer mistakes — and how to avoid them",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/first-time-home-buyer-mistakes-153128493.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "35b68bbc5c23",
           "time": "16:20",
           "category": "Markets",
@@ -1560,17 +1571,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-unexpected-decline-7d8394d6?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "30fc6b272cf8",
-          "time": "16:14",
-          "category": "Markets",
-          "title": "Beyond Meat and Gold Are Wall Street’s Odd Couple. It Must Be FOMO.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/beyond-meat-gold-stocks-fomo-rally-be74d3a2?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
