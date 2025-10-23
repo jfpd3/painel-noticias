@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-23T23:41+01:00",
+  "generated_at": "2025-10-23T23:51+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -1010,6 +1010,17 @@
           "impact_score": 3
         },
         {
+          "id": "a74eb442230c",
+          "time": "16:25",
+          "category": "Markets",
+          "title": "Gold extends Tuesday's tumble; stocks mostly lower as Netflix falls",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/gold-extends-tuesdays-tumble-stocks-152554501.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "abcac3d2f775",
           "time": "16:21",
           "category": "US Macro",
@@ -1021,6 +1032,19 @@
           "impact_score": 3
         },
         {
+          "id": "83dd0e9a89ea",
+          "time": "16:10",
+          "category": "Crypto",
+          "title": "BTC Reverses 3.5% Pump Ahead of CPI — Will Inflation Data Trigger a Crypto Comeback?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/btc-reverses-3-5-pump-151053273.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 3
+        },
+        {
           "id": "47fb3779d107",
           "time": "16:09",
           "category": "Crypto",
@@ -1028,6 +1052,17 @@
           "summary": "Crypto chop continues, tariff headlines dominate. ZEC breaks $300 before falling, leads altcoins. Waller signs Fed’s shift towards embracing crypto. ETH Foundation moves $654m ETH. BlackRock trying to pull in BTC whales to its ETFs. HK approves first SOL ETF. SOL ends support for",
           "source": "Decrypt",
           "url": "https://decrypt.co/videos/interviews/2VMsivBC/crypto-chop-continues-gold-drops-draftkings-buys-prediction-market",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "a3a52759f0da",
+          "time": "16:06",
+          "category": "Earnings",
+          "title": "Netflix Tumbles After Q3 Earnings Miss. Is This Your Chance to Buy?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/netflix-tumbles-q3-earnings-miss-150656639.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1133,6 +1168,17 @@
           "impact_score": 2
         },
         {
+          "id": "b66e3be197ce",
+          "time": "16:28",
+          "category": "Earnings",
+          "title": "Tesla Earnings Today: What to Watch",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-tesla-earnings-10-22-2025/card/tesla-earnings-today-what-to-watch-lIyBwq4pxhTqFVEENuf7?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "1d6daef5b3f9",
           "time": "16:14",
           "category": "Earnings",
@@ -1140,6 +1186,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/news/capital-one-stock-earnings-q3-2025/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "c8fd4296ed69",
+          "time": "16:12",
+          "category": "Earnings",
+          "title": "Stock Market Today: Tesla and IBM Tumble After Earnings; Moderna Trial Misses",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/stock-market-today-stocks-decline-151233569.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1234,17 +1291,6 @@
           "impact_score": 2
         },
         {
-          "id": "cf3a3a7c7765",
-          "time": "15:51",
-          "category": "Markets",
-          "title": "Microsoft CEO Satya Nadella’s pay hits a record $96.5 million—he got a 22% pay raise mirroring the $4 trillion tech giant’s skyrocketing shares",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/microsoft-ceo-satya-nadella-pay-145147649.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "cac26982068d",
           "time": "15:38",
           "category": "Earnings",
@@ -1327,6 +1373,17 @@
           "impact_score": 1
         },
         {
+          "id": "124465f7192b",
+          "time": "16:32",
+          "category": "Markets",
+          "title": "Beyond Meat shares briefly sizzle on Walmart deal and meme stock interest",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/beyond-meat-shares-sizzle-walmart-153228209.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "35b68bbc5c23",
           "time": "16:20",
           "category": "Markets",
@@ -1360,6 +1417,28 @@
           "impact_score": 1
         },
         {
+          "id": "dd47aa0aec81",
+          "time": "16:07",
+          "category": "Markets",
+          "title": "Suze Orman: 5 Key Signs You’ve Made a Smart Investment",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/suze-orman-5-key-signs-150708057.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9ecabf31254c",
+          "time": "16:07",
+          "category": "Markets",
+          "title": "Cathie Wood sells $8 million of popular tech stock",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/cathie-wood-sells-8-million-150700435.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "60957e6d16e9",
           "time": "16:00",
           "category": "Markets",
@@ -1378,39 +1457,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/andreessen-horowitz-says-crypto-entered-150000837.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "7a699c2be55c",
-          "time": "15:58",
-          "category": "Markets",
-          "title": "Is Nigeria’s eNaira Dead? CBN Forms New Task Force for Official Stablecoin",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nigeria-enaira-dead-cbn-forms-145827147.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "04caef92ea6b",
-          "time": "15:57",
-          "category": "Crypto",
-          "title": "Why Is Crypto Down Today? – October 22, 2025",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-crypto-down-today-october-145735344.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c52a73664c0d",
-          "time": "15:57",
-          "category": "Markets",
-          "title": "LTA Auto Group makes first Northern California acquisition",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/lta-auto-group-makes-first-145700059.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1510,50 +1556,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/uk-data-centre-spend-soar-142702869.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e9598ad7288a",
-          "time": "15:12",
-          "category": "Markets",
-          "title": "Beyond Meat, Inc. (BYND) Has 70% Upside Potential If It Follows Opendoor Technologies’ (OPEN) Path",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/beyond-meat-inc-bynd-70-141224256.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "15:07",
-          "category": "Markets",
-          "title": "Home Depot: How To Find & Own America's Greatest Opportunities",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/how-to-invest/home-depot-hd-stock-americas-greatest-opportunities/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0558c27091fd",
-          "time": "15:06",
-          "category": "Markets",
-          "title": "Stocks Pressured as Texas Instruments Drags Chipmakers Lower",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stocks-pressured-texas-instruments-drags-140647443.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "aa88d0b05fc3",
-          "time": "15:06",
-          "category": "Earnings",
-          "title": "B2PRIME Welcomes Emanuel Georgouras as CRO to Drive Institutional Growth and Revenue Strategy",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/b2prime-welcomes-emanuel-georgouras-cro-140621293.html",
           "tags": [],
           "impact_score": 1
         },
