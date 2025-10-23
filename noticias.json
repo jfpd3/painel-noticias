@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-23T19:52+01:00",
+  "generated_at": "2025-10-23T20:25+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -456,6 +456,17 @@
           "url": "https://decrypt.co/345576/crypto-adoption-australia-stalls-trust-drops-labors-push-regulation",
           "tags": [],
           "impact_score": 2
+        },
+        {
+          "id": "a06484d1a949",
+          "time": "20:23",
+          "category": "Crypto",
+          "title": "Canada Hits Crypto Firm With $126 Million Fine",
+          "summary": "Cryptomus has been fined $126 million for failing to report thousands of high-risk transactions tied to child abuse, ransomware, and Iran-linked transfers.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345719/canada-hits-crypto-firm-with-126-million-fine",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "6fdf90f34003",
@@ -1037,6 +1048,50 @@
           "impact_score": 3
         },
         {
+          "id": "a2c31866b135",
+          "time": "10:30",
+          "category": "Markets",
+          "title": "Hang Seng Bank appoints Somerley Capital to assess HSBC's buyout offer",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/hang-seng-bank-appoints-somerley-093000332.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "3d961f015eab",
+          "time": "10:30",
+          "category": "Crypto",
+          "title": "Crypto Trading Firm FalconX to Acquire ETF Manager 21shares",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/finance/currencies/crypto-trading-firm-falconx-to-buy-etf-manager-21shares-f77cb4d3?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "510bf0b2b010",
+          "time": "10:30",
+          "category": "Crypto",
+          "title": "Hong Kong approves first Solana ETF, ahead of the US, amid moves to embrace crypto",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/hong-kong-approves-first-solana-093000841.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "f3214d4a5637",
+          "time": "10:30",
+          "category": "Regulation",
+          "title": "Citic Securities rides Hong Kong's IPO wave, sponsoring dozens of firms seeking listings",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/citic-securities-rides-hong-kongs-093000337.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "57421aca13c7",
           "time": "10:17",
           "category": "Regulation",
@@ -1044,28 +1099,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/mizuho-securities-reduces-pt-mercadolibre-091722278.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "897d0f9b526a",
-          "time": "10:08",
-          "category": "Markets",
-          "title": "Indonesia’s Central Bank Surprises With Rate Hold",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/indonesias-central-bank-surprises-with-rate-hold-4bd02b29?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "4fd26f8f0a8f",
-          "time": "09:43",
-          "category": "Crypto",
-          "title": "Sen. Lummis Pushes US Regulator to Finalize Open Banking Rule Backing Crypto",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/sen-lummis-pushes-us-regulator-084338173.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1177,90 +1210,13 @@
           "impact_score": 2
         },
         {
-          "id": "09ee7e44cb56",
-          "time": "09:45",
-          "category": "Earnings",
-          "title": "What to Expect From TKO Group's Next Quarterly Earnings Report",
+          "id": "c7fd63f350c5",
+          "time": "10:11",
+          "category": "Crypto",
+          "title": "Gold Price Drop? Why Is Gold Rugging Like a Sh*tcoin On The Solana Network?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/expect-tko-groups-next-quarterly-084514392.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "3ea6c1abe07f",
-          "time": "09:39",
-          "category": "Earnings",
-          "title": "What You Need to Know Ahead of STERIS’ Earnings Release",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/know-ahead-steris-earnings-release-083958032.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "881938da52c0",
-          "time": "09:33",
-          "category": "Earnings",
-          "title": "What to Expect From Humana's Q3 2025 Earnings Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/expect-humanas-q3-2025-earnings-083322026.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "864053ffce68",
-          "time": "09:30",
-          "category": "Earnings",
-          "title": "What You Need to Know Ahead of Sempra’s Earnings Release",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/know-ahead-sempra-earnings-release-083057275.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "471b9be08c4b",
-          "time": "09:24",
-          "category": "Earnings",
-          "title": "Match Group’s Q3 2025 Earnings: What to Expect",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/match-group-q3-2025-earnings-082456007.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "6b26ebd69f6e",
-          "time": "09:19",
-          "category": "Earnings",
-          "title": "What to Expect From Howmet Aerospace’s Next Quarterly Earnings Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/expect-howmet-aerospace-next-quarterly-081959915.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "2e2207c0133e",
-          "time": "09:15",
-          "category": "Earnings",
-          "title": "CVS Health’s Quarterly Earnings Preview: What You Need to Know",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cvs-health-quarterly-earnings-preview-081503742.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "161872564a5c",
-          "time": "09:13",
-          "category": "Earnings",
-          "title": "Earnings Preview: What to Expect From Corteva's Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/earnings-preview-expect-cortevas-report-081313067.html",
+          "url": "https://finance.yahoo.com/news/gold-price-drop-why-gold-091107468.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1283,6 +1239,149 @@
           "summary": "Roaring Kitty and meme stock traders pushed GameStop (GME) to unprecedented highs in 2021. Can history repeat with Beyond Meat (BYND)?",
           "source": "Decrypt",
           "url": "https://decrypt.co/345425/forget-gamestop-meme-stock-traders-pumping-beyond-meat",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a8a39803ab32",
+          "time": "10:30",
+          "category": "Markets",
+          "title": "PetroChina unit first to reincorporate in Hong Kong under re-domiciliation law",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/petrochina-unit-first-reincorporate-hong-093000773.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "04ae5b1fe1fc",
+          "time": "10:30",
+          "category": "Markets",
+          "title": "HKEX vets 300 listing applications after city becomes the world's largest IPO market",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/hkex-vets-300-listing-applications-093000344.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0294d39fb822",
+          "time": "10:30",
+          "category": "Markets",
+          "title": "Is the Flurry of Circular AI Deals a Win-Win—or Sign of a Bubble?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/tech/ai/is-the-flurry-of-circular-ai-deals-a-win-winor-sign-of-a-bubble-8a2d70c5?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "50b25550b7cd",
+          "time": "10:30",
+          "category": "Markets",
+          "title": "Nexperia crisis: how US-China tensions disrupt a global chip supply chain",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/nexperia-crisis-us-china-tensions-093000824.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7d46caf0db6b",
+          "time": "10:30",
+          "category": "Markets",
+          "title": "Director of Hong Kong-listed FSM Holdings resigns amid Cambodian crime allegations",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/director-hong-kong-listed-fsm-093000609.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "900979a7be17",
+          "time": "10:28",
+          "category": "Markets",
+          "title": "NTT DATA announces acquisition of Alchemy Technology Services",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ntt-data-announces-acquisition-alchemy-092803196.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "52e93c28bf25",
+          "time": "10:24",
+          "category": "Markets",
+          "title": "Sitma USA expands alliance with Ricoh",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/sitma-usa-expands-alliance-ricoh-092441586.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9148535963df",
+          "time": "10:22",
+          "category": "Markets",
+          "title": "Barrick’s Mali gold mine resumes operations under state control",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/barrick-mali-gold-mine-resumes-092212285.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6d61ab042175",
+          "time": "10:21",
+          "category": "Markets",
+          "title": "Warren Buffett once explained what he'd do to turn $10K into a fortune if he were a new investor",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/warren-buffett-once-explained-hed-092100616.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "fa242e633163",
+          "time": "10:20",
+          "category": "Earnings",
+          "title": "TI shares slide as bleak outlook signals prolonged chip market slump",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ti-shares-slide-bleak-outlook-092031619.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8baeec157c8e",
+          "time": "10:20",
+          "category": "Markets",
+          "title": "Jim Cramer on Procter & Gamble: “You’ll Want to Own the Stock Ahead of Time”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-procter-gamble-ll-092016372.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b67e047f2652",
+          "time": "10:20",
+          "category": "Markets",
+          "title": "Jim Cramer on Ford: “The Stock Could Slip Below 11”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-ford-stock-could-092015146.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "59dd071d1109",
+          "time": "10:20",
+          "category": "Earnings",
+          "title": "Jim Cramer on Blackstone: “I Think We’ll See a Particularly Strong Quarter”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-blackstone-think-ll-092013955.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1316,6 +1415,28 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/jim-cramer-says-international-business-092007814.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7667ff33d554",
+          "time": "10:20",
+          "category": "Markets",
+          "title": "Jim Cramer on Tesla CEO: “He Will Dazzle the Faithful”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-tesla-ceo-dazzle-092006853.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "91c1a141b397",
+          "time": "10:20",
+          "category": "Markets",
+          "title": "3 Consumer Goods Buys That Wall Street Loves",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/3-consumer-goods-buys-wall-092000190.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1430,6 +1551,39 @@
           "impact_score": 1
         },
         {
+          "id": "cd3ed3a0fa0e",
+          "time": "10:15",
+          "category": "Markets",
+          "title": "If I Could Only Buy and Hold a Single Stock, This Would Be It",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/could-only-buy-hold-single-091500998.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ef2d8dfa2b82",
+          "time": "10:14",
+          "category": "US Macro",
+          "title": "Appian and IFC launch $1bn fund for critical minerals market",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/appian-ifc-launch-1bn-fund-091432031.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "36a3ee941ce1",
+          "time": "10:12",
+          "category": "Markets",
+          "title": "Clearpool (CPOOL) Breaks 2-Month High After Dual Listing on Upbit and Bithumb",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/clearpool-cpool-breaks-2-month-091245486.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "e3a6c7660c5b",
           "time": "10:10",
           "category": "Markets",
@@ -1437,138 +1591,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/gold-sags-flash-crash-stocks-091006798.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "88c6e64c585c",
-          "time": "10:00",
-          "category": "Markets",
-          "title": "The Average Cost of a Family Health Insurance Plan Is Now $27,000",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/health/healthcare/the-average-cost-of-a-family-health-insurance-plan-is-now-27-000-9fe92b79?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0f5bb61d32cc",
-          "time": "09:50",
-          "category": "Crypto",
-          "title": "Is the Cryptocurrency XRP (Ripple) a Millionaire Maker?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cryptocurrency-xrp-ripple-millionaire-maker-085000404.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "d7d3335b5654",
-          "time": "09:48",
-          "category": "Markets",
-          "title": "TrueLayer signs agreement to acquire Zimpler",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/truelayer-signs-agreement-acquire-zimpler-084851760.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b793fabcc352",
-          "time": "09:48",
-          "category": "US Macro",
-          "title": "U.S. Futures, Global Markets Mixed; Sterling Slips After U.K. Inflation Data",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/investing/u-s-futures-global-markets-mixed-sterling-slips-after-u-k-inflation-data-8541b722?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "267ee77be5f2",
-          "time": "09:47",
-          "category": "Markets",
-          "title": "Galp to select partner for Namibia’s Mopane field by year-end",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/galp-select-partner-namibia-mopane-084720726.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "7247546586a1",
-          "time": "09:46",
-          "category": "Crypto",
-          "title": "Hong Kong Stock Exchange Tightens Scrutiny on Crypto Hoarding Vehicles: Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hong-kong-stock-exchange-tightens-084605171.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "13521b2a214b",
-          "time": "09:45",
-          "category": "Markets",
-          "title": "Your First $1,000 Investing Blueprint: A Simple Plan to Build Wealth Like Buffett",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/first-1-000-investing-blueprint-084500189.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c92ed1085677",
-          "time": "09:45",
-          "category": "US Macro",
-          "title": "With Warren Buffett Stepping Down in January, Is Berkshire Hathaway Still a Buy?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/warren-buffett-stepping-down-january-084500764.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4632986a9ce3",
-          "time": "09:44",
-          "category": "Markets",
-          "title": "Prediction: This Artificial Intelligence (AI) Stock Could Be the Next Trillion-Dollar Giant",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/prediction-artificial-intelligence-ai-stock-084400889.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b3b4494811e7",
-          "time": "09:43",
-          "category": "Markets",
-          "title": "Novo Nordisk shares fall as top investor drives board overhaul",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/novo-nordisk-shares-fall-top-084322993.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "badf1274e869",
-          "time": "09:37",
-          "category": "Markets",
-          "title": "Meta, Blue Owl Capital create JV for Hyperion data centre campus",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/meta-blue-owl-capital-create-083742192.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "30b583355f34",
-          "time": "09:12",
-          "category": "Markets",
-          "title": "L’Oreal Shares Fall After Sales Miss Expectations",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/earnings/loreal-shares-fall-after-sales-miss-expectations-a5de4a05?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         }
