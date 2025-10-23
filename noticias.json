@@ -1,15 +1,50 @@
 {
-  "generated_at": "2025-10-23T18:38+01:00",
+  "generated_at": "2025-10-23T18:45+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-23",
       "attention_points": [
-        "3 secrets about Medicare that experts want you to know",
-        "Hasbro's tariff battle could make playtime pricier",
-        "FBS: The Market Learns to Move Without the Fed"
+        "Woman Thinks Reverse Mortgages Are a Scam, but 'My Husband is Sucked in and Is Pushing Really Hard to Do It'",
+        "Swiss Crypto Bank AMINA Taps Tokeny to Build Compliant 'Bridge' for Asset Tokenization",
+        "Republic Technologies Raises $100 Million to Expand Validator-Backed Ethereum Treasury"
       ],
       "items": [
+        {
+          "id": "87b0db03f375",
+          "time": "18:31",
+          "category": "Markets",
+          "title": "Woman Thinks Reverse Mortgages Are a Scam, but 'My Husband is Sucked in and Is Pushing Really Hard to Do It'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/woman-thinks-reverse-mortgages-scam-173104318.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "27f175e316e9",
+          "time": "18:20",
+          "category": "Crypto",
+          "title": "Swiss Crypto Bank AMINA Taps Tokeny to Build Compliant 'Bridge' for Asset Tokenization",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/business/2025/10/23/swiss-crypto-bank-amina-taps-tokeny-to-build-compliant-bridge-for-asset-tokenization",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "9a6298001823",
+          "time": "18:19",
+          "category": "Crypto",
+          "title": "Republic Technologies Raises $100 Million to Expand Validator-Backed Ethereum Treasury",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/republic-technologies-raises-100-million-171929137.html",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 3
+        },
         {
           "id": "4ace6bda7c8c",
           "time": "17:31",
@@ -62,17 +97,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/oil-jumps-russia-sanctions-stocks-155846964.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "a0480f308529",
-          "time": "16:57",
-          "category": "Regulation",
-          "title": "Apple loses UK lawsuit over app store commissions",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/apple-loses-uk-lawsuit-over-155741116.html",
           "tags": [],
           "impact_score": 3
         },
@@ -228,17 +252,6 @@
           "impact_score": 3
         },
         {
-          "id": "d2505c42019c",
-          "time": "07:09",
-          "category": "Crypto",
-          "title": "WazirX to Restart Trading on Friday After $230M Hack Caused Year-Long Shutdown",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/23/wazirx-to-restart-trading-on-friday-after-usd230m-hack-caused-year-long-shutdown",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "06861cb04301",
           "time": "06:50",
           "category": "Crypto",
@@ -287,6 +300,50 @@
           "impact_score": 2
         },
         {
+          "id": "1d6daef5b3f9",
+          "time": "18:27",
+          "category": "Markets",
+          "title": "Super Micro Computer Stock Drops As Projects Delayed",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/smci-stock-drops-supermicro-projects-delayed/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "fb1f5fa0b187",
+          "time": "18:14",
+          "category": "Earnings",
+          "title": "Tri Pointe (TPH) Q3 2025 Earnings Call Transcript",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/tri-pointe-tph-q3-2025-171400457.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "904269b23f02",
+          "time": "18:09",
+          "category": "Earnings",
+          "title": "Euronet (EEFT) Q3 2025 Earnings Call Transcript",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/euronet-eeft-q3-2025-earnings-170945878.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "a69401a5fa4a",
+          "time": "18:01",
+          "category": "Earnings",
+          "title": "FTI Consulting (FCN) Q3 2025 Earnings Transcript",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fti-consulting-fcn-q3-2025-170138165.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "5454d60e87b3",
           "time": "18:01",
           "category": "Crypto",
@@ -307,17 +364,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/oil-surges-5-us-sanctions-165751219.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "8cadaf824d9d",
-          "time": "17:53",
-          "category": "Earnings",
-          "title": "IBM Beat Sales and Earnings Estimates. Here's Why Its Stock Is Falling Anyway",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ibm-beat-sales-earnings-estimates-165303246.html",
           "tags": [],
           "impact_score": 2
         },
@@ -592,6 +638,17 @@
           "impact_score": 2
         },
         {
+          "id": "7fb1a7c8f3c3",
+          "time": "18:24",
+          "category": "Markets",
+          "title": "Prada Group CEO Andrea Guerra on Potential Growth as Sales Top 4B Euros",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/prada-group-ceo-andrea-guerra-172426727.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "721eccff1ada",
           "time": "18:16",
           "category": "Markets",
@@ -636,39 +693,6 @@
           "impact_score": 1
         },
         {
-          "id": "91241813c60b",
-          "time": "18:00",
-          "category": "Markets",
-          "title": "George Kamel Reacts To the Worst Online Tax Advice",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/george-kamel-reacts-worst-online-170008389.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ec75f1588ec7",
-          "time": "18:00",
-          "category": "Markets",
-          "title": "See the pitch deck this AI studio used to raise $12 million to become the 'Y Combinator for IP'",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/see-pitch-deck-ai-studio-170001288.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "82481a28408e",
-          "time": "17:53",
-          "category": "Markets",
-          "title": "Roche in ongoing discussions with US government over drug pricing, CEO says",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/roche-ongoing-discussions-us-government-165332078.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "2893cca9d5f0",
           "time": "17:49",
           "category": "Markets",
@@ -702,17 +726,6 @@
           "impact_score": 1
         },
         {
-          "id": "812fb16838e8",
-          "time": "17:45",
-          "category": "US Macro",
-          "title": "There's No End in Sight For High Mortgage Rates",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/theres-no-end-sight-high-164508219.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "4802988f7d99",
           "time": "17:44",
           "category": "Markets",
@@ -720,17 +733,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/oil-futures-return-structure-signalling-164455403.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "a129a334d348",
-          "time": "17:40",
-          "category": "Markets",
-          "title": "Cathie Wood buys $21.3 million worth of Robinhood shares",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cathie-wood-buys-21-3-164027386.html",
           "tags": [],
           "impact_score": 1
         },
