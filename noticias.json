@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T00:45+01:00",
+  "generated_at": "2025-10-24T00:56+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -1043,39 +1043,6 @@
           "impact_score": 3
         },
         {
-          "id": "5efc6718ea92",
-          "time": "16:59",
-          "category": "Markets",
-          "title": "SoftBank Launches $2.9 Billion Bond Sale Amid Firm’s AI Bets",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/softbank-launches-2-9-billion-155941859.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "a74eb442230c",
-          "time": "16:25",
-          "category": "Markets",
-          "title": "Gold extends Tuesday's tumble; stocks mostly lower as Netflix falls",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/gold-extends-tuesdays-tumble-stocks-152554501.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "abcac3d2f775",
-          "time": "16:21",
-          "category": "US Macro",
-          "title": "The Nasdaq Is Dropping. Small-Cap, Momentum, and Risk ETFs Are Getting Slammed.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102225/card/the-nasdaq-is-dropping-small-cap-momentum-and-risk-etfs-are-getting-slammed--xiCafMzkAxjaWtV5O4fm?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "47fb3779d107",
           "time": "16:09",
           "category": "Crypto",
@@ -1167,6 +1134,28 @@
         },
         {
           "id": "1d6daef5b3f9",
+          "time": "17:54",
+          "category": "Earnings",
+          "title": "Amazon Pre-Earnings Trade Strategy Offers A Quick Return Or Discounted Stock Ownership",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/research/options/amazon-pre-earnings-trade-strategy-offers-a-quick-return-or-discounted-stock-ownership/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "217b3f5aedbd",
+          "time": "17:45",
+          "category": "Earnings",
+          "title": "Fair Isaac's Quarterly Earnings Preview: What You Need to Know",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fair-isaacs-quarterly-earnings-preview-164515995.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "1d6daef5b3f9",
           "time": "17:34",
           "category": "Earnings",
           "title": "Will This Drug Stock Explode After Earnings As It Did Last Quarter?",
@@ -1206,17 +1195,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/bnb-chain-news-24b-slide-160836033.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "67e317a67a1d",
-          "time": "17:00",
-          "category": "Earnings",
-          "title": "When does Tesla report earnings? Release time, how to tune in",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/does-tesla-report-earnings-release-160044815.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1311,6 +1289,39 @@
           "impact_score": 1
         },
         {
+          "id": "4b360ca9f9db",
+          "time": "17:55",
+          "category": "Markets",
+          "title": "Joe Duran’s Rise Growth Partners Takes Stake in $4 Billion St. Louis Advisory Firm",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/advisor/articles/joe-duran-rise-growth-partners-krilogy-minority-stake-4e5f5267?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9a55c96915b4",
+          "time": "17:50",
+          "category": "Markets",
+          "title": "HSG, Jane Street among investors in Kraken's September fundraising, sources say",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/hsg-jane-street-among-investors-165038658.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f0d20c5e21fe",
+          "time": "17:45",
+          "category": "Markets",
+          "title": "2026 FreightTech 25 winners revealed onstage at F3",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/2026-freighttech-25-winners-revealed-164500364.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "adbdb6c1d7d0",
           "time": "17:44",
           "category": "Markets",
@@ -1344,6 +1355,28 @@
           "impact_score": 1
         },
         {
+          "id": "5cb89e68c6bd",
+          "time": "17:27",
+          "category": "Markets",
+          "title": "The ‘quiet alarm bell’ on U.S. health costs: Employers are backed into a corner, and workers are paying the price",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/quiet-alarm-bell-u-health-162733422.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5e4a6b64ded0",
+          "time": "17:24",
+          "category": "Markets",
+          "title": "10 Ways Smart People Save Money When Buying a New Car",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/10-ways-smart-people-save-140020380.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "31bad0bf1eab",
           "time": "17:23",
           "category": "Markets",
@@ -1351,6 +1384,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/cleanspark-moves-ai-buy-clsk-162358863.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3b868de5a8a0",
+          "time": "17:23",
+          "category": "Markets",
+          "title": "Microsoft CEO Satya Nadella gets a $17 million pay raise",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/microsoft-ceo-satya-nadella-gets-162334554.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1395,17 +1439,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/ai-agents-radically-changing-world-160300484.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8d209d088bb7",
-          "time": "17:01",
-          "category": "Markets",
-          "title": "Intuitive Surgical's Stock Jumps As Demand for Robotic Procedures Rises",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/intuitive-surgicals-stock-jumps-demand-160144829.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1461,17 +1494,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/research/ibd-stock-of-the-day/embraer-stock-buy-point-unprecedented-backlog/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "a316594caf0b",
-          "time": "16:55",
-          "category": "Earnings",
-          "title": "Kraken Reports $648M Revenue for Q3, Up 50% From Last Quarter",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/kraken-reports-648m-revenue-q3-155510671.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1549,28 +1571,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/first-time-home-buyer-mistakes-153128493.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "35b68bbc5c23",
-          "time": "16:20",
-          "category": "Markets",
-          "title": "Stocks Slide on Weakness in Chipmakers",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stocks-slide-weakness-chipmakers-152055359.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "53eea0702ab1",
-          "time": "16:18",
-          "category": "Markets",
-          "title": "U.S. Crude Oil Stockpiles Post Unexpected Decline",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-unexpected-decline-7d8394d6?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
