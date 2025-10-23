@@ -1,13 +1,13 @@
 {
-  "generated_at": "2025-10-23T18:56+01:00",
+  "generated_at": "2025-10-23T19:00+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-23",
       "attention_points": [
         "Woman Thinks Reverse Mortgages Are a Scam, but 'My Husband is Sucked in and Is Pushing Really Hard to Do It'",
-        "Republic Technologies Raises $100 Million to Expand Validator-Backed Ethereum Treasury",
-        "3 secrets about Medicare that experts want you to know"
+        "Swiss Crypto Bank AMINA Taps Tokeny to Build Compliant 'Bridge' for Asset Tokenization",
+        "Republic Technologies Raises $100 Million to Expand Validator-Backed Ethereum Treasury"
       ],
       "items": [
         {
@@ -18,6 +18,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/woman-thinks-reverse-mortgages-scam-173104318.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "27f175e316e9",
+          "time": "18:20",
+          "category": "Crypto",
+          "title": "Swiss Crypto Bank AMINA Taps Tokeny to Build Compliant 'Bridge' for Asset Tokenization",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/business/2025/10/23/swiss-crypto-bank-amina-taps-tokeny-to-build-compliant-bridge-for-asset-tokenization",
           "tags": [],
           "impact_score": 3
         },
@@ -86,17 +97,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/oil-jumps-russia-sanctions-stocks-155846964.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "a0480f308529",
-          "time": "16:57",
-          "category": "Regulation",
-          "title": "Apple loses UK lawsuit over app store commissions",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/apple-loses-uk-lawsuit-over-155741116.html",
           "tags": [],
           "impact_score": 3
         },
@@ -249,17 +249,6 @@
           "tags": [
             "BTC"
           ],
-          "impact_score": 3
-        },
-        {
-          "id": "d2505c42019c",
-          "time": "07:09",
-          "category": "Crypto",
-          "title": "WazirX to Restart Trading on Friday After $230M Hack Caused Year-Long Shutdown",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/23/wazirx-to-restart-trading-on-friday-after-usd230m-hack-caused-year-long-shutdown",
-          "tags": [],
           "impact_score": 3
         },
         {
@@ -887,6 +876,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/research/travere-therapeutics-stock-tvtx-stock-buy-point/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "87bd737ce7a2",
+          "time": "16:57",
+          "category": "Markets",
+          "title": "Former Biden Adviser Explains What Concerns Him About NVIDIA (NVDA)-Led AI ‘Bubble’",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/former-biden-adviser-explains-concerns-155742889.html",
           "tags": [],
           "impact_score": 1
         },
