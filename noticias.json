@@ -1,15 +1,37 @@
 {
-  "generated_at": "2025-10-23T21:57+01:00",
+  "generated_at": "2025-10-23T22:31+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-23",
       "attention_points": [
-        "Pave Bank raises $39M led by Accel, Tether to expand programmable banking",
-        "The Crypto Industry Must Evolve to Match Real-World Security Risks",
-        "Spark marks first major rotation from US Treasurys into regulated DeFi"
+        "OpenAI's ChatGPT Atlas Browser Has a Big Problem—How Crypto Users Can Protect Themselves",
+        "Despite gov’t shutdown, crypto market structure bill ‘90% there’ — Coinbase CEO",
+        "Pave Bank raises $39M led by Accel, Tether to expand programmable banking"
       ],
       "items": [
+        {
+          "id": "e321fce3b972",
+          "time": "22:20",
+          "category": "Crypto",
+          "title": "OpenAI's ChatGPT Atlas Browser Has a Big Problem—How Crypto Users Can Protect Themselves",
+          "summary": "OpenAI's AI web browser faces prompt injection attacks that security experts call an unsolved problem—but there are some things you can do to be safe.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345733/openai-chatgpt-atlas-browser-big-problem-how-crypto-users-protect-themselves",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "7d60aa2aab13",
+          "time": "22:10",
+          "category": "Crypto",
+          "title": "Despite gov’t shutdown, crypto market structure bill ‘90% there’ — Coinbase CEO",
+          "summary": "The remaining “10%” of issues center mainly on DeFi, which Brian Armstrong says lawmakers are addressing carefully to preserve innovation.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/brian-armstrong-senate-crypto-legislation-genius-act-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "d809e4ff039e",
           "time": "21:06",
@@ -191,19 +213,6 @@
           "url": "https://cointelegraph.com/news/bitcoin-etf-inflows-risks-btc-price-level-bitfinex-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
-          ],
-          "impact_score": 3
-        },
-        {
-          "id": "06861cb04301",
-          "time": "06:50",
-          "category": "Crypto",
-          "title": "ARK Invest-backed firm becomes largest ETH hoarder outside the US",
-          "summary": "ARK Invest-backed Quantum Solutions is now the largest Ether treasury outside of the US and has a 100,000 ETH treasury target.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/ark-invest-backs-largest-eth-treasury-outside-the-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [
-            "ETH"
           ],
           "impact_score": 3
         },
@@ -1054,6 +1063,17 @@
           "impact_score": 3
         },
         {
+          "id": "1d6daef5b3f9",
+          "time": "14:36",
+          "category": "Markets",
+          "title": "Gold Prices Keep Falling After Worst Loss In 12 Years; These ETFs, Miners Extend Losses",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/gold-prices-suffer-worst-loss-in-12-years-etfs-miners-plunge/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "64ff76e9ca97",
           "time": "13:45",
           "category": "Crypto",
@@ -1065,35 +1085,13 @@
           "impact_score": 3
         },
         {
-          "id": "eb18907beca7",
-          "time": "13:36",
+          "id": "f586d6f0863a",
+          "time": "13:08",
           "category": "Crypto",
-          "title": "This Fed Proposal Could Push DeFi TVL 10X To Over $1T In 15 Months",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/fed-proposal-could-push-defi-123624035.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "dd8c9376655e",
-          "time": "13:24",
-          "category": "Crypto",
-          "title": "Crypto trading firm FalconX to buy 21shares in ETF push",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/crypto-trading-firm-falconx-buy-122443431.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "3824af7b473e",
-          "time": "13:15",
-          "category": "Markets",
-          "title": "Michigan couple moved in with family to save, but husband has blown $46K on ‘toys’ — what Ramsey Show hosts say to do",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/michigan-couple-moved-family-save-121500590.html",
+          "title": "Solana Gets Its First Spot ETF as Hong Kong Opens the Door to Altcoin Funds",
+          "summary": "Hong Kong approves its first-ever Solana spot ETF, issued by ChinaAMC. It is the third crypto spot ETF in Hong Kong after Bitcoin and Ethereum. ...",
+          "source": "Crypto News RSS | CCN.com",
+          "url": "https://www.ccn.com/news/crypto/solana-first-spot-etf-hong-kong-opens-to-altcoin-funds/",
           "tags": [],
           "impact_score": 3
         },
@@ -1105,6 +1103,17 @@
           "summary": "Crypto Dips Despite Continue Strength in Stocks. Another $320m of Liquidations in Drop. Fed to Host Crypto Innovation Conference Today. Strategy Bought $19m Btc, Bitmine Buys $251m Eth. Coinbase Buys Cobie’s Echo for $375m. Coinbase Buys Cobie’s Up Only Nft for $25m. Sol Co-found",
           "source": "Decrypt",
           "url": "https://decrypt.co/videos/interviews/OCWVFPCp/crypto-falls-fed-crypto-conference-today-coinbase-acquires-echo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "83d15111de87",
+          "time": "11:32",
+          "category": "Crypto",
+          "title": "Asia’s Top Stock Exchanges Crack Down on Crypto DATs, Blocking Listings",
+          "summary": "Asia’s leading stock exchanges tighten scrutiny on crypto treasury firms amid rising risks. Hong Kong, Australia, and India are blocking listings linked to digital asset ...",
+          "source": "Crypto News RSS | CCN.com",
+          "url": "https://www.ccn.com/news/crypto/asias-stock-exchanges-crack-down-crypto-dats-blocking-listings/",
           "tags": [],
           "impact_score": 3
         },
@@ -1157,79 +1166,103 @@
           "impact_score": 2
         },
         {
-          "id": "49422a32c38a",
-          "time": "17:03",
+          "id": "996553527d50",
+          "time": "14:19",
+          "category": "Markets",
+          "title": "Beyond Meat Surges on Expanded Distribution at Walmart",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/beyond-meat-surges-expanded-distribution-154010369.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "4ef0620dfd6f",
+          "time": "14:13",
+          "category": "Earnings",
+          "title": "What to Expect From Cencora's Q4 2025 Earnings Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/expect-cencoras-q4-2025-earnings-131329926.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "b7520c0d24b9",
+          "time": "14:08",
+          "category": "Earnings",
+          "title": "Hilton and Delta earnings show luxury travel is booming",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/hilton-delta-results-show-luxury-130855409.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "3165b7d9d94d",
+          "time": "14:07",
+          "category": "Earnings",
+          "title": "Here's What to Expect From Trimble's Next Earnings Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/heres-expect-trimbles-next-earnings-130722293.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "5a899605a74d",
+          "time": "14:03",
+          "category": "Earnings",
+          "title": "IDEXX Laboratories (IDXX) Surged Following Strong Earnings",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/idexx-laboratories-idxx-surged-following-130327078.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "224cbbb7e7ba",
+          "time": "14:01",
+          "category": "Earnings",
+          "title": "What to Expect From Iron Mountain's Next Quarterly Earnings Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/expect-iron-mountains-next-quarterly-130101177.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "ece96772312d",
+          "time": "13:57",
+          "category": "Earnings",
+          "title": "What to Expect From Gilead Sciences' Next Quarterly Earnings Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/expect-gilead-sciences-next-quarterly-125713917.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "cfdb201d2a71",
+          "time": "10:02",
           "category": "Crypto",
-          "title": "NHL Becomes First Major Sports League to License Trademarks to Prediction Markets",
-          "summary": "The NHL's team-up with Polymarket and Kalshi arrives as prediction markets hit record $2 billion in weekly volume, led by sports activity.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345451/nhl-first-major-sports-league-license-trademarks-prediction-markets",
-          "tags": [],
+          "title": "Base’s Growth Head Rejects Parallels With Ethereum Developer Discontent",
+          "summary": "Xen Baynham-Herd, Head of Global Builders at Base, stated that he has seen no signs of frustration among developers building on Coinbase’s layer-2 network. Ethereum ...",
+          "source": "Crypto News RSS | CCN.com",
+          "url": "https://www.ccn.com/news/crypto/bases-growth-head-rejects-parallels-with-ethereum-developer-discontent/",
+          "tags": [
+            "ETH"
+          ],
           "impact_score": 2
         },
         {
-          "id": "4db8966cb6be",
-          "time": "13:51",
-          "category": "Earnings",
-          "title": "What to Expect From Pinnacle West Capital's Q3 2025 Earnings Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/expect-pinnacle-west-capitals-q3-125133492.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "a4485212483f",
-          "time": "13:49",
-          "category": "Earnings",
-          "title": "Take-Two Interactive Software's Quarterly Earnings Preview: What You Need to Know",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/two-interactive-softwares-quarterly-earnings-124927038.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "55502a07a82e",
-          "time": "13:46",
-          "category": "Earnings",
-          "title": "Here's What to Expect From Host Hotels & Resorts' Next Earnings Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/heres-expect-host-hotels-resorts-124609272.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "6a45f69c130a",
-          "time": "13:44",
-          "category": "Earnings",
-          "title": "CF Industries' Quarterly Earnings Preview: What You Need to Know",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cf-industries-quarterly-earnings-preview-124420492.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "c0b10b4aaef3",
-          "time": "13:43",
-          "category": "Earnings",
-          "title": "Hanmi (HAFC) Q3 2025 Earnings Call Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hanmi-hafc-q3-2025-earnings-124320368.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "f9bc9dabed7f",
-          "time": "13:37",
-          "category": "Earnings",
-          "title": "Here's What to Expect From Atmos Energy's Next Earnings Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/heres-expect-atmos-energys-next-123745809.html",
+          "id": "bc1737cc1424",
+          "time": "09:02",
+          "category": "Crypto",
+          "title": "Kadena Pulls the Plug: $268M Crypto Project Shutters Operations Amid Market Pain",
+          "summary": "Kadena will cease all business operations and active network maintenance. The blockchain will remain operational until miners and validators exit. Its native token, KDA, plunged ...",
+          "source": "Crypto News RSS | CCN.com",
+          "url": "https://www.ccn.com/news/crypto/kadena-pulls-plug-268m-crypto-project-shutters-market-pain/",
           "tags": [],
           "impact_score": 2
         },
@@ -1245,13 +1278,343 @@
           "impact_score": 1
         },
         {
-          "id": "0eb1695f9fc4",
-          "time": "13:56",
+          "id": "fafaa4641ea2",
+          "time": "14:38",
           "category": "Markets",
-          "title": "Jim Cramer Says NIO “Probably Goes to $10, Then You Have to Sell It”",
+          "title": "Here are the Reasons to Invest in OneMain Holdings (OMF)",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-nio-probably-125604012.html",
+          "url": "https://finance.yahoo.com/news/reasons-invest-onemain-holdings-omf-133815836.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4f87b1464460",
+          "time": "14:28",
+          "category": "Markets",
+          "title": "Here’s 1 Main Capital Partners’ Investment Thesis for Radiant Logistics (RLGT)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/1-main-capital-partners-investment-132840997.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e1efb8c6f058",
+          "time": "14:27",
+          "category": "Crypto",
+          "title": "UK regulator sues crypto exchange HTX over unlawful promotions",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/uk-regulator-sues-crypto-exchange-132706333.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "50861ce8cd95",
+          "time": "14:25",
+          "category": "Markets",
+          "title": "Volkswagen warns workers of potential stoppages as chip crunch looms",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/volkswagen-warns-workers-potential-stoppages-132520993.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6a87a9caff5a",
+          "time": "14:22",
+          "category": "Markets",
+          "title": "Here’s How Much a $1,000 Investment in Walmart Stock 55 Years Ago Would Be Worth Today",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/much-1-000-investment-walmart-132247562.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "346a7f9731fa",
+          "time": "14:21",
+          "category": "Markets",
+          "title": "Coca-Cola's Mini Can Rollout Is More Important Than You Think",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/coca-colas-mini-rollout-more-132100782.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "fbf0a0a85b62",
+          "time": "14:20",
+          "category": "Markets",
+          "title": "Here’s Why Gartner (IT) Traded Down in Q3",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-gartner-traded-down-q3-132024537.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "01171a6d8acb",
+          "time": "14:20",
+          "category": "Markets",
+          "title": "Barclays Assesses Credit Risks After $150 Million Tricolor Hit",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/finance/banking/barclays-upbeat-on-outlook-as-bank-moves-to-quarterly-buybacks-6de07820?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b1bcd2bc03cc",
+          "time": "14:20",
+          "category": "Markets",
+          "title": "Here’s a theory about why gold suffered its biggest one-day fall in more than 10 years, and it’s linked to the U.S. economy",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/theory-why-gold-suffered-biggest-132000450.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d7d14ddbc629",
+          "time": "14:19",
+          "category": "Markets",
+          "title": "Verisk Analytics (VRSK) Retreated in Q3 Following a Strong First Half",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/verisk-analytics-vrsk-retreated-q3-131904990.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "cec69863ec41",
+          "time": "14:16",
+          "category": "Markets",
+          "title": "Fourier Health Raises $8.4M To Automate Clinical Intake, Reduce Doctor Workload With Specialized AI",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fourier-health-raises-8-4m-131603583.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f93884db1edc",
+          "time": "14:15",
+          "category": "Markets",
+          "title": "Here’s What Pressured Fortinet (FTNT) in Q3",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/pressured-fortinet-ftnt-q3-131509067.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0bc64b43e5d7",
+          "time": "14:12",
+          "category": "Markets",
+          "title": "Here’s Why Conestoga Capital Advisors Sold its Stake in Factset Research Systems (FDS)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-conestoga-capital-advisors-sold-131238671.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "aa28cb0c8f72",
+          "time": "14:11",
+          "category": "Markets",
+          "title": "Midsona outlines restructuring plan to bolster profit margins",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/midsona-outlines-restructuring-plan-bolster-131123530.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e0d8d860e121",
+          "time": "14:10",
+          "category": "Markets",
+          "title": "See How Big Money Flows Keep Pushing Nextracker Higher",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/see-big-money-flows-keep-131050068.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a8141aec8f62",
+          "time": "14:10",
+          "category": "Markets",
+          "title": "Why Is Wall Street So Bullish on Oracle? There's 1 Key Reason.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-wall-street-bullish-oracle-131000526.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0b60f307d399",
+          "time": "14:09",
+          "category": "Markets",
+          "title": "Robust Demand Lifted Xylem (XYL) in Q3",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/robust-demand-lifted-xylem-xyl-130951453.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d423539f4d4e",
+          "time": "14:08",
+          "category": "Markets",
+          "title": "DraftKings Prediction Market App Will Focus on States Without Legal Sports Betting",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/draftkings-prediction-market-app-focus-130834695.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "35179918f232",
+          "time": "14:04",
+          "category": "Markets",
+          "title": "Fabrinet Up Almost 1,000% From Big Money Flows, See How",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fabrinet-almost-1-000-big-130445781.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1ce93346d12a",
+          "time": "14:00",
+          "category": "Markets",
+          "title": "Analyst Says This AI Stock Will ‘Break Out to New Highs’",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/analyst-says-ai-stock-break-130029869.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "69fbea1856ca",
+          "time": "14:00",
+          "category": "Markets",
+          "title": "Can Nvidia Stock Hit $300 in 2025?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/nvidia-stock-hit-300-2025-130002001.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ffff360ff33a",
+          "time": "14:00",
+          "category": "Markets",
+          "title": "Morgan Stanley Loves Nvidia Stock. The AMD-OpenAI Deal Doesn’t Change That.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/morgan-stanley-loves-nvidia-stock-130002349.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "779552f63cea",
+          "time": "14:00",
+          "category": "Earnings",
+          "title": "Palantir CEO Alex Karp Says Skeptics Have Been ‘Defanged’ and ‘Bent into Submission’ as Quarterly Revenue Passes $1 Billion",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/palantir-ceo-alex-karp-says-130002545.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a7e8d22c80d6",
+          "time": "14:00",
+          "category": "Markets",
+          "title": "GoodRx Stock Could Get a Major Trump Boost. Should You Buy It Here?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/goodrx-stock-could-major-trump-130002360.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d4d020c26f73",
+          "time": "14:00",
+          "category": "Markets",
+          "title": "Insiders Are Selling More CoreWeave Stock. Should You?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/insiders-selling-more-coreweave-stock-130002502.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "eda436990f4d",
+          "time": "14:00",
+          "category": "Markets",
+          "title": "How Do I Make My $2M IRA Last for the Rest of My Life at 67?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/im-67-2-million-ira-123000051.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "dc500abb941f",
+          "time": "13:59",
+          "category": "Markets",
+          "title": "Analyst Says Alphabet (GOOG) Becoming AI Leader Amid ‘Forced’ Innovation Away from ‘Drug of Monetization’",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/analyst-says-alphabet-goog-becoming-125922178.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "343a6bb1be33",
+          "time": "13:58",
+          "category": "Markets",
+          "title": "Should You Invest in Climb Global Solutions (CLMB)?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/invest-climb-global-solutions-clmb-125844477.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7b2a8f7f1a1d",
+          "time": "13:57",
+          "category": "Markets",
+          "title": "Applied Digital signs $5 billion AI infrastructure lease with hyperscaler",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/applied-digital-signs-5-billion-125702503.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f4c33a2bc8b5",
+          "time": "13:56",
+          "category": "Markets",
+          "title": "Jim Cramer on Lightwave Logic: “I Can’t Recommend It”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-lightwave-logic-t-125601841.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "45c7c7b9e773",
+          "time": "13:56",
+          "category": "Markets",
+          "title": "Jim Cramer on Recursion Pharmaceuticals: “Now, It’s a Meme Stock”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-recursion-pharmaceuticals-now-125600165.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1267,50 +1630,6 @@
           "impact_score": 1
         },
         {
-          "id": "f8db60975ece",
-          "time": "13:55",
-          "category": "Markets",
-          "title": "Jim Cramer on Ulta: “It Sounds Like a Terrific Story”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-ulta-sounds-terrific-125557155.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "7e5d420e7fe6",
-          "time": "13:55",
-          "category": "Markets",
-          "title": "Jim Cramer Says “You’re in Fantastic Shape Owning Goldman”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-fantastic-shape-125555372.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5970445c6b41",
-          "time": "13:55",
-          "category": "Markets",
-          "title": "Jim Cramer Says Oklo Has “Just Gone Too Far, Too Fast”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-oklo-just-125553546.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "52c00dab1990",
-          "time": "13:55",
-          "category": "Earnings",
-          "title": "Jim Cramer Notes American Express’ Strong Results",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-notes-american-express-125552586.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "bfc19f4fddee",
           "time": "13:55",
           "category": "Markets",
@@ -1322,288 +1641,57 @@
           "impact_score": 1
         },
         {
-          "id": "da76d10da52d",
-          "time": "13:55",
-          "category": "Markets",
-          "title": "Jim Cramer Explains Why People Should Own Not Trade Apple",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-explains-why-people-125546565.html",
+          "id": "c62fbccb2b22",
+          "time": "12:02",
+          "category": "Crypto",
+          "title": "US Leads Crypto Push as Britain ‘Getting Battered and Bruised,’ Says Animoca Exec",
+          "summary": ". Xen Baynham-Herd, Head of Global Builders at Base, stated that he has seen no signs of frustration among developers building on Coinbase’s layer-2 network. ...",
+          "source": "Crypto News RSS | CCN.com",
+          "url": "https://www.ccn.com/news/crypto/us-crypto-push-uk-getting-battered-bruised-animoca/",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "96472f0368eb",
-          "time": "13:54",
+          "id": "bb037f2306fd",
+          "time": "11:19",
           "category": "Markets",
-          "title": "Why Did Gold Melt?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-tesla-earnings-10-22-2025/card/why-did-gold-melt--LEkfldigAcU93l5AGniA?siteid=yhoof2&yptr=yahoo",
+          "title": "Bombastic Casino Unveils New Design and Enhanced Features",
+          "summary": "Willemstad, Curacao, 21st October 2025, Chainwire",
+          "source": "Analysis RSS | CCN.com",
+          "url": "https://www.ccn.com/bombastic-casino-unveils-new-design-and-enhanced-features/",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "814a6cf186c9",
-          "time": "13:53",
-          "category": "Markets",
-          "title": "Multiple Headwinds Hit Twist BioScience Corp. (TWST) in Q3",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/multiple-headwinds-hit-twist-bioscience-125300984.html",
+          "id": "532305d59c96",
+          "time": "10:42",
+          "category": "Crypto",
+          "title": "Crypto Survived the Flash Crash, So Will Web3: Animoca Brand’s Robby Yung",
+          "summary": "Animoca Brands is targeting a U.S. stock exchange listing in 2025. Web3 gaming represents around 25% of Animoca&#8217;s investment portfolio. CEO Robby Yung says crypto ...",
+          "source": "Crypto News RSS | CCN.com",
+          "url": "https://www.ccn.com/news/crypto/crypto-survived-flash-crash-web3-animoca-brands-robby-yung/",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "eb7264f9c2bf",
-          "time": "13:51",
-          "category": "Markets",
-          "title": "Analyst Says Oracle (ORCL) Stock Could Rise to $340 Amid a ‘New Customer Coming In’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/analyst-says-oracle-orcl-stock-125124278.html",
+          "id": "16794228b3d9",
+          "time": "10:04",
+          "category": "Crypto",
+          "title": "Blockchain Futurist Conference Florida 2025 Kicks off in Just 2 Weeks",
+          "summary": "The Blockchain Futurist Conference Florida 2025 will debut in the U.S. on November 5–6 at the Hard Rock Guitar Hotel. Headliners Iggy Azalea and Tristan ...",
+          "source": "Analysis RSS | CCN.com",
+          "url": "https://www.ccn.com/blockchain-futurist-conference-florida-2025/",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "35e8a2a329c4",
-          "time": "13:51",
-          "category": "Markets",
-          "title": "Analyst Says Latest US-China Tensions Won’t Impact NVIDIA (NVDA)-Led AI Bull Market",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/analyst-says-latest-us-china-125120385.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4ccf8d49a4d5",
-          "time": "13:48",
-          "category": "Markets",
-          "title": "Here’s Why Vericel Corporation (VCEL) Underperformed in Q3",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-vericel-corporation-vcel-underperformed-124848950.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "a8a09ad9b173",
-          "time": "13:47",
-          "category": "Markets",
-          "title": "Japanese Yen Lifted by Gold-Price Volatility",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/yen-strengthens-slightly-on-prospects-that-japans-new-finance-minister-may-want-stronger-currency-37bc25f6?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "d6e206c09f8a",
-          "time": "13:45",
-          "category": "Markets",
-          "title": "Here’s What Pressured Palomar Holdings (PLMR) in Q3",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/pressured-palomar-holdings-plmr-q3-124527369.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "16da8937bc79",
-          "time": "13:45",
-          "category": "Markets",
-          "title": "Gold slide continues, stocks keep calm",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/gold-slide-continues-stocks-keep-124523367.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f4dec56ea412",
-          "time": "13:45",
-          "category": "Markets",
-          "title": "The Simplest Buffett-Inspired Portfolio You Can Build With Just $500",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/simplest-buffett-inspired-portfolio-build-124500904.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4601e2a9f784",
-          "time": "13:41",
-          "category": "Markets",
-          "title": "Galapagos to shutter cell and gene therapy unit",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/galapagos-shutter-cell-gene-therapy-124124761.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "93bb07abd526",
-          "time": "13:40",
-          "category": "Markets",
-          "title": "PayPal Holdings (PYPL) Traded Down as Market Sentiment Rotated",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/paypal-holdings-pypl-traded-down-124050056.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0059621cb968",
-          "time": "13:40",
-          "category": "Markets",
-          "title": "50% of Warren Buffett’s Berkshire Hathaway Is Really in Just 3 Dividend Stocks",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/50-warren-buffett-berkshire-hathaway-124021302.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "54aecbc82716",
-          "time": "13:39",
-          "category": "Markets",
-          "title": "China drives 3M’s Q3 sales to $6.5B",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/china-drives-3m-q3-sales-123923346.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6990b3bd263d",
-          "time": "13:32",
-          "category": "Markets",
-          "title": "Alphabet’s (GOOG) AI Initiatives are Driving Strong Growth",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/alphabet-goog-ai-initiatives-driving-123215455.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "560ed3428ed6",
-          "time": "13:31",
-          "category": "Markets",
-          "title": "'Is This My Wake-Up Call To Get Rid Of My Advisor?' — Suze Orman Responds To Listener Paying 1.22% For Half The S&P's Returns",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/wake-call-rid-advisor-suze-123102758.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "db94bdcae2dd",
-          "time": "13:30",
-          "category": "Markets",
-          "title": "Prediction: These Stocks Could Be the Next Nvidia for Patient Investors",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/prediction-stocks-could-next-nvidia-123000567.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "bc7c90ed8f03",
-          "time": "13:29",
-          "category": "Markets",
-          "title": "Meta Platforms (META): Wedgewood Partners’ Top YTD Performer",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/meta-platforms-meta-wedgewood-partners-122958777.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f217571bb8bb",
-          "time": "13:29",
-          "category": "Markets",
-          "title": "AT&T Adds More Wireless Subscribers as Sales Rise",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/earnings/at-t-swings-to-profit-sales-rise-2648fe90?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4708fae2f238",
-          "time": "13:29",
-          "category": "Markets",
-          "title": "Dave Ramsey tells Arkansas mom, 51, with nothing saved for retirement she can still retire with $600K–$800K — here’s how",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/dave-ramsey-tells-arkansas-mom-122900040.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "db6c0cf8188b",
-          "time": "13:27",
-          "category": "Markets",
-          "title": "Capital One reaps post-acquisition rewards",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/capital-one-reaps-post-acquisition-122743918.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "7a16b0537d8b",
-          "time": "13:25",
-          "category": "Markets",
-          "title": "Soybeans Reverting Back Higher on Wednesday AM Trade",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/soybeans-reverting-back-higher-wednesday-122520708.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "bb34c832efd8",
-          "time": "13:25",
-          "category": "Markets",
-          "title": "Corn Ticking Back Higher on Wednesday Morning",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/corn-ticking-back-higher-wednesday-122520596.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f6e8cef64306",
-          "time": "13:25",
-          "category": "Markets",
-          "title": "What Time Does Tesla Report? Here's What You Need to Know.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/livecoverage/tesla-earnings-stock-price-elon-musk-news/card/what-time-does-tesla-report-here-s-what-you-need-to-know--gkDlWcPq50FrnE7zMMTD?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e24b5ee20eae",
-          "time": "13:25",
-          "category": "Markets",
-          "title": "DraftKings Stock Has Been Getting Destroyed by Prediction Markets. It’s Finally Fighting Back.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/dkng-stock-price-railbird-exchange-deal-draftkings-prediction-markets-cfdc4d1a?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "fcc77d249b00",
-          "time": "13:19",
-          "category": "Markets",
-          "title": "Meta to cut around 600 roles in Superintelligence Labs AI unit",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/meta-cutting-around-600-roles-121930203.html",
+          "id": "beead9b7c553",
+          "time": "09:32",
+          "category": "Crypto",
+          "title": "Base’s Xen Baynham-Herd On AWS Outage: “Crypto Should Become Less Reliant On Centralized Servers — But It’ll Take Years”",
+          "summary": "Base&#8217;s Xen Baynham-Herd said this week’s AWS outage, which disrupted Coinbase and other major platforms, underscored how much the crypto industry still depends on centralized ...",
+          "source": "Crypto News RSS | CCN.com",
+          "url": "https://www.ccn.com/news/crypto/bases-xen-baynham-herd-aws-outage-crypto-less-reliant-on-centralized/",
           "tags": [],
           "impact_score": 1
         }
@@ -1612,7 +1700,9 @@
     {
       "date": "2025-10-21",
       "attention_points": [
-        "CRYPTO BOUNCES BACK, ALTCOINS BELOW FTX LEVELS, CPI THIS WEEK"
+        "CRYPTO BOUNCES BACK, ALTCOINS BELOW FTX LEVELS, CPI THIS WEEK",
+        "Bitcoin Mining’s Problematic Future Will Be Solved By Capitalism, GoMining CEO Mark Zalan",
+        "Colin Payne, FCA: ‘We’re Not Going to Apologize for Being Cautious’"
       ],
       "items": [
         {
@@ -1625,6 +1715,106 @@
           "url": "https://decrypt.co/videos/interviews/lY5ApB8F/crypto-bounces-back-altcoins-below-ftx-levels-cpi-this-week",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "fec5e4d4850e",
+          "time": "13:00",
+          "category": "Crypto",
+          "title": "Bitcoin Mining’s Problematic Future Will Be Solved By Capitalism, GoMining CEO Mark Zalan",
+          "summary": "GoMining has over 4 million registered users and powers over 10 million TH/s in Bitcoin miners. Bitcoin mining&#8217;s economic incentives will be less about block ...",
+          "source": "Crypto News RSS | CCN.com",
+          "url": "https://www.ccn.com/news/crypto/bitcoin-minings-future-solved-capitalism-gomining-ceo-mark-zalan/",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "926ddacc8317",
+          "time": "16:51",
+          "category": "Crypto",
+          "title": "Colin Payne, FCA: ‘We’re Not Going to Apologize for Being Cautious’",
+          "summary": "The U.K. faces rising fintech competition from global hubs like Dubai, Singapore, and the U.S. Regulators emphasize caution, defending a measured approach to crypto innovation. ...",
+          "source": "Crypto News RSS | CCN.com",
+          "url": "https://www.ccn.com/news/crypto/colin-payne-fca-apologize-being-cautious/",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2669647529a2",
+          "time": "13:32",
+          "category": "Crypto",
+          "title": "Sanae Takaichi Elected Japan’s Prime Minister: What Are Her Views on Crypto?",
+          "summary": "Sanae Takaichi becomes Japan’s first female prime minister, the 104th in history. A conservative protégé of Shinzo Abe, she supports tech innovation and lower taxes. ...",
+          "source": "Crypto News RSS | CCN.com",
+          "url": "https://www.ccn.com/news/crypto/sanae-takaichi-japans-prime-minister-her-views-crypto/",
+          "tags": [],
+          "impact_score": 1
+        }
+      ]
+    },
+    {
+      "date": "2025-10-20",
+      "attention_points": [
+        "15 Years Strong, $35K Stronger – XM Celebrates Big",
+        "Limitless Prediction Market Closes $10M Seed Round Ahead of LMTS Token Launch",
+        "Whale.io Introduces Crock Dentist Game and Exclusive RWA NFT Collection"
+      ],
+      "items": [
+        {
+          "id": "4c3e5d70ad5d",
+          "time": "16:58",
+          "category": "US Macro",
+          "title": "15 Years Strong, $35K Stronger – XM Celebrates Big",
+          "summary": "XM is taking its 15-year celebrations to the next level with its most generous promotion ever, offering traders the chance to receive up to $35,000 ...",
+          "source": "Analysis RSS | CCN.com",
+          "url": "https://www.ccn.com/15-years-strong-35k-stronger-xm-celebrates-big/",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a82a6a645563",
+          "time": "15:25",
+          "category": "Markets",
+          "title": "Limitless Prediction Market Closes $10M Seed Round Ahead of LMTS Token Launch",
+          "summary": "New York, United States, 20th October 2025, Chainwire",
+          "source": "Analysis RSS | CCN.com",
+          "url": "https://www.ccn.com/limitless-prediction-market-closes-10m-seed-round-ahead-of-lmts-token-launch/",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0883e007616b",
+          "time": "15:24",
+          "category": "Crypto",
+          "title": "Whale.io Introduces Crock Dentist Game and Exclusive RWA NFT Collection",
+          "summary": "Willemstad, Curaçao, 20th October 2025, Chainwire",
+          "source": "Analysis RSS | CCN.com",
+          "url": "https://www.ccn.com/whale-io-introduces-crock-dentist-game-and-exclusive-rwa-nft-collection/",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2bef60c7e1a7",
+          "time": "14:25",
+          "category": "Crypto",
+          "title": "Jupiter Launches Ultra V3 – The Ultimate Trading Engine for Solana",
+          "summary": "Singapore, Singapore, 20th October 2025, Chainwire",
+          "source": "Analysis RSS | CCN.com",
+          "url": "https://www.ccn.com/jupiter-launches-ultra-v3-the-ultimate-trading-engine-for-solana/",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d3329578e37f",
+          "time": "12:06",
+          "category": "Markets",
+          "title": "Billionaire Tim Draper Leads $3.2M Seed Round for Ryder to Replace Seed Phrases With TapSafe Recovery",
+          "summary": "Singapore, Singapore, 18th October 2025, Chainwire",
+          "source": "Analysis RSS | CCN.com",
+          "url": "https://www.ccn.com/billionaire-tim-draper-leads-3-2m-seed-round-for-ryder-to-replace-seed-phrases-with-tapsafe-recovery/",
+          "tags": [],
+          "impact_score": 1
         }
       ]
     }
