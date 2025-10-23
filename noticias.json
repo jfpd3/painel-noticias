@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T00:01+01:00",
+  "generated_at": "2025-10-24T00:33+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -1010,6 +1010,39 @@
           "impact_score": 3
         },
         {
+          "id": "9f227d9e8fc9",
+          "time": "17:14",
+          "category": "Markets",
+          "title": "Shutdown firings could hinder economic development in Trump's tax law",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/shutdown-firings-could-hinder-economic-161415052.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "8f2fec6cf647",
+          "time": "17:02",
+          "category": "Regulation",
+          "title": "Africa’s mining sector poised for sustained growth driven by critical minerals and policy reforms",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/africa-mining-sector-poised-sustained-160246787.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "5efc6718ea92",
+          "time": "16:59",
+          "category": "Markets",
+          "title": "SoftBank Launches $2.9 Billion Bond Sale Amid Firm’s AI Bets",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/softbank-launches-2-9-billion-155941859.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "a74eb442230c",
           "time": "16:25",
           "category": "Markets",
@@ -1032,19 +1065,6 @@
           "impact_score": 3
         },
         {
-          "id": "83dd0e9a89ea",
-          "time": "16:10",
-          "category": "Crypto",
-          "title": "BTC Reverses 3.5% Pump Ahead of CPI — Will Inflation Data Trigger a Crypto Comeback?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/btc-reverses-3-5-pump-151053273.html",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 3
-        },
-        {
           "id": "47fb3779d107",
           "time": "16:09",
           "category": "Crypto",
@@ -1052,28 +1072,6 @@
           "summary": "Crypto chop continues, tariff headlines dominate. ZEC breaks $300 before falling, leads altcoins. Waller signs Fed’s shift towards embracing crypto. ETH Foundation moves $654m ETH. BlackRock trying to pull in BTC whales to its ETFs. HK approves first SOL ETF. SOL ends support for",
           "source": "Decrypt",
           "url": "https://decrypt.co/videos/interviews/2VMsivBC/crypto-chop-continues-gold-drops-draftkings-buys-prediction-market",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "a3a52759f0da",
-          "time": "16:06",
-          "category": "Earnings",
-          "title": "Netflix Tumbles After Q3 Earnings Miss. Is This Your Chance to Buy?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/netflix-tumbles-q3-earnings-miss-150656639.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "7f7fa0065583",
-          "time": "15:32",
-          "category": "Earnings",
-          "title": "Netflix Stock Drops After Earnings Miss Forecasts",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-tesla-earnings-10-22-2025/card/netflix-stock-drops-after-earnings-miss-forecasts-OgAFpYcbLRxGIHXxPXZM?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 3
         },
@@ -1157,6 +1155,94 @@
           "impact_score": 2
         },
         {
+          "id": "1d6daef5b3f9",
+          "time": "17:34",
+          "category": "Earnings",
+          "title": "Will This Drug Stock Explode After Earnings As It Did Last Quarter?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/research/drug-stock-ani-pharmaceuticals-anip-pharmaceuticals/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "7ca3d341dce6",
+          "time": "17:25",
+          "category": "Markets",
+          "title": "Gold prices have tumbled from recent records. What's behind the losses?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/gold-prices-tumbled-recent-records-162520671.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "e7d508d44b55",
+          "time": "17:14",
+          "category": "Markets",
+          "title": "From Beyond Meat to Krispy Kreme, meme stocks surge as investors pile back into speculative trades",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/from-beyond-meat-to-krispy-kreme-meme-stocks-surge-as-investors-pile-back-into-speculative-trades-161416350.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "67e317a67a1d",
+          "time": "17:00",
+          "category": "Earnings",
+          "title": "When does Tesla report earnings? Release time, how to tune in",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/does-tesla-report-earnings-release-160044815.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "16:56",
+          "category": "Earnings",
+          "title": "Barclays Flashes Buy Signal After Q3 Earnings, Despite Hit From This U.S. Lender",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/barclays-stock-earnings-credit-risk/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "026e3def7d0a",
+          "time": "16:54",
+          "category": "Earnings",
+          "title": "Johnson Controls' Quarterly Earnings Preview: What You Need to Know",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/johnson-controls-quarterly-earnings-preview-155400894.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "5bc6b5b42ad8",
+          "time": "16:49",
+          "category": "Earnings",
+          "title": "Tesla Is Set To Report Earnings Today. Here's What You Need To Know.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/tesla-set-report-earnings-today-154950413.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "dcb784c7ea97",
+          "time": "16:42",
+          "category": "Earnings",
+          "title": "Intuitive Surgical Stock Jumps on Earnings. Its Newest Surgical Robot Is Going Gangbusters.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/intuitive-surgical-earnings-stock-price-81b809c7?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "c1dbfa03f2a3",
           "time": "16:33",
           "category": "Markets",
@@ -1190,17 +1276,6 @@
           "impact_score": 2
         },
         {
-          "id": "c8fd4296ed69",
-          "time": "16:12",
-          "category": "Earnings",
-          "title": "Stock Market Today: Tesla and IBM Tumble After Earnings; Moderna Trial Misses",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stock-market-today-stocks-decline-151233569.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "6e09f4552f88",
           "time": "16:12",
           "category": "Earnings",
@@ -1219,83 +1294,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/beyond-meat-meme-stock-price-0961d3c6?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "6ec352f51362",
-          "time": "16:03",
-          "category": "Earnings",
-          "title": "Freight locomotive sales power Wabtec earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/freight-locomotive-sales-power-wabtec-150346442.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "7599196dd06b",
-          "time": "16:03",
-          "category": "Earnings",
-          "title": "Which Auto Makers Could Follow GM’s Rally? A Look at the Charts Ahead of Tesla Earnings.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/auto-makers-rally-charts-tesla-earnings-stellantis-738623ea?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "4d65c92c7705",
-          "time": "16:02",
-          "category": "Earnings",
-          "title": "Fox Corporation Earnings Preview: What to Expect",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/fox-corporation-earnings-preview-expect-150239038.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "8e2bc36d1b2f",
-          "time": "16:01",
-          "category": "Earnings",
-          "title": "Hilton Stock Jumps as Luxury Brands Boost Earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hilton-stock-jumps-luxury-brands-150141822.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "15:57",
-          "category": "US Macro",
-          "title": "Amphenol Earnings Growth Accelerates Again. But The AI Play Slashes Early Gain.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/amphenol-earnings-ai-play/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "cac26982068d",
-          "time": "15:38",
-          "category": "Earnings",
-          "title": "Nvidia Stock Gains. The AI Chip Maker Needs This From Big Tech Earnings.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/nvidia-stock-price-tech-earnings-f3f02fd4?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "902662a33efd",
-          "time": "15:24",
-          "category": "Earnings",
-          "title": "Tesla Stock Falls in Early Trading Ahead of Earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/livecoverage/tesla-earnings-stock-price-elon-musk-news/card/tesla-stock-falls-in-early-trading-ahead-of-earnings-UGzv1hubYOUs8FFY9DG4?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 2
         },
@@ -1335,6 +1333,182 @@
           "impact_score": 1
         },
         {
+          "id": "97dc5928b220",
+          "time": "17:38",
+          "category": "Markets",
+          "title": "Oil Stocks Look Shaky In Selloff. These Are 2 Potential Buys.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/oil-stocks-supply-glut-opec-exxon-chevron-7fede48b?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "31bad0bf1eab",
+          "time": "17:23",
+          "category": "Markets",
+          "title": "As CleanSpark Moves Into AI, Should You Buy CLSK Stock?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/cleanspark-moves-ai-buy-clsk-162358863.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d894b78c80c2",
+          "time": "17:11",
+          "category": "Markets",
+          "title": "Krispy Kreme Takes a Meme Stock Ride. Don’t Bite.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/krispy-kreme-meme-stock-price-d302efc2?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7c6b5f198357",
+          "time": "17:10",
+          "category": "Markets",
+          "title": "It’s ‘Hard to Have Conviction’ in Lululemon Stock Right Now, According to Analysts. Should You Sell LULU Here?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/hard-conviction-lululemon-stock-now-161038507.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "438a011938a9",
+          "time": "17:03",
+          "category": "Markets",
+          "title": "AI Agents radically changing the world, analysts say",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ai-agents-radically-changing-world-160300484.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8d209d088bb7",
+          "time": "17:01",
+          "category": "Markets",
+          "title": "Intuitive Surgical's Stock Jumps As Demand for Robotic Procedures Rises",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/intuitive-surgicals-stock-jumps-demand-160144829.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "72af607e8fc7",
+          "time": "17:00",
+          "category": "Markets",
+          "title": "This Healthcare Stock Just Hit a New 2-Year High",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/healthcare-stock-just-hit-2-160003950.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ef622c2c6849",
+          "time": "17:00",
+          "category": "Markets",
+          "title": "They Paid Off Their Student Debt in Under a Decade. Here’s How.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/personal-finance/millennials-gen-z-student-debt-paid-off-6a549bcf?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e99f1d0d7d6f",
+          "time": "17:00",
+          "category": "Markets",
+          "title": "Here are the 5 most (and least) affordable cities in the US for housing — plus how to budget for rising costs",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/5-most-least-affordable-cities-160000283.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b7657c2e9a7c",
+          "time": "16:58",
+          "category": "Markets",
+          "title": "American Family auto insurance review 2025: 5 out of 5 stars",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/insurance/review/american-family-auto-insurance-review-155839352.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "16:55",
+          "category": "Markets",
+          "title": "Embraer, IBD Stock Of The Day, Tries To Hold Buy Point Amid 'Unprecedented' Backlog",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/research/ibd-stock-of-the-day/embraer-stock-buy-point-unprecedented-backlog/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a316594caf0b",
+          "time": "16:55",
+          "category": "Earnings",
+          "title": "Kraken Reports $648M Revenue for Q3, Up 50% From Last Quarter",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/kraken-reports-648m-revenue-q3-155510671.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ef29952bbe1a",
+          "time": "16:53",
+          "category": "Markets",
+          "title": "Dear Chipotle Stock Fans, Mark Your Calendars for October 29",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/dear-chipotle-stock-fans-mark-155341196.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2c75c095e3d0",
+          "time": "16:52",
+          "category": "Markets",
+          "title": "Can Travis Kelce Save Six Flags?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/travis-kelce-save-six-flags-155200691.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "18cbf9deb1d7",
+          "time": "16:50",
+          "category": "Markets",
+          "title": "Meta to cut around 600 roles in Superintelligence Labs AI unit",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/meta-cut-around-600-roles-155058775.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d058fe696b18",
+          "time": "16:48",
+          "category": "Markets",
+          "title": "Crude Oil Rallies on Possible US-India Trade Deal and Unexpected Draw in EIA Inventories",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/crude-oil-rallies-possible-us-154854316.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "4cb8c38893e5",
           "time": "16:35",
           "category": "Earnings",
@@ -1364,17 +1538,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/beyond-meat-shares-sizzle-walmart-153228209.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "eb808852ddfc",
-          "time": "16:24",
-          "category": "Markets",
-          "title": "Why Intuitive Surgical Stock Is Skyrocketing Today",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-intuitive-surgical-stock-skyrocketing-152410744.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1412,149 +1575,6 @@
           "impact_score": 1
         },
         {
-          "id": "dd47aa0aec81",
-          "time": "16:07",
-          "category": "Markets",
-          "title": "Suze Orman: 5 Key Signs You’ve Made a Smart Investment",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/suze-orman-5-key-signs-150708057.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "9ecabf31254c",
-          "time": "16:07",
-          "category": "Markets",
-          "title": "Cathie Wood sells $8 million of popular tech stock",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cathie-wood-sells-8-million-150700435.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "60957e6d16e9",
-          "time": "16:00",
-          "category": "Markets",
-          "title": "As Crude Oil Prices Fall, Make This 1 Unexpected Trade ASAP",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/crude-oil-prices-fall-1-150021795.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "08625fddd552",
-          "time": "16:00",
-          "category": "Crypto",
-          "title": "Andreessen Horowitz Says Crypto Has Entered a ‘New Era’ of Real Utility",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/andreessen-horowitz-says-crypto-entered-150000837.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3c24976e6d85",
-          "time": "15:54",
-          "category": "Markets",
-          "title": "Gold’s Volatility Is No Argument Against a Gold-Backed Dollar",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/gold-price-standard-dollar-a62145de?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "45e6b012c97d",
-          "time": "15:51",
-          "category": "Markets",
-          "title": "Analyst Explains Why He Likes Advanced Micro Devices (AMD) – Says There Are ‘Other Options’ Beyond Nvidia",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/analyst-explains-why-likes-advanced-145127899.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "d07829791a3b",
-          "time": "15:51",
-          "category": "Markets",
-          "title": "People Are Living Longer. Here’s How Wealth Management Needs to Adapt.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/advisor/articles/morgan-stanley-longevity-wealth-0481137c?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1003cbe5dd82",
-          "time": "15:49",
-          "category": "Markets",
-          "title": "Dollar Slightly Higher and Gold Corrects Lower",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/dollar-slightly-higher-gold-corrects-144939004.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c32ad386acad",
-          "time": "15:49",
-          "category": "Markets",
-          "title": "Meta Raised $27 Billion for an AI Data Center. Who’s Backing the Deal.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/meta-stock-price-ai-data-center-hyperion-f41e3f25?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "cf330bc4ebbf",
-          "time": "15:45",
-          "category": "Markets",
-          "title": "Google and Amazon’s Tug of War Over Anthropic: Report. What It Means for the Stocks.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/amazon-stock-google-anthropic-ai-b8db7d8c?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "098f87dd1b62",
-          "time": "15:33",
-          "category": "Markets",
-          "title": "Are Quantum Stocks a Bursting Bubble? Here’s What Our Top Chart Strategist is Watching Now",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/quantum-stocks-bursting-bubble-top-143308083.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8e632cab7423",
-          "time": "15:28",
-          "category": "Markets",
-          "title": "Outsourcing Jobs to Rural America",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/lifestyle/careers/outsourcing-jobs-to-rural-america-c005c0d4?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3e29e81c0610",
-          "time": "15:27",
-          "category": "Markets",
-          "title": "UK data centre spend to soar to £10 billion a year - Barbour ABI",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/uk-data-centre-spend-soar-142702869.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "c62fbccb2b22",
           "time": "12:02",
           "category": "Crypto",
@@ -1584,17 +1604,6 @@
           "summary": "Animoca Brands is targeting a U.S. stock exchange listing in 2025. Web3 gaming represents around 25% of Animoca&#8217;s investment portfolio. CEO Robby Yung says crypto ...",
           "source": "Crypto News RSS | CCN.com",
           "url": "https://www.ccn.com/news/crypto/crypto-survived-flash-crash-web3-animoca-brands-robby-yung/",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "36ca80c80426",
-          "time": "10:31",
-          "category": "Markets",
-          "title": "Why Beyond Meat stock is up about 600% in 3 days",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-beyond-meat-stock-is-up-about-600-in-3-days-093158667.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1740,25 +1749,6 @@
           "url": "https://www.ccn.com/billionaire-tim-draper-leads-3-2m-seed-round-for-ryder-to-replace-seed-phrases-with-tapsafe-recovery/",
           "tags": [],
           "impact_score": 1
-        }
-      ]
-    },
-    {
-      "date": "2025-10-17",
-      "attention_points": [
-        "How the government shutdown impacts the housing market: Loan availability, closing times, and more"
-      ],
-      "items": [
-        {
-          "id": "ce7a30e1db18",
-          "time": "18:36",
-          "category": "Markets",
-          "title": "How the government shutdown impacts the housing market: Loan availability, closing times, and more",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-government-shutdown-impacts-housing-market-173617101.html",
-          "tags": [],
-          "impact_score": 3
         }
       ]
     }
