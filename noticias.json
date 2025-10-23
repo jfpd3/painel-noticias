@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-23T22:54+01:00",
+  "generated_at": "2025-10-23T23:05+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -1015,6 +1015,17 @@
           "impact_score": 3
         },
         {
+          "id": "b979ab2c9e01",
+          "time": "15:00",
+          "category": "Earnings",
+          "title": "Mattel Misses on Earnings Due to Trump Tariff Uncertainty",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/video/mattel-misses-earnings-due-trump-140044000.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "1d6daef5b3f9",
           "time": "14:36",
           "category": "Markets",
@@ -1118,6 +1129,55 @@
           "impact_score": 2
         },
         {
+          "id": "902662a33efd",
+          "time": "15:24",
+          "category": "Earnings",
+          "title": "Tesla Stock Falls in Early Trading Ahead of Earnings",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/livecoverage/tesla-earnings-stock-price-elon-musk-news/card/tesla-stock-falls-in-early-trading-ahead-of-earnings-UGzv1hubYOUs8FFY9DG4?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "f4baf4678098",
+          "time": "15:24",
+          "category": "Earnings",
+          "title": "Albemarle Earnings Preview: What to Expect",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/albemarle-earnings-preview-expect-142416980.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "a77e26bea324",
+          "time": "15:23",
+          "category": "Crypto",
+          "title": "Bitcoin, Ethereum Drop Again. Melania Trump’s Crypto Architects Accused of Fraud.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/bitcoin-ethereum-melania-trump-crypto-fraud-638eba3b?siteid=yhoof2&yptr=yahoo",
+          "tags": [
+            "BTC",
+            "ETH"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "526692df028a",
+          "time": "14:59",
+          "category": "Crypto",
+          "title": "Bitcoin Options Open Interest Outpaces Futures by $40B, Signaling Market Maturation",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bitcoin-options-open-interest-outpaces-135942659.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "1538af79ea64",
           "time": "14:57",
           "category": "Earnings",
@@ -1125,6 +1185,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102225/card/stocks-are-little-changed-tesla-set-to-kick-off-tech-earnings--MSJuDADQVR36baewAjEW?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "610d0531f0fa",
+          "time": "14:55",
+          "category": "Earnings",
+          "title": "Omnicom (OMC) Q3 2025 Earnings Call Transcript",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/omnicom-omc-q3-2025-earnings-135544807.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1162,28 +1233,6 @@
           "impact_score": 2
         },
         {
-          "id": "65dace663262",
-          "time": "14:41",
-          "category": "Earnings",
-          "title": "Pathward (CASH) Q4 2025 Earnings Call Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/pathward-cash-q4-2025-earnings-134124117.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "83a7980173e2",
-          "time": "14:40",
-          "category": "Markets",
-          "title": "Beyond Meat stock soars 1,300% as meme traders fuel GameStop-like rally",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/beyond-meat-earns-meme-stock-134030887.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "4ef0620dfd6f",
           "time": "14:13",
           "category": "Earnings",
@@ -1191,39 +1240,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/expect-cencoras-q4-2025-earnings-131329926.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "3165b7d9d94d",
-          "time": "14:07",
-          "category": "Earnings",
-          "title": "Here's What to Expect From Trimble's Next Earnings Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/heres-expect-trimbles-next-earnings-130722293.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "5a899605a74d",
-          "time": "14:03",
-          "category": "Earnings",
-          "title": "IDEXX Laboratories (IDXX) Surged Following Strong Earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/idexx-laboratories-idxx-surged-following-130327078.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "224cbbb7e7ba",
-          "time": "14:01",
-          "category": "Earnings",
-          "title": "What to Expect From Iron Mountain's Next Quarterly Earnings Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/expect-iron-mountains-next-quarterly-130101177.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1259,6 +1275,17 @@
           "summary": "Senate Democrats and Republicans remain far apart on timeline and other key issues after flashy meetings with crypto leaders on Wednesday.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345503/big-gaps-remain-crypto-execs-meet-senators-market-structure-bill",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "49bf473ad295",
+          "time": "15:16",
+          "category": "Markets",
+          "title": "UK data centre spend to soar to £10 billion a year - Barbour ABI",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/uk-data-centre-spend-soar-141617563.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1307,6 +1334,17 @@
           "impact_score": 1
         },
         {
+          "id": "c9f7b149a01d",
+          "time": "14:59",
+          "category": "Markets",
+          "title": "Anthropic, Google in Talks on Multibillion-Dollar Cloud Deal",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/anthropic-google-talks-multibillion-dollar-215915342.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "5f315891d187",
           "time": "14:59",
           "category": "Markets",
@@ -1314,6 +1352,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/tech/u-k-to-tighten-supervision-on-google-apple-mobile-platforms-under-new-tech-law-76531ee1?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4ca15c659dbd",
+          "time": "14:56",
+          "category": "Markets",
+          "title": "Miramar finalises binding sale agreement for Randalls project in Australia",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/miramar-finalises-binding-sale-agreement-135616209.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1395,28 +1444,6 @@
           "impact_score": 1
         },
         {
-          "id": "bce0850cd121",
-          "time": "14:42",
-          "category": "Markets",
-          "title": "4 Ways To Stop Saving Money and Start Building Wealth",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/4-ways-stop-saving-money-134208961.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "06583a90456d",
-          "time": "14:41",
-          "category": "Markets",
-          "title": "NHL Opens Door to Prediction Markets in Landmark Deals With Kalshi, Polymarket: WSJ",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nhl-opens-door-prediction-markets-134122413.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "fafaa4641ea2",
           "time": "14:38",
           "category": "Markets",
@@ -1424,28 +1451,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/reasons-invest-onemain-holdings-omf-133815836.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "9ad7e16d12e8",
-          "time": "14:37",
-          "category": "Markets",
-          "title": "Is Oklo a Millionaire-Maker Stock?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/oklo-millionaire-maker-stock-133700801.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d56dec00e48",
-          "time": "14:36",
-          "category": "Crypto",
-          "title": "Liechtenstein Launches State-Backed Blockchain Network",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/liechtenstein-launches-state-backed-blockchain-133620089.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1560,17 +1565,6 @@
           "impact_score": 1
         },
         {
-          "id": "35179918f232",
-          "time": "14:04",
-          "category": "Markets",
-          "title": "Fabrinet Up Almost 1,000% From Big Money Flows, See How",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/fabrinet-almost-1-000-big-130445781.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "c62fbccb2b22",
           "time": "12:02",
           "category": "Crypto",
@@ -1600,6 +1594,17 @@
           "summary": "Animoca Brands is targeting a U.S. stock exchange listing in 2025. Web3 gaming represents around 25% of Animoca&#8217;s investment portfolio. CEO Robby Yung says crypto ...",
           "source": "Crypto News RSS | CCN.com",
           "url": "https://www.ccn.com/news/crypto/crypto-survived-flash-crash-web3-animoca-brands-robby-yung/",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "36ca80c80426",
+          "time": "10:31",
+          "category": "Markets",
+          "title": "Why Beyond Meat stock is up about 600% in 3 days",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-beyond-meat-stock-is-up-about-600-in-3-days-093158667.html",
           "tags": [],
           "impact_score": 1
         },
