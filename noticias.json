@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-23T21:46+01:00",
+  "generated_at": "2025-10-23T21:57+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -1065,6 +1065,17 @@
           "impact_score": 3
         },
         {
+          "id": "eb18907beca7",
+          "time": "13:36",
+          "category": "Crypto",
+          "title": "This Fed Proposal Could Push DeFi TVL 10X To Over $1T In 15 Months",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fed-proposal-could-push-defi-123624035.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "dd8c9376655e",
           "time": "13:24",
           "category": "Crypto",
@@ -1083,28 +1094,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/michigan-couple-moved-family-save-121500590.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "13:07",
-          "category": "Markets",
-          "title": "Dow Jones Futures: Netflix Skids, Google Rises, Gold Extends Sell-Off; Tesla Looms",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-gold-stocks-netflix-earnings-tesla/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "866a1be35783",
-          "time": "13:00",
-          "category": "Markets",
-          "title": "A 2008-Style Credit Crisis Is Already Brewing, and This 1 ETF Is Proof",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/2008-style-credit-crisis-already-120002454.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1223,6 +1212,17 @@
           "impact_score": 2
         },
         {
+          "id": "c0b10b4aaef3",
+          "time": "13:43",
+          "category": "Earnings",
+          "title": "Hanmi (HAFC) Q3 2025 Earnings Call Transcript",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/hanmi-hafc-q3-2025-earnings-124320368.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "f9bc9dabed7f",
           "time": "13:37",
           "category": "Earnings",
@@ -1234,61 +1234,6 @@
           "impact_score": 2
         },
         {
-          "id": "b28ac33c5e5b",
-          "time": "13:18",
-          "category": "Earnings",
-          "title": "Walmart and Target hold back holiday toy orders, hitting Mattel earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/walmart-target-hold-back-holiday-121809615.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "d8360f8c1972",
-          "time": "13:17",
-          "category": "Earnings",
-          "title": "Galaxy Digital Price Targets Hiked Across Street Following Record 3Q Earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/galaxy-digital-price-targets-hiked-121741633.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "5a18d5ed2d69",
-          "time": "13:09",
-          "category": "Earnings",
-          "title": "ONEOK (OKE) PT Lowered by Barclays to $78 Ahead of Q3 2025 Earnings Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/oneok-oke-pt-lowered-barclays-120936624.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "27f34dd4f9ff",
-          "time": "13:04",
-          "category": "Markets",
-          "title": "Analyst Downgrades KB Home (KBH) Amid a ‘Depressant’ on Homebuilding Stocks",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/analyst-downgrades-kb-home-kbh-120422678.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "6b66da275af0",
-          "time": "13:01",
-          "category": "Markets",
-          "title": "Analyst Explains Why He Downgraded DR Horton (DHI) – ‘It’s Unfortunate for Builders’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/analyst-explains-why-downgraded-dr-120153261.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "93ab287551bf",
           "time": "23:06",
           "category": "Crypto",
@@ -1296,6 +1241,116 @@
           "summary": "Senate Democrats and Republicans remain far apart on timeline and other key issues after flashy meetings with crypto leaders on Wednesday.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345503/big-gaps-remain-crypto-execs-meet-senators-market-structure-bill",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0eb1695f9fc4",
+          "time": "13:56",
+          "category": "Markets",
+          "title": "Jim Cramer Says NIO “Probably Goes to $10, Then You Have to Sell It”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-nio-probably-125604012.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c62c8bc59bb8",
+          "time": "13:55",
+          "category": "Markets",
+          "title": "Jim Cramer Suggest Ringing the Register on Hut 8",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-suggest-ringing-register-125558224.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f8db60975ece",
+          "time": "13:55",
+          "category": "Markets",
+          "title": "Jim Cramer on Ulta: “It Sounds Like a Terrific Story”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-ulta-sounds-terrific-125557155.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7e5d420e7fe6",
+          "time": "13:55",
+          "category": "Markets",
+          "title": "Jim Cramer Says “You’re in Fantastic Shape Owning Goldman”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-fantastic-shape-125555372.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5970445c6b41",
+          "time": "13:55",
+          "category": "Markets",
+          "title": "Jim Cramer Says Oklo Has “Just Gone Too Far, Too Fast”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-oklo-just-125553546.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "52c00dab1990",
+          "time": "13:55",
+          "category": "Earnings",
+          "title": "Jim Cramer Notes American Express’ Strong Results",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-notes-american-express-125552586.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "bfc19f4fddee",
+          "time": "13:55",
+          "category": "Markets",
+          "title": "Jim Cramer on Walt Disney: “I Thought it Should Be at $120”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-walt-disney-thought-125550941.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "da76d10da52d",
+          "time": "13:55",
+          "category": "Markets",
+          "title": "Jim Cramer Explains Why People Should Own Not Trade Apple",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-explains-why-people-125546565.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "96472f0368eb",
+          "time": "13:54",
+          "category": "Markets",
+          "title": "Why Did Gold Melt?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-tesla-earnings-10-22-2025/card/why-did-gold-melt--LEkfldigAcU93l5AGniA?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "814a6cf186c9",
+          "time": "13:53",
+          "category": "Markets",
+          "title": "Multiple Headwinds Hit Twist BioScience Corp. (TWST) in Q3",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/multiple-headwinds-hit-twist-bioscience-125300984.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1366,6 +1421,28 @@
           "impact_score": 1
         },
         {
+          "id": "f4dec56ea412",
+          "time": "13:45",
+          "category": "Markets",
+          "title": "The Simplest Buffett-Inspired Portfolio You Can Build With Just $500",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/simplest-buffett-inspired-portfolio-build-124500904.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4601e2a9f784",
+          "time": "13:41",
+          "category": "Markets",
+          "title": "Galapagos to shutter cell and gene therapy unit",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/galapagos-shutter-cell-gene-therapy-124124761.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "93bb07abd526",
           "time": "13:40",
           "category": "Markets",
@@ -1373,6 +1450,28 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/paypal-holdings-pypl-traded-down-124050056.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0059621cb968",
+          "time": "13:40",
+          "category": "Markets",
+          "title": "50% of Warren Buffett’s Berkshire Hathaway Is Really in Just 3 Dividend Stocks",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/50-warren-buffett-berkshire-hathaway-124021302.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "54aecbc82716",
+          "time": "13:39",
+          "category": "Markets",
+          "title": "China drives 3M’s Q3 sales to $6.5B",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/china-drives-3m-q3-sales-123923346.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1498,28 +1597,6 @@
           "impact_score": 1
         },
         {
-          "id": "f3388f5a68dc",
-          "time": "13:20",
-          "category": "Markets",
-          "title": "Eos Energy to spend $353M to establish factory, relocate HQ to Pittsburgh area",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/eos-energy-spend-353m-establish-122000383.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ed7cecf29a48",
-          "time": "13:20",
-          "category": "Markets",
-          "title": "After disappointing Q3, Mattel needs a good holiday more than ever",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/disappointing-q3-mattel-needs-good-122000472.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "fcc77d249b00",
           "time": "13:19",
           "category": "Markets",
@@ -1527,83 +1604,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/meta-cutting-around-600-roles-121930203.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ae26900d6ec4",
-          "time": "13:09",
-          "category": "Markets",
-          "title": "Is Owens Corning (OC) One of the Best Infrastructure Stocks to Buy with Huge Upside?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/owens-corning-oc-one-best-120938134.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "468d6cfe2032",
-          "time": "13:09",
-          "category": "Markets",
-          "title": "KBR Awarded $98.7M U.S. Space Force Task Order for Collaborative Engineering, Digital Development",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/kbr-awarded-98-7m-u-120935765.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0885799f7acb",
-          "time": "13:09",
-          "category": "Earnings",
-          "title": "Kinetik Holdings (KNTK) PT Lowered by Goldman Sachs Ahead of Q3 Results",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/kinetik-holdings-kntk-pt-lowered-120933462.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "827f4bb7e71d",
-          "time": "13:09",
-          "category": "Markets",
-          "title": "Wells Fargo Initiates Knife River (KNF) with Equal Weight Rating, $261 PT",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/wells-fargo-initiates-knife-river-120931753.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "13:00",
-          "category": "Markets",
-          "title": "7 S&P 500 Companies On Pace To Make The Most Money This Year",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/etfs-and-funds/sectors/sp-500-companies-will-make-the-most-money-this-year/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "7cfd6dc71bf3",
-          "time": "13:00",
-          "category": "Markets",
-          "title": "Is the S&P 500 Due for a Breather? What History Says",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/p-500-due-breather-history-120003487.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e1da203646ce",
-          "time": "13:00",
-          "category": "Markets",
-          "title": "This TikToker's rant about T.J. Maxx pushing its store credit card went viral — are store credit cards a help or hassle?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/tiktokers-rant-t-j-maxx-120000831.html",
           "tags": [],
           "impact_score": 1
         }
