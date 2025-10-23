@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-23T23:51+01:00",
+  "generated_at": "2025-10-24T00:01+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -1067,17 +1067,6 @@
           "impact_score": 3
         },
         {
-          "id": "75d62c9e36f1",
-          "time": "16:01",
-          "category": "Crypto",
-          "title": "Hong Kong Greenlights First Solana ETF, SOL Trading Volume Soars 40%",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hong-kong-greenlights-first-solana-150103759.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "7f7fa0065583",
           "time": "15:32",
           "category": "Earnings",
@@ -1165,6 +1154,17 @@
           "tags": [
             "BTC"
           ],
+          "impact_score": 2
+        },
+        {
+          "id": "c1dbfa03f2a3",
+          "time": "16:33",
+          "category": "Markets",
+          "title": "Belgium mulls energy limits for power-hungry data centres as AI demand surges",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/belgium-mulls-energy-limits-power-153310611.html",
+          "tags": [],
           "impact_score": 2
         },
         {
@@ -1267,19 +1267,6 @@
           "impact_score": 2
         },
         {
-          "id": "6577cc925c46",
-          "time": "15:59",
-          "category": "Crypto",
-          "title": "Bitcoin Primed for Dip to $100K Before 'Uptober' Resumes, Says Standard Chartered",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bitcoin-primed-100k-uptober-resumes-145913745.html",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "1d6daef5b3f9",
           "time": "15:57",
           "category": "US Macro",
@@ -1310,31 +1297,6 @@
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/livecoverage/tesla-earnings-stock-price-elon-musk-news/card/tesla-stock-falls-in-early-trading-ahead-of-earnings-UGzv1hubYOUs8FFY9DG4?siteid=yhoof2&yptr=yahoo",
           "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "f4baf4678098",
-          "time": "15:24",
-          "category": "Earnings",
-          "title": "Albemarle Earnings Preview: What to Expect",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/albemarle-earnings-preview-expect-142416980.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "a77e26bea324",
-          "time": "15:23",
-          "category": "Crypto",
-          "title": "Bitcoin, Ethereum Drop Again. Melania Trump’s Crypto Architects Accused of Fraud.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/bitcoin-ethereum-melania-trump-crypto-fraud-638eba3b?siteid=yhoof2&yptr=yahoo",
-          "tags": [
-            "BTC",
-            "ETH"
-          ],
           "impact_score": 2
         },
         {
@@ -1373,6 +1335,28 @@
           "impact_score": 1
         },
         {
+          "id": "4cb8c38893e5",
+          "time": "16:35",
+          "category": "Earnings",
+          "title": "Here’s What Wall Street Is Saying About Tesla’s Third Quarter",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/livecoverage/tesla-earnings-stock-price-elon-musk-news/card/here-s-what-wall-street-is-saying-about-tesla-s-third-quarter-4A8XorjVzIt8WYX5NVNE?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "16:33",
+          "category": "Markets",
+          "title": "S&P 500 Stock GE Vernova Reverses Lower Despite 'Accelerating Growth Trajectory'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/sp-500-ge-vernova-third-quarter-earnings-stock-market/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "124465f7192b",
           "time": "16:32",
           "category": "Markets",
@@ -1380,6 +1364,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/beyond-meat-shares-sizzle-walmart-153228209.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "eb808852ddfc",
+          "time": "16:24",
+          "category": "Markets",
+          "title": "Why Intuitive Surgical Stock Is Skyrocketing Today",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-intuitive-surgical-stock-skyrocketing-152410744.html",
           "tags": [],
           "impact_score": 1
         },
