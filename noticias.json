@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-23T22:44+01:00",
+  "generated_at": "2025-10-23T22:54+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-23",
       "attention_points": [
+        "US eyes quantum computing investments amid rising national security stakes",
         "OpenAI's ChatGPT Atlas Browser Has a Big Problem—How Crypto Users Can Protect Themselves",
-        "Despite gov’t shutdown, crypto market structure bill ‘90% there’ — Coinbase CEO",
-        "Pave Bank raises $39M led by Accel, Tether to expand programmable banking"
+        "Despite gov’t shutdown, crypto market structure bill ‘90% there’ — Coinbase CEO"
       ],
       "items": [
+        {
+          "id": "a37f64b214cc",
+          "time": "22:40",
+          "category": "Regulation",
+          "title": "US eyes quantum computing investments amid rising national security stakes",
+          "summary": "Washington is considering direct investments in US quantum computing companies as it seeks to keep pace with China’s tech capabilities.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/us-eyes-quantum-computing-investments-national-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "e321fce3b972",
           "time": "22:20",
@@ -458,19 +469,6 @@
           "impact_score": 2
         },
         {
-          "id": "7e2350068318",
-          "time": "07:09",
-          "category": "Crypto",
-          "title": "Bitcoin miner debt surges 500% as miners beef up for the hashrate fight",
-          "summary": "Bitcoin miners have taken on $12.7 billion in debt as they invest in new rigs and AI infrastructure to stay competitive in the global hashrate race.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bitcoin-miner-debt-surges-ai-hpc-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "36b24da97783",
           "time": "05:00",
           "category": "Crypto",
@@ -557,50 +555,6 @@
           "summary": "Aave Labs’ latest deal follows a string of institutional initiatives, including its Maple Finance integration and Horizon RWA marketplace.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/aave-labs-acquires-stable-finance-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "18c38fbfd8b8",
-          "time": "18:29",
-          "category": "Markets",
-          "title": "Analyst Report: Lam Research Corp.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3712_AnalystReport_1761240591000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "860efa3f6052",
-          "time": "18:29",
-          "category": "Markets",
-          "title": "Analyst Report: International Business Machine",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3073_AnalystReport_1761240591000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4d657eead816",
-          "time": "18:29",
-          "category": "Markets",
-          "title": "Analyst Report: Las Vegas Sands Corp",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3161_AnalystReport_1761240591000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e8210114438a",
-          "time": "18:29",
-          "category": "Markets",
-          "title": "Analyst Report: AT&T, Inc.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3432_AnalystReport_1761240591000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -1164,6 +1118,17 @@
           "impact_score": 2
         },
         {
+          "id": "1538af79ea64",
+          "time": "14:57",
+          "category": "Earnings",
+          "title": "Stocks Are Little Changed. Tesla Set to Kick Off Tech Earnings.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102225/card/stocks-are-little-changed-tesla-set-to-kick-off-tech-earnings--MSJuDADQVR36baewAjEW?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "399632899669",
           "time": "14:52",
           "category": "Earnings",
@@ -1197,13 +1162,24 @@
           "impact_score": 2
         },
         {
-          "id": "e2942cbf6cc7",
-          "time": "14:34",
-          "category": "Markets",
-          "title": "Core Scientific upgraded, HP downgraded: Wall Street's top analyst calls",
+          "id": "65dace663262",
+          "time": "14:41",
+          "category": "Earnings",
+          "title": "Pathward (CASH) Q4 2025 Earnings Call Transcript",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/core-scientific-upgraded-hp-downgraded-133405444.html",
+          "url": "https://finance.yahoo.com/news/pathward-cash-q4-2025-earnings-134124117.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "83a7980173e2",
+          "time": "14:40",
+          "category": "Markets",
+          "title": "Beyond Meat stock soars 1,300% as meme traders fuel GameStop-like rally",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/beyond-meat-earns-meme-stock-134030887.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1287,6 +1263,72 @@
           "impact_score": 1
         },
         {
+          "id": "e9598ad7288a",
+          "time": "15:12",
+          "category": "Markets",
+          "title": "Beyond Meat, Inc. (BYND) Has 70% Upside Potential If It Follows Opendoor Technologies’ (OPEN) Path",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/beyond-meat-inc-bynd-70-141224256.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "15:07",
+          "category": "Markets",
+          "title": "Home Depot: How To Find & Own America's Greatest Opportunities",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/how-to-invest/home-depot-hd-stock-americas-greatest-opportunities/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0558c27091fd",
+          "time": "15:06",
+          "category": "Markets",
+          "title": "Stocks Pressured as Texas Instruments Drags Chipmakers Lower",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/stocks-pressured-texas-instruments-drags-140647443.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "aa88d0b05fc3",
+          "time": "15:06",
+          "category": "Earnings",
+          "title": "B2PRIME Welcomes Emanuel Georgouras as CRO to Drive Institutional Growth and Revenue Strategy",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/b2prime-welcomes-emanuel-georgouras-cro-140621293.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5f315891d187",
+          "time": "14:59",
+          "category": "Markets",
+          "title": "U.K. to Tighten Supervision on Google, Apple Mobile Platforms Under New Tech Law",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/tech/u-k-to-tighten-supervision-on-google-apple-mobile-platforms-under-new-tech-law-76531ee1?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5b3c2085195c",
+          "time": "14:53",
+          "category": "Markets",
+          "title": "Should You Buy Moderna Right Now?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/buy-moderna-now-135300262.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "fba330aecec8",
           "time": "14:52",
           "category": "Markets",
@@ -1320,6 +1362,17 @@
           "impact_score": 1
         },
         {
+          "id": "035d0dee077d",
+          "time": "14:45",
+          "category": "Markets",
+          "title": "Prediction: 1 Artificial Intelligence (AI) Stock Will Be Worth More Than Amazon and Palantir Combined by 2030 (Hint: It's Not Nvidia)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/prediction-1-artificial-intelligence-ai-134500978.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "ff74bbf6a155",
           "time": "14:43",
           "category": "Markets",
@@ -1327,6 +1380,39 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/makes-becton-dickinson-co-bdx-134337009.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "25e3e61e322c",
+          "time": "14:42",
+          "category": "US Macro",
+          "title": "Borrowing costs fall to one-year low after inflation surprise",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/borrowing-costs-fall-one-low-134244305.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "bce0850cd121",
+          "time": "14:42",
+          "category": "Markets",
+          "title": "4 Ways To Stop Saving Money and Start Building Wealth",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/4-ways-stop-saving-money-134208961.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "06583a90456d",
+          "time": "14:41",
+          "category": "Markets",
+          "title": "NHL Opens Door to Prediction Markets in Landmark Deals With Kalshi, Polymarket: WSJ",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/nhl-opens-door-prediction-markets-134122413.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1364,28 +1450,6 @@
           "impact_score": 1
         },
         {
-          "id": "bf32e9df95a4",
-          "time": "14:30",
-          "category": "Markets",
-          "title": "3 \"Magnificent Seven\" Stock(s) to Buy Hand Over Fist Right Now -- Including Nvidia (NVDA) Stock",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/3-magnificent-seven-stock-buy-133000786.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1b082c15b1ea",
-          "time": "14:30",
-          "category": "Markets",
-          "title": "Sumble emerges from stealth with $38.5M to bring AI-powered context to sales intelligence",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/sumble-emerges-stealth-38-5m-133000243.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "4f87b1464460",
           "time": "14:28",
           "category": "Markets",
@@ -1419,28 +1483,6 @@
           "impact_score": 1
         },
         {
-          "id": "ae33dd0ee079",
-          "time": "14:25",
-          "category": "Markets",
-          "title": "Rivian Automotive (NASDAQ: RIVN) Stock Price Prediction for 2025: Where Will It Be in 1 Year (Oct 22)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/rivian-automotive-nasdaq-rivn-stock-132506418.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "346a7f9731fa",
-          "time": "14:21",
-          "category": "Markets",
-          "title": "Coca-Cola's Mini Can Rollout Is More Important Than You Think",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/coca-colas-mini-rollout-more-132100782.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "fbf0a0a85b62",
           "time": "14:20",
           "category": "Markets",
@@ -1459,17 +1501,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/finance/banking/barclays-upbeat-on-outlook-as-bank-moves-to-quarterly-buybacks-6de07820?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b1bcd2bc03cc",
-          "time": "14:20",
-          "category": "Markets",
-          "title": "Here’s a theory about why gold suffered its biggest one-day fall in more than 10 years, and it’s linked to the U.S. economy",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/theory-why-gold-suffered-biggest-132000450.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1536,105 +1567,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/fabrinet-almost-1-000-big-130445781.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1ce93346d12a",
-          "time": "14:00",
-          "category": "Markets",
-          "title": "Analyst Says This AI Stock Will ‘Break Out to New Highs’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/analyst-says-ai-stock-break-130029869.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "779552f63cea",
-          "time": "14:00",
-          "category": "Earnings",
-          "title": "Palantir CEO Alex Karp Says Skeptics Have Been ‘Defanged’ and ‘Bent into Submission’ as Quarterly Revenue Passes $1 Billion",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/palantir-ceo-alex-karp-says-130002545.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "69fbea1856ca",
-          "time": "14:00",
-          "category": "Markets",
-          "title": "Can Nvidia Stock Hit $300 in 2025?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nvidia-stock-hit-300-2025-130002001.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ffff360ff33a",
-          "time": "14:00",
-          "category": "Markets",
-          "title": "Morgan Stanley Loves Nvidia Stock. The AMD-OpenAI Deal Doesn’t Change That.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/morgan-stanley-loves-nvidia-stock-130002349.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "d4d020c26f73",
-          "time": "14:00",
-          "category": "Markets",
-          "title": "Insiders Are Selling More CoreWeave Stock. Should You?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/insiders-selling-more-coreweave-stock-130002502.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "a7e8d22c80d6",
-          "time": "14:00",
-          "category": "Markets",
-          "title": "GoodRx Stock Could Get a Major Trump Boost. Should You Buy It Here?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/goodrx-stock-could-major-trump-130002360.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "eda436990f4d",
-          "time": "14:00",
-          "category": "Markets",
-          "title": "How Do I Make My $2M IRA Last for the Rest of My Life at 67?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/im-67-2-million-ira-123000051.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "dc500abb941f",
-          "time": "13:59",
-          "category": "Markets",
-          "title": "Analyst Says Alphabet (GOOG) Becoming AI Leader Amid ‘Forced’ Innovation Away from ‘Drug of Monetization’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/analyst-says-alphabet-goog-becoming-125922178.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "343a6bb1be33",
-          "time": "13:58",
-          "category": "Markets",
-          "title": "Should You Invest in Climb Global Solutions (CLMB)?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/invest-climb-global-solutions-clmb-125844477.html",
           "tags": [],
           "impact_score": 1
         },
