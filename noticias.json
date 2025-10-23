@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-23T22:31+01:00",
+  "generated_at": "2025-10-23T22:44+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -493,6 +493,17 @@
           "url": "https://decrypt.co/345576/crypto-adoption-australia-stalls-trust-drops-labors-push-regulation",
           "tags": [],
           "impact_score": 2
+        },
+        {
+          "id": "6962a4fab514",
+          "time": "22:28",
+          "category": "Crypto",
+          "title": "BNB, World Liberty, Meme Coins Jump After Trump Pardons Binance Founder",
+          "summary": "Coins and tokens linked to crypto mogul Changpeng Zhao and President Trump jumped in price following news of the latest pardon.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345747/bnb-world-liberty-jump-trump-binance-founder",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "89c7e2c2c7e6",
@@ -1039,19 +1050,6 @@
           "impact_score": 3
         },
         {
-          "id": "0d9acb6da764",
-          "time": "19:43",
-          "category": "Crypto",
-          "title": "Why the Ethereum Foundation Just Moved $600 Million in Treasury Funds",
-          "summary": "The Ethereum Foundation’s treasury went on the move Tuesday—here’s why the organization sent 160K ETH to a different wallet.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345471/why-ethereum-foundation-moved-600-million-treasury-funds",
-          "tags": [
-            "ETH"
-          ],
-          "impact_score": 3
-        },
-        {
           "id": "47fb3779d107",
           "time": "16:09",
           "category": "Crypto",
@@ -1166,13 +1164,46 @@
           "impact_score": 2
         },
         {
-          "id": "996553527d50",
-          "time": "14:19",
-          "category": "Markets",
-          "title": "Beyond Meat Surges on Expanded Distribution at Walmart",
+          "id": "399632899669",
+          "time": "14:52",
+          "category": "Earnings",
+          "title": "What to Expect From McKesson's Next Quarterly Earnings Report",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/beyond-meat-surges-expanded-distribution-154010369.html",
+          "url": "https://finance.yahoo.com/news/expect-mckessons-next-quarterly-earnings-135240305.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "4074765d4797",
+          "time": "14:50",
+          "category": "Earnings",
+          "title": "Capital One Stock Pops. Its Earnings Got a Buyback Boost.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/capital-one-earnings-stock-price-bb5fa9e2?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "e4319b772c5d",
+          "time": "14:47",
+          "category": "Crypto",
+          "title": "Canada fines crypto dealer record C$176.9 million for money laundering",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/canada-fines-crypto-dealer-record-134712571.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "e2942cbf6cc7",
+          "time": "14:34",
+          "category": "Markets",
+          "title": "Core Scientific upgraded, HP downgraded: Wall Street's top analyst calls",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/core-scientific-upgraded-hp-downgraded-133405444.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1184,17 +1215,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/expect-cencoras-q4-2025-earnings-131329926.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "b7520c0d24b9",
-          "time": "14:08",
-          "category": "Earnings",
-          "title": "Hilton and Delta earnings show luxury travel is booming",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hilton-delta-results-show-luxury-130855409.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1228,17 +1248,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/expect-iron-mountains-next-quarterly-130101177.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "ece96772312d",
-          "time": "13:57",
-          "category": "Earnings",
-          "title": "What to Expect From Gilead Sciences' Next Quarterly Earnings Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/expect-gilead-sciences-next-quarterly-125713917.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1278,6 +1287,50 @@
           "impact_score": 1
         },
         {
+          "id": "fba330aecec8",
+          "time": "14:52",
+          "category": "Markets",
+          "title": "Bridging the AI Gap for Energy Utilities",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bridging-ai-gap-energy-utilities-135246061.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f14b28fcd9db",
+          "time": "14:51",
+          "category": "Markets",
+          "title": "Analyst Explains Why He Likes Amazon.com (AMZN) Despite It Being a ‘Laggard’",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/analyst-explains-why-likes-amazon-135119578.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5276315d1bfa",
+          "time": "14:48",
+          "category": "Markets",
+          "title": "Novo Nordisk shares fall as top investor drives board overhaul",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/novo-nordisk-shares-fall-top-134858418.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ff74bbf6a155",
+          "time": "14:43",
+          "category": "Markets",
+          "title": "What Makes Becton Dickinson & Co. (BDX) a Good Investment?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/makes-becton-dickinson-co-bdx-134337009.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "fafaa4641ea2",
           "time": "14:38",
           "category": "Markets",
@@ -1285,6 +1338,50 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/reasons-invest-onemain-holdings-omf-133815836.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9ad7e16d12e8",
+          "time": "14:37",
+          "category": "Markets",
+          "title": "Is Oklo a Millionaire-Maker Stock?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/oklo-millionaire-maker-stock-133700801.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d56dec00e48",
+          "time": "14:36",
+          "category": "Crypto",
+          "title": "Liechtenstein Launches State-Backed Blockchain Network",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/liechtenstein-launches-state-backed-blockchain-133620089.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "bf32e9df95a4",
+          "time": "14:30",
+          "category": "Markets",
+          "title": "3 \"Magnificent Seven\" Stock(s) to Buy Hand Over Fist Right Now -- Including Nvidia (NVDA) Stock",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/3-magnificent-seven-stock-buy-133000786.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1b082c15b1ea",
+          "time": "14:30",
+          "category": "Markets",
+          "title": "Sumble emerges from stealth with $38.5M to bring AI-powered context to sales intelligence",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/sumble-emerges-stealth-38-5m-133000243.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1322,13 +1419,13 @@
           "impact_score": 1
         },
         {
-          "id": "6a87a9caff5a",
-          "time": "14:22",
+          "id": "ae33dd0ee079",
+          "time": "14:25",
           "category": "Markets",
-          "title": "Here’s How Much a $1,000 Investment in Walmart Stock 55 Years Ago Would Be Worth Today",
+          "title": "Rivian Automotive (NASDAQ: RIVN) Stock Price Prediction for 2025: Where Will It Be in 1 Year (Oct 22)",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/much-1-000-investment-walmart-132247562.html",
+          "url": "https://finance.yahoo.com/news/rivian-automotive-nasdaq-rivn-stock-132506418.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1388,17 +1485,6 @@
           "impact_score": 1
         },
         {
-          "id": "cec69863ec41",
-          "time": "14:16",
-          "category": "Markets",
-          "title": "Fourier Health Raises $8.4M To Automate Clinical Intake, Reduce Doctor Workload With Specialized AI",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/fourier-health-raises-8-4m-131603583.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "f93884db1edc",
           "time": "14:15",
           "category": "Markets",
@@ -1421,17 +1507,6 @@
           "impact_score": 1
         },
         {
-          "id": "aa28cb0c8f72",
-          "time": "14:11",
-          "category": "Markets",
-          "title": "Midsona outlines restructuring plan to bolster profit margins",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/midsona-outlines-restructuring-plan-bolster-131123530.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "e0d8d860e121",
           "time": "14:10",
           "category": "Markets",
@@ -1443,17 +1518,6 @@
           "impact_score": 1
         },
         {
-          "id": "a8141aec8f62",
-          "time": "14:10",
-          "category": "Markets",
-          "title": "Why Is Wall Street So Bullish on Oracle? There's 1 Key Reason.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-wall-street-bullish-oracle-131000526.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "0b60f307d399",
           "time": "14:09",
           "category": "Markets",
@@ -1461,17 +1525,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/robust-demand-lifted-xylem-xyl-130951453.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "d423539f4d4e",
-          "time": "14:08",
-          "category": "Markets",
-          "title": "DraftKings Prediction Market App Will Focus on States Without Legal Sports Betting",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/draftkings-prediction-market-app-focus-130834695.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1498,6 +1551,17 @@
           "impact_score": 1
         },
         {
+          "id": "779552f63cea",
+          "time": "14:00",
+          "category": "Earnings",
+          "title": "Palantir CEO Alex Karp Says Skeptics Have Been ‘Defanged’ and ‘Bent into Submission’ as Quarterly Revenue Passes $1 Billion",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/palantir-ceo-alex-karp-says-130002545.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "69fbea1856ca",
           "time": "14:00",
           "category": "Markets",
@@ -1520,13 +1584,13 @@
           "impact_score": 1
         },
         {
-          "id": "779552f63cea",
+          "id": "d4d020c26f73",
           "time": "14:00",
-          "category": "Earnings",
-          "title": "Palantir CEO Alex Karp Says Skeptics Have Been ‘Defanged’ and ‘Bent into Submission’ as Quarterly Revenue Passes $1 Billion",
+          "category": "Markets",
+          "title": "Insiders Are Selling More CoreWeave Stock. Should You?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/palantir-ceo-alex-karp-says-130002545.html",
+          "url": "https://finance.yahoo.com/news/insiders-selling-more-coreweave-stock-130002502.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1538,17 +1602,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/goodrx-stock-could-major-trump-130002360.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "d4d020c26f73",
-          "time": "14:00",
-          "category": "Markets",
-          "title": "Insiders Are Selling More CoreWeave Stock. Should You?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/insiders-selling-more-coreweave-stock-130002502.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1582,61 +1635,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/invest-climb-global-solutions-clmb-125844477.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "7b2a8f7f1a1d",
-          "time": "13:57",
-          "category": "Markets",
-          "title": "Applied Digital signs $5 billion AI infrastructure lease with hyperscaler",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/applied-digital-signs-5-billion-125702503.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f4c33a2bc8b5",
-          "time": "13:56",
-          "category": "Markets",
-          "title": "Jim Cramer on Lightwave Logic: “I Can’t Recommend It”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-lightwave-logic-t-125601841.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "45c7c7b9e773",
-          "time": "13:56",
-          "category": "Markets",
-          "title": "Jim Cramer on Recursion Pharmaceuticals: “Now, It’s a Meme Stock”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-recursion-pharmaceuticals-now-125600165.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c62c8bc59bb8",
-          "time": "13:55",
-          "category": "Markets",
-          "title": "Jim Cramer Suggest Ringing the Register on Hut 8",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-suggest-ringing-register-125558224.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "bfc19f4fddee",
-          "time": "13:55",
-          "category": "Markets",
-          "title": "Jim Cramer on Walt Disney: “I Thought it Should Be at $120”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-walt-disney-thought-125550941.html",
           "tags": [],
           "impact_score": 1
         },
