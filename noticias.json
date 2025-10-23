@@ -1,13 +1,13 @@
 {
-  "generated_at": "2025-10-23T18:45+01:00",
+  "generated_at": "2025-10-23T18:56+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-23",
       "attention_points": [
         "Woman Thinks Reverse Mortgages Are a Scam, but 'My Husband is Sucked in and Is Pushing Really Hard to Do It'",
-        "Swiss Crypto Bank AMINA Taps Tokeny to Build Compliant 'Bridge' for Asset Tokenization",
-        "Republic Technologies Raises $100 Million to Expand Validator-Backed Ethereum Treasury"
+        "Republic Technologies Raises $100 Million to Expand Validator-Backed Ethereum Treasury",
+        "3 secrets about Medicare that experts want you to know"
       ],
       "items": [
         {
@@ -18,17 +18,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/woman-thinks-reverse-mortgages-scam-173104318.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "27f175e316e9",
-          "time": "18:20",
-          "category": "Crypto",
-          "title": "Swiss Crypto Bank AMINA Taps Tokeny to Build Compliant 'Bridge' for Asset Tokenization",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/business/2025/10/23/swiss-crypto-bank-amina-taps-tokeny-to-build-compliant-bridge-for-asset-tokenization",
           "tags": [],
           "impact_score": 3
         },
@@ -97,6 +86,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/oil-jumps-russia-sanctions-stocks-155846964.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "a0480f308529",
+          "time": "16:57",
+          "category": "Regulation",
+          "title": "Apple loses UK lawsuit over app store commissions",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/apple-loses-uk-lawsuit-over-155741116.html",
           "tags": [],
           "impact_score": 3
         },
@@ -252,6 +252,17 @@
           "impact_score": 3
         },
         {
+          "id": "d2505c42019c",
+          "time": "07:09",
+          "category": "Crypto",
+          "title": "WazirX to Restart Trading on Friday After $230M Hack Caused Year-Long Shutdown",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/23/wazirx-to-restart-trading-on-friday-after-usd230m-hack-caused-year-long-shutdown",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "06861cb04301",
           "time": "06:50",
           "category": "Crypto",
@@ -368,17 +379,6 @@
           "impact_score": 2
         },
         {
-          "id": "68b42b673173",
-          "time": "17:04",
-          "category": "Markets",
-          "title": "Average long-term US mortgage rate drops to 6.19%, lowest level in more than a year",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/average-long-term-us-mortgage-160414770.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "1d6daef5b3f9",
           "time": "17:04",
           "category": "Earnings",
@@ -386,6 +386,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/research/ibd-stock-of-the-day/armstrong-world-industries-stock-buy-point-earnings/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "68b42b673173",
+          "time": "17:04",
+          "category": "Markets",
+          "title": "Average long-term US mortgage rate drops to 6.19%, lowest level in more than a year",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/average-long-term-us-mortgage-160414770.html",
           "tags": [],
           "impact_score": 2
         },
@@ -638,6 +649,17 @@
           "impact_score": 2
         },
         {
+          "id": "1e66d9cc1a13",
+          "time": "18:33",
+          "category": "Markets",
+          "title": "Concurrent Snares $1.3B Team From Raymond James",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/concurrent-snares-1-3b-team-173321363.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "7fb1a7c8f3c3",
           "time": "18:24",
           "category": "Markets",
@@ -678,17 +700,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/meet-ceo-chinas-version-nvidia-171502639.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "31b8db36d449",
-          "time": "18:01",
-          "category": "Markets",
-          "title": "Billionaire Charlie Munger Said 'The Hard Part' Of Getting Rich Is Saving The First $100,000. But He Found People Who Get There Fast Share 3 Traits",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/billionaire-charlie-munger-said-hard-170104528.html",
           "tags": [],
           "impact_score": 1
         },
@@ -880,17 +891,6 @@
           "impact_score": 1
         },
         {
-          "id": "87bd737ce7a2",
-          "time": "16:57",
-          "category": "Markets",
-          "title": "Former Biden Adviser Explains What Concerns Him About NVIDIA (NVDA)-Led AI ‘Bubble’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/former-biden-adviser-explains-concerns-155742889.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "f3ab2e4405b1",
           "time": "16:37",
           "category": "Crypto",
@@ -938,7 +938,7 @@
           "id": "acc302b1d866",
           "time": "16:19",
           "category": "Crypto",
-          "title": "President Trump pardons Binance founder CZ: Report",
+          "title": "Binance confirms CZ received presidential pardon from Trump",
           "summary": "US President Donald Trump signed a pardon for the Binance founder on Wednesday, The Wall Street Journal reported, clearing the way for his possible return to the exchange.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/trump-pardons-binance-founder-cz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
