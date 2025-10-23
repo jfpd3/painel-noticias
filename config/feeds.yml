@@ -4,10 +4,15 @@ crypto:
   - https://cointelegraph.com/rss
   - https://decrypt.co/feed
   - https://www.theblock.co/rss
+  - https://www.cryptoknowmics.com/rss-feeds
+  - https://www.ccn.com/news/crypto-news/feeds/
+  - https://www.ccn.com/analysis/crypto-analysis/feeds/
 us_markets:
   - https://feeds.a.dj.com/rss/RSSMarketsMain.xml     # WSJ Markets
   - https://www.reuters.com/markets/us/rss          # Reuters US Markets
   - https://finance.yahoo.com/news/rssindex         # Yahoo Finance
+  - https://www.investing.com/webmaster-tools/rss
+  - https://www.cmegroup.com/investor-relations/rss-feeds.html
 macro:
   - https://www.reuters.com/markets/economicIndicators/rss
   - https://www.ft.com/world/us/rss
