@@ -79,8 +79,20 @@ def should_ignore(title: str, link: str) -> bool:
 def normalize_item(entry: Any, feed_title: str) -> Tuple[Dict[str, Any], datetime]:
     title = (entry.get("title") or "").strip()
     link = entry.get("link") or ""
-    # corta HTML do summary e limita tamanho
-    summary = re.sub("<[^<]+?>", "", (entry.get("summary") or ""))[:280].strip()
+
+    # summary com fallbacks e limpeza de HTML (até 280 chars)
+    raw_summary = entry.get("summary") or entry.get("description") or ""
+    if not raw_summary:
+        content = entry.get("content")
+        if isinstance(content, list) and content:
+            first = content[0]
+            if isinstance(first, dict):
+                raw_summary = first.get("value", "") or ""
+            else:
+                raw_summary = str(first)
+    summary = re.sub(r"<[^>]+>", "", raw_summary)[:280].strip()
+
+    # fonte (ex.: "Yahoo Finance - Markets" -> "Yahoo Finance")
     source = feed_title.split(" - ")[0].strip() if feed_title else ""
 
     # published/updated -> datetime UTC
@@ -90,7 +102,7 @@ def normalize_item(entry: Any, feed_title: str) -> Tuple[Dict[str, Any], datetim
     elif entry.get("updated_parsed"):
         dt = datetime.fromtimestamp(time.mktime(entry.updated_parsed), timezone.utc)
     else:
-        for key in ("published","updated","date"):
+        for key in ("published", "updated", "date"):
             if entry.get(key):
                 try:
                     dt = dtparser.parse(entry.get(key)).astimezone(timezone.utc)
@@ -102,7 +114,7 @@ def normalize_item(entry: Any, feed_title: str) -> Tuple[Dict[str, Any], datetim
 
     # id estável
     raw_id = entry.get("id") or link or title
-    uid = hashlib.sha1(raw_id.encode("utf-8","ignore")).hexdigest()[:12]
+    uid = hashlib.sha1(raw_id.encode("utf-8", "ignore")).hexdigest()[:12]
 
     return ({
         "id": uid,
