@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-23T17:47+01:00",
+  "generated_at": "2025-10-23T18:33+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -7,7 +7,7 @@
       "attention_points": [
         "3 secrets about Medicare that experts want you to know",
         "Hasbro's tariff battle could make playtime pricier",
-        "Revolut Secures MiCA License in Cyprus—Is a Stablecoin Next?"
+        "FBS: The Market Learns to Move Without the Fed"
       ],
       "items": [
         {
@@ -33,6 +33,17 @@
           "impact_score": 3
         },
         {
+          "id": "e5c7711b171a",
+          "time": "17:13",
+          "category": "US Macro",
+          "title": "FBS: The Market Learns to Move Without the Fed",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fbs-market-learns-move-without-161309411.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "e6a4c44afc39",
           "time": "17:01",
           "category": "Regulation",
@@ -40,17 +51,6 @@
           "summary": "An EU lawyer said the European banking giant is now ‘positioned to legally issue its own stablecoin,’ with a 2026 launch ‘plausible.’",
           "source": "Decrypt",
           "url": "https://decrypt.co/345674/revolut-secures-mica-license-in-cyprus-is-a-stablecoin-next",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "1400b922874c",
-          "time": "17:01",
-          "category": "Regulation",
-          "title": "Revolut Secures MiCA License in Cyprus—Is a Stablecoin Next?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/revolut-secures-mica-license-cyprus-160103192.html",
           "tags": [],
           "impact_score": 3
         },
@@ -274,16 +274,38 @@
           "impact_score": 3
         },
         {
-          "id": "6f21f411ce0a",
-          "time": "17:24",
+          "id": "5454d60e87b3",
+          "time": "18:01",
           "category": "Crypto",
-          "title": "Legendary trader who predicted 1980s 50% gold crash now warns Bitcoin could be next",
+          "title": "Ethereum triple bottom setup hints at a $4K breakout next",
+          "summary": "Ether's mega whales are quietly buying the dips, absorbing supply from smaller holders during the price drop.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/ethereum-triple-bottom-setup-hints-4k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "4830d1d4463f",
+          "time": "17:57",
+          "category": "Markets",
+          "title": "Oil surges 5% after US sanctions Russian firms Rosneft, Lukoil",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/legendary-trader-predicted-1980s-50-162442578.html",
-          "tags": [
-            "BTC"
-          ],
+          "url": "https://finance.yahoo.com/news/oil-surges-5-us-sanctions-165751219.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "8cadaf824d9d",
+          "time": "17:53",
+          "category": "Earnings",
+          "title": "IBM Beat Sales and Earnings Estimates. Here's Why Its Stock Is Falling Anyway",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ibm-beat-sales-earnings-estimates-165303246.html",
+          "tags": [],
           "impact_score": 2
         },
         {
@@ -305,39 +327,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/research/ibd-stock-of-the-day/armstrong-world-industries-stock-buy-point-earnings/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "06e2939af874",
-          "time": "17:00",
-          "category": "Markets",
-          "title": "Beyond Meat Stock Is Tumbling. Is the Meme Stock Rally Already Over?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/beyond-meat-stock-tumbling-meme-160031491.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "a5ae5f817da3",
-          "time": "16:51",
-          "category": "Markets",
-          "title": "Oil Rally Opens Window for Producers to Hedge",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/oil-climbs-boosted-by-u-s-new-sanctions-on-russian-oil-giants-38465746?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "6bbf46778663",
-          "time": "16:45",
-          "category": "Earnings",
-          "title": "Southwest Airlines Stock Is Falling After Earnings Beat. The Changes Don’t Impress Wall Street.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/southwest-airlines-earnings-stock-price-147d1b29?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 2
         },
@@ -568,19 +557,6 @@
           "impact_score": 2
         },
         {
-          "id": "b3cb20cd3609",
-          "time": "02:27",
-          "category": "Crypto",
-          "title": "Young Australians’ biggest financial regret: Ignoring Bitcoin at $400",
-          "summary": "Young Australians feel they could have made a bigger dent in their property goals if they had invested in cryptocurrency 10 years ago, and now they’re locked out.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/young-australians-crypto-regret-swyftx-survey-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "254141655931",
           "time": "02:11",
           "category": "Crypto",
@@ -603,24 +579,167 @@
           "impact_score": 2
         },
         {
-          "id": "1d6daef5b3f9",
-          "time": "17:33",
+          "id": "721eccff1ada",
+          "time": "18:16",
           "category": "Markets",
-          "title": "Stock Market Today: S&P 500 Rises But Nasdaq Leads; Tesla Sinks; Resort Name Soars (Live Coverage)",
+          "title": "France edges towards further consolidation in telecoms",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-tesla-tsla-stock-q3-earnings/?src=A00220&yptr=yahoo",
+          "url": "https://finance.yahoo.com/news/france-edges-towards-further-consolidation-171625508.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "f02bade608d6",
-          "time": "17:31",
+          "id": "0325b762fbae",
+          "time": "18:15",
           "category": "Markets",
-          "title": "'It Shouldn't Be This Difficult To Be Successful' — Worker Earning $240K Says The U.S. Economy Is 'Failing The Middle Class'",
+          "title": "Molina Healthcare stock falls as medical costs spike, Obamacare worries mount",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/shouldnt-difficult-successful-worker-earning-163104023.html",
+          "url": "https://finance.yahoo.com/news/molina-healthcare-stock-falls-as-medical-costs-spike-obamacare-worries-mount-171521043.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "577191e625a0",
+          "time": "18:15",
+          "category": "Markets",
+          "title": "Meet the CEO of China's version of Nvidia, who's had a great week in the stock market",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/meet-ceo-chinas-version-nvidia-171502639.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "31b8db36d449",
+          "time": "18:01",
+          "category": "Markets",
+          "title": "Billionaire Charlie Munger Said 'The Hard Part' Of Getting Rich Is Saving The First $100,000. But He Found People Who Get There Fast Share 3 Traits",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/billionaire-charlie-munger-said-hard-170104528.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "91241813c60b",
+          "time": "18:00",
+          "category": "Markets",
+          "title": "George Kamel Reacts To the Worst Online Tax Advice",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/george-kamel-reacts-worst-online-170008389.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ec75f1588ec7",
+          "time": "18:00",
+          "category": "Markets",
+          "title": "See the pitch deck this AI studio used to raise $12 million to become the 'Y Combinator for IP'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/see-pitch-deck-ai-studio-170001288.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "82481a28408e",
+          "time": "17:53",
+          "category": "Markets",
+          "title": "Roche in ongoing discussions with US government over drug pricing, CEO says",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/roche-ongoing-discussions-us-government-165332078.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2893cca9d5f0",
+          "time": "17:49",
+          "category": "Markets",
+          "title": "US existing home sales hit 7-month high; affordability remains a challenge",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/us-existing-home-sales-hit-164934450.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "17:48",
+          "category": "Markets",
+          "title": "Marathon Petroleum Stock Earns 82 RS Rating",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/marathon-petroleum-earns-82-rs-rating/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "17:46",
+          "category": "Earnings",
+          "title": "SAP Stock Falls On Revenue Miss, Weak Cloud Order Backlog",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/sap-stock-sap-earnings-news-q32025/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "812fb16838e8",
+          "time": "17:45",
+          "category": "US Macro",
+          "title": "There's No End in Sight For High Mortgage Rates",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/theres-no-end-sight-high-164508219.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4802988f7d99",
+          "time": "17:44",
+          "category": "Markets",
+          "title": "Oil futures return to structure signalling tight supply on Russia sanctions",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/oil-futures-return-structure-signalling-164455403.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a129a334d348",
+          "time": "17:40",
+          "category": "Markets",
+          "title": "Cathie Wood buys $21.3 million worth of Robinhood shares",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/cathie-wood-buys-21-3-164027386.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "17:35",
+          "category": "Markets",
+          "title": "How To Make Marvell Stock Float Like A Butterfly With This Trade",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/research/options/marvell-technology-mrvl-stock-butterfly-spread/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "17:33",
+          "category": "Markets",
+          "title": "Stock Market Today: S&P 500 Rises But Nasdaq Leads; Tesla Sinks As Resort Name Soars (Live Coverage)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-tesla-tsla-stock-q3-earnings/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -658,17 +777,6 @@
           "impact_score": 1
         },
         {
-          "id": "1f0cf6f37db3",
-          "time": "17:26",
-          "category": "Markets",
-          "title": "I Achieved A $2.4 Million Net Worth with an $80,000 Salary",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/achieved-2-4-million-net-162615028.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "4f02aaa31c8d",
           "time": "17:24",
           "category": "Markets",
@@ -698,17 +806,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/elon-musk-presses-for-1-trillion-pay-plan-because-he-needs-to-influence-teslas-future-robot-army-162353294.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c9756fbd7b3a",
-          "time": "17:15",
-          "category": "Markets",
-          "title": "Biotech recovery in Q3 2025 as venture funding grows 70.9% from Q2 2025",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/biotech-recovery-q3-2025-venture-161520537.html",
           "tags": [],
           "impact_score": 1
         },
@@ -746,17 +843,6 @@
           "impact_score": 1
         },
         {
-          "id": "dbb3d2b2dc15",
-          "time": "17:07",
-          "category": "Markets",
-          "title": "The Best Stocks to Invest $1,000 In Right Now",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/best-stocks-invest-1-000-160700156.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "743d49d6ebec",
           "time": "17:03",
           "category": "Markets",
@@ -779,17 +865,6 @@
           "impact_score": 1
         },
         {
-          "id": "a8996f6129e7",
-          "time": "17:00",
-          "category": "Markets",
-          "title": "Fiber Producers Adapt to Market Demands",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/fiber-producers-adapt-market-demands-160000137.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "87bd737ce7a2",
           "time": "16:57",
           "category": "Markets",
@@ -797,105 +872,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/former-biden-adviser-explains-concerns-155742889.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b09c27db71c2",
-          "time": "16:56",
-          "category": "Markets",
-          "title": "Do You Believe in the Growth Potential of STERIS (STE)?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/believe-growth-potential-steris-ste-155613583.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c45c7b82eab9",
-          "time": "16:55",
-          "category": "Markets",
-          "title": "Stocks to Watch on Thursday: Tesla, IBM, Blackstone, Kering",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2025/card/stocks-to-watch-on-thursday-tesla-ibm-southwest-76eMvVmz7rOM2wb4oeGv?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3a497e9edf7d",
-          "time": "16:49",
-          "category": "Markets",
-          "title": "Stacy Rasgon Explains Why Advanced Micro Devices (AMD) Deal With OpenAI ‘Raises Eyebrows’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stacy-rasgon-explains-why-advanced-154902862.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4bd619560621",
-          "time": "16:48",
-          "category": "Markets",
-          "title": "What Makes West Pharmaceutical Services (WST) a Prospective Investment?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/makes-west-pharmaceutical-services-wst-154835538.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e999eb46ef9b",
-          "time": "16:48",
-          "category": "Markets",
-          "title": "Analyst Says There’s More Upside to Wells Fargo (WFC)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/analyst-says-more-upside-wells-154818320.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4eaef8a173ee",
-          "time": "16:47",
-          "category": "Markets",
-          "title": "Analyst Says Bristol-Myers Squibb (BMY) Among the Best ‘Deep Value’ Stocks to Buy",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/analyst-says-bristol-myers-squibb-154719829.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "16:47",
-          "category": "Markets",
-          "title": "FCX, Alcoa Rise As Copper, Aluminum Prices Heat Up",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/fcx-stock-alcoa-copper-aluminum-price-q3-earnings/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "fe17bce7ecb0",
-          "time": "16:46",
-          "category": "Markets",
-          "title": "Is Ventas (VTR) The Best REIT Dividend Stock to Buy for Non-AI Trade?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ventas-vtr-best-reit-dividend-154631176.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "9ac6b893f316",
-          "time": "16:44",
-          "category": "Markets",
-          "title": "What Makes Bio-Rad Laboratories (BIO) an Investment Bet?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/makes-bio-rad-laboratories-bio-154409682.html",
           "tags": [],
           "impact_score": 1
         },
