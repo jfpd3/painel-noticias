@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T18:43+01:00",
+  "generated_at": "2025-10-24T18:52+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -271,6 +271,28 @@
           "url": "https://www.coindesk.com/markets/2025/10/24/asia-morning-briefing-after-cz-s-pardon-odds-rise-for-sam-bankman-fried-s-second-chance",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "5094a0901753",
+          "time": "18:30",
+          "category": "Earnings",
+          "title": "Bio-Rad (BIO) Surged as the Earnings Exceeded Expectations",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bio-rad-bio-surged-earnings-173033805.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "3eb72b64dd8d",
+          "time": "18:29",
+          "category": "Markets",
+          "title": "Longleaf Partners Fund is Expecting a Surge in CNX Resources Corporation’s (CNX) Stock Price",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/longleaf-partners-fund-expecting-surge-172920585.html",
+          "tags": [],
+          "impact_score": 2
         },
         {
           "id": "43df53fa395e",
@@ -1018,28 +1040,6 @@
           "impact_score": 1
         },
         {
-          "id": "06230ec57492",
-          "time": "17:29",
-          "category": "Markets",
-          "title": "Tech, Media & Telecom Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/investing/tech-media-telecom-roundup-market-talk-4b81d2db?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c9dfb51f8f96",
-          "time": "17:28",
-          "category": "Markets",
-          "title": "Energy & Utilities Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/energy-utilities-roundup-market-talk-c42fb49e?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "9aa2090e7b75",
           "time": "17:13",
           "category": "Crypto",
@@ -1205,6 +1205,17 @@
           "impact_score": 1
         },
         {
+          "id": "de71d0754dc8",
+          "time": "12:09",
+          "category": "Markets",
+          "title": "Analyst Report: American Airlines Group Inc",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_4643_AnalystReport_1761304151000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "5774cc65f229",
           "time": "12:09",
           "category": "Markets",
@@ -1223,17 +1234,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3943_AnalystReport_1761304151000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "de71d0754dc8",
-          "time": "12:09",
-          "category": "Markets",
-          "title": "Analyst Report: American Airlines Group Inc",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_4643_AnalystReport_1761304151000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
