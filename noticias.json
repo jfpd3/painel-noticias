@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T00:46+01:00",
+  "generated_at": "2025-10-25T00:56+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -724,13 +724,13 @@
           "impact_score": 1
         },
         {
-          "id": "973298671192",
+          "id": "07e96594e7e7",
           "time": "18:06",
           "category": "Markets",
-          "title": "Analyst Report: Tractor Supply Co.",
+          "title": "Analyst Report: Integer Holdings Corp",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3462_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3757_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -746,13 +746,13 @@
           "impact_score": 1
         },
         {
-          "id": "07e96594e7e7",
+          "id": "973298671192",
           "time": "18:06",
           "category": "Markets",
-          "title": "Analyst Report: Integer Holdings Corp",
+          "title": "Analyst Report: Tractor Supply Co.",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3757_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3462_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -1184,6 +1184,17 @@
           "impact_score": 2
         },
         {
+          "id": "8cadaf824d9d",
+          "time": "17:53",
+          "category": "Earnings",
+          "title": "IBM Beat Sales and Earnings Estimates. Here's Why Its Stock Is Falling Anyway",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ibm-beat-sales-earnings-estimates-165303246.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "dbc670df4fef",
           "time": "17:37",
           "category": "Earnings",
@@ -1261,6 +1272,28 @@
           "impact_score": 1
         },
         {
+          "id": "4328af726810",
+          "time": "18:13",
+          "category": "Markets",
+          "title": "Can Anything Shake Financial Market Complacency? Credit Stress Couldn’t Seem to Do It.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/junk-bond-prices-credit-market-stress-high-yield-jnk-560c8c0d?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3b8a4d23a676",
+          "time": "18:08",
+          "category": "Markets",
+          "title": "The Stock Goes Green After Hefty Loss",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/livecoverage/tesla-earnings-stock-price-elon-musk-news/card/the-stock-goes-green-after-hefty-loss-sJJBMTIbXrOjq8i2PoMP?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "b1afa6524c3c",
           "time": "18:00",
           "category": "Markets",
@@ -1279,6 +1312,28 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/business/earnings/hasbro-toymaker-quarterly-profit-revenue-rise-6207958c?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "82481a28408e",
+          "time": "17:53",
+          "category": "Markets",
+          "title": "Roche in ongoing discussions with US government over drug pricing, CEO says",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/roche-ongoing-discussions-us-government-165332078.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d2cf98d54d37",
+          "time": "17:53",
+          "category": "Markets",
+          "title": "Our two daughters are struggling with student debt. Should we dip into our $1.8 million 401(k)s to buy them apartments?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/two-daughters-struggling-student-debt-165300886.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1426,17 +1481,6 @@
           "impact_score": 1
         },
         {
-          "id": "a0619d00453e",
-          "time": "17:26",
-          "category": "Markets",
-          "title": "3 Things To Stop Doing Right Now if You Want To Retire Early",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/3-things-stop-doing-now-162648440.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "694961ba08a7",
           "time": "17:26",
           "category": "Markets",
@@ -1444,28 +1488,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/morgan-stanley-reduces-price-target-162631207.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1f0cf6f37db3",
-          "time": "17:26",
-          "category": "Markets",
-          "title": "I Achieved A $2.4 Million Net Worth with an $80,000 Salary",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/achieved-2-4-million-net-162615028.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6f21f411ce0a",
-          "time": "17:24",
-          "category": "Markets",
-          "title": "Veteran trader who called 50% gold crash warns rival asset could be next",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/legendary-trader-predicted-1980s-50-162442578.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1514,17 +1536,6 @@
           "impact_score": 1
         },
         {
-          "id": "5470bb16cf0c",
-          "time": "17:18",
-          "category": "Markets",
-          "title": "SAP focuses on cloud gains, touts agentic AI plan",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/sap-focuses-cloud-gains-touts-161839341.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "da2ceb4354cb",
           "time": "17:17",
           "category": "Markets",
@@ -1565,17 +1576,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/mortgage-rates-hit-lowest-level-in-over-a-year-161030853.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "17:10",
-          "category": "Markets",
-          "title": "Meta Stock Ahead Fifth Straight Day Amid AI Job Cuts Report, $27 Billion Data Center Deal",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/technology/meta-stock-ai-blue-owl-data-center-q3-earnings/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
