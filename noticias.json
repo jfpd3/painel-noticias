@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T20:04+01:00",
+  "generated_at": "2025-10-24T20:37+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -227,6 +227,19 @@
           "url": "https://www.coindesk.com/markets/2025/10/24/asia-morning-briefing-after-cz-s-pardon-odds-rise-for-sam-bankman-fried-s-second-chance",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "2e9ffaa07207",
+          "time": "20:06",
+          "category": "Crypto",
+          "title": "Spooky Szn? Bitcoin Options Worth Record $31 Billion Set to Expire on Halloween",
+          "summary": "Despite the October flash crash and deleveraging event, Bitcoin traders are in for a record options expiry event at the end of the month. Here's what to expect.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345888/bitcoin-options-record-31-billion-set-expire-halloween",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
         },
         {
           "id": "298e7c2ef772",
@@ -621,13 +634,13 @@
           "impact_score": 1
         },
         {
-          "id": "973298671192",
+          "id": "07e96594e7e7",
           "time": "18:06",
           "category": "Markets",
-          "title": "Analyst Report: Tractor Supply Co.",
+          "title": "Analyst Report: Integer Holdings Corp",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3462_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3757_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -643,13 +656,13 @@
           "impact_score": 1
         },
         {
-          "id": "07e96594e7e7",
+          "id": "973298671192",
           "time": "18:06",
           "category": "Markets",
-          "title": "Analyst Report: Integer Holdings Corp",
+          "title": "Analyst Report: Tractor Supply Co.",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3757_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3462_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -952,6 +965,39 @@
           "impact_score": 3
         },
         {
+          "id": "78dbcf939f05",
+          "time": "11:11",
+          "category": "US Macro",
+          "title": "Dallas Fed chief's rate target reform welcomed amid very uncertain timetable",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/dallas-fed-chiefs-rate-target-101106481.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "a50d43719c7b",
+          "time": "11:00",
+          "category": "Regulation",
+          "title": "How Can I Lower Taxes on My $3,500 Monthly Social Security Check?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/im-receiving-3-500-per-133032715.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "2ccf9b415640",
+          "time": "10:30",
+          "category": "Markets",
+          "title": "Is the Vanguard S&P 500 ETF a Buy?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/vanguard-p-500-etf-buy-093000928.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "b2e31def0571",
           "time": "10:26",
           "category": "Regulation",
@@ -970,28 +1016,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/ubs-keeps-bullish-stance-netflix-092559857.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "6bfe11baff3c",
-          "time": "10:06",
-          "category": "Markets",
-          "title": "Russia to supply oil and condensate to Syria’s Banias port",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/russia-supply-oil-condensate-syria-090616617.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "65b8f3d44959",
-          "time": "09:23",
-          "category": "Markets",
-          "title": "Global Markets, U.S. Futures Mixed; Energy Stocks Boosted by Russian Oil Tariffs",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/global-markets-u-s-futures-mixed-energy-stocks-boosted-by-russian-oil-tariffs-f5f37c57?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 3
         },
@@ -1180,39 +1204,6 @@
           "impact_score": 2
         },
         {
-          "id": "6874b6d2a4c0",
-          "time": "10:00",
-          "category": "Earnings",
-          "title": "Down 28% for the Year Despite Record Revenues Last Quarter, Is Shake Shack a Buy?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/down-28-despite-record-revenues-090000025.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "13c81b2241e7",
-          "time": "09:54",
-          "category": "Earnings",
-          "title": "Stocks rise on upbeat earnings; Russia sanctions boost oil",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stocks-rise-upbeat-earnings-russia-085415499.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "e25d91c6b254",
-          "time": "09:47",
-          "category": "Earnings",
-          "title": "Volvo Car Shares Surge After Cost Cutting Boosts Earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/earnings/volvo-car-posts-higher-net-profit-on-cost-savings-59a18b76?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "6962a4fab514",
           "time": "22:28",
           "category": "Crypto",
@@ -1301,6 +1292,94 @@
           "impact_score": 1
         },
         {
+          "id": "243fea7b98db",
+          "time": "11:10",
+          "category": "Markets",
+          "title": "Why This Commonwealth Team Decided to Move to Osaic",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-commonwealth-team-decided-move-101000074.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9376ef6ef94c",
+          "time": "11:02",
+          "category": "Earnings",
+          "title": "Honeywell lifts 2025 profit outlook despite Solstice spinoff on strong demand",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/honeywell-lifts-2025-profit-outlook-100255797.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4c77c6d54029",
+          "time": "11:00",
+          "category": "Markets",
+          "title": "AI is keeping the US economy out of a recession",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ai-is-keeping-the-us-economy-out-of-a-recession-100012367.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "17a435c73993",
+          "time": "10:53",
+          "category": "Earnings",
+          "title": "Galderma raises full-year outlook after sales beat, commits to US expansion",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/galderma-raises-full-outlook-sales-095351125.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2d4fbe60e0c2",
+          "time": "10:43",
+          "category": "Markets",
+          "title": "Chubb reports 20.5% YoY increase in net income in Q3 2025",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/chubb-reports-20-5-yoy-094332011.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "98b0fe7b08b1",
+          "time": "10:42",
+          "category": "Markets",
+          "title": "Is UPS Stock a Buy Before Oct. 28?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ups-stock-buy-oct-28-094200838.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2016725e30b1",
+          "time": "10:41",
+          "category": "Markets",
+          "title": "Morrisons to roll out electronic shelf labels with VusionGroup",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/morrisons-roll-electronic-shelf-labels-094131907.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "46cd9317d1fb",
+          "time": "10:32",
+          "category": "Markets",
+          "title": "MJH Life Sciences announces acquisition of BPD Healthcare",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/mjh-life-sciences-announces-acquisition-093206848.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "5d9ed8576b9d",
           "time": "10:30",
           "category": "Markets",
@@ -1312,17 +1391,6 @@
           "impact_score": 1
         },
         {
-          "id": "8d49d034524e",
-          "time": "10:30",
-          "category": "Markets",
-          "title": "Popular Leveraged Funds Shock Investors With Huge Losses",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/investing/popular-leveraged-funds-shock-investors-with-huge-losses-5714f1ac?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "9104d9d4b7a9",
           "time": "10:30",
           "category": "Earnings",
@@ -1330,6 +1398,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/hkex-ceo-bonnie-chan-says-093000183.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8d49d034524e",
+          "time": "10:30",
+          "category": "Markets",
+          "title": "Popular Leveraged Funds Shock Investors With Huge Losses",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/finance/investing/popular-leveraged-funds-shock-investors-with-huge-losses-5714f1ac?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -1352,6 +1431,28 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/business/autos/elon-musk-raises-the-stakes-for-vote-on-his-pay-108bbc2e?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2fc87ce3dd5b",
+          "time": "10:30",
+          "category": "Markets",
+          "title": "Better Artificial Intelligence (AI) Stock: Palantir vs. Nvidia",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/better-artificial-intelligence-ai-stock-093000265.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9daa9d3dcae3",
+          "time": "10:29",
+          "category": "Markets",
+          "title": "Argentina Lithium announces first MRE for Rincon West project",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/argentina-lithium-announces-first-mre-092908875.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1477,112 +1578,24 @@
           "impact_score": 1
         },
         {
-          "id": "bb3074007786",
-          "time": "10:06",
+          "id": "3b553d226225",
+          "time": "10:23",
           "category": "Markets",
-          "title": "Meteora Founder Accused of Using Melania Trump, Milei for $57M Memecoin Scam",
+          "title": "1 Glorious Growth Stock Down 78% to Buy Hand Over Fist Before 2026",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/meteora-founder-accused-using-melania-090636916.html",
+          "url": "https://finance.yahoo.com/news/1-glorious-growth-stock-down-092300169.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "67e59988e763",
-          "time": "10:04",
+          "id": "65e6fc640bbd",
+          "time": "06:17",
           "category": "Markets",
-          "title": "Rothschild Wealth Partners acquires Illinois-based SNWA",
+          "title": "Nokia posts profit beat as AI, cloud demand boost optical sales",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/rothschild-wealth-partners-acquires-illinois-090414977.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "310ab6d236f7",
-          "time": "10:02",
-          "category": "Markets",
-          "title": "Engie makes 15-year renewable energy deal with Apple in Italy",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/engie-makes-15-renewable-energy-090251761.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "fee08b23c123",
-          "time": "10:02",
-          "category": "Crypto",
-          "title": "Crypto and Blockchain Are Components of the Future, Zodia Custody's Gerry Afentakis",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/crypto-blockchain-components-future-zodia-090215414.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "089d5ece0d39",
-          "time": "10:00",
-          "category": "Markets",
-          "title": "CZ and Peter Schiff Ignite Debate Over the True Nature of Tokenized Gold",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cz-peter-schiff-ignite-debate-090007587.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "eccab0f5d746",
-          "time": "10:00",
-          "category": "Markets",
-          "title": "Levi’s nears completion of warehouse network transition",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/levi-nears-completion-warehouse-network-090000260.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f6343e207aba",
-          "time": "09:57",
-          "category": "Markets",
-          "title": "CenterPoint to sell Ohio gas business to National Fuel for $2.62bn",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/centerpoint-sell-ohio-gas-business-085701823.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e7d57f227727",
-          "time": "09:30",
-          "category": "Markets",
-          "title": "India Faces Energy Shock as Trump Targets Russian Oil Giants",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/india-faces-energy-shock-trump-083000923.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "cc971c2ed3b8",
-          "time": "09:29",
-          "category": "Markets",
-          "title": "Unilever Underlying Sales Rise as China Returns to Growth",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/retail/unilever-reports-growth-in-underlying-sales-80b2f298?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0828a706e0b3",
-          "time": "09:25",
-          "category": "Markets",
-          "title": "Jim Cramer Says USA Rare Earth (USAR)’s Shares Have “Lagged” Rare Earth Stocks",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-usa-rare-082525080.html",
+          "url": "https://finance.yahoo.com/news/nokia-posts-profit-beat-ai-051731194.html",
           "tags": [],
           "impact_score": 1
         }
