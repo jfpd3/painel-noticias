@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T14:46+01:00",
+  "generated_at": "2025-10-24T14:59+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -166,6 +166,30 @@
           "url": "https://www.coindesk.com/markets/2025/10/24/asia-morning-briefing-after-cz-s-pardon-odds-rise-for-sam-bankman-fried-s-second-chance",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "b431ea497743",
+          "time": "14:49",
+          "category": "Crypto",
+          "title": "Here’s what happened in crypto today",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "91d3a930ef1a",
+          "time": "14:47",
+          "category": "Crypto",
+          "title": "Can Ethereum reclaim $4K? ‘Smart trader’ whale raises ETH long to $131M",
+          "summary": "Ethereum bulls pushed the price above $4,000 as traders monitored a smart trader’s activity and projected higher ETH prices.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/can-ethereum-reclaim-4k-smart-trader-eth-long-bet-131m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 2
         },
         {
           "id": "e70aadf71f4c",
@@ -641,17 +665,6 @@
           "impact_score": 1
         },
         {
-          "id": "1445981e2292",
-          "time": "11:23",
-          "category": "Markets",
-          "title": "Daily – Vickers Top Buyers & Sellers for 10/24/2025",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_45110_TopBottomInsiderActivity_1761301405000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "5ebac5daf175",
           "time": "11:23",
           "category": "Markets",
@@ -659,6 +672,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_45109_InsiderActivity_1761301405000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1445981e2292",
+          "time": "11:23",
+          "category": "Markets",
+          "title": "Daily – Vickers Top Buyers & Sellers for 10/24/2025",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_45110_TopBottomInsiderActivity_1761301405000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -725,28 +749,6 @@
           "summary": "While some onchain sleuths called it “obvious insider knowledge,” others argued that Trump’s pardon of Changpeng Zhao was expected.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/donald-trump-us-cz-binance-founder-pardon-crypto-trader-profit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8623c1c73bd3",
-          "time": "01:30",
-          "category": "Crypto",
-          "title": "Trump on CZ pardon: I’m told ‘what he did is not even a crime’",
-          "summary": "Following the pardon, CZ said he would do “everything we can to help make America the Capital of Crypto and advance Web3 worldwide.”",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/trump-pardons-binance-founder-cz-crypto-community-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "31ea4825a581",
-          "time": "01:22",
-          "category": "Crypto",
-          "title": "Traders see BNB going ‘up only’ after Trump’s CZ pardon",
-          "summary": "BNB jumped after Donald Trump pardoned Binance founder CZ, fueling trader optimism and fresh speculation that altcoin season could soon return.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bnb-wlfi-price-surge-donald-trump-cz-binance-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         }
