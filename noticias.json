@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T17:50+01:00",
+  "generated_at": "2025-10-24T18:06+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -51,17 +51,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/finance/regulation/zelle-stablecoin-cryptocurrency-7ef515e7?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "ca849a9deef8",
-          "time": "16:34",
-          "category": "US Macro",
-          "title": "Treasury Yields, Dollar Bounce Back, Stocks Keep Rising",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/asian-currencies-consolidate-ahead-of-u-s-cpi-data-eedcbd21?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 3
         },
@@ -260,6 +249,28 @@
           "impact_score": 3
         },
         {
+          "id": "7dcfd2a67d65",
+          "time": "17:47",
+          "category": "US Macro",
+          "title": "Porsche reports downbeat YTD results, forward guidance as it recalibrates its EV, China strategy",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/porsche-reports-downbeat-ytd-results-forward-guidance-as-it-recalibrates-its-ev-china-strategy-164725636.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "17:43",
+          "category": "Earnings",
+          "title": "Ready For Takeoff? This Aviation Stock On 140% Run Eyes Entry As Earnings, Sales Surge",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/stock-lists/stock-spotlight/ftai-aviation-stock-eyes-entry-earnings-sales-surge/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "8acd303cc870",
           "time": "17:34",
           "category": "Crypto",
@@ -284,6 +295,28 @@
           "impact_score": 2
         },
         {
+          "id": "73b3f6d5de6b",
+          "time": "17:28",
+          "category": "Earnings",
+          "title": "Primis Financial (FRST) Earnings Call Transcript",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/primis-financial-frst-earnings-call-162848038.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "89a5fa9ac1ef",
+          "time": "17:28",
+          "category": "Earnings",
+          "title": "Intel (INTC) Q3 2025 Earnings Call Transcript",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/intel-intc-q3-2025-earnings-162845112.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "f5ab3389015c",
           "time": "17:27",
           "category": "Earnings",
@@ -292,20 +325,6 @@
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/resideo-technologies-rezi-propelled-strong-162743609.html",
           "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "90c4b8921a2f",
-          "time": "17:24",
-          "category": "Crypto",
-          "title": "Wall Street Giant JPMorgan to Let Institutions Borrow Against Bitcoin and Ethereum Holdings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/wall-street-giant-jpmorgan-let-162419278.html",
-          "tags": [
-            "BTC",
-            "ETH"
-          ],
           "impact_score": 2
         },
         {
@@ -320,17 +339,6 @@
           "impact_score": 2
         },
         {
-          "id": "7ee9b6a11e9d",
-          "time": "17:21",
-          "category": "Markets",
-          "title": "Auto Stocks Surge as Carmakers Navigate Policy Shifts with 'Robust' Sales",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/auto-stocks-surge-carmakers-navigate-162133180.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "8d5a7ac2d701",
           "time": "17:21",
           "category": "Crypto",
@@ -338,17 +346,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/24/polymarket-will-launch-token-and-airdrop-after-u-s-relaunch-cmo-says",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "460a16109a52",
-          "time": "17:12",
-          "category": "Earnings",
-          "title": "NatWest (NWG) Q3 2025 Earnings Call Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/natwest-nwg-q3-2025-earnings-161237655.html",
           "tags": [],
           "impact_score": 2
         },
@@ -399,17 +396,6 @@
           "impact_score": 2
         },
         {
-          "id": "1d6daef5b3f9",
-          "time": "16:35",
-          "category": "Earnings",
-          "title": "Nvidia Hits Trigger With Intel's Upbeat Demand View, Mag 7 Earnings Ahead. Is Nvidia A Buy Now?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/research/nvidia-nvda-stock-ai-tech-earnings/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "763048e61a9b",
           "time": "16:31",
           "category": "Crypto",
@@ -420,17 +406,6 @@
           "tags": [
             "BTC"
           ],
-          "impact_score": 2
-        },
-        {
-          "id": "d15e881d2b69",
-          "time": "16:28",
-          "category": "Earnings",
-          "title": "Bad Headlines Haven’t Stopped the Stock Market. Why It Keeps Hitting Records.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102425/card/bad-headlines-haven-t-stopped-the-stock-market-why-it-keeps-hitting-records--y7FXNBuW5lNxPMD8eCBn?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
           "impact_score": 2
         },
         {
@@ -742,6 +717,50 @@
           "impact_score": 2
         },
         {
+          "id": "b901c944ac94",
+          "time": "17:50",
+          "category": "Markets",
+          "title": "Will The Kraft Heinz Company (NASDAQ:KHC) Stock Price Cross Over $40?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/kraft-heinz-company-nasdaq-khc-165016349.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "17:48",
+          "category": "Earnings",
+          "title": "Solar Stocks Climb As This Leader Beats Views, Raises Sales Outlook",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/solar-stocks-nextracker-earnings-outlook/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "13a54aaf3feb",
+          "time": "17:47",
+          "category": "Markets",
+          "title": "Spectrum makes a harsh decision after major customer losses",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/spectrum-makes-harsh-decision-major-164700127.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a1efcb9ea80f",
+          "time": "17:41",
+          "category": "Markets",
+          "title": "Should You Expect Accelerated Sales Growth for Mattel (MAT) in 2026?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/expect-accelerated-sales-growth-mattel-164121047.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "bcf1d707cf10",
           "time": "17:37",
           "category": "Markets",
@@ -830,6 +849,17 @@
           "impact_score": 1
         },
         {
+          "id": "2b05b0643072",
+          "time": "17:28",
+          "category": "Markets",
+          "title": "I’m a Financial Advisor: This Is The Number One Factor Retirement Clients Overlook",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/m-financial-advisor-number-one-162843850.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "77c150f9c20e",
           "time": "17:28",
           "category": "Markets",
@@ -848,17 +878,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/articles/energy-utilities-roundup-market-talk-c42fb49e?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "d676d6b2b12a",
-          "time": "17:23",
-          "category": "Markets",
-          "title": "Hub Group, Essendant Team Up For 48-Hour Delivery Push",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hub-group-essendant-team-48-162304185.html",
           "tags": [],
           "impact_score": 1
         },
@@ -885,13 +904,13 @@
           "impact_score": 1
         },
         {
-          "id": "fad2f0826aab",
-          "time": "17:12",
+          "id": "ab4b24ddd1bc",
+          "time": "17:10",
           "category": "Markets",
-          "title": "This Is the Dumbest Financial Move You Can Make in the US Today, According to These Ramsey Experts",
+          "title": "Ukraine Strikes Russia’s Fourth-Largest Refinery, Disrupting 80,000 bpd of Outpu",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/dumbest-financial-move-us-today-161207855.html",
+          "url": "https://finance.yahoo.com/news/ukraine-strikes-russia-fourth-largest-161000231.html",
           "tags": [],
           "impact_score": 1
         },
@@ -980,28 +999,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/p-g-latest-flag-diverging-154002938.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "53d8a6f1eac4",
-          "time": "16:23",
-          "category": "Markets",
-          "title": "Private Equity Had a Great Story. Investors May Be Tired of Hearing It.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/private-equity-credit-stocks-d660f86e?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "87d9d4620ff1",
-          "time": "16:22",
-          "category": "Markets",
-          "title": "T-Mobile's incoming CEO: AT&T is taking potshots because it's 'under pressure'",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/t-mobiles-incoming-ceo-att-is-taking-potshots-because-its-under-pressure-152258495.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1138,17 +1135,6 @@
           "impact_score": 1
         },
         {
-          "id": "c75c7fdd9297",
-          "time": "12:09",
-          "category": "Markets",
-          "title": "Analyst Report: Comerica, Inc.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3943_AnalystReport_1761304151000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "de71d0754dc8",
           "time": "12:09",
           "category": "Markets",
@@ -1156,6 +1142,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_4643_AnalystReport_1761304151000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c75c7fdd9297",
+          "time": "12:09",
+          "category": "Markets",
+          "title": "Analyst Report: Comerica, Inc.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3943_AnalystReport_1761304151000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
