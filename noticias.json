@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T22:34+01:00",
+  "generated_at": "2025-10-24T22:46+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -641,6 +641,17 @@
           "impact_score": 2
         },
         {
+          "id": "fc21e581ac5c",
+          "time": "22:31",
+          "category": "Crypto",
+          "title": "Public Keys: DraftKings Gets Predictable, Canaan Turns Around and Zelle Likes Stables",
+          "summary": "DraftKings buys Railbird, Canaan rebounds from near-delisting, and Zelle embraces stablecoins in this week's Public Keys.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345947/public-keys-draftkings-canaan-zelle-stablecoins",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "bfe4bac5aad0",
           "time": "21:59",
           "category": "Crypto",
@@ -994,6 +1005,17 @@
           "impact_score": 3
         },
         {
+          "id": "d15d34e7025b",
+          "time": "15:13",
+          "category": "Regulation",
+          "title": "Kirkland & Ellis top M&A legal adviser in oil and gas sector for Q1–Q3 2025",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/kirkland-ellis-top-m-legal-141328172.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "d9f26ebc6118",
           "time": "15:05",
           "category": "US Macro",
@@ -1001,17 +1023,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/articles/asian-currencies-consolidate-risk-off-sentiment-may-weigh-b5493777?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "e3816329e92c",
-          "time": "14:58",
-          "category": "Regulation",
-          "title": "RBC Capital Markets top financial adviser in oil and gas sector for Q1–Q3 2025",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/rbc-capital-markets-top-financial-135842841.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1034,17 +1045,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/jim-cramer-says-zions-bancorporation-132041133.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "674a2bf00cfb",
-          "time": "13:31",
-          "category": "Crypto",
-          "title": "Solana Company Ramps Up Staking Push With Institutional Validators as Shares Tumble",
-          "summary": "Even as its shares plunge, Solana Company says market volatility is a chance to prove conviction in its Solana-based treasury model.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345583/solana-company-staking-push-institutional-validators-shares-tumble",
           "tags": [],
           "impact_score": 3
         },
@@ -1134,6 +1134,17 @@
           "impact_score": 2
         },
         {
+          "id": "78cd578bb095",
+          "time": "15:09",
+          "category": "Crypto",
+          "title": "Why DeFi teams dropped record $800m on ‘broken’ buyback programmes",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-defi-teams-dropped-record-140941896.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "1480a0558b80",
           "time": "15:09",
           "category": "Earnings",
@@ -1178,17 +1189,6 @@
           "impact_score": 2
         },
         {
-          "id": "2534cccd2826",
-          "time": "14:54",
-          "category": "Earnings",
-          "title": "Earnings: Why American Airlines Is Up 4.5%",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/earnings-why-american-airlines-4-135424387.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "1d6daef5b3f9",
           "time": "14:41",
           "category": "Earnings",
@@ -1218,6 +1218,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/know-ahead-simon-propertys-earnings-133036372.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "c49bc8dd9acb",
+          "time": "14:20",
+          "category": "Earnings",
+          "title": "Jim Cramer on Western Alliance Earnings: “Everything Looked Fine There”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-western-alliance-earnings-132042685.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1277,6 +1288,116 @@
           "impact_score": 1
         },
         {
+          "id": "511fe75d17ed",
+          "time": "15:23",
+          "category": "Markets",
+          "title": "I’m 61, tired of working and anxious to start my next chapter. My wife and I have $1.5M saved — is it enough to retire?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/m-61-tired-working-anxious-142300206.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "12f4c0fc54c5",
+          "time": "15:20",
+          "category": "Markets",
+          "title": "The Hartford auto insurance review 2025: 4.5 out of 5 stars",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/insurance/review/hartford-auto-insurance-review-142017694.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5cb14d3f7842",
+          "time": "15:20",
+          "category": "US Macro",
+          "title": "Mortgage Rates and Home Prices Are Changing. How to Get Ready.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/steady-mortgage-rates-lower-home-prices-housing-market-75298dc4?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "bf0580fbeb97",
+          "time": "15:15",
+          "category": "Markets",
+          "title": "IBM Is America’s Worst Tech Company",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ibm-america-worst-tech-company-141532500.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a14525191e15",
+          "time": "15:15",
+          "category": "Markets",
+          "title": "China May Not Be Buying U.S. Soybeans, But Soybean Meal Is a Value Buy for Traders Here",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/china-may-not-buying-u-141522639.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1353ccc0a1d4",
+          "time": "15:15",
+          "category": "Markets",
+          "title": "1 Unstoppable Trillion-Dollar Stock to Buy and Hold Forever",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/1-unstoppable-trillion-dollar-stock-141500138.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8783efa67097",
+          "time": "15:12",
+          "category": "Earnings",
+          "title": "US AI revenue in 2025 nearly double closest competitor – analysis",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/us-ai-revenue-2025-nearly-141217858.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "168874b449ac",
+          "time": "15:10",
+          "category": "Crypto",
+          "title": "DeFi Specialist Aave Labs Acquires Stable Finance, Expands Consumer Access to Onchain Savings",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/defi-specialist-aave-labs-acquires-141041175.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9cd08e1296e1",
+          "time": "15:10",
+          "category": "Markets",
+          "title": "Beyond Meat Is a Terrible Company",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/beyond-meat-terrible-company-141020267.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d3b0dc77d1b1",
+          "time": "15:07",
+          "category": "Markets",
+          "title": "Why Buffett Derides Gold But Likes Silver",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-buffett-derides-gold-likes-140700929.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "9bf7c3285d5e",
           "time": "15:05",
           "category": "Markets",
@@ -1321,35 +1442,13 @@
           "impact_score": 1
         },
         {
-          "id": "8b599a82a861",
+          "id": "4b3e1e8307d0",
           "time": "15:01",
           "category": "Markets",
           "title": "WPP cuts out the agency to help brands create their own ads with AI",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/wpp-cuts-agency-help-brands-140122403.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f52dbdc379ac",
-          "time": "15:00",
-          "category": "Markets",
-          "title": "Stock-Split Watch: Is SoundHound AI (SOUN) Next?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stock-split-watch-soundhound-ai-140000817.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ecee5566d826",
-          "time": "15:00",
-          "category": "Crypto",
-          "title": "Keyrock: Crypto’s Buyback Boom Tests the Industry’s Financial Maturity",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/keyrock-crypto-buyback-boom-tests-140000026.html",
+          "url": "https://finance.yahoo.com/news/wpp-cuts-agency-help-brands-140122700.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1372,39 +1471,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/analyst-says-microsoft-msft-last-135741184.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "979734d04f61",
-          "time": "14:55",
-          "category": "Markets",
-          "title": "How Do CEOs and Other Executives Really Get Rich?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ceos-other-executives-really-rich-135553210.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8e203f56bc1b",
-          "time": "14:55",
-          "category": "Markets",
-          "title": "I Heard You Need $1 Million To Retire — How Do So Many People Survive on Less?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/heard-1-million-retire-many-135547809.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8ce733d0dae8",
-          "time": "14:55",
-          "category": "Markets",
-          "title": "Grail Stock Is Up 80% Over the Past Month. Here's Why.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/grail-stock-80-over-past-135500953.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1508,90 +1574,13 @@
           "impact_score": 1
         },
         {
-          "id": "749a26f51938",
-          "time": "14:20",
-          "category": "Earnings",
-          "title": "Jim Cramer Says “Danaher Gave Us the Quarter We’ve Been Looking For”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-danaher-gave-132036738.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b62938ee005a",
+          "id": "b47611ece702",
           "time": "14:20",
           "category": "Markets",
-          "title": "Jim Cramer Says Internal Combustion Hybrids Are the Strength of General Motors",
+          "title": "Jim Cramer on Coca-Cola: “CEO James Quincey Showed Remarkable Execution”",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-internal-combustion-132035337.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e823adc71f51",
-          "time": "14:20",
-          "category": "Earnings",
-          "title": "Jim Cramer Highlights 3M’s “Tour de Force” Quarter",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-highlights-3m-tour-132033687.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8dd6fdd8c4ba",
-          "time": "14:20",
-          "category": "Markets",
-          "title": "Jim Cramer Says “It’s the Perfect Time for RTX”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-perfect-time-132032354.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "edcf57dc860b",
-          "time": "14:20",
-          "category": "Markets",
-          "title": "Jim Cramer on American Express: “Very Solid Credit Metrics”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-american-express-very-132030477.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "dc9fd4ab2e7f",
-          "time": "14:20",
-          "category": "Markets",
-          "title": "Jim Cramer Says Goldman Sachs is “Starting to See A Lot of Good Stuff From IPO and M&A Advisory Fees”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-goldman-sachs-132029269.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "084b52a9ae14",
-          "time": "14:20",
-          "category": "Earnings",
-          "title": "Jim Cramer on GE Aerospace: “I Think There’s More Stellar Quarters to Come”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-ge-aerospace-think-132024344.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "fc525224017c",
-          "time": "14:20",
-          "category": "Markets",
-          "title": "Factbox-The two Russian oil giants hit with US sanctions",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/factbox-two-russian-oil-giants-132004802.html",
+          "url": "https://finance.yahoo.com/news/jim-cramer-coca-cola-ceo-132038848.html",
           "tags": [],
           "impact_score": 1
         },
