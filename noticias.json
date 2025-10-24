@@ -1,15 +1,48 @@
 {
-  "generated_at": "2025-10-24T18:52+01:00",
+  "generated_at": "2025-10-24T19:05+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-24",
       "attention_points": [
-        "Here’s How the Separation of Its Freight Unit Affects FedEx Corporation (FDX)",
-        "Apple, Google, Meta, Amazon, Microsoft Earnings Due; Fed Rate Cut, Trump-Xi Ahead",
-        "S&P 500 Hits 6,800 as CPI Gives Fed the Go-Ahead: Markets Wrap"
+        "Crypto.com pushes for federal footing with US trust bank charter application",
+        "Alstom secures maintenance contract for 62 Mälartåg trains in Sweden",
+        "After CZ’s pardon, could Sam Bankman-Fried be next?"
       ],
       "items": [
+        {
+          "id": "b926834583a6",
+          "time": "18:56",
+          "category": "Crypto",
+          "title": "Crypto.com pushes for federal footing with US trust bank charter application",
+          "summary": "If approved, the charter would allow the crypto exchange to offer federally regulated custody and trust services in the United States.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/crypto-com-federal-us-trust-bank-charter-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "848b72a4f363",
+          "time": "18:51",
+          "category": "Regulation",
+          "title": "Alstom secures maintenance contract for 62 Mälartåg trains in Sweden",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/alstom-secures-maintenance-contract-62-175135623.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "0ef2c5a403f0",
+          "time": "18:46",
+          "category": "Markets",
+          "title": "After CZ’s pardon, could Sam Bankman-Fried be next?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/cz-pardon-could-sam-bankman-174630121.html",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "eb8684ca43a8",
           "time": "18:17",
@@ -51,30 +84,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-inflation-deckers-earnings-deck/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "dc53ab5ca499",
-          "time": "17:49",
-          "category": "Crypto",
-          "title": "Fed Rate Cut Odds Jump to 97% as CPI Comes in Cool at 3% – Bullish for BTC?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/fed-rate-cut-odds-jump-164913404.html",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 3
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "17:32",
-          "category": "Earnings",
-          "title": "Deckers Stock Sinks As Tariffs Hurt Guidance, Adding To Industry's Woes",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/deckers-stock-earnings-tariffs-guidance/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 3
         },
@@ -227,6 +236,17 @@
           "impact_score": 3
         },
         {
+          "id": "cd567efe3fdf",
+          "time": "09:29",
+          "category": "Regulation",
+          "title": "Fetch.ai offers to drop lawsuit if Ocean Protocol returns 286M FET tokens",
+          "summary": "The FET token’s price fell by over 93% since the merger of the Artificial Superintelligence Alliance, a drop that is unrelated to Ocean Protocol’s actions, according to its founder.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/fet-ocean-protocol-return-120m-legal-battle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "43d53c2acfb5",
           "time": "09:25",
           "category": "Crypto",
@@ -271,6 +291,30 @@
           "url": "https://www.coindesk.com/markets/2025/10/24/asia-morning-briefing-after-cz-s-pardon-odds-rise-for-sam-bankman-fried-s-second-chance",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "244207be665b",
+          "time": "18:54",
+          "category": "Crypto",
+          "title": "I Asked ChatGPT How To Get Rich Off Bitcoin — Here’s What an Expert Thinks About Its Answer",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/asked-chatgpt-rich-off-bitcoin-070009720.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "18:32",
+          "category": "Earnings",
+          "title": "IBM Stock Rallies Back Near Record Levels Following Quantum Report, Q3 Earnings Reaction",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/ibm-stock-quantum-q3-results-amd-stock/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
         },
         {
           "id": "5094a0901753",
@@ -372,17 +416,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/stock-lists/stock-spotlight/ftai-aviation-stock-eyes-entry-earnings-sales-surge/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "a0f7771a2939",
-          "time": "17:30",
-          "category": "Earnings",
-          "title": "Prestige Consumer Healthcare (PBH) Slipped on Mixed Results and Reduced Guidance",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/prestige-consumer-healthcare-pbh-slipped-163025441.html",
           "tags": [],
           "impact_score": 2
         },
@@ -594,17 +627,6 @@
           "impact_score": 2
         },
         {
-          "id": "cd567efe3fdf",
-          "time": "09:29",
-          "category": "Crypto",
-          "title": "Fetch.ai, Ocean Protocol agree on return of $120M in FET tokens to avoid legal battle",
-          "summary": "The FET token’s price fell by over 93% since the merger of the Artificial Superintelligence Alliance, a drop that is unrelated to Ocean Protocol’s actions, according to its founder.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/fet-ocean-protocol-return-120m-legal-battle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "86e99e4aa23c",
           "time": "09:12",
           "category": "Crypto",
@@ -681,19 +703,6 @@
           "impact_score": 2
         },
         {
-          "id": "a44649ca2e3d",
-          "time": "06:35",
-          "category": "Crypto",
-          "title": "Solo Bitcoin miner scores $347K, ‘pure self-soverignty in action’",
-          "summary": "A solo Bitcoin miner has beaten the odds to mine an entire block alone — earning $347,000 in rewards and showcasing the network’s decentralized spirit.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/solo-bitcoin-miner-wins-block-self-soverignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "751037c15e62",
           "time": "06:24",
           "category": "Crypto",
@@ -743,6 +752,50 @@
           "impact_score": 2
         },
         {
+          "id": "e0a4a095cb73",
+          "time": "18:48",
+          "category": "Earnings",
+          "title": "6 Steps To Take When Facing Financial Disaster",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/6-steps-facing-financial-disaster-174808859.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3af8141f8869",
+          "time": "18:47",
+          "category": "Markets",
+          "title": "What Makes Pacific Gas & Electric (PCG) an Investment Bet?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/makes-pacific-gas-electric-pcg-174758132.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ae98509f710e",
+          "time": "18:47",
+          "category": "Markets",
+          "title": "Macy's makes its biggest move yet to rival Amazon",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/macys-makes-biggest-move-yet-174700280.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8013b665d2ec",
+          "time": "18:36",
+          "category": "Markets",
+          "title": "US firms grapple with economic divide as lower income struggles mount",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/us-firms-grapple-economic-divide-173656979.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "a76f92cccf16",
           "time": "18:33",
           "category": "Crypto",
@@ -761,6 +814,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/ai-definitely-lowers-barrier-entry-173118831.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d7f7f73009e1",
+          "time": "18:29",
+          "category": "Markets",
+          "title": "Grindr shareholders offer to take dating app private for about $3.46 billion",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/grindr-shareholders-offer-dating-app-172942951.html",
           "tags": [],
           "impact_score": 1
         },
@@ -919,17 +983,6 @@
           "impact_score": 1
         },
         {
-          "id": "f89ae684577d",
-          "time": "17:56",
-          "category": "Markets",
-          "title": "Here's Why This Aerospace Stock Burst Higher This Week",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/heres-why-aerospace-stock-burst-165658410.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "b901c944ac94",
           "time": "17:50",
           "category": "Markets",
@@ -948,28 +1001,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/news/solar-stocks-nextracker-earnings-outlook/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "13a54aaf3feb",
-          "time": "17:47",
-          "category": "Markets",
-          "title": "Spectrum makes a harsh decision after major customer losses",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/spectrum-makes-harsh-decision-major-164700127.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b87a9601bfa8",
-          "time": "17:45",
-          "category": "Markets",
-          "title": "Why Shares of MP Materials Are Sinking This Week",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-shares-mp-materials-sinking-164512715.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1018,28 +1049,6 @@
           "impact_score": 1
         },
         {
-          "id": "9eb31f1de4e3",
-          "time": "17:32",
-          "category": "Markets",
-          "title": "Here’s What Affected Mattel’s (MAT) Performance in Q3",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/affected-mattel-mat-performance-q3-163235553.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3dce24f4ea53",
-          "time": "17:32",
-          "category": "Markets",
-          "title": "Financial Services Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-cb740a0d?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "9aa2090e7b75",
           "time": "17:13",
           "category": "Crypto",
@@ -1069,17 +1078,6 @@
           "summary": "Pump.fun has acquired the Padre trading terminal to strengthen token liquidity as Solana’s memecoin market cools from its 2024 highs.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/pumpfun-acquires-padre-trading-terminal-solana-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "968a73594215",
-          "time": "16:20",
-          "category": "Markets",
-          "title": "Target plans layoffs, eliminating 1,800 roles, as new CEO Michael Fiddelke aims to reset the struggling retailer",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/target-plans-layoffs-eliminating-1800-roles-as-new-ceo-michael-fiddelke-aims-to-reset-the-struggling-retailer-152024247.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1205,6 +1203,17 @@
           "impact_score": 1
         },
         {
+          "id": "c75c7fdd9297",
+          "time": "12:09",
+          "category": "Markets",
+          "title": "Analyst Report: Comerica, Inc.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3943_AnalystReport_1761304151000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "de71d0754dc8",
           "time": "12:09",
           "category": "Markets",
@@ -1223,17 +1232,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3373_AnalystReport_1761304151000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c75c7fdd9297",
-          "time": "12:09",
-          "category": "Markets",
-          "title": "Analyst Report: Comerica, Inc.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3943_AnalystReport_1761304151000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -1293,13 +1291,13 @@
           "impact_score": 1
         },
         {
-          "id": "5ebac5daf175",
+          "id": "1445981e2292",
           "time": "11:23",
           "category": "Markets",
-          "title": "Daily – Vickers Top Insider Picks for 10/24/2025",
+          "title": "Daily – Vickers Top Buyers & Sellers for 10/24/2025",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_45109_InsiderActivity_1761301405000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_45110_TopBottomInsiderActivity_1761301405000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
