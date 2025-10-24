@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T10:52+01:00",
+  "generated_at": "2025-10-24T11:03+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -1151,6 +1151,28 @@
           "impact_score": 3
         },
         {
+          "id": "fd4dd7de5509",
+          "time": "23:15",
+          "category": "Markets",
+          "title": "U.S. stocks are hitting a speed bump. Why the rally could soon resume.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/u-stocks-hitting-speed-bump-221500008.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "e691a0b9f757",
+          "time": "23:13",
+          "category": "Earnings",
+          "title": "TrustCo (TRST) Q3 2025 Earnings Call Transcript",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/trustco-trst-q3-2025-earnings-221325137.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "ebccda932dd7",
           "time": "23:13",
           "category": "Markets",
@@ -1170,19 +1192,6 @@
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/quantumscape-qs-q3-2025-earnings-215545850.html",
           "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "11e00f178b47",
-          "time": "22:38",
-          "category": "Crypto",
-          "title": "Bitcoin mining stock prices plummet, extend last week’s selloff",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bitcoin-mining-stock-prices-plummet-213842425.html",
-          "tags": [
-            "BTC"
-          ],
           "impact_score": 2
         },
         {
@@ -1208,6 +1217,39 @@
           "url": "https://www.ccn.com/news/crypto/kadena-pulls-plug-268m-crypto-project-shutters-market-pain/",
           "tags": [],
           "impact_score": 2
+        },
+        {
+          "id": "b0e1b7523b4b",
+          "time": "23:49",
+          "category": "Markets",
+          "title": "NuScale (SMR) Extends Losses on ‘Sell’ Reco",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/nuscale-smr-extends-losses-sell-224900675.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f501675bf635",
+          "time": "23:48",
+          "category": "Markets",
+          "title": "USA Rare Earth (USAR) Tumbles After Trump Signs Deal with Australia",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/usa-rare-earth-usar-tumbles-224810661.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4233f6d01251",
+          "time": "23:47",
+          "category": "Markets",
+          "title": "Coeur Mining (CDE) Gets Battered by Gold Decline",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/coeur-mining-cde-gets-battered-224748512.html",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "599a98c28597",
@@ -1250,6 +1292,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/corn-ends-midweek-session-strength-221505045.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0df38ea16072",
+          "time": "23:14",
+          "category": "Markets",
+          "title": "Why Investors Bailed From UniFirst Stock Today",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-investors-bailed-unifirst-stock-221410852.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1481,50 +1534,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/newly-minted-meme-stock-beyond-215009751.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "80aa38f92933",
-          "time": "22:47",
-          "category": "US Macro",
-          "title": "5-star analyst recalibrates view on AMD stock",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/5-star-analyst-recalibrates-view-214700073.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ffc6cad41d13",
-          "time": "22:46",
-          "category": "Markets",
-          "title": "Why Did Applied Digital Stock Sink 5.8% Today?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-did-applied-digital-stock-214645682.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f4751d4bd136",
-          "time": "22:45",
-          "category": "Markets",
-          "title": "Barclays Chief Weighs In on Jamie Dimon ‘Cockroach’ Comment",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-tesla-earnings-10-22-2025/card/barclays-chief-weighs-in-on-jamie-dimon-cockroach-comment-CoPpbSTk5MtJG1DXkI8Z?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0968e1f37f53",
-          "time": "22:40",
-          "category": "Markets",
-          "title": "BVI advisor says the GENIUS Act is only the beginning",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bvi-advisor-says-genius-act-214019816.html",
           "tags": [],
           "impact_score": 1
         },
