@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T21:41+01:00",
+  "generated_at": "2025-10-24T21:54+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -662,17 +662,6 @@
           "impact_score": 1
         },
         {
-          "id": "07e96594e7e7",
-          "time": "18:06",
-          "category": "Markets",
-          "title": "Analyst Report: Integer Holdings Corp",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3757_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "29c61e81a3c1",
           "time": "18:06",
           "category": "Markets",
@@ -691,6 +680,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3462_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "07e96594e7e7",
+          "time": "18:06",
+          "category": "Markets",
+          "title": "Analyst Report: Integer Holdings Corp",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3757_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -982,6 +982,28 @@
           "impact_score": 3
         },
         {
+          "id": "59e13f95aa4e",
+          "time": "12:31",
+          "category": "Markets",
+          "title": "'It’s Not Heaven or Hell.' Volvo Buoyed by Tariff Deal.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2025/card/-it-s-not-heaven-or-hell-volvo-buoyed-by-tariff-deal--dN2trRk0egf5nS315bwK?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "8b9d741b86ff",
+          "time": "12:11",
+          "category": "Regulation",
+          "title": "Fashion sector has six-month ‘grace period’ for EU deforestation law",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fashion-sector-six-month-grace-111100833.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "94b3bb70207f",
           "time": "12:04",
           "category": "Markets",
@@ -993,48 +1015,13 @@
           "impact_score": 3
         },
         {
-          "id": "cc5d62f2afa8",
-          "time": "11:50",
-          "category": "Crypto",
-          "title": "Bitcoin ETFs Bleed $100M, Analysts Fear Major Support Break",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bitcoin-etfs-bleed-100m-analysts-105015030.html",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 3
-        },
-        {
-          "id": "97337a6d91da",
-          "time": "11:48",
-          "category": "Regulation",
-          "title": "SEC Filing Shows Truist Expanding Position in Genpact Limited (NYSE:G)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/sec-filing-shows-truist-expanding-104839076.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "d7fc03fda5b7",
-          "time": "11:48",
-          "category": "Earnings",
-          "title": "Hewlett Packard Enterprise Company (HPE)’s 2026 Outlook Disappoints but KeyBanc Maintains Rating",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hewlett-packard-enterprise-company-hpe-104836025.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "b55f545cd6f9",
-          "time": "11:47",
+          "id": "5edf61582a71",
+          "time": "12:00",
           "category": "Markets",
-          "title": "1 No-Brainer Technology Vanguard ETF to Buy Right Now for Less Than $1,000",
+          "title": "Could Investing $1,000 in the iShares Core MSCI EAFE ETF (IEFA) Make You a Millionaire? (Spoiler: Yes, It Could.)",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/1-no-brainer-technology-vanguard-104700613.html",
+          "url": "https://finance.yahoo.com/news/could-investing-1-000-ishares-110000775.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1124,6 +1111,94 @@
           "impact_score": 2
         },
         {
+          "id": "d940ca6a95b4",
+          "time": "12:36",
+          "category": "Earnings",
+          "title": "Earnings Preview: What to Expect From Mettler-Toledo's Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/earnings-preview-expect-mettler-toledos-113616938.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "cf9fe1cfacdb",
+          "time": "12:32",
+          "category": "Earnings",
+          "title": "American Airlines Stock Jumps After Earnings Report. The End of 2025 Looks Good.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/american-airlines-earnings-stock-price-fa3c5fff?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "5fc0a12fefb9",
+          "time": "12:31",
+          "category": "Earnings",
+          "title": "What to Expect From Monster Beverage's Q3 2025 Earnings Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/expect-monster-beverages-q3-2025-113151740.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "2bdfb771375b",
+          "time": "12:26",
+          "category": "Earnings",
+          "title": "Arista Networks' Quarterly Earnings Preview: What You Need to Know",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/arista-networks-quarterly-earnings-preview-112642993.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "ccca31700b22",
+          "time": "12:21",
+          "category": "Earnings",
+          "title": "Here's What to Expect From Trade Desk's Next Earnings Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/heres-expect-trade-desks-next-112132597.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "c633dde8e8f1",
+          "time": "12:15",
+          "category": "Earnings",
+          "title": "Dow Futures Slip After IBM Earnings. S&P 500, Nasdaq Trading Flat.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102325/card/s-p-500-futures-rise-as-investors-shrug-off-tesla-earnings-miss-Jm6ZxXDxqH7reolgVaIy?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "c8aa6747aac3",
+          "time": "12:15",
+          "category": "Earnings",
+          "title": "What to Expect From Charles River Laboratories' Q3 2025 Earnings Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/expect-charles-river-laboratories-q3-111508091.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "12:06",
+          "category": "Earnings",
+          "title": "Tesla Earnings Miss, Elon Musk Sees Unsupervised Robotaxis By Year-End, But TSLA Slides",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/tesla-earnings-elon-musk-conference-call-tesla-stock/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "5c2a2be2a97a",
           "time": "12:05",
           "category": "Crypto",
@@ -1137,35 +1212,48 @@
           "impact_score": 2
         },
         {
-          "id": "38b40dc81403",
-          "time": "11:53",
+          "id": "fe61c52ffaff",
+          "time": "12:05",
+          "category": "Crypto",
+          "title": "Bitfarms (BITF) Extends Losses on 5th Day, Mimics Bitcoin Drop",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bitfarms-bitf-extends-losses-5th-110520619.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "caf6de8b41c0",
+          "time": "12:05",
           "category": "Earnings",
-          "title": "Tesla profit slumps 35% despite record quarterly revenue",
+          "title": "QuantumScape (QS) Tumbles 12.5%, Investors Shun Q3 Earnings",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/tesla-profit-slumps-35-despite-105318274.html",
+          "url": "https://finance.yahoo.com/news/quantumscape-qs-tumbles-12-5-110513609.html",
           "tags": [],
           "impact_score": 2
         },
         {
-          "id": "43e7cf332540",
-          "time": "11:51",
+          "id": "0b180c26ffeb",
+          "time": "12:01",
           "category": "Markets",
-          "title": "Nvidia Stock Rises. Watch These Figures for the Next Rally.",
+          "title": "CBRE sees strong growth led by record Q3 leasing and data center expansion",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-chips-3edd0727?siteid=yhoof2&yptr=yahoo",
+          "url": "https://finance.yahoo.com/news/cbre-sees-strong-growth-led-110155390.html",
           "tags": [],
           "impact_score": 2
         },
         {
-          "id": "0f2a41a3ab55",
-          "time": "11:46",
-          "category": "US Macro",
-          "title": "Tesla Analyst Says Elon Musk Will 'Be Heavy On Optimism And Light On Truth' For Q3 Earnings Call",
+          "id": "7f68e561bcee",
+          "time": "11:56",
+          "category": "Markets",
+          "title": "Tesla reports record-high Q3 deliveries, but YoY operating profit falls 40%",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/tesla-analyst-says-elon-musk-104606502.html",
+          "url": "https://finance.yahoo.com/news/tesla-reports-record-high-q3-105626233.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1247,6 +1335,72 @@
           "impact_score": 1
         },
         {
+          "id": "42c1a798b0a4",
+          "time": "12:30",
+          "category": "Markets",
+          "title": "Is This Dividend King a Safe Haven in a Volatile Market?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/dividend-king-safe-haven-volatile-113002285.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0971d56bf416",
+          "time": "12:30",
+          "category": "US Macro",
+          "title": "This CEO says young investors trying to protect their cash is stopping them from getting rich — here's why",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ceo-says-young-investors-trying-113000786.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ef49e3414031",
+          "time": "12:18",
+          "category": "Earnings",
+          "title": "Honeywell lifts 2025 profit outlook despite Solstice spinoff on sturdy demand",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/honeywell-lifts-2025-profit-outlook-111850958.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8db9c5105091",
+          "time": "12:17",
+          "category": "Earnings",
+          "title": "T-Mobile Revenue Rises as Postpaid Phone Subscribers Continue to Grow",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/telecom/t-mobile-revenue-rises-as-postpaid-phone-subscribers-continue-to-grow-78da2c35?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ea80331d30f1",
+          "time": "12:12",
+          "category": "Markets",
+          "title": "PrimeXBT Appoints Financial Expert Kearabilwe Nonyana as VIP Account Manager in South Africa",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/primexbt-appoints-financial-expert-kearabilwe-111225273.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "bcd7a9b0f7d2",
+          "time": "12:11",
+          "category": "Markets",
+          "title": "Sagittarius Mines seeks strategic partner for Tampakan project",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/sagittarius-mines-seeks-strategic-partner-111123988.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "c66e4dba0b36",
           "time": "12:05",
           "category": "US Macro",
@@ -1265,6 +1419,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/mobileye-beats-quarterly-revenue-estimates-110507560.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a41028bcd182",
+          "time": "12:05",
+          "category": "Markets",
+          "title": "GE Vernova bullish on electrical infrastructure as turbine backlog grows",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ge-vernova-bullish-electrical-infrastructure-110507988.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1335,6 +1500,17 @@
           "impact_score": 1
         },
         {
+          "id": "e9fea8165fd2",
+          "time": "12:02",
+          "category": "Markets",
+          "title": "2 No-Brainer Nuclear Energy Stocks to Buy With $2,000 Right Now",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/2-no-brainer-nuclear-energy-110200716.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "1d6daef5b3f9",
           "time": "12:00",
           "category": "Markets",
@@ -1368,17 +1544,6 @@
           "impact_score": 1
         },
         {
-          "id": "875b5b2a2ea3",
-          "time": "12:00",
-          "category": "Markets",
-          "title": "U.S. Rare Earth Company Signs Strategic Deal With Japanese Government",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/u-rare-earth-company-signs-110000943.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "5ce586e7bf9a",
           "time": "12:00",
           "category": "Markets",
@@ -1401,6 +1566,28 @@
           "impact_score": 1
         },
         {
+          "id": "875b5b2a2ea3",
+          "time": "12:00",
+          "category": "Markets",
+          "title": "U.S. Rare Earth Company Signs Strategic Deal With Japanese Government",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/u-rare-earth-company-signs-110000943.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0b2d48a818c2",
+          "time": "11:57",
+          "category": "Markets",
+          "title": "Prediction: This Stock Will Be the Ultimate AI Winner",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/prediction-stock-ultimate-ai-winner-105700589.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "15e6883bbfaa",
           "time": "11:55",
           "category": "Markets",
@@ -1408,204 +1595,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/kevin-o-leary-reveals-top-105500689.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e64b42bb4336",
-          "time": "11:51",
-          "category": "Markets",
-          "title": "Rare-Earths Stocks Rise. The Next Big Catalyst Is Coming.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/mp-materials-rare-earths-usar-trump-xi-8cf9055e?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8abe87808629",
-          "time": "11:50",
-          "category": "Markets",
-          "title": "Ipsen to buy French biotech company ImCheck Therapeutics",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ipsen-buy-french-biotech-company-105057812.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "58fcb0ac88a9",
-          "time": "11:50",
-          "category": "Markets",
-          "title": "Oil rises 5% on fresh US sanctions against Russia",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/oil-rises-5-fresh-us-105020985.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "d0d58e9fbb3a",
-          "time": "11:50",
-          "category": "Markets",
-          "title": "Could Buying Ford Stock Today Set You Up for Life?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/could-buying-ford-stock-today-105000394.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0ace4d7d4338",
-          "time": "11:49",
-          "category": "Markets",
-          "title": "Budget watchdog on $38 trillion national debt: ‘It’s tough to decide what the most appalling part is of today’s announcement’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/u-national-debt-hits-38-104933032.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4b10e2c7e1eb",
-          "time": "11:48",
-          "category": "Markets",
-          "title": "Pony AI Expands into Europe with Stellantis Partnership",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/pony-ai-expands-europe-stellantis-104842568.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "43d332d10810",
-          "time": "11:48",
-          "category": "Earnings",
-          "title": "Cautious Outlook for Snap Inc. (SNAP) as Analyst Sets Price Target at $9",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cautious-outlook-snap-inc-snap-104841651.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6297dab0ead7",
-          "time": "11:48",
-          "category": "Earnings",
-          "title": "Analyst Lowers NXP Semiconductors N.V. (NXPI) Price Target but Maintains Buy Outlook",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/analyst-lowers-nxp-semiconductors-n-104837743.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "fa6a158dab1f",
-          "time": "11:48",
-          "category": "Markets",
-          "title": "Crowded DSP Market Pressures The Trade Desk, Inc. (TTD), Says Guggenheim",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/crowded-dsp-market-pressures-trade-104834103.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "bf414db98486",
-          "time": "11:48",
-          "category": "Markets",
-          "title": "Synopsys, Inc. (SNPS) Stock Could Jump to $600, Says Mizuho",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/synopsys-inc-snps-stock-could-104832471.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f92acbf2da66",
-          "time": "11:47",
-          "category": "Markets",
-          "title": "Is Pegasystems (PEGA) the Best Overlooked AI Stock to Buy Now?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/pegasystems-pega-best-overlooked-ai-104725506.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ac0b139ba096",
-          "time": "11:47",
-          "category": "Markets",
-          "title": "Tesla Stock Depends on Musk’s Robot Army. Why Fierce Competition Is a Problem.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/tesla-stock-musk-robot-things-to-know-today-af14e90e?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "10718ba45e6b",
-          "time": "11:46",
-          "category": "Markets",
-          "title": "Dow Profit Sinks As Petrochemical Oversupply Continues",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/earnings/dow-profit-sinks-as-petrochemical-oversupply-continues-126d6103?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "62c18773acfc",
-          "time": "11:45",
-          "category": "Crypto",
-          "title": "Should the Cryptocurrency Flash Crash Scare Investors Away? Here's 1 Incredible Reason They Should Stick Around.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cryptocurrency-flash-crash-scare-investors-104500044.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8a8d8f28ee4e",
-          "time": "11:44",
-          "category": "Markets",
-          "title": "Prediction: Here's Where UnitedHealth Stock Is Headed After Scaling Back Medicare Advantage Plans",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/prediction-heres-where-unitedhealth-stock-104400668.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "56e231267a63",
-          "time": "11:43",
-          "category": "Markets",
-          "title": "Analyst Sees WeRide Inc. (WRD) Positioned to Benefit from Rising Robotaxi Adoption",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/analyst-sees-weride-inc-wrd-104331821.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0e51a187413e",
-          "time": "11:38",
-          "category": "Markets",
-          "title": "Hasbro lifts annual forecasts on 'Magic: The Gathering' demand boost",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hasbro-boosts-annual-forecasts-digital-103805301.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "96105407834f",
-          "time": "11:38",
-          "category": "Markets",
-          "title": "Hasbro boosts annual forecasts on digital gaming demand",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hasbro-boosts-annual-forecasts-digital-103805500.html",
           "tags": [],
           "impact_score": 1
         }
