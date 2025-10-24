@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T21:54+01:00",
+  "generated_at": "2025-10-24T22:05+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -662,17 +662,6 @@
           "impact_score": 1
         },
         {
-          "id": "29c61e81a3c1",
-          "time": "18:06",
-          "category": "Markets",
-          "title": "Analyst Report: GE Vernova Inc.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_6199_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "973298671192",
           "time": "18:06",
           "category": "Markets",
@@ -680,6 +669,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3462_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "29c61e81a3c1",
+          "time": "18:06",
+          "category": "Markets",
+          "title": "Analyst Report: GE Vernova Inc.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_6199_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -993,6 +993,17 @@
           "impact_score": 3
         },
         {
+          "id": "eed4716ef7fe",
+          "time": "12:13",
+          "category": "Crypto",
+          "title": "Banks and Big Tech Finally Agree on One Thing — Blockchain Works",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/banks-big-tech-finally-agree-111322185.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "8b9d741b86ff",
           "time": "12:11",
           "category": "Regulation",
@@ -1011,17 +1022,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/netflix-nflx-ends-3-day-110420817.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "5edf61582a71",
-          "time": "12:00",
-          "category": "Markets",
-          "title": "Could Investing $1,000 in the iShares Core MSCI EAFE ETF (IEFA) Make You a Millionaire? (Spoiler: Yes, It Could.)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/could-investing-1-000-ishares-110000775.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1111,6 +1111,17 @@
           "impact_score": 2
         },
         {
+          "id": "318b352c54cc",
+          "time": "12:37",
+          "category": "Earnings",
+          "title": "Stocks rise on upbeat earnings; Russia sanctions boost oil",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/stocks-rise-upbeat-earnings-russia-113751442.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "d940ca6a95b4",
           "time": "12:36",
           "category": "Earnings",
@@ -1188,6 +1199,19 @@
           "impact_score": 2
         },
         {
+          "id": "2ef560133238",
+          "time": "12:15",
+          "category": "Crypto",
+          "title": "Risk Proxies Challenge Bitcoin's Bounce; HYPE, XMR Shine: Crypto Daybook Americas",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/risk-proxies-challenge-bitcoins-bounce-111500216.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "1d6daef5b3f9",
           "time": "12:06",
           "category": "Earnings",
@@ -1232,28 +1256,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/quantumscape-qs-tumbles-12-5-110513609.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "0b180c26ffeb",
-          "time": "12:01",
-          "category": "Markets",
-          "title": "CBRE sees strong growth led by record Q3 leasing and data center expansion",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cbre-sees-strong-growth-led-110155390.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "7f68e561bcee",
-          "time": "11:56",
-          "category": "Markets",
-          "title": "Tesla reports record-high Q3 deliveries, but YoY operating profit falls 40%",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/tesla-reports-record-high-q3-105626233.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1335,6 +1337,61 @@
           "impact_score": 1
         },
         {
+          "id": "9b6bcd43a4b0",
+          "time": "12:44",
+          "category": "Markets",
+          "title": "Analyst Says Citigroup (C) Has a ‘Lot More Opportunity’ Amid Attractive Valuation",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/analyst-says-citigroup-c-lot-114421158.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6e066f45db65",
+          "time": "12:44",
+          "category": "Markets",
+          "title": "American Airlines Lifts Profit Target for 2025",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/earnings/american-airlines-lifts-profit-target-for-2025-3c291416?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a53255dac85c",
+          "time": "12:43",
+          "category": "Markets",
+          "title": "Analyst Says He’s Bullish on Freeport-McMoRan (FCX) – Here’s Why",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/analyst-says-bullish-freeport-mcmoran-114353007.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "06706c4a6e43",
+          "time": "12:40",
+          "category": "Markets",
+          "title": "Is Novo Nordisk (NVO) The Best Weight-Loss Stock to Buy?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/novo-nordisk-nvo-best-weight-114020864.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d56ce9b93b4f",
+          "time": "12:32",
+          "category": "Markets",
+          "title": "China Has Been Stockpiling Oil for Months",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2025/card/china-has-been-stockpiling-oil-for-months-Jcf3PyCqxtbhuT7HfJu8?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "42c1a798b0a4",
           "time": "12:30",
           "category": "Markets",
@@ -1357,6 +1414,28 @@
           "impact_score": 1
         },
         {
+          "id": "0e4d56514b2f",
+          "time": "12:22",
+          "category": "Markets",
+          "title": "Pensana and VAC sign MoU for mine-to-magnet supply chain in US",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/pensana-vac-sign-mou-mine-112230176.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "01418c78f22b",
+          "time": "12:19",
+          "category": "Crypto",
+          "title": "Is Zcash (ZEC) A Millionaire-Maker Cryptocurrency?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/zcash-zec-millionaire-maker-cryptocurrency-111900068.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "ef49e3414031",
           "time": "12:18",
           "category": "Earnings",
@@ -1368,6 +1447,17 @@
           "impact_score": 1
         },
         {
+          "id": "f0eb3057d5d7",
+          "time": "12:18",
+          "category": "Markets",
+          "title": "Australia’s Inghams Group refutes media speculation over sale talks",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/australia-inghams-group-refutes-media-111814535.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "8db9c5105091",
           "time": "12:17",
           "category": "Earnings",
@@ -1375,6 +1465,28 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/business/telecom/t-mobile-revenue-rises-as-postpaid-phone-subscribers-continue-to-grow-78da2c35?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "94ea08db8b51",
+          "time": "12:15",
+          "category": "Markets",
+          "title": "What Is One of the Best Artificial Intelligence (AI) Stocks to Buy Right Now?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/one-best-artificial-intelligence-ai-111500344.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ee536e67efa4",
+          "time": "12:13",
+          "category": "Markets",
+          "title": "4 Key Signs You Can’t Afford To Downsize in Retirement",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/4-key-signs-t-afford-131308987.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1419,17 +1531,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/mobileye-beats-quarterly-revenue-estimates-110507560.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "a41028bcd182",
-          "time": "12:05",
-          "category": "Markets",
-          "title": "GE Vernova bullish on electrical infrastructure as turbine backlog grows",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ge-vernova-bullish-electrical-infrastructure-110507988.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1496,105 +1597,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/hut-8-hut-loses-17-110412733.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e9fea8165fd2",
-          "time": "12:02",
-          "category": "Markets",
-          "title": "2 No-Brainer Nuclear Energy Stocks to Buy With $2,000 Right Now",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/2-no-brainer-nuclear-energy-110200716.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "12:00",
-          "category": "Markets",
-          "title": "How An Iranian Runaway Rose To Top Of A Home Franchise Company",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/management/leaders-and-success/shirin-behzadi-iranian-runaway-rose-top-home-franchise/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "12:00",
-          "category": "Markets",
-          "title": "Why All Your Retirement Savings Shouldn't Be In A 401(k)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/etfs-and-funds/retirement/retirement-savings-shouldnt-all-be-in-a-401k/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "38db0d41e6eb",
-          "time": "12:00",
-          "category": "Markets",
-          "title": "Goldman Sachs Bear Call Spread Could Net 16% in Four Weeks",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/goldman-sachs-bear-call-spread-110002506.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5ce586e7bf9a",
-          "time": "12:00",
-          "category": "Markets",
-          "title": "Trump’s ‘Big Bill’ has made it harder for 5.8 million Americans to access Medicare — how the new law could impact you",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/trump-big-bill-made-harder-110000757.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5119a31ed8b5",
-          "time": "12:00",
-          "category": "Markets",
-          "title": "Trucker Path app offers up another service: insurance agent",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/trucker-path-app-offers-another-110000601.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "875b5b2a2ea3",
-          "time": "12:00",
-          "category": "Markets",
-          "title": "U.S. Rare Earth Company Signs Strategic Deal With Japanese Government",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/u-rare-earth-company-signs-110000943.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0b2d48a818c2",
-          "time": "11:57",
-          "category": "Markets",
-          "title": "Prediction: This Stock Will Be the Ultimate AI Winner",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/prediction-stock-ultimate-ai-winner-105700589.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "15e6883bbfaa",
-          "time": "11:55",
-          "category": "Markets",
-          "title": "Kevin O’Leary reveals his top surprising wealth ‘stabilizer’ — plus why he’s breaking his own rule and buying more",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/kevin-o-leary-reveals-top-105500689.html",
           "tags": [],
           "impact_score": 1
         }
