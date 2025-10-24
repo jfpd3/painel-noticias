@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-24T11:03+01:00",
+  "generated_at": "2025-10-24T11:49+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-24",
       "attention_points": [
+        "Binance founder CZ’s presidential pardon is not an acquittal",
         "AI Miners Surge Pre-Market on Record $38B Oracle Data Center Deal Boosts Sector",
-        "US energy secretary floats faster direct grid access for AI and crypto miners",
-        "Swiss Bank Sygnum to Launch Bitcoin-Backed Loan Platform With Multi-Sig Wallet Control"
+        "US energy secretary floats faster direct grid access for AI and crypto miners"
       ],
       "items": [
+        {
+          "id": "74409ea32bb3",
+          "time": "10:25",
+          "category": "Crypto",
+          "title": "Binance founder CZ’s presidential pardon is not an acquittal",
+          "summary": "A presidential pardon spares CZ from punishment but not guilt — cementing his conviction, blocking appeal options, and exposing Binance to civil lawsuits.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/cz-pardon-not-acquittal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "43d53c2acfb5",
           "time": "09:25",
@@ -90,11 +101,22 @@
           "impact_score": 3
         },
         {
+          "id": "db8aeb1e14d6",
+          "time": "11:23",
+          "category": "Crypto",
+          "title": "‘There were NO money-laundering’ charges, CZ claps back at Senator Warren",
+          "summary": "Binance founder Changpeng Zhao said Elizabeth Warren “can’t get her facts right” after she claimed he pled guilty to a money-laundering charge.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/binance-founder-clashes-with-warren-after-trump-pardon-comments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "9b4ee5309df3",
           "time": "10:37",
           "category": "Crypto",
-          "title": "How high can HYPE price go after Robinhood listing?",
-          "summary": "HYPE has entered a classic breakout stage after Robinhood listing, now eyeing a 40% price rally by November.",
+          "title": "How high can HYPE’s price go after Robinhood listing?",
+          "summary": "HYPE has entered a classic breakout stage after its Robinhood listing, now eyeing a 40% price rally by November.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/how-high-can-hype-price-go-after-robinhood-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
@@ -298,13 +320,24 @@
           "impact_score": 2
         },
         {
-          "id": "74409ea32bb3",
-          "time": "10:25",
+          "id": "e79df79dd0db",
+          "time": "11:33",
           "category": "Crypto",
-          "title": "Binance founder CZ’s presidential pardon is not an acquittal",
-          "summary": "Binance co-founder Changpeng Zhao's presidential pardon cements criminal conviction without overturning guilt, opening civil liability floodgates while foreclosing appeal options permanently.",
+          "title": "USD.AI Bridges DeFi and AI by Turning Stablecoins Into Loans for Nvidia GPUs",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/24/usdai-bridges-defi-and-ai-by-turning-stablecoins-into-loans-for-nvidia-gpus",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5698286ef984",
+          "time": "11:27",
+          "category": "Crypto",
+          "title": "How an anonymous trader made $192M shorting one of the biggest crypto crashes",
+          "summary": "A single anonymous trader saw the crash coming and capitalized on it, earning $192 million in just a few hours.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/cz-pardon-not-acquittal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/explained/how-an-anonymous-trader-made-192m-shorting-one-of-the-biggest-crypto-crashes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -460,17 +493,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/opinion/2025/10/22/the-crypto-industry-must-evolve-to-match-real-world-security-risks",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "a96eabcf2661",
-          "time": "19:00",
-          "category": "Crypto",
-          "title": "Spark marks first major rotation from US Treasurys into regulated DeFi",
-          "summary": "As Treasury yields sink, Spark’s $100 million move into Superstate’s regulated crypto carry fund signals DeFi’s pivot toward uncorrelated yield sources.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/spark-100m-superstate-crypto-yield-treasuries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
         },
@@ -643,19 +665,6 @@
           "impact_score": 2
         },
         {
-          "id": "5454d60e87b3",
-          "time": "18:01",
-          "category": "Crypto",
-          "title": "Ether triple bottom setup hints at a $4K breakout next",
-          "summary": "Ether's triple bottom near $3,800 hints at a $4,000 breakout as mega whales quietly buy the dip, absorbing supply from smaller holders during the pullback.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/ethereum-triple-bottom-setup-hints-4k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [
-            "ETH"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "0e0236d26108",
           "time": "15:24",
           "category": "Crypto",
@@ -727,6 +736,39 @@
           "summary": "Despite a year of sweeping reforms, Australia’s crypto market remains frozen as investors wait for new digital asset laws to take effect.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345576/crypto-adoption-australia-stalls-trust-drops-labors-push-regulation",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "f29dae274762",
+          "time": "00:51",
+          "category": "Markets",
+          "title": "Tesla profit falls short despite record sales, hit by higher costs and fading credits",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/tesla-profit-falls-short-despite-235136496.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "37af365ac49b",
+          "time": "00:30",
+          "category": "Markets",
+          "title": "This Dividend Stock Had a Record Q3: Is It Too Late to Buy After the 40% YTD Surge?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/dividend-stock-had-record-q3-233002237.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "61dfe8edca76",
+          "time": "00:24",
+          "category": "Earnings",
+          "title": "Jim Cramer Discussed Capital One (COF) Ahead Of Its Earnings",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-discussed-capital-one-232415024.html",
           "tags": [],
           "impact_score": 2
         },
@@ -929,17 +971,6 @@
           "impact_score": 1
         },
         {
-          "id": "5fc7306ceba5",
-          "time": "14:15",
-          "category": "Crypto",
-          "title": "CoinDesk 20 Performance Update: Solana (SOL) Gains 4.5% as Index Trades Higher",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/coindesk-indices/2025/10/23/coindesk-20-performance-update-solana-sol-gains-4-5-as-index-trades-higher",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "36c4c8bcba40",
           "time": "13:05",
           "category": "Crypto",
@@ -1015,6 +1046,182 @@
           "url": "https://decrypt.co/345564/stanfords-wireless-eye-chip-helps-the-blind-read-again",
           "tags": [],
           "impact_score": 1
+        },
+        {
+          "id": "b48e144eb2ba",
+          "time": "00:58",
+          "category": "Markets",
+          "title": "Salesforce, Inc. (CRM): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/salesforce-inc-crm-bull-case-235833474.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f95b41c08cfd",
+          "time": "00:43",
+          "category": "Earnings",
+          "title": "Southwest’s Revenue Is Growing. Stronger Travel Demand and Bag Fees Are Helping.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/earnings/southwest-airlines-aims-for-highest-fourth-quarter-revenue-on-record-1894ef15?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9458ed692148",
+          "time": "00:33",
+          "category": "Markets",
+          "title": "Review & Preview: Caution Flag",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/review-preview-caution-flag-ef9a2090?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "cb3b4cd3ae58",
+          "time": "00:24",
+          "category": "Markets",
+          "title": "Jim Cramer Makes Bold Revelation For PG&E Corporation (PCG) & AI Energy Shortage",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-makes-bold-revelation-232433314.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4c49df0edfec",
+          "time": "00:24",
+          "category": "Markets",
+          "title": "Jim Cramer Corrects The Narrative For Arm Holdings (ARM)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-corrects-narrative-arm-232423864.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "67db90f2015f",
+          "time": "00:24",
+          "category": "Markets",
+          "title": "Jim Cramer Couldn’t Stop Gushing About Cleveland-Cliffs’ (CLF) Rare Earth Announcement",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-couldn-t-stop-232407824.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "266b660f2d87",
+          "time": "00:23",
+          "category": "Markets",
+          "title": "NVIDIA Corporation (NVDA): Don’t Worry About AI Taking Away Jobs, Says Jim Cramer",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-don-t-232358832.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f4de52deb88e",
+          "time": "00:23",
+          "category": "Markets",
+          "title": "Jim Cramer Warns About NioCorp (NB)’s High Share Price Gains",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-warns-niocorp-nb-232345294.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3f93c28edd30",
+          "time": "00:23",
+          "category": "Markets",
+          "title": "Jim Cramer Says Sell American Resources (AREC) Unles Trump Takes A Stake",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-sell-american-232337836.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "afd324ceae61",
+          "time": "00:23",
+          "category": "Markets",
+          "title": "United States Antimony (UAMY) Becomes Part Of Jim Cramer’s Rare Earth Stock Warning",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/united-states-antimony-uamy-becomes-232327096.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f04d3b1f3faf",
+          "time": "00:23",
+          "category": "Markets",
+          "title": "Jim Cramer Discusses JPMorgan (JPM)’s Sapphire Cards",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-discusses-jpmorgan-jpm-232318933.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c0a727cecdc8",
+          "time": "00:23",
+          "category": "Earnings",
+          "title": "American Express’ (AXP) Quarter Was One Of The Best I’ve Seen, Says Jim Cramer",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/american-express-axp-quarter-one-232310195.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f23dbce18b1f",
+          "time": "00:23",
+          "category": "US Macro",
+          "title": "Amazon.com (AMZN) ‘Snapping Back’ Could Mean Its “Horrible Slide” Ends, Says Jim Cramer",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/amazon-com-amzn-snapping-back-232302934.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e8dbbced7b4d",
+          "time": "00:22",
+          "category": "Markets",
+          "title": "Jim Cramer Discusses Apple (AAPL)’s “Super Mission” Against Its Critics",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-discusses-apple-aapl-232255424.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "63ca5f5384f8",
+          "time": "00:03",
+          "category": "Markets",
+          "title": "Kraken’s Tokenized Equities Platform Surpasses $5 Billion in Trading Volume",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/kraken-tokenized-equities-platform-surpasses-230311926.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "37ff8fade275",
+          "time": "00:01",
+          "category": "Markets",
+          "title": "Critics Warn Trump's $1.6 Trillion Loan Sale Could 'Short-Change Borrowers' — And That's The Real Problem",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/critics-warn-trumps-1-6-230113874.html",
+          "tags": [],
+          "impact_score": 1
         }
       ]
     },
@@ -1022,8 +1229,8 @@
       "date": "2025-10-22",
       "attention_points": [
         "Melania Trump, Javier Milei Used as 'Props' for Meme Coin Fraud, Lawsuit Alleges",
-        "Automakers urge Trump not to impose tariffs on factory robots, machinery",
-        "Ex-Crypto Exec Claims DeFi Company Cut Him Out of Lucrative Stablecoin Biz M^0"
+        "Melania Trump, Javier Milei Used as 'Props' for Meme Coin Fraud, Lawsuit Alleges",
+        "Automakers urge Trump not to impose tariffs on factory robots, machinery"
       ],
       "items": [
         {
@@ -1034,6 +1241,17 @@
           "summary": "A legal filing in a class action crypto fraud suit points the finger not at Melania Trump or Javier Milei, but instead at a startup founder.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345493/melania-trump-javier-milei-props-meme-coin-fraud-lawsuit-alleges",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "38e017be3160",
+          "time": "23:51",
+          "category": "Regulation",
+          "title": "Melania Trump, Javier Milei Used as 'Props' for Meme Coin Fraud, Lawsuit Alleges",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/melania-trump-javier-milei-used-225103363.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1081,17 +1299,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-freelancer-bank-account-features-221259187.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "8c7609b473de",
-          "time": "21:00",
-          "category": "Earnings",
-          "title": "Stock market today: Dow, S&P 500, Nasdaq fall as Netflix sinks, Tesla earnings loom",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-fall-as-netflix-sinks-tesla-earnings-loom-182937566.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1151,46 +1358,35 @@
           "impact_score": 3
         },
         {
-          "id": "fd4dd7de5509",
-          "time": "23:15",
+          "id": "3e5c0d8684fd",
+          "time": "23:49",
           "category": "Markets",
-          "title": "U.S. stocks are hitting a speed bump. Why the rally could soon resume.",
+          "title": "Hecla Mining (HL) Falls as Precious Metals Suffer Steepest Drop",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/u-stocks-hitting-speed-bump-221500008.html",
+          "url": "https://finance.yahoo.com/news/hecla-mining-hl-falls-precious-224945594.html",
           "tags": [],
           "impact_score": 2
         },
         {
-          "id": "e691a0b9f757",
-          "time": "23:13",
-          "category": "Earnings",
-          "title": "TrustCo (TRST) Q3 2025 Earnings Call Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/trustco-trst-q3-2025-earnings-221325137.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "ebccda932dd7",
-          "time": "23:13",
+          "id": "c1a8f0c61064",
+          "time": "23:48",
           "category": "Markets",
-          "title": "Tesla profit falls short despite record sales, hit by higher costs and fading credits",
+          "title": "Fermi (FRMI) Drops to All-Time Low",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/tesla-profit-falls-short-despite-221316130.html",
+          "url": "https://finance.yahoo.com/news/fermi-frmi-drops-time-low-224848207.html",
           "tags": [],
           "impact_score": 2
         },
         {
-          "id": "036654e5d408",
-          "time": "22:55",
-          "category": "Earnings",
-          "title": "QuantumScape QS Q3 2025 Earnings Call Transcript",
+          "id": "505d8245cab9",
+          "time": "23:40",
+          "category": "Markets",
+          "title": "Why GoPro Stock Surged by 5% on Wednesday",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/quantumscape-qs-q3-2025-earnings-215545850.html",
+          "url": "https://finance.yahoo.com/news/why-gopro-stock-surged-5-224053368.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1217,6 +1413,72 @@
           "url": "https://www.ccn.com/news/crypto/kadena-pulls-plug-268m-crypto-project-shutters-market-pain/",
           "tags": [],
           "impact_score": 2
+        },
+        {
+          "id": "6ccaf10e5401",
+          "time": "23:55",
+          "category": "US Macro",
+          "title": "Chinese Firms Speed up Dollar Selling Amid Optimism Toward Yuan",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/chinese-firms-speed-dollar-selling-225506909.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1da703d7e23a",
+          "time": "23:54",
+          "category": "Markets",
+          "title": "The Conference Call Is Over. Musk's Pay Package Got a Mention.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/livecoverage/tesla-earnings-stock-price-elon-musk-news/card/the-conference-call-is-over-musk-s-pay-package-got-a-mention--mC3xCxScJelKGOh5rx6p?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "da502ab5cd50",
+          "time": "23:50",
+          "category": "Markets",
+          "title": "Harmony Gold (HMY) Loses 11% on Gold Dive",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/harmony-gold-hmy-loses-11-225021364.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "daaae0fac7a5",
+          "time": "23:50",
+          "category": "Markets",
+          "title": "Anglogold (AU) Gets Dragged by Gold Dive",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/anglogold-au-gets-dragged-gold-225004212.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "eb2d84b6fdbb",
+          "time": "23:49",
+          "category": "Markets",
+          "title": "Navitas (NVTS) Loses 12% to Profit-Taking",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/navitas-nvts-loses-12-profit-224926602.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "541cb1aef08e",
+          "time": "23:49",
+          "category": "Markets",
+          "title": "Oklo (OKLO) Dives as Investor Unloads $8.5-Million Stake",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/oklo-oklo-dives-investor-unloads-224909651.html",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "b0e1b7523b4b",
@@ -1263,277 +1525,35 @@
           "impact_score": 1
         },
         {
-          "id": "c93e86bc5979",
-          "time": "23:30",
-          "category": "Markets",
-          "title": "Podcast: Renewed Trade Tensions Push Stocks Down",
+          "id": "2b82f0e9fe95",
+          "time": "23:44",
+          "category": "US Macro",
+          "title": "SUI USD Going To Send Bulls To The Moon? Yes, No, Maybe?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-tesla-earnings-10-22-2025/card/podcast-renewed-trade-tensions-push-stocks-down-Bu5syRjUTP7SbAPz3X8W?siteid=yhoof2&yptr=yahoo",
+          "url": "https://finance.yahoo.com/news/sui-usd-going-send-bulls-224410156.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "46da2fc2e503",
-          "time": "23:24",
+          "id": "5fd5e4d20c27",
+          "time": "23:39",
           "category": "Markets",
-          "title": "First look: Covenant Logistics Q3 profit slips on truckload weakness",
+          "title": "The Motley Fool Interviews DocuSign CEO Allan Thygesen",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/first-look-covenant-logistics-q3-222443854.html",
+          "url": "https://finance.yahoo.com/news/motley-fool-interviews-docusign-ceo-223900033.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "0236370d32a3",
-          "time": "23:15",
-          "category": "Markets",
-          "title": "Corn Ends the Midweek Session with Strength",
+          "id": "fd62adc0e250",
+          "time": "23:35",
+          "category": "Earnings",
+          "title": "Chagee Keeps Prices High Amid Sales Slump",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/corn-ends-midweek-session-strength-221505045.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0df38ea16072",
-          "time": "23:14",
-          "category": "Markets",
-          "title": "Why Investors Bailed From UniFirst Stock Today",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-investors-bailed-unifirst-stock-221410852.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "cb4b8ceb2c63",
-          "time": "23:13",
-          "category": "Markets",
-          "title": "Fannie Mae CEO Exits as Trump Considers IPO",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/c-suite/fannie-mae-ceo-exits-as-trump-considers-ipo-b0423572?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "7c486ce00ef9",
-          "time": "23:04",
-          "category": "Markets",
-          "title": "Strike CEO has a harsh response to Elon Musk's gold thesis",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ceo-harsh-response-elon-musks-220445661.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "542a11b38d48",
-          "time": "22:59",
-          "category": "Markets",
-          "title": "Innodata Inc. (INOD): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/innodata-inc-inod-bull-case-215957397.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e7ab86c10f9e",
-          "time": "22:59",
-          "category": "Markets",
-          "title": "Rexford Industrial Realty, Inc. (REXR): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/rexford-industrial-realty-inc-rexr-215928034.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1ec59c13d39e",
-          "time": "22:59",
-          "category": "Markets",
-          "title": "Reddit, Inc. (RDDT): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/reddit-inc-rddt-bull-case-215921511.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "211b8fd133a0",
-          "time": "22:59",
-          "category": "Markets",
-          "title": "Duolingo, Inc. (DUOL): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/duolingo-inc-duol-bull-case-215915172.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e1870e185be5",
-          "time": "22:59",
-          "category": "Markets",
-          "title": "Coherent Corp. (COHR): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/coherent-corp-cohr-bull-case-215909546.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "bc20cdc914dc",
-          "time": "22:59",
-          "category": "Markets",
-          "title": "Dole plc (DOLE): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/dole-plc-dole-bull-case-215901039.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4890b163ca50",
-          "time": "22:58",
-          "category": "Markets",
-          "title": "Ultrawealthy families are pouring billions into private credit and real estate, but cutting back on early-stage startups",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ultrawealthy-families-pouring-billions-private-215856939.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1854bde549d4",
-          "time": "22:58",
-          "category": "Markets",
-          "title": "Topgolf Callaway Brands Corp. (MODG): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/topgolf-callaway-brands-corp-modg-215844814.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "453e1c17edd1",
-          "time": "22:57",
-          "category": "Markets",
-          "title": "ResMed Inc. (RMD): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/resmed-inc-rmd-bull-case-215708568.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "2adbae215932",
-          "time": "22:56",
-          "category": "Markets",
-          "title": "SoFi Technologies, Inc. (SOFI): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/sofi-technologies-inc-sofi-bull-215627424.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3e9b7a984397",
-          "time": "22:56",
-          "category": "Markets",
-          "title": "Sysco Corporation (SYY): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/sysco-corporation-syy-bull-case-215617472.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "73c4f3f9a050",
-          "time": "22:55",
-          "category": "Markets",
-          "title": "Westinghouse Air Brake Technologies Corporation (WAB): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/westinghouse-air-brake-technologies-corporation-215531987.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e755f971e076",
-          "time": "22:55",
-          "category": "Markets",
-          "title": "Zoetis Inc. (ZTS): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/zoetis-inc-zts-bull-case-215520603.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "649361610706",
-          "time": "22:55",
-          "category": "Markets",
-          "title": "Affirm Holdings, Inc. (AFRM): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/affirm-holdings-inc-afrm-bull-215506247.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e7fbd13164e0",
-          "time": "22:54",
-          "category": "Markets",
-          "title": "Clarivate Plc (CLVT): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/clarivate-plc-clvt-bull-case-215448096.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b8a4c6ace819",
-          "time": "22:54",
-          "category": "Markets",
-          "title": "Honeywell International Inc. (HON): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/honeywell-international-inc-hon-bull-215433792.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "bdfcc9651bf8",
-          "time": "22:53",
-          "category": "Markets",
-          "title": "Papa John’s International, Inc. (PZZA): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/papa-john-international-inc-pzza-215354172.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "05c093a2469c",
-          "time": "22:53",
-          "category": "Markets",
-          "title": "The Trade Desk, Inc. (TTD): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/trade-desk-inc-ttd-bull-215302652.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "af0f04e94c7a",
-          "time": "22:50",
-          "category": "Markets",
-          "title": "Newly minted meme stock Beyond Meat extends its scorching 3-day run to nearly 900%",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/newly-minted-meme-stock-beyond-215009751.html",
+          "url": "https://finance.yahoo.com/video/chagee-keeps-prices-high-amid-223553857.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1545,17 +1565,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/loan-prepayment-penalty-203636394.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b7657c2e9a7c",
-          "time": "16:58",
-          "category": "Markets",
-          "title": "American Family auto insurance review 2025: 5 out of 5 stars",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/insurance/review/american-family-auto-insurance-review-155839352.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1745,25 +1754,6 @@
           "url": "https://www.ccn.com/billionaire-tim-draper-leads-3-2m-seed-round-for-ryder-to-replace-seed-phrases-with-tapsafe-recovery/",
           "tags": [],
           "impact_score": 1
-        }
-      ]
-    },
-    {
-      "date": "2025-10-17",
-      "attention_points": [
-        "How the government shutdown impacts the housing market: Loan availability, closing times, and more"
-      ],
-      "items": [
-        {
-          "id": "ce7a30e1db18",
-          "time": "18:36",
-          "category": "Markets",
-          "title": "How the government shutdown impacts the housing market: Loan availability, closing times, and more",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-government-shutdown-impacts-housing-market-173617101.html",
-          "tags": [],
-          "impact_score": 3
         }
       ]
     }
