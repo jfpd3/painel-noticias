@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T09:54+01:00",
+  "generated_at": "2025-10-24T10:03+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -1063,6 +1063,17 @@
           "impact_score": 3
         },
         {
+          "id": "ac89b9afe99b",
+          "time": "22:28",
+          "category": "Markets",
+          "title": "Why Middlefield Banc Stock Crushed It Today",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-middlefield-banc-stock-crushed-212804659.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "738c339052d9",
           "time": "22:22",
           "category": "Markets",
@@ -1071,19 +1082,6 @@
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/finance/banking/citigroup-ceo-jane-fraser-named-chair-gets-25-million-stock-award-598d2508?siteid=yhoof2&yptr=yahoo",
           "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "5015b34705b1",
-          "time": "21:26",
-          "category": "Crypto",
-          "title": "Gold steadies, bitcoin plunges as debasement trade rally comes to a halt",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/gold-steadies-bitcoin-plunges-as-debasement-trade-rally-comes-to-a-halt-202631226.html",
-          "tags": [
-            "BTC"
-          ],
           "impact_score": 3
         },
         {
@@ -1142,6 +1140,28 @@
           "impact_score": 3
         },
         {
+          "id": "2473d4caa870",
+          "time": "22:30",
+          "category": "Markets",
+          "title": "Tesla profit falls short despite record sales, hit by higher costs and fading credits",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/tesla-profit-falls-short-despite-213012315.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "c55dcd991dd9",
+          "time": "22:28",
+          "category": "Markets",
+          "title": "Tesla reports record sales, record storage—but profit slips as tax-credit rush pulls demand forward",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/tesla-reports-record-sales-record-212823188.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "93de8022db58",
           "time": "22:10",
           "category": "Crypto",
@@ -1177,6 +1197,72 @@
           "url": "https://www.ccn.com/news/crypto/kadena-pulls-plug-268m-crypto-project-shutters-market-pain/",
           "tags": [],
           "impact_score": 2
+        },
+        {
+          "id": "1b1e783571db",
+          "time": "22:31",
+          "category": "Markets",
+          "title": "Blue Bird Corporation (BLBD): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/blue-bird-corporation-blbd-bull-213154610.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "cb3b51dca767",
+          "time": "22:31",
+          "category": "Markets",
+          "title": "Celsius Holdings, Inc. (CELH): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/celsius-holdings-inc-celh-bull-213145836.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9c60636e7960",
+          "time": "22:31",
+          "category": "Markets",
+          "title": "Fastenal Company (FAST): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fastenal-company-fast-bull-case-213139910.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "76da5398d718",
+          "time": "22:31",
+          "category": "Markets",
+          "title": "Joint Stock Company Kaspi.kz (KSPI): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/joint-stock-company-kaspi-kz-213123429.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "fee6d45aefa0",
+          "time": "22:31",
+          "category": "Markets",
+          "title": "Lumentum Holdings Inc. (LITE): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/lumentum-holdings-inc-lite-bull-213111657.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "63c6213d2146",
+          "time": "22:31",
+          "category": "Earnings",
+          "title": "Wyndham Hotels Cuts Full-Year View After Third-Quarter Sales Fall",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/earnings/wyndham-hotels-cuts-full-year-view-after-third-quarter-sales-fall-5a09f166?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "78d1be24954c",
@@ -1476,17 +1562,6 @@
           "impact_score": 1
         },
         {
-          "id": "73e0438c1183",
-          "time": "22:10",
-          "category": "Markets",
-          "title": "Why Vicor Stock Skyrocketed Today",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-vicor-stock-skyrocketed-today-211039597.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "91a9ef8f4838",
           "time": "22:09",
           "category": "Markets",
@@ -1498,17 +1573,6 @@
           "impact_score": 1
         },
         {
-          "id": "48a261d16760",
-          "time": "22:08",
-          "category": "Earnings",
-          "title": "Tesla Results Are a 'Tale of Two Cities,' Steve Westly Says",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/video/tesla-results-tale-two-cities-210817781.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "4d9cca1c1643",
           "time": "22:06",
           "category": "Markets",
@@ -1516,83 +1580,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/articles/basic-materials-roundup-market-talk-07156980?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "fb9c35412732",
-          "time": "22:04",
-          "category": "Markets",
-          "title": "Why Travel + Leisure Stock Soared More than 15% Today",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-travel-leisure-stock-soared-210401127.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "bf1dd6d75096",
-          "time": "22:03",
-          "category": "Markets",
-          "title": "Trading Day: Wall Street's hunt for red October",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/trading-day-wall-streets-hunt-210321464.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3f5751cb612c",
-          "time": "22:03",
-          "category": "Markets",
-          "title": "Financial Services Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-3df2c9a5?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5522491696e9",
-          "time": "22:01",
-          "category": "Markets",
-          "title": "Primo Brands Corporation (PRMB): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/primo-brands-corporation-prmb-bull-210154052.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b0fe97366ceb",
-          "time": "22:01",
-          "category": "Markets",
-          "title": "StandardAero, Inc. (SARO): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/standardaero-inc-saro-bull-case-210146742.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "18f470f82e5f",
-          "time": "22:01",
-          "category": "Markets",
-          "title": "Soleno Therapeutics, Inc. (SLNO): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/soleno-therapeutics-inc-slno-bull-210139960.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "bb8be8ff9bce",
-          "time": "22:00",
-          "category": "Markets",
-          "title": "Amplitude, Inc. (AMPL): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/amplitude-inc-ampl-bull-case-210036100.html",
           "tags": [],
           "impact_score": 1
         },
