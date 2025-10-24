@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T06:06+01:00",
+  "generated_at": "2025-10-24T06:43+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -47,12 +47,39 @@
           "id": "e626bab43513",
           "time": "01:16",
           "category": "Crypto",
-          "title": "Custodia, Vantage Bank launches platform for tokenized deposits",
+          "title": "Custodia, Vantage Bank launch platform for tokenized deposits",
           "summary": "Custodia Bank has launched a solution that lets banks tokenize deposits, enabling them to benefit from blockchain’s advantages while safeguarding customer deposits.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/custodia-vantage-launch-platform-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "a44649ca2e3d",
+          "time": "06:35",
+          "category": "Crypto",
+          "title": "Solo Bitcoin miner scores $347K — 'pure self-soverignty in action'",
+          "summary": "A solo Bitcoin miner has solved block 920,440, mining it entirely on their own and cashing in a huge reward for themselves.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/solo-bitcoin-miner-wins-block-self-soverignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "751037c15e62",
+          "time": "06:24",
+          "category": "Crypto",
+          "title": "How Much Could Bitcoin, Ether, XRP and Solana Move After the U.S. Inflation Report?",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/24/how-much-could-bitcoin-ether-xrp-and-solana-move-after-the-u-s-inflation-report",
+          "tags": [
+            "BTC",
+            "ETH"
+          ],
+          "impact_score": 2
         },
         {
           "id": "15285a89bfdd",
@@ -106,12 +133,23 @@
           "id": "b6513b1bccde",
           "time": "02:20",
           "category": "Crypto",
-          "title": "DeFi perps volume explodes past $1T in a record month so far",
+          "title": "DeFi perps volume explodes past $1T in record month so far",
           "summary": "Hyperliquid, Aster and Lighter have pushed decentralized perps trading volume to over $1 trillion in October, beating August’s tally with a week to spare.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/decentralized-perps-1-trillion-volume-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 2
+        },
+        {
+          "id": "5b843506bddc",
+          "time": "06:03",
+          "category": "Crypto",
+          "title": "Rep. Maxine Waters Blasts Trump Pardon of Binance Founder",
+          "summary": "Trump’s pardon of Binance founder Changpeng Zhao has ignited political outrage and renewed scrutiny of his ties to the crypto industry.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345812/rep-maxine-waters-blasts-trump-pardon-of-binance-founder",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "e74480ca9cc8",
@@ -162,7 +200,7 @@
           "time": "01:22",
           "category": "Crypto",
           "title": "Traders see BNB going ‘up only’ after Trump’s CZ pardon",
-          "summary": "The sharp rise in BNB’s price also has crypto traders speculating that altcoin season could be on the horizon.",
+          "summary": "The sharp rise in BNB’s price also has crypto traders speculating that altcoin season may be on the horizon.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/bnb-wlfi-price-surge-donald-trump-cz-binance-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
@@ -549,19 +587,6 @@
           "impact_score": 2
         },
         {
-          "id": "5cd44189fd1a",
-          "time": "12:15",
-          "category": "Crypto",
-          "title": "Risk Proxies Challenge Bitcoin's Bounce; HYPE, XMR Shine: Crypto Daybook Americas",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/daybook-us/2025/10/23/risk-proxies-challenge-bitcoin-s-bounce-hype-xmr-shine-crypto-daybook-americas",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "03caf04d85a8",
           "time": "11:53",
           "category": "Crypto",
@@ -888,17 +913,6 @@
           "impact_score": 1
         },
         {
-          "id": "ce3b79077d13",
-          "time": "13:20",
-          "category": "Crypto",
-          "title": "A16z eyes $10B in new funds, leaves crypto behind despite bullish talk",
-          "summary": "Andreessen Horowitz is reportedly raising about $10 billion for new AI and defense investments, notably excluding crypto, despite its bullish stance on decentralization.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/a16z-eyes-10b-in-new-funds-skips-crypto-despite-bullish-talk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "36c4c8bcba40",
           "time": "13:05",
           "category": "Crypto",
@@ -1044,6 +1058,50 @@
           "impact_score": 3
         },
         {
+          "id": "6ef2830047ab",
+          "time": "19:06",
+          "category": "Crypto",
+          "title": "Reserve aims to make crypto index funds as simple as ETFs",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/aims-crypto-index-funds-simple-180605916.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "adb60784ced0",
+          "time": "19:01",
+          "category": "Markets",
+          "title": "Beyond Meat Soars After MEME ETF Inclusion Sparks Short Squeeze",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/beyond-meat-soars-meme-etf-180109997.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "d32739d1b97a",
+          "time": "19:01",
+          "category": "Markets",
+          "title": "Dave Ramsey Caller Says She Was Trying To 'Help' Her Husband Retire Early By Borrowing From His 401(k) To Buy And Flip Houses...But They Didn't Sell",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/dave-ramsey-caller-says-she-180108915.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "5cfe84e0dd80",
+          "time": "18:45",
+          "category": "Crypto",
+          "title": "Why Did Ken Griffin Spend Nearly $1 Million on This New Crypto Treasury Company?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-did-ken-griffin-spend-174535626.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "3eb297518883",
           "time": "18:35",
           "category": "Regulation",
@@ -1051,17 +1109,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/tech/ai/openai-loosened-suicide-talk-rules-before-teens-death-lawsuit-alleges-34e830c1?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "733f59f20325",
-          "time": "18:08",
-          "category": "Markets",
-          "title": "Why Netflix Stock Was Slumping Today",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-netflix-stock-slumping-today-170845490.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1121,14 +1168,16 @@
           "impact_score": 3
         },
         {
-          "id": "bf2fb9a62896",
-          "time": "22:34",
+          "id": "100dee60b035",
+          "time": "18:58",
           "category": "Crypto",
-          "title": "Crypto Is Finally Growing Up, Says VC Giant Andreessen Horowitz",
-          "summary": "Andreessen Horowiz's State of Crypto 2025 crypto report highlights Bitcoin dominance, stablecoin demand, institutional adoption, and more.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345470/crypto-finally-growing-up-vc-giant-andreessen-horowitz",
-          "tags": [],
+          "title": "Stablecoins Will Be Bigger Than Bitcoin",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/stablecoins-bigger-bitcoin-175846655.html",
+          "tags": [
+            "BTC"
+          ],
           "impact_score": 2
         },
         {
@@ -1139,41 +1188,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/livecoverage/stock-market-today-tesla-earnings-10-22-2025/card/traders-brace-for-swings-following-tesla-earnings-123DUuAYEg4YC31YiIho?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "64af28b57eb5",
-          "time": "18:30",
-          "category": "Crypto",
-          "title": "Corn Showing Midday Gains with Increased Ethanol Output",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/corn-showing-midday-gains-increased-173003260.html",
-          "tags": [
-            "ETH"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "cf2f217c83e1",
-          "time": "18:01",
-          "category": "Earnings",
-          "title": "Avery Dennison (AVY) Q3 2025 Earnings Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/avery-dennison-avy-q3-2025-170152147.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "17:54",
-          "category": "Earnings",
-          "title": "Amazon Pre-Earnings Trade Strategy Offers A Quick Return Or Discounted Stock Ownership",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/research/options/amazon-pre-earnings-trade-strategy-offers-a-quick-return-or-discounted-stock-ownership/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 2
         },
@@ -1213,6 +1227,149 @@
           "impact_score": 1
         },
         {
+          "id": "b4df0c5d84ab",
+          "time": "19:35",
+          "category": "Markets",
+          "title": "Powell Industries, Inc. (POWL): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/powell-industries-inc-powl-bull-183543808.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "285dc907569a",
+          "time": "19:35",
+          "category": "Markets",
+          "title": "The Charles Schwab Corporation (SCHW): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/charles-schwab-corporation-schw-bull-183535003.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3010bccd7604",
+          "time": "19:35",
+          "category": "Markets",
+          "title": "NuScale Power Corporation (SMR): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/nuscale-power-corporation-smr-bull-183528138.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "dac355e3e580",
+          "time": "19:35",
+          "category": "Markets",
+          "title": "SharkNinja, Inc. (SN): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/sharkninja-inc-sn-bull-case-183514294.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a151f37b5537",
+          "time": "19:34",
+          "category": "Markets",
+          "title": "Snowflake Inc. (SNOW): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/snowflake-inc-snow-bull-case-183453386.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "62f40ef69a25",
+          "time": "19:34",
+          "category": "Markets",
+          "title": "Enovix Corporation (ENVX): A Bear Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/enovix-corporation-envx-bear-case-183444506.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e805bbd037e6",
+          "time": "19:34",
+          "category": "Markets",
+          "title": "Albertsons Companies, Inc. (ACI): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/albertsons-companies-inc-aci-bull-183437003.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ac5e0ff5f22b",
+          "time": "19:33",
+          "category": "Markets",
+          "title": "JBS N.V. (JBS): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jbs-n-v-jbs-bull-183307146.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e172aaf99dc5",
+          "time": "19:32",
+          "category": "Markets",
+          "title": "NextDecade Corporation (NEXT): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/nextdecade-corporation-next-bull-case-183223330.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5725316cfc6a",
+          "time": "19:31",
+          "category": "Markets",
+          "title": "PACS Group, Inc. (PACS): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/pacs-group-inc-pacs-bull-183144809.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1c8b79c7c4b0",
+          "time": "19:31",
+          "category": "Markets",
+          "title": "UnitedHealth Group Incorporated (UNH): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/unitedhealth-group-incorporated-unh-bull-183130250.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5e821e97b1a2",
+          "time": "19:31",
+          "category": "Markets",
+          "title": "AbbVie Inc. (ABBV): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/abbvie-inc-abbv-bull-case-183124868.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "00300d0f4c37",
+          "time": "19:31",
+          "category": "Markets",
+          "title": "AstraZeneca PLC (AZN): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/astrazeneca-plc-azn-bull-case-183110244.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "b3ae283dcbfe",
           "time": "19:30",
           "category": "Markets",
@@ -1220,6 +1377,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/beyond-meat-stock-surging-short-183058723.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f888120d8819",
+          "time": "19:30",
+          "category": "Markets",
+          "title": "Domino’s Pizza, Inc. (DPZ): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/domino-pizza-inc-dpz-bull-183050765.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1301,6 +1469,28 @@
           "impact_score": 1
         },
         {
+          "id": "0da437c4ffc2",
+          "time": "19:00",
+          "category": "Markets",
+          "title": "From trading floors to streaming wars: Grindr’s ex-CFO on taking career risks at the right time",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/trading-floors-streaming-wars-grindr-180051040.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9b25387ea855",
+          "time": "18:58",
+          "category": "Markets",
+          "title": "Insigneo to Acquire Accounts of $4B IBD Focused on Latin American Wealth",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/insigneo-acquire-accounts-4b-ibd-175857441.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "87766f1ea196",
           "time": "18:54",
           "category": "Markets",
@@ -1334,6 +1524,28 @@
           "impact_score": 1
         },
         {
+          "id": "6d4a3cfd2300",
+          "time": "18:47",
+          "category": "Markets",
+          "title": "Beyond Meat and Krispy Kreme: Meme Stock Traders Can't Seem to Get Enough of the Combo",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/beyond-meat-krispy-kreme-meme-174716121.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "40848527add7",
+          "time": "18:44",
+          "category": "Earnings",
+          "title": "Boston Scientific lifts FY25 outlook amid continued cardiovascular boom",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/boston-scientific-lifts-fy25-outlook-174426773.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "75068190dddd",
           "time": "18:44",
           "category": "Markets",
@@ -1363,204 +1575,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/carvana-stock-auto-market-subprime-warning-signs-c6c6b47e?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b3c9337205ad",
-          "time": "18:30",
-          "category": "Markets",
-          "title": "Wheat Trading Higher at Midday",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/wheat-trading-higher-midday-173003106.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e5031ef3c730",
-          "time": "18:30",
-          "category": "Markets",
-          "title": "Heavy Activity in Energy Fuels Inc Call Options - a Speculative Play on Rare Earth Elements",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/heavy-activity-energy-fuels-inc-173002525.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6701a46f68c8",
-          "time": "18:23",
-          "category": "Markets",
-          "title": "Dear D-Wave Quantum Fans, Mark Your Calendars for November 17",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/dear-d-wave-quantum-fans-172325630.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "28b349a4b708",
-          "time": "18:19",
-          "category": "Markets",
-          "title": "Why Just Staying in the Game Is a Win Right Now for Small Carriers",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-just-staying-game-win-171923138.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "18:14",
-          "category": "Markets",
-          "title": "Best Buy Stock Might Be Bargain If China Tensions Keep Subsiding",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/research/the-income-investor/best-buy-bby-stock-buy-zone-dividend-yield/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "7d385c16b2d7",
-          "time": "18:10",
-          "category": "Markets",
-          "title": "Prediction: Moderna Will Soar Over the Next 5 Years. Here's 1 Reason Why.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/prediction-moderna-soar-over-next-171000260.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "218cd5e768e2",
-          "time": "18:07",
-          "category": "Markets",
-          "title": "Amazon employees will soon suffer from alarming workplace trend",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/amazon-employees-soon-suffer-alarming-170700759.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "09f9afc86caa",
-          "time": "18:05",
-          "category": "Markets",
-          "title": "Why CIOs and CFOs are becoming ‘attached at the hip’ as businesses make big AI investments",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-cios-cfos-becoming-attached-170502058.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "226bad0ef684",
-          "time": "18:05",
-          "category": "Markets",
-          "title": "1 Reason Why NioCorp Could Quietly Power the AI Revolution",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/1-reason-why-niocorp-could-170500849.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "009b9bcf5fd6",
-          "time": "18:04",
-          "category": "Markets",
-          "title": "Gucci-Owner Kering’s Sales Continue to Fall as New Boss Strives to Turn Things Around",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/retail/gucci-owner-kerings-sales-continue-to-fall-as-new-boss-strives-to-turn-things-around-96e4d32c?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "18:02",
-          "category": "Markets",
-          "title": "AWS Outage: Why Amazon Stock Didn't Take A Hit From Cloud Crash",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/technology/amazon-stock-aws-outage-amzn-news/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ba845a72f41d",
-          "time": "18:01",
-          "category": "Crypto",
-          "title": "Dollar Dominance Gets a Crypto Boost—JPMorgan Says Stablecoins Could Drive $1.4 Trillion in New Demand by 2027",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/dollar-dominance-gets-crypto-boost-170104719.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "16ada1d78d04",
-          "time": "18:00",
-          "category": "Markets",
-          "title": "Meta AI layoffs today: 600 jobs are already being cut from Alexandr Wang’s superintelligence lab",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/meta-ai-layoffs-today-600-170000725.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c4e1a7ce10ea",
-          "time": "17:58",
-          "category": "Markets",
-          "title": "Factoring companies squeezed by slowing shipper payments: Alsobrooks",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/factoring-companies-squeezed-slowing-shipper-165834291.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3386e1997143",
-          "time": "17:57",
-          "category": "Markets",
-          "title": "Why Krispy Kreme Stock Is Skyrocketing (Again) Today",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-krispy-kreme-stock-skyrocketing-165746850.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4b360ca9f9db",
-          "time": "17:55",
-          "category": "Markets",
-          "title": "Joe Duran’s Rise Growth Partners Takes Stake in $4 Billion St. Louis Advisory Firm",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/advisor/articles/joe-duran-rise-growth-partners-krilogy-minority-stake-4e5f5267?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b7657c2e9a7c",
-          "time": "16:58",
-          "category": "Markets",
-          "title": "American Family auto insurance review 2025: 5 out of 5 stars",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/insurance/review/american-family-auto-insurance-review-155839352.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b38bdc53435f",
-          "time": "16:31",
-          "category": "Markets",
-          "title": "7 costly first-time home buyer mistakes — and how to avoid them",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/first-time-home-buyer-mistakes-153128493.html",
           "tags": [],
           "impact_score": 1
         },
