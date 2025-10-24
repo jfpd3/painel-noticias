@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T00:34+01:00",
+  "generated_at": "2025-10-25T00:46+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -724,13 +724,13 @@
           "impact_score": 1
         },
         {
-          "id": "07e96594e7e7",
+          "id": "973298671192",
           "time": "18:06",
           "category": "Markets",
-          "title": "Analyst Report: Integer Holdings Corp",
+          "title": "Analyst Report: Tractor Supply Co.",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3757_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3462_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -746,13 +746,13 @@
           "impact_score": 1
         },
         {
-          "id": "973298671192",
+          "id": "07e96594e7e7",
           "time": "18:06",
           "category": "Markets",
-          "title": "Analyst Report: Tractor Supply Co.",
+          "title": "Analyst Report: Integer Holdings Corp",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3462_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3757_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -993,8 +993,8 @@
       "date": "2025-10-23",
       "attention_points": [
         "OpenAI's ChatGPT Atlas Browser Has a Big Problem—How Crypto Users Can Protect Themselves",
-        "3 secrets about Medicare that experts want you to know",
-        "Hasbro's tariff battle could make playtime pricier"
+        "Investors Expect Above-Target Inflation Friday, Fed Rate Cut Next Week",
+        "3 secrets about Medicare that experts want you to know"
       ],
       "items": [
         {
@@ -1005,6 +1005,17 @@
           "summary": "OpenAI's AI web browser faces prompt injection attacks that security experts call an unsolved problem—but there are some things you can do to be safe.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345733/openai-chatgpt-atlas-browser-big-problem-how-crypto-users-protect-themselves",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "b07d0e80de22",
+          "time": "17:51",
+          "category": "US Macro",
+          "title": "Investors Expect Above-Target Inflation Friday, Fed Rate Cut Next Week",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2025/card/investors-expect-above-target-inflation-friday-fed-rate-cut-next-week-NX1Jbgj5HLfALQNCv05H?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 3
         },
@@ -1049,28 +1060,6 @@
           "summary": "An EU lawyer said the European banking giant is now ‘positioned to legally issue its own stablecoin,’ with a 2026 launch ‘plausible.’",
           "source": "Decrypt",
           "url": "https://decrypt.co/345674/revolut-secures-mica-license-in-cyprus-is-a-stablecoin-next",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "5e819547be71",
-          "time": "16:58",
-          "category": "US Macro",
-          "title": "Oil jumps after Russia sanctions; stocks, US yields inch higher",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/oil-jumps-russia-sanctions-stocks-155846964.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "a0480f308529",
-          "time": "16:57",
-          "category": "Regulation",
-          "title": "Apple loses UK lawsuit over app store commissions",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/apple-loses-uk-lawsuit-over-155741116.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1162,6 +1151,39 @@
           "impact_score": 2
         },
         {
+          "id": "9068e1031c3a",
+          "time": "17:58",
+          "category": "Markets",
+          "title": "Beyond Meat Stock Falls. Is the Meme-Fueled Rally Over?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/beyond-meat-stock-price-meme-rally-f68759c7?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "4830d1d4463f",
+          "time": "17:57",
+          "category": "Markets",
+          "title": "Oil surges 5% after US sanctions Russian firms Rosneft, Lukoil",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/oil-surges-5-us-sanctions-165751219.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "1a999bddbfb6",
+          "time": "17:56",
+          "category": "Earnings",
+          "title": "Molson Coors' Q3 2025 Earnings: What to Expect",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/molson-coors-q3-2025-earnings-165637576.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "dbc670df4fef",
           "time": "17:37",
           "category": "Earnings",
@@ -1173,6 +1195,17 @@
           "impact_score": 2
         },
         {
+          "id": "16c398bcf603",
+          "time": "17:32",
+          "category": "Markets",
+          "title": "Oil prices surge as Trump hits Russian energy giants with sweeping new sanctions",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/oil-prices-surge-trump-hits-163243475.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "e6e692468215",
           "time": "17:30",
           "category": "Markets",
@@ -1180,39 +1213,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/surge-crude-prices-sparks-short-163048854.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "39737b473a31",
-          "time": "17:16",
-          "category": "US Macro",
-          "title": "Mortgage rates drop to the lowest level in a year, opening ‘an important window’ for buyers",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/mortgage-rates-drop-lowest-level-161600346.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "68b42b673173",
-          "time": "17:04",
-          "category": "Markets",
-          "title": "Average long-term US mortgage rate drops to 6.19%, lowest level in more than a year",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/average-long-term-us-mortgage-160414770.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "17:04",
-          "category": "Earnings",
-          "title": "Armstrong World, IBD Stock Of The Day, Fights To Hold Buy Point Ahead Of Earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/research/ibd-stock-of-the-day/armstrong-world-industries-stock-buy-point-earnings/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 2
         },
@@ -1261,6 +1261,72 @@
           "impact_score": 1
         },
         {
+          "id": "b1afa6524c3c",
+          "time": "18:00",
+          "category": "Markets",
+          "title": "24-Hour Stock Trading Is Coming—and Wall Street Isn’t Ready",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/24-hour-trading-buy-sell-stocks-276ccb3f?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5089fe08889a",
+          "time": "18:00",
+          "category": "Earnings",
+          "title": "Hasbro Lifts Outlook as Holiday Orders Accelerate",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/earnings/hasbro-toymaker-quarterly-profit-revenue-rise-6207958c?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2893cca9d5f0",
+          "time": "17:49",
+          "category": "Markets",
+          "title": "US existing home sales hit 7-month high; affordability remains a challenge",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/us-existing-home-sales-hit-164934450.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "17:48",
+          "category": "Markets",
+          "title": "Marathon Petroleum Stock Earns 82 RS Rating",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/marathon-petroleum-earns-82-rs-rating/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9ccc6bc54e7d",
+          "time": "17:47",
+          "category": "Markets",
+          "title": "Las Vegas Sands Stock Tops the S&P 500. The Gambling Industry Is Having a Wild Day.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/las-vegas-sands-stock-earnings-gambling-91c3fde2?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "17:46",
+          "category": "Earnings",
+          "title": "SAP Stock Falls On Revenue Miss, Weak Cloud Order Backlog",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/sap-stock-sap-earnings-news-q32025/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "eaf9e520aa69",
           "time": "17:45",
           "category": "Markets",
@@ -1268,6 +1334,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102325/card/the-nasdaq-composite-rallies-risk-is-back-on-for-now--6MQozkJr7GHP3ZhakZQP?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "812fb16838e8",
+          "time": "17:45",
+          "category": "US Macro",
+          "title": "There's No End in Sight For High Mortgage Rates",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/theres-no-end-sight-high-164508219.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1283,6 +1360,17 @@
           "impact_score": 1
         },
         {
+          "id": "a129a334d348",
+          "time": "17:40",
+          "category": "Markets",
+          "title": "Cathie Wood buys $21.3 million worth of Robinhood shares",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/cathie-wood-buys-21-3-164027386.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "1d6daef5b3f9",
           "time": "17:35",
           "category": "Markets",
@@ -1290,6 +1378,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/research/options/marvell-technology-mrvl-stock-butterfly-spread/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "39433b2bc896",
+          "time": "17:33",
+          "category": "Markets",
+          "title": "76-year-old grocer closes stores amid struggles, shoppers frustrated",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/76-old-grocer-closes-stores-163300082.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1437,17 +1536,6 @@
           "impact_score": 1
         },
         {
-          "id": "c9756fbd7b3a",
-          "time": "17:15",
-          "category": "Markets",
-          "title": "Biotech recovery in Q3 2025 as venture funding grows 70.9% from Q2 2025",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/biotech-recovery-q3-2025-venture-161520537.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "0e9d9d0cd35c",
           "time": "17:15",
           "category": "US Macro",
@@ -1488,94 +1576,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/news/technology/meta-stock-ai-blue-owl-data-center-q3-earnings/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "64242a28549f",
-          "time": "17:09",
-          "category": "Markets",
-          "title": "Walmart promotes chief auditor to controller",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/walmart-promotes-chief-auditor-controller-160913202.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "dbb3d2b2dc15",
-          "time": "17:07",
-          "category": "Markets",
-          "title": "The Best Stocks to Invest $1,000 In Right Now",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/best-stocks-invest-1-000-160700156.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b6e5eb64040c",
-          "time": "17:05",
-          "category": "Markets",
-          "title": "Lockheed Martin Just Raised Its Dividend by 5%. Should You Buy LMT Stock Here?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/lockheed-martin-just-raised-dividend-160519033.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "743d49d6ebec",
-          "time": "17:03",
-          "category": "Markets",
-          "title": "The S&P 500 Has Been Jumpy. It's Still Trapped in Its Oct. 10 Intraday Range.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102325/card/the-s-p-500-has-been-jumpy-it-s-still-trapped-in-its-oct-10-intraday-range--1U7dvvhyeTruZ35cWQuN?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "17:01",
-          "category": "Markets",
-          "title": "Biotech Leader Travere Therapeutics Eyes Buy Point After More Than Doubling",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/research/travere-therapeutics-stock-tvtx-stock-buy-point/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "87bd737ce7a2",
-          "time": "16:57",
-          "category": "Markets",
-          "title": "Former Biden Adviser Explains What Concerns Him About NVIDIA (NVDA)-Led AI ‘Bubble’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/former-biden-adviser-explains-concerns-155742889.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b09c27db71c2",
-          "time": "16:56",
-          "category": "Markets",
-          "title": "Do You Believe in the Growth Potential of STERIS (STE)?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/believe-growth-potential-steris-ste-155613583.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3a497e9edf7d",
-          "time": "16:49",
-          "category": "Markets",
-          "title": "Stacy Rasgon Explains Why Advanced Micro Devices (AMD) Deal With OpenAI ‘Raises Eyebrows’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stacy-rasgon-explains-why-advanced-154902862.html",
           "tags": [],
           "impact_score": 1
         },
