@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T06:43+01:00",
+  "generated_at": "2025-10-24T06:54+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -53,6 +53,19 @@
           "url": "https://cointelegraph.com/news/custodia-vantage-launch-platform-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "b89a7fe0f687",
+          "time": "06:43",
+          "category": "Crypto",
+          "title": "Bitcoin not immune to 50% crashes despite Wall Street love: BitMine’s Lee",
+          "summary": "Tom Lee points to the stock market’s steep drawdowns, despite strong progress in recent times, as a sign that Bitcoin could still see 50% declines in the future.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/bitcoin-not-immune-to-slashing-50-despite-wall-street-love-bitmine-s-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
         },
         {
           "id": "a44649ca2e3d",
@@ -342,17 +355,6 @@
           "impact_score": 3
         },
         {
-          "id": "c5a8a8aedcd5",
-          "time": "13:50",
-          "category": "Crypto",
-          "title": "As inflation bites, Latin America banks on stablecoins instead of bankers",
-          "summary": "Latin Americans are using stablecoins and crypto to combat inflation and access banking services where traditional systems have failed, according to the co-CEO of Bybit LATAM.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/latin-america-crypto-stablecoins-financial-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "674a2bf00cfb",
           "time": "13:31",
           "category": "Crypto",
@@ -386,17 +388,6 @@
           "impact_score": 2
         },
         {
-          "id": "b431ea497743",
-          "time": "23:15",
-          "category": "Crypto",
-          "title": "Here’s what happened in crypto today",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "ab49274b0a8d",
           "time": "23:11",
           "category": "Crypto",
@@ -404,6 +395,17 @@
           "summary": "Meteora’s co-founder resigned from his leadership role due to his part in the MELANIA launch. Now wallets linked to it just received an airdrop of $1.2 million in MET.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345768/wallets-melania-trump-meme-coin-airdropped-1-2-million-meteora-tokens",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "b431ea497743",
+          "time": "21:42",
+          "category": "Crypto",
+          "title": "Here’s what happened in crypto today",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 2
         },
@@ -1102,17 +1104,6 @@
           "impact_score": 3
         },
         {
-          "id": "3eb297518883",
-          "time": "18:35",
-          "category": "Regulation",
-          "title": "OpenAI Loosened Suicide-Talk Rules Before Teen’s Death, Lawsuit Alleges",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/tech/ai/openai-loosened-suicide-talk-rules-before-teens-death-lawsuit-alleges-34e830c1?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "47fb3779d107",
           "time": "16:09",
           "category": "Crypto",
@@ -1223,6 +1214,28 @@
           "summary": "Senate Democrats and Republicans remain far apart on timeline and other key issues after flashy meetings with crypto leaders on Wednesday.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345503/big-gaps-remain-crypto-execs-meet-senators-market-structure-bill",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "187febc5b0ca",
+          "time": "19:36",
+          "category": "Markets",
+          "title": "Integral Ad Science Holding Corp. (IAS): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/integral-ad-science-holding-corp-183609671.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1afcfb89015c",
+          "time": "19:35",
+          "category": "Markets",
+          "title": "Medpace Holdings, Inc. (MEDP): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/medpace-holdings-inc-medp-bull-183555196.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1469,6 +1482,17 @@
           "impact_score": 1
         },
         {
+          "id": "0f145696d628",
+          "time": "19:05",
+          "category": "Markets",
+          "title": "Meta is cutting 600 jobs in its AI division",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/meta-cutting-600-jobs-ai-180533221.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "0da437c4ffc2",
           "time": "19:00",
           "category": "Markets",
@@ -1524,17 +1548,6 @@
           "impact_score": 1
         },
         {
-          "id": "6d4a3cfd2300",
-          "time": "18:47",
-          "category": "Markets",
-          "title": "Beyond Meat and Krispy Kreme: Meme Stock Traders Can't Seem to Get Enough of the Combo",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/beyond-meat-krispy-kreme-meme-174716121.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "40848527add7",
           "time": "18:44",
           "category": "Earnings",
@@ -1564,17 +1577,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/workday-wants-to-buy-into-the-ai-boom--without-overpaying-174228703.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "fa4fc96f4ddd",
-          "time": "18:37",
-          "category": "Markets",
-          "title": "Carvana Stock Falls Sharply. The Auto Market Is Flashing Warning Signs.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/carvana-stock-auto-market-subprime-warning-signs-c6c6b47e?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
