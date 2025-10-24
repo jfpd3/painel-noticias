@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-24T22:46+01:00",
+  "generated_at": "2025-10-24T22:56+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-24",
       "attention_points": [
+        "Trump Picks SEC Crypto Task Force’s Mike Selig to Run CFTC: Report",
         "Custodia, Vantage Expand Pilot Into Live Tokenized Deposit Network for US Banks",
-        "Sygnum Bank bets on Bitcoin lending with multisign custody model",
-        "Crypto Biz: Bitcoin whales trade keys for comfort"
+        "Sygnum Bank bets on Bitcoin lending with multisign custody model"
       ],
       "items": [
+        {
+          "id": "d127cf5a447c",
+          "time": "22:47",
+          "category": "Crypto",
+          "title": "Trump Picks SEC Crypto Task Force’s Mike Selig to Run CFTC: Report",
+          "summary": "Selig, chief counsel for the SEC’s pro-crypto task force, is the president’s latest choice to run the CFTC, according to a Bloomberg report.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345957/trump-sec-crypto-task-forces-mike-selig-cftc-report",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "fc0f956f7af9",
           "time": "22:28",
@@ -198,17 +209,6 @@
           "impact_score": 3
         },
         {
-          "id": "74409ea32bb3",
-          "time": "10:25",
-          "category": "Crypto",
-          "title": "Binance founder CZ’s presidential pardon is not an acquittal",
-          "summary": "A presidential pardon spares CZ from punishment but not guilt — cementing his conviction, blocking appeal options, and exposing Binance to civil lawsuits.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/cz-pardon-not-acquittal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "43d53c2acfb5",
           "time": "09:25",
           "category": "Crypto",
@@ -242,6 +242,19 @@
           "url": "https://www.coindesk.com/markets/2025/10/24/asia-morning-briefing-after-cz-s-pardon-odds-rise-for-sam-bankman-fried-s-second-chance",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "aa33d409acce",
+          "time": "22:41",
+          "category": "Crypto",
+          "title": "Bitcoin price compression will spark expansion: Will BTC explode toward $120K?",
+          "summary": "Bitcoin sellers put a cap on $112,000, but technical, onchain data and the end of October US macroeconomic calendar suggest that the price compression will trigger a violent expansion.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/bitcoin-price-compression-will-spark-expansion-will-btc-explode-to-120k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
         },
         {
           "id": "6695329f70d0",
@@ -696,17 +709,6 @@
           "impact_score": 1
         },
         {
-          "id": "07e96594e7e7",
-          "time": "18:06",
-          "category": "Markets",
-          "title": "Analyst Report: Integer Holdings Corp",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3757_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "29c61e81a3c1",
           "time": "18:06",
           "category": "Markets",
@@ -714,6 +716,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_6199_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "07e96594e7e7",
+          "time": "18:06",
+          "category": "Markets",
+          "title": "Analyst Report: Integer Holdings Corp",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3757_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -1005,6 +1018,28 @@
           "impact_score": 3
         },
         {
+          "id": "42f8e6b7986c",
+          "time": "15:35",
+          "category": "US Macro",
+          "title": "Dollar Moves Higher With Bond Yields",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/dollar-moves-higher-bond-yields-143534229.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "b37b7dd7a0d7",
+          "time": "15:15",
+          "category": "Regulation",
+          "title": "Two companies and one sector Team Trump could invest in next",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/two-companies-one-sector-team-141545710.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "d15d34e7025b",
           "time": "15:13",
           "category": "Regulation",
@@ -1023,28 +1058,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/articles/asian-currencies-consolidate-risk-off-sentiment-may-weigh-b5493777?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "d91fcc936981",
-          "time": "14:22",
-          "category": "Markets",
-          "title": "IRS Shutdown Means Delays in Audits, Dispute Resolution. Help Is Difficult If Not Impossible to Get.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/advisor/articles/irs-government-shutdown-delays-audits-cce32d0a?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "b1ffd2bf7761",
-          "time": "14:20",
-          "category": "Earnings",
-          "title": "Jim Cramer Says Zions Bancorporation’s “Overall Results Were Fairly Solid”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-zions-bancorporation-132041133.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1120,6 +1133,28 @@
           "tags": [
             "BTC"
           ],
+          "impact_score": 2
+        },
+        {
+          "id": "35271b3b0297",
+          "time": "15:35",
+          "category": "Earnings",
+          "title": "First look: Ryder’s earnings eke out a gain, revenue stagnant",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/first-look-ryder-earnings-eke-143509172.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "8cea09c7d9c7",
+          "time": "15:34",
+          "category": "Earnings",
+          "title": "Tesla Stock Slips. Here Are Its Earnings, By the Numbers.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2025/card/tesla-stock-slips-here-are-its-earnings-by-the-numbers--0IzfgndO7Nxa6ZHsLIOX?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
           "impact_score": 2
         },
         {
@@ -1222,17 +1257,6 @@
           "impact_score": 2
         },
         {
-          "id": "c49bc8dd9acb",
-          "time": "14:20",
-          "category": "Earnings",
-          "title": "Jim Cramer on Western Alliance Earnings: “Everything Looked Fine There”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-western-alliance-earnings-132042685.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "6962a4fab514",
           "time": "22:28",
           "category": "Crypto",
@@ -1284,6 +1308,50 @@
           "summary": "The proof-of-work layer-1 is designed to make crypto mining accessible to mainstream users, contributor Naveen Jain explained.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345460/how-tari-lets-you-mine-crypto-in-less-than-a-minute",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9c7066bee559",
+          "time": "15:36",
+          "category": "Markets",
+          "title": "Gold Price Rebounds After Sharp Selloff. J.P. Morgan Says It Can Hit $6,000.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/gold-price-rebounds-today-bc6e61a8?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3c215bae220b",
+          "time": "15:32",
+          "category": "Markets",
+          "title": "Tesla’s Q3 Wasn’t Bad — But Is Now the Time to Buy TSLA Stock?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/tesla-q3-wasn-t-bad-143221927.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e1bd61f300a3",
+          "time": "15:29",
+          "category": "Markets",
+          "title": "Europe takes aim at Musk's Starlink with new satellite champion",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/europe-takes-aim-musks-starlink-142944454.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9f715a730a47",
+          "time": "15:23",
+          "category": "Markets",
+          "title": "Elon Musk defends $1 trillion pay package: ‘I just don’t feel comfortable building a robot army here and then being ousted’",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/elon-musk-defends-1-trillion-142303767.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1387,17 +1455,6 @@
           "impact_score": 1
         },
         {
-          "id": "d3b0dc77d1b1",
-          "time": "15:07",
-          "category": "Markets",
-          "title": "Why Buffett Derides Gold But Likes Silver",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-buffett-derides-gold-likes-140700929.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "9bf7c3285d5e",
           "time": "15:05",
           "category": "Markets",
@@ -1431,24 +1488,13 @@
           "impact_score": 1
         },
         {
-          "id": "8d0f6b0eb2e5",
-          "time": "15:03",
-          "category": "Markets",
-          "title": "Apollo considers sale of Hispanic grocer Heritage Grocers Group",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/apollo-considers-sale-hispanic-grocer-140353392.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4b3e1e8307d0",
+          "id": "8b599a82a861",
           "time": "15:01",
           "category": "Markets",
           "title": "WPP cuts out the agency to help brands create their own ads with AI",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/wpp-cuts-agency-help-brands-140122700.html",
+          "url": "https://finance.yahoo.com/news/wpp-cuts-agency-help-brands-140122403.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1548,39 +1594,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/analyst-meme-stocks-133457416.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0812c6f6122c",
-          "time": "14:26",
-          "category": "Earnings",
-          "title": "Super Micro cuts first-quarter revenue forecast on delivery delays",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/super-micro-cuts-first-quarter-132642008.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c3de33a4a382",
-          "time": "14:25",
-          "category": "Markets",
-          "title": "Today Is the Best Day to Buy Stocks. History Proves It.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/today-best-day-to-buy-stocks-history-90ad229a?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b47611ece702",
-          "time": "14:20",
-          "category": "Markets",
-          "title": "Jim Cramer on Coca-Cola: “CEO James Quincey Showed Remarkable Execution”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-coca-cola-ceo-132038848.html",
           "tags": [],
           "impact_score": 1
         },
