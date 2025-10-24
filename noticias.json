@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T04:14+01:00",
+  "generated_at": "2025-10-24T04:56+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -42,6 +42,19 @@
           "url": "https://cointelegraph.com/news/custodia-vantage-launch-platform-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "0f7ddfa21add",
+          "time": "04:45",
+          "category": "Crypto",
+          "title": "Bulls dominate as Bitcoin options open interest soars to $63B",
+          "summary": "Bitcoin options open interest reached a record $63 billion, with bullish strike prices at $120,000 to $140,000 dominating.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/bitcoin-options-open-interest-hits-63b-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
         },
         {
           "id": "10073657fc10",
@@ -252,17 +265,6 @@
           "summary": "Even as its shares plunge, Solana Company says market volatility is a chance to prove conviction in its Solana-based treasury model.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345583/solana-company-staking-push-institutional-validators-shares-tumble",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "8749cf881795",
-          "time": "12:01",
-          "category": "Crypto",
-          "title": "Revolut secures MiCA license in Cyprus to launch Europe-wide crypto services",
-          "summary": "Revolut also revealed its Crypto 2.0 platform, which will feature over 280 tokens, zero-fee staking up to 22% APY and 1:1 stablecoin-to-US dollar conversion.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/revolut-secures-mica-license-in-cyprus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
         },
@@ -1040,24 +1042,13 @@
           "impact_score": 3
         },
         {
-          "id": "a74eb442230c",
-          "time": "16:25",
-          "category": "Markets",
-          "title": "Gold extends Tuesday's tumble; stocks mostly lower as Netflix falls",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/gold-extends-tuesdays-tumble-stocks-152554501.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "abcac3d2f775",
-          "time": "16:21",
+          "id": "023e269ad136",
+          "time": "16:46",
           "category": "US Macro",
-          "title": "The Nasdaq Is Dropping. Small-Cap, Momentum, and Risk ETFs Are Getting Slammed.",
+          "title": "Next Fed Meeting: When It Is In October And What To Expect",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102225/card/the-nasdaq-is-dropping-small-cap-momentum-and-risk-etfs-are-getting-slammed--xiCafMzkAxjaWtV5O4fm?siteid=yhoof2&yptr=yahoo",
+          "url": "https://finance.yahoo.com/news/next-fed-meeting-october-expect-154601509.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1069,28 +1060,6 @@
           "summary": "Crypto chop continues, tariff headlines dominate. ZEC breaks $300 before falling, leads altcoins. Waller signs Fed’s shift towards embracing crypto. ETH Foundation moves $654m ETH. BlackRock trying to pull in BTC whales to its ETFs. HK approves first SOL ETF. SOL ends support for",
           "source": "Decrypt",
           "url": "https://decrypt.co/videos/interviews/2VMsivBC/crypto-chop-continues-gold-drops-draftkings-buys-prediction-market",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "a3a52759f0da",
-          "time": "16:06",
-          "category": "Earnings",
-          "title": "Netflix Tumbles After Q3 Earnings Miss. Is This Your Chance to Buy?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/netflix-tumbles-q3-earnings-miss-150656639.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "75d62c9e36f1",
-          "time": "16:01",
-          "category": "Crypto",
-          "title": "Hong Kong Greenlights First Solana ETF, SOL Trading Volume Soars 40%",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hong-kong-greenlights-first-solana-150103759.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1162,6 +1131,61 @@
         },
         {
           "id": "1d6daef5b3f9",
+          "time": "17:54",
+          "category": "Earnings",
+          "title": "Amazon Pre-Earnings Trade Strategy Offers A Quick Return Or Discounted Stock Ownership",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/research/options/amazon-pre-earnings-trade-strategy-offers-a-quick-return-or-discounted-stock-ownership/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "217b3f5aedbd",
+          "time": "17:45",
+          "category": "Earnings",
+          "title": "Fair Isaac's Quarterly Earnings Preview: What You Need to Know",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fair-isaacs-quarterly-earnings-preview-164515995.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "17:34",
+          "category": "Earnings",
+          "title": "Will This Drug Stock Explode After Earnings As It Did Last Quarter?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/research/drug-stock-ani-pharmaceuticals-anip-pharmaceuticals/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "7ca3d341dce6",
+          "time": "17:25",
+          "category": "Markets",
+          "title": "Gold prices have tumbled from recent records. What's behind the losses?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/gold-prices-tumbled-recent-records-162520671.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "e7d508d44b55",
+          "time": "17:14",
+          "category": "Markets",
+          "title": "From Beyond Meat to Krispy Kreme, meme stocks surge as investors pile back into speculative trades",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/from-beyond-meat-to-krispy-kreme-meme-stocks-surge-as-investors-pile-back-into-speculative-trades-161416350.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "1d6daef5b3f9",
           "time": "16:56",
           "category": "Earnings",
           "title": "Barclays Flashes Buy Signal After Q3 Earnings, Despite Hit From This U.S. Lender",
@@ -1183,126 +1207,38 @@
           "impact_score": 2
         },
         {
-          "id": "dcb784c7ea97",
-          "time": "16:42",
+          "id": "5bc6b5b42ad8",
+          "time": "16:49",
           "category": "Earnings",
-          "title": "Intuitive Surgical Stock Jumps on Earnings. Its Newest Surgical Robot Is Going Gangbusters.",
+          "title": "Tesla Is Set To Report Earnings Today. Here's What You Need To Know.",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/intuitive-surgical-earnings-stock-price-81b809c7?siteid=yhoof2&yptr=yahoo",
+          "url": "https://finance.yahoo.com/news/tesla-set-report-earnings-today-154950413.html",
           "tags": [],
           "impact_score": 2
         },
         {
-          "id": "c1dbfa03f2a3",
-          "time": "16:33",
-          "category": "Markets",
-          "title": "Belgium mulls energy limits for power-hungry data centres as AI demand surges",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/belgium-mulls-energy-limits-power-153310611.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "b66e3be197ce",
-          "time": "16:28",
-          "category": "Earnings",
-          "title": "Tesla Earnings Today: What to Watch",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-tesla-earnings-10-22-2025/card/tesla-earnings-today-what-to-watch-lIyBwq4pxhTqFVEENuf7?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "16:14",
-          "category": "Earnings",
-          "title": "Capital One Stock Slashes Gains After Earnings Beat Teased Buy Point",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/capital-one-stock-earnings-q3-2025/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "6e09f4552f88",
-          "time": "16:12",
-          "category": "Earnings",
-          "title": "Trading, Dealmaking Lift Stifel Earnings. The Stock Is Rallying.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/advisor/articles/stifel-financial-stock-price-earnings-907babd5?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "9ecde0577568",
-          "time": "16:05",
-          "category": "Markets",
-          "title": "Is Beyond Meat the Next Meme Stock? What’s Behind the Rally.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/beyond-meat-meme-stock-price-0961d3c6?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "6ec352f51362",
-          "time": "16:03",
-          "category": "Earnings",
-          "title": "Freight locomotive sales power Wabtec earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/freight-locomotive-sales-power-wabtec-150346442.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "7599196dd06b",
-          "time": "16:03",
-          "category": "Earnings",
-          "title": "Which Auto Makers Could Follow GM’s Rally? A Look at the Charts Ahead of Tesla Earnings.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/auto-makers-rally-charts-tesla-earnings-stellantis-738623ea?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "4d65c92c7705",
-          "time": "16:02",
-          "category": "Earnings",
-          "title": "Fox Corporation Earnings Preview: What to Expect",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/fox-corporation-earnings-preview-expect-150239038.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "8e2bc36d1b2f",
-          "time": "16:01",
-          "category": "Earnings",
-          "title": "Hilton Stock Jumps as Luxury Brands Boost Earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hilton-stock-jumps-luxury-brands-150141822.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "6577cc925c46",
-          "time": "15:59",
+          "id": "ddbd00f1f8b8",
+          "time": "16:46",
           "category": "Crypto",
-          "title": "Bitcoin Primed for Dip to $100K Before 'Uptober' Resumes, Says Standard Chartered",
+          "title": "Lubian Mining Pool Moves $1.83B Bitcoin Again – Massive Dump Coming?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bitcoin-primed-100k-uptober-resumes-145913745.html",
+          "url": "https://finance.yahoo.com/news/lubian-mining-pool-moves-1-154632359.html",
           "tags": [
             "BTC"
           ],
+          "impact_score": 2
+        },
+        {
+          "id": "7c800b8287f1",
+          "time": "16:46",
+          "category": "Earnings",
+          "title": "KKR Real Estate (KREF) Earnings Call Transcript",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/kkr-real-estate-kref-earnings-154600455.html",
+          "tags": [],
           "impact_score": 2
         },
         {
@@ -1337,6 +1273,116 @@
           "summary": "Senate Democrats and Republicans remain far apart on timeline and other key issues after flashy meetings with crypto leaders on Wednesday.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345503/big-gaps-remain-crypto-execs-meet-senators-market-structure-bill",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "009b9bcf5fd6",
+          "time": "18:04",
+          "category": "Markets",
+          "title": "Gucci-Owner Kering’s Sales Continue to Fall as New Boss Strives to Turn Things Around",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/retail/gucci-owner-kerings-sales-continue-to-fall-as-new-boss-strives-to-turn-things-around-96e4d32c?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "18:02",
+          "category": "Markets",
+          "title": "AWS Outage: Why Amazon Stock Didn't Take A Hit From Cloud Crash",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/amazon-stock-aws-outage-amzn-news/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c4e1a7ce10ea",
+          "time": "17:58",
+          "category": "Markets",
+          "title": "Factoring companies squeezed by slowing shipper payments: Alsobrooks",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/factoring-companies-squeezed-slowing-shipper-165834291.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4b360ca9f9db",
+          "time": "17:55",
+          "category": "Markets",
+          "title": "Joe Duran’s Rise Growth Partners Takes Stake in $4 Billion St. Louis Advisory Firm",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/advisor/articles/joe-duran-rise-growth-partners-krilogy-minority-stake-4e5f5267?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9a55c96915b4",
+          "time": "17:50",
+          "category": "Markets",
+          "title": "HSG, Jane Street among investors in Kraken's September fundraising, sources say",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/hsg-jane-street-among-investors-165038658.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f0d20c5e21fe",
+          "time": "17:45",
+          "category": "Markets",
+          "title": "2026 FreightTech 25 winners revealed onstage at F3",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/2026-freighttech-25-winners-revealed-164500364.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "adbdb6c1d7d0",
+          "time": "17:44",
+          "category": "Markets",
+          "title": "Sugar Prices Under Pressure as Global Supplies Increase",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/sugar-prices-under-pressure-global-164417442.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "17:40",
+          "category": "Markets",
+          "title": "Google Stock Climbs Amid Anthropic Cloud Talks, Quantum Advances",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/google-stock-anthropic-quantum-computing/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "97dc5928b220",
+          "time": "17:38",
+          "category": "Markets",
+          "title": "Oil Stocks Look Shaky In Selloff. These Are 2 Potential Buys.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/oil-stocks-supply-glut-opec-exxon-chevron-7fede48b?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "31bad0bf1eab",
+          "time": "17:23",
+          "category": "Markets",
+          "title": "As CleanSpark Moves Into AI, Should You Buy CLSK Stock?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/cleanspark-moves-ai-buy-clsk-162358863.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1418,6 +1464,17 @@
           "impact_score": 1
         },
         {
+          "id": "a316594caf0b",
+          "time": "16:55",
+          "category": "Earnings",
+          "title": "Kraken Reports $648M Revenue for Q3, Up 50% From Last Quarter",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/kraken-reports-648m-revenue-q3-155510671.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "ef29952bbe1a",
           "time": "16:53",
           "category": "Markets",
@@ -1425,6 +1482,28 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/dear-chipotle-stock-fans-mark-155341196.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2c75c095e3d0",
+          "time": "16:52",
+          "category": "Markets",
+          "title": "Can Travis Kelce Save Six Flags?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/travis-kelce-save-six-flags-155200691.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2cab96b65d3f",
+          "time": "16:49",
+          "category": "Markets",
+          "title": "Kering Doubles Down on Cost Cuts Despite Glimmers of Hope in Q3",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/kering-ceo-luca-meo-keeps-154900656.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1440,6 +1519,17 @@
           "impact_score": 1
         },
         {
+          "id": "570c16c31d20",
+          "time": "16:46",
+          "category": "Crypto",
+          "title": "UK Regulator Sues Crypto Exchange HTX for Unlawful Promotion of Digital Assets",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/uk-regulator-sues-crypto-exchange-154643834.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "3bb0695109ec",
           "time": "16:45",
           "category": "Markets",
@@ -1451,123 +1541,24 @@
           "impact_score": 1
         },
         {
-          "id": "4cb8c38893e5",
-          "time": "16:35",
-          "category": "Earnings",
-          "title": "Here’s What Wall Street Is Saying About Tesla’s Third Quarter",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/livecoverage/tesla-earnings-stock-price-elon-musk-news/card/here-s-what-wall-street-is-saying-about-tesla-s-third-quarter-4A8XorjVzIt8WYX5NVNE?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "16:33",
+          "id": "63abb757f377",
+          "time": "16:45",
           "category": "Markets",
-          "title": "S&P 500 Stock GE Vernova Reverses Lower Despite 'Accelerating Growth Trajectory'",
+          "title": "Alphabet's Google, Anthropic Mulling Multibillion-Dollar Cloud Deal, Report Says",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/sp-500-ge-vernova-third-quarter-earnings-stock-market/?src=A00220&yptr=yahoo",
+          "url": "https://finance.yahoo.com/news/alphabets-google-anthropic-mulling-multibillion-154512750.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "124465f7192b",
-          "time": "16:32",
+          "id": "b38bdc53435f",
+          "time": "16:31",
           "category": "Markets",
-          "title": "Beyond Meat shares briefly sizzle on Walmart deal and meme stock interest",
+          "title": "7 costly first-time home buyer mistakes — and how to avoid them",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/beyond-meat-shares-sizzle-walmart-153228209.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "35b68bbc5c23",
-          "time": "16:20",
-          "category": "Markets",
-          "title": "Stocks Slide on Weakness in Chipmakers",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stocks-slide-weakness-chipmakers-152055359.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "53eea0702ab1",
-          "time": "16:18",
-          "category": "Markets",
-          "title": "U.S. Crude Oil Stockpiles Post Unexpected Decline",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-unexpected-decline-7d8394d6?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "30fc6b272cf8",
-          "time": "16:14",
-          "category": "Markets",
-          "title": "Beyond Meat and Gold Are Wall Street’s Odd Couple. It Must Be FOMO.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/beyond-meat-gold-stocks-fomo-rally-be74d3a2?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "dd47aa0aec81",
-          "time": "16:07",
-          "category": "Markets",
-          "title": "Suze Orman: 5 Key Signs You’ve Made a Smart Investment",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/suze-orman-5-key-signs-150708057.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "9ecabf31254c",
-          "time": "16:07",
-          "category": "Markets",
-          "title": "Cathie Wood sells $8 million of popular tech stock",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cathie-wood-sells-8-million-150700435.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "60957e6d16e9",
-          "time": "16:00",
-          "category": "Markets",
-          "title": "As Crude Oil Prices Fall, Make This 1 Unexpected Trade ASAP",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/crude-oil-prices-fall-1-150021795.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "08625fddd552",
-          "time": "16:00",
-          "category": "Crypto",
-          "title": "Andreessen Horowitz Says Crypto Has Entered a ‘New Era’ of Real Utility",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/andreessen-horowitz-says-crypto-entered-150000837.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "7a699c2be55c",
-          "time": "15:58",
-          "category": "Markets",
-          "title": "Is Nigeria’s eNaira Dead? CBN Forms New Task Force for Official Stablecoin",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nigeria-enaira-dead-cbn-forms-145827147.html",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/first-time-home-buyer-mistakes-153128493.html",
           "tags": [],
           "impact_score": 1
         },
