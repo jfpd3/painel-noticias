@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T20:47+01:00",
+  "generated_at": "2025-10-24T20:56+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -634,17 +634,6 @@
           "impact_score": 1
         },
         {
-          "id": "07e96594e7e7",
-          "time": "18:06",
-          "category": "Markets",
-          "title": "Analyst Report: Integer Holdings Corp",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3757_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "29c61e81a3c1",
           "time": "18:06",
           "category": "Markets",
@@ -652,6 +641,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_6199_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "07e96594e7e7",
+          "time": "18:06",
+          "category": "Markets",
+          "title": "Analyst Report: Integer Holdings Corp",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3757_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -965,6 +965,17 @@
           "impact_score": 3
         },
         {
+          "id": "46eeb7b9a1a7",
+          "time": "11:20",
+          "category": "Markets",
+          "title": "Lloyds Banking Group Beats Views Despite Car-Loan Provision Hit",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/finance/banking/lloyds-banking-group-beats-views-despite-car-loan-provision-hit-77a7a2f5?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "78dbcf939f05",
           "time": "11:11",
           "category": "US Macro",
@@ -987,13 +998,24 @@
           "impact_score": 3
         },
         {
-          "id": "2ccf9b415640",
-          "time": "10:30",
-          "category": "Markets",
-          "title": "Is the Vanguard S&P 500 ETF a Buy?",
+          "id": "1c933590c616",
+          "time": "10:59",
+          "category": "Crypto",
+          "title": "Revolut Secures MiCA License in Cyprus, Expanding Regulated Crypto Services Across EU",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/vanguard-p-500-etf-buy-093000928.html",
+          "url": "https://finance.yahoo.com/news/revolut-secures-mica-license-cyprus-095950954.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "da1d7cfc8fa2",
+          "time": "10:46",
+          "category": "Earnings",
+          "title": "Trump Hints At Tariff Cash Giveaway To Americans After Record Revenue Surge",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/trump-hints-tariff-cash-giveaway-094604980.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1105,6 +1127,17 @@
           "impact_score": 2
         },
         {
+          "id": "1b45cbb22e85",
+          "time": "11:17",
+          "category": "Earnings",
+          "title": "Stocks Muted Before the Open With Earnings in Focus",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/stocks-muted-open-earnings-focus-101734741.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "c0b53e49596f",
           "time": "10:33",
           "category": "Earnings",
@@ -1134,72 +1167,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/goldman-sachs-remains-bullish-alphabet-092551709.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "a5c91d756e03",
-          "time": "10:24",
-          "category": "Earnings",
-          "title": "Roche Raises Full-Year Earnings Outlook as U.S. Drug-Pricing Talks Continue",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/health/pharma/roche-raises-full-year-earnings-outlook-a682a191?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "7913bfe3158d",
-          "time": "10:23",
-          "category": "Earnings",
-          "title": "Moderna Earnings Preview: What to Expect",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/moderna-earnings-preview-expect-092319666.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "b662a7c4df11",
-          "time": "10:19",
-          "category": "Earnings",
-          "title": "Earnings Preview: What to Expect From Expedia Group’s Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/earnings-preview-expect-expedia-group-091945997.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "7e067277262e",
-          "time": "10:17",
-          "category": "Markets",
-          "title": "Dollar Rises as Oil Prices Rally, Yen Falls",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102325/card/dollar-rises-as-oil-prices-rally-yen-falls-hAv2Ewrf7j3RY8O9x8k2?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "b29135bf7b8b",
-          "time": "10:17",
-          "category": "Earnings",
-          "title": "Here's What to Expect From Becton, Dickinson & Company’s Next Earnings Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/heres-expect-becton-dickinson-company-091712979.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "518e16a34794",
-          "time": "10:12",
-          "category": "Earnings",
-          "title": "Air Products and Chemicals’ Quarterly Earnings Preview: What You Need to Know",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/air-products-chemicals-quarterly-earnings-091220982.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1292,6 +1259,50 @@
           "impact_score": 1
         },
         {
+          "id": "c27055f31ca1",
+          "time": "11:23",
+          "category": "Markets",
+          "title": "MercadoLibre to sell products of Brazil rival Casas Bahia under new partnership",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/mercadolibre-sell-products-brazil-rival-102344097.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5f9e29c9e758",
+          "time": "11:16",
+          "category": "Earnings",
+          "title": "SAP shares turn negative on new cloud business outlook",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/sap-shares-turn-negative-cloud-101657647.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a70d68a0b8c0",
+          "time": "11:14",
+          "category": "Crypto",
+          "title": "Revolut gets Cyprus crypto licence as it targets more users",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/revolut-gets-cyprus-crypto-licence-101434291.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d6cee74145fc",
+          "time": "11:12",
+          "category": "US Macro",
+          "title": "Europe’s Policy Trap: When Fighting Inflation Risks Breaking the Economy",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/europe-policy-trap-fighting-inflation-101215511.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "243fea7b98db",
           "time": "11:10",
           "category": "Markets",
@@ -1299,6 +1310,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/why-commonwealth-team-decided-move-101000074.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "39e381f8bf94",
+          "time": "11:05",
+          "category": "Markets",
+          "title": "What Are the 2 Top Artificial Intelligence (AI) Stocks to Buy Right Now?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/2-top-artificial-intelligence-ai-100500957.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1325,6 +1347,50 @@
           "impact_score": 1
         },
         {
+          "id": "8c0ce95c84a4",
+          "time": "11:00",
+          "category": "Markets",
+          "title": "Should You Buy IonQ Stock Before Nov. 5?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/buy-ionq-stock-nov-5-100012191.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6f37d88f6435",
+          "time": "11:00",
+          "category": "Markets",
+          "title": "5 Key Signs Dave Ramsey’s Money Advice Isn’t for You",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/5-signs-dave-ramsey-money-210009685.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d39c3007e44e",
+          "time": "11:00",
+          "category": "Markets",
+          "title": "Is AT&T Stock a Buy?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/t-stock-buy-100000617.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7e846af934ea",
+          "time": "11:00",
+          "category": "Markets",
+          "title": "CoreWeave's Next Act: Where the Growth Will Come From",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/coreweaves-next-act-where-growth-100000355.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "17a435c73993",
           "time": "10:53",
           "category": "Earnings",
@@ -1336,57 +1402,24 @@
           "impact_score": 1
         },
         {
-          "id": "2d4fbe60e0c2",
-          "time": "10:43",
+          "id": "0c0a5a9d129b",
+          "time": "10:48",
           "category": "Markets",
-          "title": "Chubb reports 20.5% YoY increase in net income in Q3 2025",
+          "title": "India’s PNB sells 10% stake in Canara HSBC Life Insurance",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/chubb-reports-20-5-yoy-094332011.html",
+          "url": "https://finance.yahoo.com/news/india-pnb-sells-10-stake-094846876.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "98b0fe7b08b1",
-          "time": "10:42",
+          "id": "6caf848f7f8e",
+          "time": "10:48",
           "category": "Markets",
-          "title": "Is UPS Stock a Buy Before Oct. 28?",
+          "title": "NCR Voyix to power international expansion of Marco’s Pizza",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ups-stock-buy-oct-28-094200838.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "2016725e30b1",
-          "time": "10:41",
-          "category": "Markets",
-          "title": "Morrisons to roll out electronic shelf labels with VusionGroup",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/morrisons-roll-electronic-shelf-labels-094131907.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "46cd9317d1fb",
-          "time": "10:32",
-          "category": "Markets",
-          "title": "MJH Life Sciences announces acquisition of BPD Healthcare",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/mjh-life-sciences-announces-acquisition-093206848.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5d9ed8576b9d",
-          "time": "10:30",
-          "category": "Markets",
-          "title": "Nexperia seizure: Chinese investors grill companies with European units after Dutch move",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nexperia-seizure-chinese-investors-grill-093000366.html",
+          "url": "https://finance.yahoo.com/news/ncr-voyix-power-international-expansion-094800352.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1402,13 +1435,13 @@
           "impact_score": 1
         },
         {
-          "id": "8d49d034524e",
+          "id": "5d9ed8576b9d",
           "time": "10:30",
           "category": "Markets",
-          "title": "Popular Leveraged Funds Shock Investors With Huge Losses",
+          "title": "Nexperia seizure: Chinese investors grill companies with European units after Dutch move",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/investing/popular-leveraged-funds-shock-investors-with-huge-losses-5714f1ac?siteid=yhoof2&yptr=yahoo",
+          "url": "https://finance.yahoo.com/news/nexperia-seizure-chinese-investors-grill-093000366.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1435,24 +1468,13 @@
           "impact_score": 1
         },
         {
-          "id": "2fc87ce3dd5b",
+          "id": "8d49d034524e",
           "time": "10:30",
           "category": "Markets",
-          "title": "Better Artificial Intelligence (AI) Stock: Palantir vs. Nvidia",
+          "title": "Popular Leveraged Funds Shock Investors With Huge Losses",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/better-artificial-intelligence-ai-stock-093000265.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "9daa9d3dcae3",
-          "time": "10:29",
-          "category": "Markets",
-          "title": "Argentina Lithium announces first MRE for Rincon West project",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/argentina-lithium-announces-first-mre-092908875.html",
+          "url": "https://www.wsj.com/finance/investing/popular-leveraged-funds-shock-investors-with-huge-losses-5714f1ac?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -1534,17 +1556,6 @@
           "impact_score": 1
         },
         {
-          "id": "8a777db38946",
-          "time": "10:25",
-          "category": "Markets",
-          "title": "Wells Fargo Raises Its Price Target on Apple (AAPL) to $290, Maintains “Overweight” Rating",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/wells-fargo-raises-price-target-092546451.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "73a2893bff40",
           "time": "10:25",
           "category": "Earnings",
@@ -1574,17 +1585,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/ubs-remains-confident-berkshire-hathaway-092541035.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3b553d226225",
-          "time": "10:23",
-          "category": "Markets",
-          "title": "1 Glorious Growth Stock Down 78% to Buy Hand Over Fist Before 2026",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/1-glorious-growth-stock-down-092300169.html",
           "tags": [],
           "impact_score": 1
         },
