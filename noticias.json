@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-24T12:47+01:00",
+  "generated_at": "2025-10-24T12:58+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-24",
       "attention_points": [
+        "Thai regulators raid World iris scanning site in latest headache for Sam Altman",
         "JPMorgan to Let Clients Use Bitcoin and Ether as Collateral for Loans: Report",
-        "Binance founder CZ’s presidential pardon is not an acquittal",
-        "AI Miners Surge Pre-Market on Record $38B Oracle Data Center Deal Boosts Sector"
+        "Binance founder CZ’s presidential pardon is not an acquittal"
       ],
       "items": [
+        {
+          "id": "61466cefb518",
+          "time": "12:46",
+          "category": "Regulation",
+          "title": "Thai regulators raid World iris scanning site in latest headache for Sam Altman",
+          "summary": "Thailand’s SEC raids World’s iris scanning site over unlicensed WLD token operations, raising legal concerns for Sam Altman’s digital identity project.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/thai-regulators-raid-world-iris-scanning-site-in-latest-headache-for-sam-altman?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "6f661c49b3cd",
           "time": "12:29",
@@ -384,10 +395,32 @@
           "id": "def5bb80ab34",
           "time": "12:07",
           "category": "Crypto",
-          "title": "Dogecoin price chart projects 25% gains, but this must happen first",
-          "summary": "Dogecoin must break above the $0.22 resistance level to signal a reduction in selling pressure, potentially sending the DOGE price beyond $0.25.",
+          "title": "Dogecoin price chart projects 25% gains, but first, this must happen",
+          "summary": "Dogecoin must break above the $0.20 resistance level to signal a reduction in selling pressure, potentially sending the DOGE price beyond $0.25.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/dogecoin-price-chart-projects-25-gains-but-this-must-happen-first?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0d54444f7eb4",
+          "time": "11:54",
+          "category": "Markets",
+          "title": "Technical Assessment: Bullish in the Intermediate-Term",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_45113_TechnicalAnalysis_1761303279000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "94ff98f93da9",
+          "time": "11:54",
+          "category": "Markets",
+          "title": "Market Digest: CMA, MAT, NOK, SAP, AAL",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_45111_MarketSummary_1761303251000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -410,6 +443,28 @@
           "summary": "A single anonymous trader saw the crash coming and capitalized on it, earning $192 million in just a few hours.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/explained/how-an-anonymous-trader-made-192m-shorting-one-of-the-biggest-crypto-crashes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5ebac5daf175",
+          "time": "11:23",
+          "category": "Markets",
+          "title": "Daily – Vickers Top Insider Picks for 10/24/2025",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_45109_InsiderActivity_1761301405000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1445981e2292",
+          "time": "11:23",
+          "category": "Markets",
+          "title": "Daily – Vickers Top Buyers & Sellers for 10/24/2025",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_45110_TopBottomInsiderActivity_1761301405000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -889,17 +944,6 @@
           "impact_score": 1
         },
         {
-          "id": "89c7e2c2c7e6",
-          "time": "20:33",
-          "category": "Crypto",
-          "title": "Fireblocks acquires Dynamic to expand enterprise wallet infrastructure",
-          "summary": "The acquisition completes Fireblocks' tech stack, the company said on Thursday, allowing it to offer more institutional-grade services to clients.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/fireblocks-acquires-dynamic-wallet-institution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "a06484d1a949",
           "time": "20:23",
           "category": "Crypto",
@@ -1076,6 +1120,17 @@
           "impact_score": 1
         },
         {
+          "id": "48fe79b427c3",
+          "time": "03:35",
+          "category": "Earnings",
+          "title": "Elevance Health (ELV) Announces Fiscal Q3 2025 Results",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/elevance-health-elv-announces-fiscal-023542944.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "95217c5c5968",
           "time": "03:35",
           "category": "Markets",
@@ -1116,6 +1171,28 @@
           "summary": "In a medical first, Stanford scientists have restored functional vision to patients with advanced macular degeneration using a wireless implant that turns light into sight—allowing the blind to read, recognize faces, and see the world again.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345564/stanfords-wireless-eye-chip-helps-the-blind-read-again",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "74b7a792a7d2",
+          "time": "01:19",
+          "category": "Markets",
+          "title": "3 Reasons to Buy Boeing Stock and 1 to Avoid It Before Oct. 29",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/3-reasons-buy-boeing-stock-001900328.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b7eed7c84dda",
+          "time": "01:18",
+          "category": "Markets",
+          "title": "Sky-high stock valuations are increasing the risk of 'disorderly corrections' that could rattle the economy, IMF warns",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/sky-high-stock-valuations-increasing-001836854.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1424,39 +1501,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/why-healthcare-services-group-stock-235300658.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5fec8c558254",
-          "time": "00:45",
-          "category": "Earnings",
-          "title": "Motley Fool Co-Founder Tom Gardner: The Quarterly Call",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/motley-fool-co-founder-tom-234500127.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "64f3d5a5da3d",
-          "time": "00:43",
-          "category": "Markets",
-          "title": "The Smartest Retail Stock to Buy With $1,000 Right Now",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/smartest-retail-stock-buy-1-234300034.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f95b41c08cfd",
-          "time": "00:43",
-          "category": "Earnings",
-          "title": "Southwest’s Revenue Is Growing. Stronger Travel Demand and Bag Fees Are Helping.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/earnings/southwest-airlines-aims-for-highest-fourth-quarter-revenue-on-record-1894ef15?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         }
