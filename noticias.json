@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T11:49+01:00",
+  "generated_at": "2025-10-24T11:59+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -751,6 +751,19 @@
           "impact_score": 2
         },
         {
+          "id": "e4b549c5c0bf",
+          "time": "00:31",
+          "category": "Crypto",
+          "title": "Jim Cramer Calls Crypto 'Due For A Push', But Bitcoin's Price Means There's A Catch",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-calls-crypto-due-233134843.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "37af365ac49b",
           "time": "00:30",
           "category": "Markets",
@@ -1048,6 +1061,39 @@
           "impact_score": 1
         },
         {
+          "id": "25051d81e7d5",
+          "time": "01:02",
+          "category": "Markets",
+          "title": "Pinterest, Inc. (PINS): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/pinterest-inc-pins-bull-case-000235741.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d08e67231833",
+          "time": "01:02",
+          "category": "Markets",
+          "title": "Solaris Energy Infrastructure, Inc. (SEI): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/solaris-energy-infrastructure-inc-sei-000231143.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3cab47270fab",
+          "time": "01:00",
+          "category": "Markets",
+          "title": "Glut Hysteria Clashes with Missing Oil Barrels",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/glut-hysteria-clashes-missing-oil-000000857.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "b48e144eb2ba",
           "time": "00:58",
           "category": "Markets",
@@ -1055,6 +1101,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/salesforce-inc-crm-bull-case-235833474.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2e20e0cedb0c",
+          "time": "00:58",
+          "category": "Markets",
+          "title": "FTAI Aviation Ltd. (FTAI): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ftai-aviation-ltd-ftai-bull-235824752.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1202,6 +1259,28 @@
           "impact_score": 1
         },
         {
+          "id": "624e9a737ef3",
+          "time": "00:20",
+          "category": "Markets",
+          "title": "'Biggest Year Ever' for Depository M&A: Stifel CEO",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/video/biggest-ever-depository-m-stifel-232026362.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "88783b6cbdff",
+          "time": "00:19",
+          "category": "Markets",
+          "title": "Tesla CEO Elon Musk Says The Company's AI Plan Is At An 'Inflection Point'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/tesla-ceo-elon-musk-says-231943526.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "63ca5f5384f8",
           "time": "00:03",
           "category": "Markets",
@@ -1230,7 +1309,7 @@
       "attention_points": [
         "Melania Trump, Javier Milei Used as 'Props' for Meme Coin Fraud, Lawsuit Alleges",
         "Melania Trump, Javier Milei Used as 'Props' for Meme Coin Fraud, Lawsuit Alleges",
-        "Automakers urge Trump not to impose tariffs on factory robots, machinery"
+        "Ex-Crypto Exec Claims DeFi Company Cut Him Out of Lucrative Stablecoin Biz M^0"
       ],
       "items": [
         {
@@ -1252,17 +1331,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/melania-trump-javier-milei-used-225103363.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "e5c6ad67cf54",
-          "time": "23:42",
-          "category": "Markets",
-          "title": "Automakers urge Trump not to impose tariffs on factory robots, machinery",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/automakers-urge-trump-not-impose-224200353.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1380,17 +1448,6 @@
           "impact_score": 2
         },
         {
-          "id": "505d8245cab9",
-          "time": "23:40",
-          "category": "Markets",
-          "title": "Why GoPro Stock Surged by 5% on Wednesday",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-gopro-stock-surged-5-224053368.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "cfdb201d2a71",
           "time": "10:02",
           "category": "Crypto",
@@ -1499,61 +1556,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/usa-rare-earth-usar-tumbles-224810661.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4233f6d01251",
-          "time": "23:47",
-          "category": "Markets",
-          "title": "Coeur Mining (CDE) Gets Battered by Gold Decline",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/coeur-mining-cde-gets-battered-224748512.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "599a98c28597",
-          "time": "23:47",
-          "category": "Markets",
-          "title": "Cleveland-Cliffs (CLF) Nosedives on ‘Sell’ Reco",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cleveland-cliffs-clf-nosedives-sell-224735190.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "2b82f0e9fe95",
-          "time": "23:44",
-          "category": "US Macro",
-          "title": "SUI USD Going To Send Bulls To The Moon? Yes, No, Maybe?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/sui-usd-going-send-bulls-224410156.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5fd5e4d20c27",
-          "time": "23:39",
-          "category": "Markets",
-          "title": "The Motley Fool Interviews DocuSign CEO Allan Thygesen",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/motley-fool-interviews-docusign-ceo-223900033.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "fd62adc0e250",
-          "time": "23:35",
-          "category": "Earnings",
-          "title": "Chagee Keeps Prices High Amid Sales Slump",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/video/chagee-keeps-prices-high-amid-223553857.html",
           "tags": [],
           "impact_score": 1
         },
