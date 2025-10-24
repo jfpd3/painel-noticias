@@ -1,13 +1,13 @@
 {
-  "generated_at": "2025-10-24T16:43+01:00",
+  "generated_at": "2025-10-24T16:56+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-24",
       "attention_points": [
         "Crypto.com Files Application for US Bank Charter",
-        "Bank of America revamps IBM stock price after earnings",
-        "Deckers Stock Slumps as Hoka Maker Warns of Consumer Pullback Because of Tariffs, Higher Prices"
+        "Regional Banks Vow ‘One-Offs’ Truly Were Blips and Not Omens",
+        "Bank of America revamps IBM stock price after earnings"
       ],
       "items": [
         {
@@ -22,6 +22,17 @@
           "impact_score": 3
         },
         {
+          "id": "4dd5cd4bb27b",
+          "time": "16:14",
+          "category": "Markets",
+          "title": "Regional Banks Vow ‘One-Offs’ Truly Were Blips and Not Omens",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/regional-banks-vow-one-offs-120531913.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "40dbb160f3f0",
           "time": "16:07",
           "category": "Earnings",
@@ -29,28 +40,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/bank-america-revamps-ibm-stock-150700746.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "5313ccd6651b",
-          "time": "16:00",
-          "category": "Markets",
-          "title": "Deckers Stock Slumps as Hoka Maker Warns of Consumer Pullback Because of Tariffs, Higher Prices",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/deckers-stock-slumps-hoka-maker-150014393.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "b15a34958e9b",
-          "time": "16:00",
-          "category": "US Macro",
-          "title": "S&P 500 Hits Record High as CPI Locks In Rate Cut: Markets Wrap",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/asia-join-global-equity-rally-231917469.html",
           "tags": [],
           "impact_score": 3
         },
@@ -302,6 +291,32 @@
           "url": "https://www.coindesk.com/markets/2025/10/24/asia-morning-briefing-after-cz-s-pardon-odds-rise-for-sam-bankman-fried-s-second-chance",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "d07911c97cf6",
+          "time": "16:45",
+          "category": "Crypto",
+          "title": "Tether Launches Decentralized AI App, Dataset to Challenge Big Tech Dominance",
+          "summary": "Stablecoin giant Tether launched QVAC Genesis I, the world’s largest open STEM AI dataset, and a privacy-focused local AI app, QVAC Workbench.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345859/tether-decentralized-ai-app-dataset-challenge-big-tech-dominance",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "763048e61a9b",
+          "time": "16:31",
+          "category": "Crypto",
+          "title": "TRUMP PARDONS CZ, BTC BACK OVER $110K, A16Z’s STATE OF CRYPTO 2025",
+          "summary": "Crypto majors are green and rebounding. BTC is up 1% at $110,800, ETH is up 2% at $3,940, BNB is up 2% at $1,120, and SOL is up 1% at $191. MYX (+14%), VIRTUAL (+13%), ZEC (+11%), and WLFI (+11%) led the top movers. Stocks and crypto flipped green yesterday ahead of the October 3",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/videos/interviews/9YKUk9do/trump-pardons-cz-btc-back-over-110k-a16zs-state-of-crypto-2025",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
         },
         {
           "id": "d15e881d2b69",
@@ -713,6 +728,17 @@
           "impact_score": 2
         },
         {
+          "id": "d21b470b7138",
+          "time": "16:33",
+          "category": "Markets",
+          "title": "Procter & Gamble to Focus on Innovation, Not Discounts, to Attract Wary Shoppers",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/procter-gamble-sales-rise-sees-111300056.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "47189c6ad607",
           "time": "16:24",
           "category": "Markets",
@@ -1032,13 +1058,13 @@
           "impact_score": 1
         },
         {
-          "id": "de71d0754dc8",
+          "id": "5774cc65f229",
           "time": "12:09",
           "category": "Markets",
-          "title": "Analyst Report: American Airlines Group Inc",
+          "title": "Analyst Report: SAP SE",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_4643_AnalystReport_1761304151000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3373_AnalystReport_1761304151000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -1054,13 +1080,13 @@
           "impact_score": 1
         },
         {
-          "id": "5774cc65f229",
+          "id": "de71d0754dc8",
           "time": "12:09",
           "category": "Markets",
-          "title": "Analyst Report: SAP SE",
+          "title": "Analyst Report: American Airlines Group Inc",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3373_AnalystReport_1761304151000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_4643_AnalystReport_1761304151000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -1120,13 +1146,13 @@
           "impact_score": 1
         },
         {
-          "id": "1445981e2292",
+          "id": "5ebac5daf175",
           "time": "11:23",
           "category": "Markets",
-          "title": "Daily – Vickers Top Buyers & Sellers for 10/24/2025",
+          "title": "Daily – Vickers Top Insider Picks for 10/24/2025",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_45110_TopBottomInsiderActivity_1761301405000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_45109_InsiderActivity_1761301405000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -1519,17 +1545,6 @@
           "summary": "The platform will restart operations with a phased approach and new BitGo custody partnership following court-sanctioned restructuring.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345632/wazirx-to-resume-trading-and-withdrawals-more-than-a-year-after-234m-hack",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "79c7ab21ff34",
-          "time": "09:58",
-          "category": "Crypto",
-          "title": "Reddit Sues Perplexity AI, Alleging ‘Industrial-Scale’ Data Theft",
-          "summary": "The social platform accused Perplexity and its data partners of unlawfully harvesting user content to train AI systems.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345613/reddit-sues-perplexity-ai-alleging-industrial-scale-data-theft",
           "tags": [],
           "impact_score": 1
         }
