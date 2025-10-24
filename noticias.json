@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T11:59+01:00",
+  "generated_at": "2025-10-24T12:34+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -99,6 +99,20 @@
           "url": "https://cointelegraph.com/news/custodia-vantage-launch-platform-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "137d8f83f81c",
+          "time": "12:09",
+          "category": "Crypto",
+          "title": "JPMorgan to Allow Clients to Pledge Bitcoin and Ether as Collateral: Bloomberg",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/24/jpmorgan-to-allow-clients-to-pledge-bitcoin-and-ether-as-collateral-bloomberg",
+          "tags": [
+            "BTC",
+            "ETH"
+          ],
+          "impact_score": 2
         },
         {
           "id": "db8aeb1e14d6",
@@ -318,6 +332,39 @@
           "url": "https://cointelegraph.com/news/decentralized-perps-1-trillion-volume-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 2
+        },
+        {
+          "id": "7a93cbaab55f",
+          "time": "12:15",
+          "category": "Crypto",
+          "title": "Inflation Report Eyed; Multicoin Proposes Attention Perps: Crypto Daybook Americas",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/daybook-us/2025/10/24/inflation-report-eyed-multicoin-proposes-attention-perps-crypto-daybook-americas",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7bd7d833df91",
+          "time": "12:12",
+          "category": "Crypto",
+          "title": "83 Arrests in ‘Landmark’ Interpol Operation Hitting Crypto Terrorist Financing, Cybercrime in Africa",
+          "summary": "$260 million in fiat and crypto was flagged as part of Operation Catalyst, of which some $600,000 has been seized to date.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345822/interpol-arrests-83-in-landmark-african-operation-hitting-crypto-terrorist-financing-cybercrime",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "def5bb80ab34",
+          "time": "12:07",
+          "category": "Crypto",
+          "title": "Dogecoin price chart projects 25% gains, but this must happen first",
+          "summary": "Dogecoin must break above the $0.22 resistance level to signal a reduction in selling pressure, potentially sending the DOGE price beyond $0.25.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/dogecoin-price-chart-projects-25-gains-but-this-must-happen-first?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "e79df79dd0db",
@@ -852,17 +899,6 @@
           "impact_score": 1
         },
         {
-          "id": "b8af0dc918f4",
-          "time": "19:21",
-          "category": "Crypto",
-          "title": "Aave expands consumer DeFi footprint with Stable Finance acquisition",
-          "summary": "Aave Labs’ latest deal follows a string of institutional initiatives, including its Maple Finance integration and Horizon RWA marketplace.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/aave-labs-acquires-stable-finance-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "f3ab2e4405b1",
           "time": "16:37",
           "category": "Crypto",
@@ -962,28 +998,6 @@
           "impact_score": 1
         },
         {
-          "id": "75c9663992d3",
-          "time": "15:00",
-          "category": "Crypto",
-          "title": "Keyrock: Crypto’s Buyback Boom Tests the Industry’s Financial Maturity",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/23/keyrock-crypto-s-buyback-boom-tests-the-industry-s-financial-maturity",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8aefa9ff0424",
-          "time": "14:16",
-          "category": "Crypto",
-          "title": "Canaan’s Turnaround Gains Steam as Benchmark Doubles Price Target to $4",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/23/canaan-s-turnaround-gains-steam-as-benchmark-doubles-price-target-to-usd4",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "36c4c8bcba40",
           "time": "13:05",
           "category": "Crypto",
@@ -1061,6 +1075,105 @@
           "impact_score": 1
         },
         {
+          "id": "db7da8675b26",
+          "time": "01:10",
+          "category": "Markets",
+          "title": "Warner Bros. Discovery, Inc. (WBD): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/warner-bros-discovery-inc-wbd-001024843.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5f17c1c4edf4",
+          "time": "01:10",
+          "category": "Markets",
+          "title": "Fair Isaac Corporation (FICO): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fair-isaac-corporation-fico-bull-001018937.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c590e740d36b",
+          "time": "01:05",
+          "category": "Earnings",
+          "title": "Knight-Swift logs another tough quarter on road to recovery",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/knight-swift-logs-another-tough-000536152.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "63da79310237",
+          "time": "01:05",
+          "category": "Markets",
+          "title": "Centuri Holdings, Inc. (CTRI): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/centuri-holdings-inc-ctri-bull-000514484.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b6de5455ab33",
+          "time": "01:03",
+          "category": "Markets",
+          "title": "Vermilion Energy Inc. (VET): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/vermilion-energy-inc-vet-bull-000337468.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5f8fd8b36f93",
+          "time": "01:03",
+          "category": "Markets",
+          "title": "CoreWeave, Inc. (CRWV): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/coreweave-inc-crwv-bull-case-000311528.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "dfc6735f9e82",
+          "time": "01:02",
+          "category": "Markets",
+          "title": "Coursera, Inc. (COUR): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/coursera-inc-cour-bull-case-000256990.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0c6f4c2a7eb9",
+          "time": "01:02",
+          "category": "Markets",
+          "title": "LyondellBasell Industries N.V. (LYB): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/lyondellbasell-industries-n-v-lyb-000251931.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d17e6ce7641",
+          "time": "01:02",
+          "category": "Markets",
+          "title": "Laureate Education, Inc. (LAUR): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/laureate-education-inc-laur-bull-000242191.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "25051d81e7d5",
           "time": "01:02",
           "category": "Markets",
@@ -1083,6 +1196,28 @@
           "impact_score": 1
         },
         {
+          "id": "970831be6298",
+          "time": "01:02",
+          "category": "Markets",
+          "title": "Copart, Inc. (CPRT): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/copart-inc-cprt-bull-case-000225333.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "56cae6a46758",
+          "time": "01:02",
+          "category": "Markets",
+          "title": "DexCom, Inc. (DXCM): A Bear Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/dexcom-inc-dxcm-bear-case-000220789.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "3cab47270fab",
           "time": "01:00",
           "category": "Markets",
@@ -1090,6 +1225,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/glut-hysteria-clashes-missing-oil-000000857.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ecc8dace313a",
+          "time": "01:00",
+          "category": "Markets",
+          "title": "What Is One of the Best Retailer Stocks to Buy Right Now?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/one-best-retailer-stocks-buy-000000528.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1116,6 +1262,28 @@
           "impact_score": 1
         },
         {
+          "id": "7d7b562dbbe2",
+          "time": "00:53",
+          "category": "Markets",
+          "title": "Why Healthcare Services Group Stock Triumphed Today",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-healthcare-services-group-stock-235300658.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5fec8c558254",
+          "time": "00:45",
+          "category": "Earnings",
+          "title": "Motley Fool Co-Founder Tom Gardner: The Quarterly Call",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/motley-fool-co-founder-tom-234500127.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "f95b41c08cfd",
           "time": "00:43",
           "category": "Earnings",
@@ -1123,6 +1291,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/business/earnings/southwest-airlines-aims-for-highest-fourth-quarter-revenue-on-record-1894ef15?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "64f3d5a5da3d",
+          "time": "00:43",
+          "category": "Markets",
+          "title": "The Smartest Retail Stock to Buy With $1,000 Right Now",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/smartest-retail-stock-buy-1-234300034.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1279,28 +1458,6 @@
           "url": "https://finance.yahoo.com/news/tesla-ceo-elon-musk-says-231943526.html",
           "tags": [],
           "impact_score": 1
-        },
-        {
-          "id": "63ca5f5384f8",
-          "time": "00:03",
-          "category": "Markets",
-          "title": "Kraken’s Tokenized Equities Platform Surpasses $5 Billion in Trading Volume",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/kraken-tokenized-equities-platform-surpasses-230311926.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "37ff8fade275",
-          "time": "00:01",
-          "category": "Markets",
-          "title": "Critics Warn Trump's $1.6 Trillion Loan Sale Could 'Short-Change Borrowers' — And That's The Real Problem",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/critics-warn-trumps-1-6-230113874.html",
-          "tags": [],
-          "impact_score": 1
         }
       ]
     },
@@ -1308,8 +1465,8 @@
       "date": "2025-10-22",
       "attention_points": [
         "Melania Trump, Javier Milei Used as 'Props' for Meme Coin Fraud, Lawsuit Alleges",
-        "Melania Trump, Javier Milei Used as 'Props' for Meme Coin Fraud, Lawsuit Alleges",
-        "Ex-Crypto Exec Claims DeFi Company Cut Him Out of Lucrative Stablecoin Biz M^0"
+        "6 best bank account features for freelancers",
+        "Crypto chop continues, Gold drops, DraftKings buys prediction market"
       ],
       "items": [
         {
@@ -1321,42 +1478,6 @@
           "source": "Decrypt",
           "url": "https://decrypt.co/345493/melania-trump-javier-milei-props-meme-coin-fraud-lawsuit-alleges",
           "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "38e017be3160",
-          "time": "23:51",
-          "category": "Regulation",
-          "title": "Melania Trump, Javier Milei Used as 'Props' for Meme Coin Fraud, Lawsuit Alleges",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/melania-trump-javier-milei-used-225103363.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "0fe2b8af50ad",
-          "time": "23:28",
-          "category": "Crypto",
-          "title": "Ex-Crypto Exec Claims DeFi Company Cut Him Out of Lucrative Stablecoin Biz M^0",
-          "summary": "Former RWA Company exec Max Glass alleges in a lawsuit that he was wrongfully excluded from a stablecoin venture that turned into M^0, the infra provider behind MetaMask's mUSD.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345490/crypto-exec-lawsuit-stablecoin-biz-m0",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "e314b4bbcb45",
-          "time": "23:19",
-          "category": "Crypto",
-          "title": "T. Rowe Price Files for Mixed Crypto ETF With Bitcoin, Ethereum, and Solana Exposure",
-          "summary": "The asset manager joins a growing list of traditional finance firms that have proposed digital asset-focused funds.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345494/t-rowe-price-files-mixed-crypto-etf-bitcoin-ethereum-solana",
-          "tags": [
-            "BTC",
-            "ETH"
-          ],
           "impact_score": 3
         },
         {
@@ -1426,28 +1547,6 @@
           "impact_score": 3
         },
         {
-          "id": "3e5c0d8684fd",
-          "time": "23:49",
-          "category": "Markets",
-          "title": "Hecla Mining (HL) Falls as Precious Metals Suffer Steepest Drop",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hecla-mining-hl-falls-precious-224945594.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "c1a8f0c61064",
-          "time": "23:48",
-          "category": "Markets",
-          "title": "Fermi (FRMI) Drops to All-Time Low",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/fermi-frmi-drops-time-low-224848207.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "cfdb201d2a71",
           "time": "10:02",
           "category": "Crypto",
@@ -1472,94 +1571,6 @@
           "impact_score": 2
         },
         {
-          "id": "6ccaf10e5401",
-          "time": "23:55",
-          "category": "US Macro",
-          "title": "Chinese Firms Speed up Dollar Selling Amid Optimism Toward Yuan",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/chinese-firms-speed-dollar-selling-225506909.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1da703d7e23a",
-          "time": "23:54",
-          "category": "Markets",
-          "title": "The Conference Call Is Over. Musk's Pay Package Got a Mention.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/livecoverage/tesla-earnings-stock-price-elon-musk-news/card/the-conference-call-is-over-musk-s-pay-package-got-a-mention--mC3xCxScJelKGOh5rx6p?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "da502ab5cd50",
-          "time": "23:50",
-          "category": "Markets",
-          "title": "Harmony Gold (HMY) Loses 11% on Gold Dive",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/harmony-gold-hmy-loses-11-225021364.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "daaae0fac7a5",
-          "time": "23:50",
-          "category": "Markets",
-          "title": "Anglogold (AU) Gets Dragged by Gold Dive",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/anglogold-au-gets-dragged-gold-225004212.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "eb2d84b6fdbb",
-          "time": "23:49",
-          "category": "Markets",
-          "title": "Navitas (NVTS) Loses 12% to Profit-Taking",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/navitas-nvts-loses-12-profit-224926602.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "541cb1aef08e",
-          "time": "23:49",
-          "category": "Markets",
-          "title": "Oklo (OKLO) Dives as Investor Unloads $8.5-Million Stake",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/oklo-oklo-dives-investor-unloads-224909651.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b0e1b7523b4b",
-          "time": "23:49",
-          "category": "Markets",
-          "title": "NuScale (SMR) Extends Losses on ‘Sell’ Reco",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nuscale-smr-extends-losses-sell-224900675.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f501675bf635",
-          "time": "23:48",
-          "category": "Markets",
-          "title": "USA Rare Earth (USAR) Tumbles After Trump Signs Deal with Australia",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/usa-rare-earth-usar-tumbles-224810661.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "f77608a70450",
           "time": "21:36",
           "category": "Markets",
@@ -1567,17 +1578,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/loan-prepayment-penalty-203636394.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b38bdc53435f",
-          "time": "16:31",
-          "category": "Markets",
-          "title": "7 costly first-time home buyer mistakes — and how to avoid them",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/first-time-home-buyer-mistakes-153128493.html",
           "tags": [],
           "impact_score": 1
         },
