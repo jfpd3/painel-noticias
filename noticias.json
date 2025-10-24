@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T08:34+01:00",
+  "generated_at": "2025-10-24T08:47+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -77,6 +77,19 @@
           "url": "https://cointelegraph.com/news/custodia-vantage-launch-platform-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "74b7bfe2af21",
+          "time": "08:40",
+          "category": "Crypto",
+          "title": "Bitcoin, European Stocks Buoyant as Trump-Xi Meeting Confirmed",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/24/bitcoin-buoyant-as-trump-xi-meeting-confirmed",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
         },
         {
           "id": "bc25f5052d25",
@@ -929,17 +942,6 @@
           "impact_score": 1
         },
         {
-          "id": "ae2686c04988",
-          "time": "13:27",
-          "category": "Crypto",
-          "title": "Gold Token Market Swells to $3.9B as CZ Calls It a 'Trust Me Bro' Asset",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/23/gold-token-market-swells-to-usd3-9b-as-cz-calls-it-a-trust-me-bro-asset",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "36c4c8bcba40",
           "time": "13:05",
           "category": "Crypto",
@@ -1063,6 +1065,39 @@
           "impact_score": 3
         },
         {
+          "id": "e9113f71c38b",
+          "time": "21:22",
+          "category": "Markets",
+          "title": "These Stocks Moved the Most Today: Netflix, Tesla, Texas Instruments, AT&T, Intuitive Surgical, Winnebago, GE Vernova, and More",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/stock-movers-ccc86435?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "77abbd6b6a85",
+          "time": "21:10",
+          "category": "Earnings",
+          "title": "Netflix stock falls after Q3 earnings miss estimates, operating profit takes a hit",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/netflix-stock-falls-after-q3-earnings-miss-estimates-operating-profit-takes-a-hit-222330311.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "19ba8ec53157",
+          "time": "20:55",
+          "category": "US Macro",
+          "title": "Fed loses access to key jobs data ahead of FOMC meeting, markets reel",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fed-loses-access-key-jobs-195525524.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "0bd1aa61719b",
           "time": "20:48",
           "category": "US Macro",
@@ -1082,53 +1117,6 @@
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/day-22-government-shutdown-3-194112103.html",
           "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "e859f87a2f7f",
-          "time": "20:37",
-          "category": "Markets",
-          "title": "Wall Street's sleeping on Nvidia, AMD, and Broadcom? A major investment bank says yes",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/wall-streets-sleeping-nvidia-amd-193700312.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "7adc8fda88d9",
-          "time": "20:36",
-          "category": "US Macro",
-          "title": "This Dividend Stock Yields 4% and Is Going Through a Major Shakeup. Should You Buy It Here or Ditch the Drama?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/dividend-stock-yields-4-going-193609917.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "20:35",
-          "category": "Markets",
-          "title": "Netflix Doesn't Rule Out Bidding For Warner Bros.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/technology/netflix-stock-nflx-drops-streamer-flirts-with-warner-bros-wbd/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "42e635079910",
-          "time": "20:27",
-          "category": "Crypto",
-          "title": "Bitcoin, Ethereum ETFs Receive Over $600 Million in New Cash—Are the Bulls Back?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bitcoin-ethereum-etfs-receive-over-192748828.html",
-          "tags": [
-            "BTC",
-            "ETH"
-          ],
           "impact_score": 3
         },
         {
@@ -1187,6 +1175,85 @@
           "impact_score": 3
         },
         {
+          "id": "3244d42c5a8c",
+          "time": "21:21",
+          "category": "Markets",
+          "title": "MP Materials, Other Rare-Earth Stocks Drop. There Are Lots of Reasons.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/mp-materials-stock-usar-rare-earths-trump-china-afad09ed?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "5878e2295e55",
+          "time": "21:18",
+          "category": "Crypto",
+          "title": "Tesla Booked $80M Profit on Bitcoin Holdings in Q3",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/tesla-booked-80m-profit-bitcoin-201839769.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "5a35445246c6",
+          "time": "21:13",
+          "category": "Markets",
+          "title": "After gold’s big plunge, here’s what history shows could happen next",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/gold-big-plunge-history-shows-201300203.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "ee7560863e89",
+          "time": "21:10",
+          "category": "Earnings",
+          "title": "Tesla's record revenue tops forecasts as tax credit expiry drives US EV sales",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/teslas-record-revenue-tops-forecasts-201029670.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "62bd096fbc2a",
+          "time": "21:06",
+          "category": "Markets",
+          "title": "Tesla profit falls short despite record sales, hit by higher costs and fading credits",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/teslas-record-revenue-tops-forecasts-200650832.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "8fa6047f1446",
+          "time": "21:05",
+          "category": "Markets",
+          "title": "Moderna Drops Vaccine for Birth Defects After Trial Failure",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/moderna-stock-vaccine-birth-defects-73b15a9e?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "4f782064e36c",
+          "time": "21:02",
+          "category": "Markets",
+          "title": "Nasdaq Drops on More Tech Fears",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102225/card/nasdaq-drops-on-more-tech-fears-mPzYu9m5chI5eDFoh20o?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "00a1da3330d5",
           "time": "20:58",
           "category": "Earnings",
@@ -1198,13 +1265,13 @@
           "impact_score": 2
         },
         {
-          "id": "615fd289b172",
-          "time": "20:31",
+          "id": "6e590b440f75",
+          "time": "20:52",
           "category": "Markets",
-          "title": "The Beyond Meat Share Count Just Surged 413%. Should You Buy the Run-Up in BYND Stock or Stay Far, Far Away Now?",
+          "title": "Gold Extends Rout in Volatile Pullback From Record Price Surge",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/beyond-meat-share-count-just-193151303.html",
+          "url": "https://finance.yahoo.com/news/gold-silver-stabilize-massive-drops-231228968.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1240,6 +1307,105 @@
           "summary": "Senate Democrats and Republicans remain far apart on timeline and other key issues after flashy meetings with crypto leaders on Wednesday.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345503/big-gaps-remain-crypto-execs-meet-senators-market-structure-bill",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b3cfed99f6f6",
+          "time": "21:23",
+          "category": "Markets",
+          "title": "Badger Meter, Inc. (BMI): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/badger-meter-inc-bmi-bull-202338882.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ae25714538b6",
+          "time": "21:23",
+          "category": "Markets",
+          "title": "Formula One Group (FWONK): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/formula-one-group-fwonk-bull-202319873.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8c1cab362184",
+          "time": "21:12",
+          "category": "Markets",
+          "title": "Why the Stock Market ‘Bubble’ Could Last for Years",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/stock-market-bubble-ai-204353b0?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c2c0aaa9f8c1",
+          "time": "21:11",
+          "category": "Earnings",
+          "title": "IBM's slowing cloud growth eclipses upbeat third-quarter results",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ibm-beats-quarterly-estimates-ai-201157077.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "21:08",
+          "category": "Markets",
+          "title": "Why Alkermes' $2.1 Billion Avadel Buyout Was 'Very Confusing' — At First",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/avadel-pharmaceuticals-alkermes-buyout-sleep-disorders/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "21:07",
+          "category": "Markets",
+          "title": "Boston Scientific Makes A Bullish Move After Sales In One Segment Skyrocket 63%",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/boston-scientific-stock-boston-scientific-earnings-q3-2025/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "21:06",
+          "category": "Markets",
+          "title": "Intuitive Surgical Zooms Higher After Da Vinci Helps Smash Forecasts",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/intuitive-surgical-stock-intuitive-surgical-earnings-q3-2025/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "63a2fc44c37d",
+          "time": "21:01",
+          "category": "Markets",
+          "title": "Tylenol-Maker Kenvue’s Stock Is Down 30% in 2025. Its Fate May Be in the FDA’s Hands.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/tylenol-maker-kenvue-stock-down-200135184.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "21:00",
+          "category": "Markets",
+          "title": "Four Reasons To Watch This 'Breakthrough' Stock — Including 954% Expected Growth",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/gendedx-stock-genomics-leader-gets-fda-breakthough-device-designation/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -1284,6 +1450,28 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/nextnav-inc-nn-bull-case-195316109.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b3372b018649",
+          "time": "20:49",
+          "category": "Markets",
+          "title": "Major Aavenomics Update: Will Buyback Proposal Pump AAVE Price?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/major-aavenomics-buyback-proposal-pump-194952093.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3971ea4257f8",
+          "time": "20:49",
+          "category": "Markets",
+          "title": "GE Vernova Stock Pummeled on Fears Power-Demand Boom Is Cooling",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ge-vernova-ceo-sees-big-120446897.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1405,193 +1593,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/volumes-decline-2025-heineken-forecasts-194011349.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "006b123a4624",
-          "time": "20:36",
-          "category": "Markets",
-          "title": "Tecnoglass Inc. (TGLS): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/tecnoglass-inc-tgls-bull-case-193617830.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "a3147ac512df",
-          "time": "20:36",
-          "category": "Markets",
-          "title": "Reddit Launches Legal Action To Block AI Companies From Scraping Its Data",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/reddit-launches-legal-action-block-193617464.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e51fbbeced59",
-          "time": "20:33",
-          "category": "Markets",
-          "title": "Smart Share Global Limited (EM): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/smart-share-global-limited-em-193352406.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e293e35497ff",
-          "time": "20:33",
-          "category": "Markets",
-          "title": "Prothena Corporation plc (PRTA): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/prothena-corporation-plc-prta-bull-193315194.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b64152560d1a",
-          "time": "20:33",
-          "category": "Markets",
-          "title": "Dollar Turns Lower as US-China Tensions Ramp Up",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/dollar-turns-lower-us-china-193312761.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "fa66158cc54c",
-          "time": "20:33",
-          "category": "Crypto",
-          "title": "Crypto Exchange Kraken Is Taking Staff on Caribbean Island Retreat in January: Sources",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/crypto-exchange-kraken-taking-staff-193310301.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "dd5b25008cf8",
-          "time": "20:33",
-          "category": "Markets",
-          "title": "American Axle & Manufacturing Holdings, Inc. (AXL): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/american-axle-manufacturing-holdings-inc-193305633.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "86da0bf3400c",
-          "time": "20:31",
-          "category": "Markets",
-          "title": "Algoma Steel Group Inc. (ASTL): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/algoma-steel-group-inc-astl-193141781.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5498fcfb85b2",
-          "time": "20:31",
-          "category": "Markets",
-          "title": "ASML Holding N.V. (ASML): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/asml-holding-n-v-asml-193119752.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "036df24fbbf4",
-          "time": "20:31",
-          "category": "Markets",
-          "title": "Achieve Life Sciences, Inc. (ACHV): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/achieve-life-sciences-inc-achv-193118222.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6dba1c085d8d",
-          "time": "20:31",
-          "category": "Markets",
-          "title": "Canadian National Railway Company (CNI): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/canadian-national-railway-company-cni-193111998.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "d7c1eafd905e",
-          "time": "20:31",
-          "category": "Markets",
-          "title": "JD.com, Inc. (JD): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jd-com-inc-jd-bull-193100972.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "720ed8207f83",
-          "time": "20:30",
-          "category": "Markets",
-          "title": "MercadoLibre, Inc. (MELI): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/mercadolibre-inc-meli-bull-case-193050554.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ef538bfc1a0b",
-          "time": "20:30",
-          "category": "Markets",
-          "title": "Shutterstock, Inc. (SSTK): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/shutterstock-inc-sstk-bull-case-193028432.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "9c8c33f474b6",
-          "time": "20:25",
-          "category": "Markets",
-          "title": "AI hype is real, but a Nobel-winning economist warns profits aren't guaranteed",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ai-hype-is-real-but-a-nobel-winning-economist-warns-profits-arent-guaranteed-192514082.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "bcb417e4ee62",
-          "time": "20:24",
-          "category": "Crypto",
-          "title": "UK Crypto Enforcers Drag Liberland Prime Minister Justin Sun Into Court: TRX Price Reacts",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/uk-crypto-enforcers-drag-liberland-192442895.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "20:23",
-          "category": "Markets",
-          "title": "RTX Profits Shot Up This Year Amid Strong Military And Commercial Sales. Composite Rating Hits 97",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/technology/rtx-sees-composite-rating-move-up-to-97/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
