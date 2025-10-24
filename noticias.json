@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T05:55+01:00",
+  "generated_at": "2025-10-24T06:06+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -1156,6 +1156,17 @@
           "impact_score": 2
         },
         {
+          "id": "cf2f217c83e1",
+          "time": "18:01",
+          "category": "Earnings",
+          "title": "Avery Dennison (AVY) Q3 2025 Earnings Transcript",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/avery-dennison-avy-q3-2025-170152147.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "1d6daef5b3f9",
           "time": "17:54",
           "category": "Earnings",
@@ -1198,6 +1209,17 @@
           "summary": "Senate Democrats and Republicans remain far apart on timeline and other key issues after flashy meetings with crypto leaders on Wednesday.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345503/big-gaps-remain-crypto-execs-meet-senators-market-structure-bill",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b3ae283dcbfe",
+          "time": "19:30",
+          "category": "Markets",
+          "title": "Beyond Meat Stock Is Surging on Short Squeeze, Meme Hopes, But This Analyst Warns Shares Could Crash 80% From Here",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/beyond-meat-stock-surging-short-183058723.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1400,6 +1422,17 @@
           "impact_score": 1
         },
         {
+          "id": "7d385c16b2d7",
+          "time": "18:10",
+          "category": "Markets",
+          "title": "Prediction: Moderna Will Soar Over the Next 5 Years. Here's 1 Reason Why.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/prediction-moderna-soar-over-next-171000260.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "218cd5e768e2",
           "time": "18:07",
           "category": "Markets",
@@ -1499,17 +1532,6 @@
           "impact_score": 1
         },
         {
-          "id": "415cd82466ad",
-          "time": "17:55",
-          "category": "Markets",
-          "title": "Credit Markets Are Partying 'Like It's 1999,' Chanos Says",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/video/credit-markets-partying-1999-chanos-165510049.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "4b360ca9f9db",
           "time": "17:55",
           "category": "Markets",
@@ -1517,28 +1539,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/advisor/articles/joe-duran-rise-growth-partners-krilogy-minority-stake-4e5f5267?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6890aef660b2",
-          "time": "17:53",
-          "category": "Markets",
-          "title": "Chanos Warns About 'Lots of Red Flags' at Carvana",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/video/chanos-warns-lots-red-flags-165322063.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "9a55c96915b4",
-          "time": "17:50",
-          "category": "Markets",
-          "title": "HSG, Jane Street among investors in Kraken's September fundraising, sources say",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hsg-jane-street-among-investors-165038658.html",
           "tags": [],
           "impact_score": 1
         },
