@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T08:47+01:00",
+  "generated_at": "2025-10-24T08:58+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -1098,28 +1098,6 @@
           "impact_score": 3
         },
         {
-          "id": "0bd1aa61719b",
-          "time": "20:48",
-          "category": "US Macro",
-          "title": "Treasury Yields Slip as Government Shutdown Extends",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/jgbs-edge-lower-as-investors-eye-new-japanese-finance-ministers-policy-stance-bab345c7?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "64dd66d36884",
-          "time": "20:41",
-          "category": "Regulation",
-          "title": "It's Day 22 of the Government Shutdown. Here Are 3 Sectors and Stocks That Are Struggling",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/day-22-government-shutdown-3-194112103.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "47fb3779d107",
           "time": "16:09",
           "category": "Crypto",
@@ -1173,6 +1151,17 @@
           "url": "https://www.ccn.com/news/crypto/asias-stock-exchanges-crack-down-crypto-dats-blocking-listings/",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "21:25",
+          "category": "Earnings",
+          "title": "Stock Market Today: Dow Drops 300 Points As Tesla Earnings On Deck (Live Coverage)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-netflix-nflx-stock-tesla-earnings-tsla-stock/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
         },
         {
           "id": "3244d42c5a8c",
@@ -1311,6 +1300,127 @@
           "impact_score": 1
         },
         {
+          "id": "d3822a4da091",
+          "time": "21:27",
+          "category": "Markets",
+          "title": "United Parcel Service, Inc. (UPS): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/united-parcel-inc-ups-bull-202747796.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d3de5f09074b",
+          "time": "21:27",
+          "category": "Markets",
+          "title": "Target Corporation (TGT): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/target-corporation-tgt-bull-case-202725751.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "90a2ab625eef",
+          "time": "21:27",
+          "category": "Markets",
+          "title": "NewMarket Corporation (NEU): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/newmarket-corporation-neu-bull-case-202720243.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6d4390e6706b",
+          "time": "21:27",
+          "category": "Markets",
+          "title": "Silvercorp Metals Inc. (SVM): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/silvercorp-metals-inc-svm-bull-202705760.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3637a77f0077",
+          "time": "21:27",
+          "category": "Markets",
+          "title": "GE Vernova Stock Is Falling. Amazing Orders Didn’t Help.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/ge-vernova-earnings-stock-price-9b4c99cf?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d253f6f6df3b",
+          "time": "21:27",
+          "category": "Markets",
+          "title": "IBM Sales Jump as Clients Start Scaling AI",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/earnings/ibm-sales-jump-as-clients-start-scaling-ai-965d07dc?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7855d9c78f77",
+          "time": "21:26",
+          "category": "Markets",
+          "title": "Intuitive Surgical, Inc. (ISRG): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/intuitive-surgical-inc-isrg-bull-202634923.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4c86fb20da8e",
+          "time": "21:26",
+          "category": "Markets",
+          "title": "DoorDash, Inc. (DASH): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/doordash-inc-dash-bull-case-202627332.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b292a42c8182",
+          "time": "21:26",
+          "category": "Markets",
+          "title": "Corebridge Financial, Inc. (CRBG): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/corebridge-financial-inc-crbg-bull-202622061.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "884f3893820a",
+          "time": "21:26",
+          "category": "Markets",
+          "title": "Bath & Body Works, Inc. (BBWI): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bath-body-works-inc-bbwi-202606625.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b22424c52d04",
+          "time": "21:25",
+          "category": "Markets",
+          "title": "Grupo Aeroportuario del Sureste, S. A. B. de C. V. (ASR): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/grupo-aeroportuario-del-sureste-b-202538424.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "b3cfed99f6f6",
           "time": "21:23",
           "category": "Markets",
@@ -1329,6 +1439,28 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/formula-one-group-fwonk-bull-202319873.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "cf56be5a4cd4",
+          "time": "21:23",
+          "category": "Markets",
+          "title": "DigitalOcean Holdings, Inc. (DOCN): A Bear Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/digitalocean-holdings-inc-docn-bear-202308416.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6d156b56d858",
+          "time": "21:23",
+          "category": "Markets",
+          "title": "Freshworks Inc. (FRSH): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/freshworks-inc-frsh-bull-case-202303546.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1472,127 +1604,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/ge-vernova-ceo-sees-big-120446897.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b139cd8c6a56",
-          "time": "20:46",
-          "category": "Markets",
-          "title": "Analyst Explains Why She ‘Really’ Likes This Defensive AI Dividend Stock",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/analyst-explains-why-she-really-194832312.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "52343997fa63",
-          "time": "20:46",
-          "category": "Markets",
-          "title": "Rocket Lab Corporation (RKLB): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/rocket-lab-corporation-rklb-bull-194613728.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "166e484ec5d8",
-          "time": "20:46",
-          "category": "Markets",
-          "title": "Gold Falls Further. What’s Driving This Brutal Selloff.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/gold-price-today-selloff-7305f702?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ea108462fb6e",
-          "time": "20:45",
-          "category": "Markets",
-          "title": "Teva Pharmaceutical Industries Limited (TEVA): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/teva-pharmaceutical-industries-limited-teva-194545966.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6ec8a3ab2f4d",
-          "time": "20:44",
-          "category": "Markets",
-          "title": "Analyst Says He Likes AbbVie (ABBV) Amid ‘Attractive’ Valuation",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/analyst-says-likes-abbvie-abbv-194446416.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5218ee17b630",
-          "time": "20:42",
-          "category": "Markets",
-          "title": "Oil Futures Post Back-to-Back Gains",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102225/card/oil-futures-post-back-to-back-gains-tFDx4erhxUIKj1glOT8F?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b09f56ea8355",
-          "time": "20:42",
-          "category": "Markets",
-          "title": "Is PayPal Holdings (PYPL) The Best Digital Currency Stock to Buy Now?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/paypal-holdings-pypl-best-digital-194221816.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "cc9b7eab69d3",
-          "time": "20:41",
-          "category": "Markets",
-          "title": "How Beyond Meat became the market's latest meme-stock darling",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/beyond-meat-became-markets-latest-194139731.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "aa47e95c5064",
-          "time": "20:40",
-          "category": "Markets",
-          "title": "Alcon Inc. (ALC): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/alcon-inc-alc-bull-case-194051225.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e36c97929cb5",
-          "time": "20:40",
-          "category": "Markets",
-          "title": "Nebius Group N.V. (NBIS): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nebius-group-n-v-nbis-194039051.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5aedbc22b746",
-          "time": "20:40",
-          "category": "Markets",
-          "title": "Volumes to decline 2025, Heineken forecasts",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/volumes-decline-2025-heineken-forecasts-194011349.html",
           "tags": [],
           "impact_score": 1
         },
