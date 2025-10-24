@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T10:03+01:00",
+  "generated_at": "2025-10-24T10:42+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -88,6 +88,19 @@
           "url": "https://cointelegraph.com/news/custodia-vantage-launch-platform-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "9dfba4490bbb",
+          "time": "10:10",
+          "category": "Crypto",
+          "title": "Dormant Bitcoin Whale With $442M Awakens for First Time in 14 Years Amid Quantum Fears",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/24/dormant-bitcoin-whale-with-usd442m-awakens-for-first-time-in-14-years-amid-quantum-fears",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
         },
         {
           "id": "cd567efe3fdf",
@@ -261,6 +274,17 @@
           "url": "https://cointelegraph.com/news/decentralized-perps-1-trillion-volume-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 2
+        },
+        {
+          "id": "74409ea32bb3",
+          "time": "10:25",
+          "category": "Crypto",
+          "title": "Binance founder CZ’s presidential pardon is not an acquittal",
+          "summary": "Binance co-founder Changpeng Zhao's presidential pardon cements criminal conviction without overturning guilt, opening civil liability floodgates while foreclosing appeal options permanently.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/cz-pardon-not-acquittal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "66e8ddc44175",
@@ -464,17 +488,6 @@
           "impact_score": 3
         },
         {
-          "id": "36b7d3394fea",
-          "time": "15:11",
-          "category": "Crypto",
-          "title": "Blockchain.com secures MiCA license, hires Malta insider to head EU expansion",
-          "summary": "Blockchain.com praised Malta’s regulatory clarity while member states still argued over how MiCA should apply across the EU.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/blockchain-com-mica-eu-institutions-malta-mfsa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "674a2bf00cfb",
           "time": "13:31",
           "category": "Crypto",
@@ -642,19 +655,6 @@
           "source": "Decrypt",
           "url": "https://decrypt.co/345650/trezor-unveils-quantum-ready-safe-7-hardware-wallet",
           "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "1a094fb8d371",
-          "time": "14:00",
-          "category": "Crypto",
-          "title": "Digital Asset Treasuries: Bitcoin’s Institutional Test Case",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/opinion/2025/10/22/digital-asset-treasuries-bitcoin-s-institutional-test-case",
-          "tags": [
-            "BTC"
-          ],
           "impact_score": 2
         },
         {
@@ -1063,6 +1063,17 @@
           "impact_score": 3
         },
         {
+          "id": "6a15f0efcd3c",
+          "time": "22:36",
+          "category": "Markets",
+          "title": "Banco de Chile (BCH): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/banco-chile-bch-bull-case-213605220.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "ac89b9afe99b",
           "time": "22:28",
           "category": "Markets",
@@ -1070,17 +1081,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/why-middlefield-banc-stock-crushed-212804659.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "738c339052d9",
-          "time": "22:22",
-          "category": "Markets",
-          "title": "Citigroup CEO Jane Fraser Named Chair, Reuniting Roles at the Bank",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/banking/citigroup-ceo-jane-fraser-named-chair-gets-25-million-stock-award-598d2508?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 3
         },
@@ -1162,19 +1162,6 @@
           "impact_score": 2
         },
         {
-          "id": "93de8022db58",
-          "time": "22:10",
-          "category": "Crypto",
-          "title": "Tesla Made $62 Million on Bitcoin Holdings in Q3, Company Says",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/livecoverage/tesla-earnings-stock-price-elon-musk-news/card/tesla-made-62-million-on-bitcoin-holdings-in-q3-company-says-tANXw8auMEquDizmSqkY?siteid=yhoof2&yptr=yahoo",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "cfdb201d2a71",
           "time": "10:02",
           "category": "Crypto",
@@ -1197,6 +1184,116 @@
           "url": "https://www.ccn.com/news/crypto/kadena-pulls-plug-268m-crypto-project-shutters-market-pain/",
           "tags": [],
           "impact_score": 2
+        },
+        {
+          "id": "8363ae52373c",
+          "time": "22:36",
+          "category": "Markets",
+          "title": "BWX Technologies, Inc. (BWXT): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bwx-technologies-inc-bwxt-bull-213600987.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "35c15a7906ce",
+          "time": "22:35",
+          "category": "Markets",
+          "title": "Caterpillar Inc. (CAT): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/caterpillar-inc-cat-bull-case-213543741.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "484c8c836adf",
+          "time": "22:35",
+          "category": "Markets",
+          "title": "Stride, Inc. (LRN): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/stride-inc-lrn-bull-case-213526920.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "788df939a82c",
+          "time": "22:35",
+          "category": "Markets",
+          "title": "lululemon athletica inc. (LULU): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/lululemon-athletica-inc-lulu-bull-213517019.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d4f71882820e",
+          "time": "22:35",
+          "category": "Markets",
+          "title": "TransDigm Group Incorporated (TDG): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/transdigm-group-incorporated-tdg-bull-213510675.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "fdd4443e2afc",
+          "time": "22:35",
+          "category": "Markets",
+          "title": "Unity Software Inc. (U): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/unity-software-inc-u-bull-213506723.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e7eab20bb068",
+          "time": "22:34",
+          "category": "Crypto",
+          "title": "Crypto Is Finally Growing Up, Says VC Giant Andreessen Horowitz",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/crypto-finally-growing-says-vc-213418360.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "16ad2a341d3a",
+          "time": "22:33",
+          "category": "Crypto",
+          "title": "Coinbase to List Binance’s BNB, Signaling Shift in Crypto Exchange Dynamics",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/coinbase-list-binance-bnb-signaling-213302155.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5878b6bd0024",
+          "time": "22:32",
+          "category": "Markets",
+          "title": "West Fraser Timber Co. Ltd. (WFG): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/west-fraser-timber-co-ltd-213217144.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a6c37194f69b",
+          "time": "22:32",
+          "category": "Markets",
+          "title": "Arista Networks Inc (ANET): A Bull Case Theory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/arista-networks-inc-anet-bull-213209341.html",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "1b1e783571db",
@@ -1250,6 +1347,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/lumentum-holdings-inc-lite-bull-213111657.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "56b17477b17e",
+          "time": "22:31",
+          "category": "Markets",
+          "title": "China's Gold Binge May Eclipse US Dollar, Says Top Economist",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/chinas-gold-binge-may-eclipse-213103014.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1386,200 +1494,35 @@
           "impact_score": 1
         },
         {
-          "id": "6d2140ffbb67",
-          "time": "22:22",
+          "id": "f77608a70450",
+          "time": "21:36",
           "category": "Markets",
-          "title": "NVIDIA Corporation (NVDA): A Bull Case Theory",
+          "title": "Prepayment penalties: The hidden trap in some personal loans",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-bull-case-212244448.html",
+          "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/loan-prepayment-penalty-203636394.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "7a92b0cbd475",
-          "time": "22:22",
+          "id": "b7657c2e9a7c",
+          "time": "16:58",
           "category": "Markets",
-          "title": "QXO, Inc. (QXO): A Bull Case Theory",
+          "title": "American Family auto insurance review 2025: 5 out of 5 stars",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/qxo-inc-qxo-bull-case-212205103.html",
+          "url": "https://finance.yahoo.com/personal-finance/insurance/review/american-family-auto-insurance-review-155839352.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "aff450a00294",
-          "time": "22:22",
+          "id": "b38bdc53435f",
+          "time": "16:31",
           "category": "Markets",
-          "title": "Astera Labs, Inc. (ALAB): A Bull Case Theory",
+          "title": "7 costly first-time home buyer mistakes — and how to avoid them",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/astera-labs-inc-alab-bull-212200927.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "975c844767a0",
-          "time": "22:21",
-          "category": "Markets",
-          "title": "Credo Technology Group Holding Ltd (CRDO): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/credo-technology-group-holding-ltd-212141962.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "92168f19c5d4",
-          "time": "22:21",
-          "category": "Markets",
-          "title": "CrowdStrike Holdings, Inc. (CRWD): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/crowdstrike-holdings-inc-crwd-bull-212134690.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "00a0c1ffce8d",
-          "time": "22:21",
-          "category": "Markets",
-          "title": "H World Group Limited (HTHT): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/h-world-group-limited-htht-212125149.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "10c589a2c0ed",
-          "time": "22:21",
-          "category": "Markets",
-          "title": "MongoDB, Inc. (MDB): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/mongodb-inc-mdb-bull-case-212119008.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "205518396936",
-          "time": "22:20",
-          "category": "Markets",
-          "title": "SAP SE (SAP): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/sap-se-sap-bull-case-212059265.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "7ff029d1afcc",
-          "time": "22:20",
-          "category": "Markets",
-          "title": "Zscaler, Inc. (ZS): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/zscaler-inc-zs-bull-case-212039029.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "88eed64e7326",
-          "time": "22:20",
-          "category": "Markets",
-          "title": "Dave Inc. (DAVE): A Bull Case Theory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/dave-inc-dave-bull-case-212014993.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "eb47cce50df9",
-          "time": "22:17",
-          "category": "Markets",
-          "title": "Clearpool Tops $100M Market Cap Amid Listing on Asian Exchanges",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/clearpool-tops-100m-market-cap-211735947.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "9581032de99c",
-          "time": "22:17",
-          "category": "Markets",
-          "title": "Beyond Meat Goes Meme: Traders Pile Into Struggling Faux Meat Shares",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/stocks/beyond-meat-goes-meme-traders-pile-into-struggling-faux-meat-shares-0d845d68?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "509879ea84c0",
-          "time": "22:16",
-          "category": "Crypto",
-          "title": "How Crypto Exchanges Use AI to Power Next-Gen Trading Tools – Can Traders Really Trust Them?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/crypto-exchanges-ai-power-next-211639421.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1967c04fc7fa",
-          "time": "22:14",
-          "category": "Markets",
-          "title": "ESG Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/esg-roundup-market-talk-c5ed5264?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1f126d0f5bd8",
-          "time": "22:12",
-          "category": "Markets",
-          "title": "Auto & Transport Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-0078ad99?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ab0231ee1e72",
-          "time": "22:11",
-          "category": "Markets",
-          "title": "Beyond Meat Stock Goes On a Wild Ride",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-tesla-earnings-10-22-2025/card/beyond-meat-stock-goes-on-a-wild-ride-QIrRiAHyuXGJHi6gCCXR?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "91a9ef8f4838",
-          "time": "22:09",
-          "category": "Markets",
-          "title": "Energy & Utilities Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/energy-utilities-roundup-market-talk-8a1a09b1?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4d9cca1c1643",
-          "time": "22:06",
-          "category": "Markets",
-          "title": "Basic Materials Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/basic-materials-roundup-market-talk-07156980?siteid=yhoof2&yptr=yahoo",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/first-time-home-buyer-mistakes-153128493.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1758,6 +1701,25 @@
           "url": "https://www.ccn.com/billionaire-tim-draper-leads-3-2m-seed-round-for-ryder-to-replace-seed-phrases-with-tapsafe-recovery/",
           "tags": [],
           "impact_score": 1
+        }
+      ]
+    },
+    {
+      "date": "2025-10-17",
+      "attention_points": [
+        "How the government shutdown impacts the housing market: Loan availability, closing times, and more"
+      ],
+      "items": [
+        {
+          "id": "ce7a30e1db18",
+          "time": "18:36",
+          "category": "Markets",
+          "title": "How the government shutdown impacts the housing market: Loan availability, closing times, and more",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-government-shutdown-impacts-housing-market-173617101.html",
+          "tags": [],
+          "impact_score": 3
         }
       ]
     }
