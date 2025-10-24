@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T23:39+01:00",
+  "generated_at": "2025-10-24T23:50+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -1031,6 +1031,17 @@
           "impact_score": 3
         },
         {
+          "id": "9e30546b93c0",
+          "time": "16:22",
+          "category": "Earnings",
+          "title": "First BanCorp FBP Q3 2025 Earnings Call Transcript",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/first-bancorp-fbp-q3-2025-152257750.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "03a68facdc28",
           "time": "16:11",
           "category": "Crypto",
@@ -1118,6 +1129,28 @@
           "impact_score": 2
         },
         {
+          "id": "e0feee860898",
+          "time": "16:26",
+          "category": "Earnings",
+          "title": "Tesla's Stock Wavers After Earnings. Next Up: A Big Vote on Elon Musk's Pay",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/teslas-stock-sliding-earnings-next-152607444.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "4ebbed78f6fe",
+          "time": "16:21",
+          "category": "Earnings",
+          "title": "Darling (DAR) Q3 2025 Earnings Call Transcript",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/darling-dar-q3-2025-earnings-152140737.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "b2fe795f9502",
           "time": "16:21",
           "category": "Earnings",
@@ -1164,28 +1197,6 @@
           "impact_score": 2
         },
         {
-          "id": "de8c23fc6c55",
-          "time": "16:16",
-          "category": "US Macro",
-          "title": "Winner Of The Record-Breaking $2 Billion Powerball Is Spending Millions Buying Up Scorched LA Area Land—Snapping Up Burnt Lots In The Ashes Of His Hometown",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/winner-record-breaking-2-billion-151606323.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "214473b33599",
-          "time": "16:05",
-          "category": "US Macro",
-          "title": "Why Is Tesla Stock Dropping Today?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-tesla-stock-dropping-today-150549872.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "3d9d79e19ae6",
           "time": "15:05",
           "category": "Crypto",
@@ -1226,6 +1237,39 @@
           "summary": "Beyond Meat is facing its first test since becoming a meme stock sensation, with its stock down more than half since the peak. Can it rebound?",
           "source": "Decrypt",
           "url": "https://decrypt.co/345722/can-beyond-meat-match-gamestop-meme-stock-craze",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6a02fbf82a4d",
+          "time": "16:42",
+          "category": "Markets",
+          "title": "Here’s Upslope Capital Management’s Views on International Money Express (IMXI)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/upslope-capital-management-views-international-154221976.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "96d1a762f92c",
+          "time": "16:40",
+          "category": "Earnings",
+          "title": "Honeywell lifts 2025 profit outlook despite Solstice spinoff, shares rise",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/honeywell-lifts-2025-profit-outlook-154056819.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "df065de66cd9",
+          "time": "16:37",
+          "category": "US Macro",
+          "title": "Existing home sales jump in September, helped by lower rates and more inventory",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/existing-home-sales-jump-in-september-helped-by-lower-rates-and-more-inventory-153709254.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1285,6 +1329,17 @@
           "impact_score": 1
         },
         {
+          "id": "e61d783f6538",
+          "time": "16:29",
+          "category": "Markets",
+          "title": "Stock Market Today: Intel, Ford, Newmont Gold Round Out Solid Day for U.S. Markets",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/stock-market-today-stocks-sink-152958159.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "fc83a2ffc4cc",
           "time": "16:29",
           "category": "Markets",
@@ -1329,6 +1384,17 @@
           "impact_score": 1
         },
         {
+          "id": "56d787484017",
+          "time": "16:26",
+          "category": "Markets",
+          "title": "Six Flags is struggling. Why NFL's Travis Kelce is joining investors to make changes",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/six-flags-struggling-why-nfls-152602796.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "c855fc1d7f15",
           "time": "16:24",
           "category": "Crypto",
@@ -1340,6 +1406,17 @@
           "impact_score": 1
         },
         {
+          "id": "837036e3c4a9",
+          "time": "16:23",
+          "category": "Markets",
+          "title": "Palantir enters $200M partnership with telco Lumen to offer enterprise AI services",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/palantir-enters-200m-partnership-telco-152349068.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "0b75a096fbfa",
           "time": "16:22",
           "category": "Markets",
@@ -1347,6 +1424,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/shopify-shop-compounded-29-annually-152256960.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0c180ae9a97c",
+          "time": "16:21",
+          "category": "Markets",
+          "title": "How Much You Need To Invest Monthly To Have $500K in 30 Years",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/much-invest-monthly-500k-30-152157177.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1369,17 +1457,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/business/earnings/tesla-supplier-stmicroelectronics-expects-lower-annual-sales-amid-slow-recovery-in-chip-demand-01854079?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "2733ff21ad4e",
-          "time": "16:19",
-          "category": "Markets",
-          "title": "Why Shares of D-Wave Quantum Are Soaring Today",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-shares-d-wave-quantum-151952886.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1428,17 +1505,6 @@
           "impact_score": 1
         },
         {
-          "id": "814a5d6abc78",
-          "time": "16:11",
-          "category": "Markets",
-          "title": "Ascent Hospitality names former Fuzzy’s Taco Shop executive Paul Damico CEO",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ascent-hospitality-names-former-fuzzy-151134197.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "acf1a881b7ff",
           "time": "16:11",
           "category": "Markets",
@@ -1461,17 +1527,6 @@
           "impact_score": 1
         },
         {
-          "id": "553c9bc72342",
-          "time": "16:11",
-          "category": "Markets",
-          "title": "My 3 Favorite Stocks to Buy Right Now",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/3-favorite-stocks-buy-now-151100494.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "449754ccc30e",
           "time": "16:10",
           "category": "Markets",
@@ -1490,17 +1545,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2025/card/a-cautionary-tale-for-meta-microsoft-and-other-ai-hyperscalers--KwIpMDp8tYXmZip5MbXe?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "15ff1041b0b4",
-          "time": "16:08",
-          "category": "Markets",
-          "title": "Boomers Have the Biggest Emergency Funds of Any Generation: See How Much They’ve Saved",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/boomers-biggest-emergency-funds-generation-150817510.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1538,39 +1582,6 @@
           "impact_score": 1
         },
         {
-          "id": "c29a389402ad",
-          "time": "15:55",
-          "category": "Crypto",
-          "title": "Aster Unveils Rocket Launch: A Gateway to Early-Stage Crypto Projects and Trading Rewards",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/aster-unveils-rocket-launch-gateway-145506298.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3a8a19929bbc",
-          "time": "15:54",
-          "category": "Markets",
-          "title": "Evercore ISI Retains Bullish Stance on Constellation Brands (STZ) Considering Brand Loyalty",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/evercore-isi-retains-bullish-stance-145411478.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6273c0fe6027",
-          "time": "15:53",
-          "category": "Markets",
-          "title": "Vanguard Gets the VOO Proxy Vote Out",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/vanguard-gets-voo-proxy-vote-145345076.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "2d4b18aa343b",
           "time": "15:53",
           "category": "Markets",
@@ -1582,24 +1593,13 @@
           "impact_score": 1
         },
         {
-          "id": "515b1511a72e",
-          "time": "15:49",
+          "id": "6273c0fe6027",
+          "time": "15:53",
           "category": "Markets",
-          "title": "Risk Management is Crucial as Chart Support Comes Into Play for SPY. Here’s Your Trading Blueprint",
+          "title": "Vanguard Gets the VOO Proxy Vote Out",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/risk-management-crucial-chart-support-144940633.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b56246c77ef2",
-          "time": "15:44",
-          "category": "Markets",
-          "title": "Citi’s Jane Fraser consolidates power with board chair vote — and a $25 million-plus bonus to boot",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/citis-jane-fraser-consolidates-power-with-board-chair-vote--and-a-25-million-plus-bonus-to-boot-144421224.html",
+          "url": "https://finance.yahoo.com/news/vanguard-gets-voo-proxy-vote-145345076.html",
           "tags": [],
           "impact_score": 1
         }
