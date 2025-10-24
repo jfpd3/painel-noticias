@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T23:50+01:00",
+  "generated_at": "2025-10-25T00:01+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -724,13 +724,13 @@
           "impact_score": 1
         },
         {
-          "id": "07e96594e7e7",
+          "id": "973298671192",
           "time": "18:06",
           "category": "Markets",
-          "title": "Analyst Report: Integer Holdings Corp",
+          "title": "Analyst Report: Tractor Supply Co.",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3757_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3462_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -746,13 +746,13 @@
           "impact_score": 1
         },
         {
-          "id": "973298671192",
+          "id": "07e96594e7e7",
           "time": "18:06",
           "category": "Markets",
-          "title": "Analyst Report: Tractor Supply Co.",
+          "title": "Analyst Report: Integer Holdings Corp",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3462_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3757_AnalystReport_1761325610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -1031,17 +1031,6 @@
           "impact_score": 3
         },
         {
-          "id": "9e30546b93c0",
-          "time": "16:22",
-          "category": "Earnings",
-          "title": "First BanCorp FBP Q3 2025 Earnings Call Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/first-bancorp-fbp-q3-2025-152257750.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "03a68facdc28",
           "time": "16:11",
           "category": "Crypto",
@@ -1129,6 +1118,28 @@
           "impact_score": 2
         },
         {
+          "id": "6bbf46778663",
+          "time": "16:45",
+          "category": "Earnings",
+          "title": "Southwest Airlines Stock Is Falling After Earnings Beat. The Changes Don’t Impress Wall Street.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/southwest-airlines-earnings-stock-price-147d1b29?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "9f876dc23a9b",
+          "time": "16:36",
+          "category": "Earnings",
+          "title": "Visteon (VC) Q3 2025 Earnings Call Transcript",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/visteon-vc-q3-2025-earnings-153635141.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "e0feee860898",
           "time": "16:26",
           "category": "Earnings",
@@ -1151,17 +1162,6 @@
           "impact_score": 2
         },
         {
-          "id": "b2fe795f9502",
-          "time": "16:21",
-          "category": "Earnings",
-          "title": "Customer success strategies linked to post-earnings gains",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/customer-success-strategies-linked-post-152107023.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "a8f78fee13bf",
           "time": "16:20",
           "category": "Earnings",
@@ -1170,19 +1170,6 @@
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/stocks-supported-strength-energy-producers-152021865.html",
           "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "7e47126549e3",
-          "time": "16:19",
-          "category": "Crypto",
-          "title": "Ramit Sethi Reveals the Retirement Math Most Americans Get Wrong",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ramit-sethi-reveals-retirement-math-151906775.html",
-          "tags": [
-            "ETH"
-          ],
           "impact_score": 2
         },
         {
@@ -1241,6 +1228,72 @@
           "impact_score": 1
         },
         {
+          "id": "4bd619560621",
+          "time": "16:48",
+          "category": "Markets",
+          "title": "What Makes West Pharmaceutical Services (WST) a Prospective Investment?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/makes-west-pharmaceutical-services-wst-154835538.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e999eb46ef9b",
+          "time": "16:48",
+          "category": "Markets",
+          "title": "Analyst Says There’s More Upside to Wells Fargo (WFC)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/analyst-says-more-upside-wells-154818320.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4eaef8a173ee",
+          "time": "16:47",
+          "category": "Markets",
+          "title": "Analyst Says Bristol-Myers Squibb (BMY) Among the Best ‘Deep Value’ Stocks to Buy",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/analyst-says-bristol-myers-squibb-154719829.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "16:47",
+          "category": "Markets",
+          "title": "FCX, Alcoa Rise As Copper, Aluminum Prices Heat Up",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/fcx-stock-alcoa-copper-aluminum-price-q3-earnings/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "fe17bce7ecb0",
+          "time": "16:46",
+          "category": "Markets",
+          "title": "Is Ventas (VTR) The Best REIT Dividend Stock to Buy for Non-AI Trade?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ventas-vtr-best-reit-dividend-154631176.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9ac6b893f316",
+          "time": "16:44",
+          "category": "Markets",
+          "title": "What Makes Bio-Rad Laboratories (BIO) an Investment Bet?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/makes-bio-rad-laboratories-bio-154409682.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "6a02fbf82a4d",
           "time": "16:42",
           "category": "Markets",
@@ -1248,6 +1301,28 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/upslope-capital-management-views-international-154221976.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e2d59ee52f79",
+          "time": "16:41",
+          "category": "Markets",
+          "title": "AI boom is making your utility bills more expensive, says BofA, and they’re likely to keep going up",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ai-boom-making-utility-bills-154103282.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "73f98ae981c1",
+          "time": "16:41",
+          "category": "Earnings",
+          "title": "Honeywell Third-Quarter Aerospace Sales Jump Ahead of Spin-Off",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/earnings/honeywell-posts-higher-3q-sales-raises-earnings-view-amid-restructuring-6ab23bee?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -1270,6 +1345,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/existing-home-sales-jump-in-september-helped-by-lower-rates-and-more-inventory-153709254.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ff9a3f192b36",
+          "time": "16:34",
+          "category": "Crypto",
+          "title": "Europe’s Crypto ETP Providers Target US Expansion as FalconX To Acquire 21shares",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/europe-crypto-etp-providers-target-153456770.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1325,6 +1411,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/crude-prices-soar-us-eu-153250025.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ef9681693c83",
+          "time": "16:32",
+          "category": "Markets",
+          "title": "Infrastructure, software drive IBM Q3 growth",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/infrastructure-software-drive-ibm-q3-153227809.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1428,17 +1525,6 @@
           "impact_score": 1
         },
         {
-          "id": "0c180ae9a97c",
-          "time": "16:21",
-          "category": "Markets",
-          "title": "How Much You Need To Invest Monthly To Have $500K in 30 Years",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/much-invest-monthly-500k-30-152157177.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "eaad8ca4e5ed",
           "time": "16:20",
           "category": "Markets",
@@ -1527,39 +1613,6 @@
           "impact_score": 1
         },
         {
-          "id": "449754ccc30e",
-          "time": "16:10",
-          "category": "Markets",
-          "title": "This Stock Makes You Look Good – and It Just Hit New 3-Year Highs",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stock-makes-look-good-just-151002775.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0607c79e3fab",
-          "time": "16:08",
-          "category": "Markets",
-          "title": "A Cautionary Tale for Meta, Microsoft and Other AI ‘Hyperscalers’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2025/card/a-cautionary-tale-for-meta-microsoft-and-other-ai-hyperscalers--KwIpMDp8tYXmZip5MbXe?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "128f4decc828",
-          "time": "16:02",
-          "category": "Markets",
-          "title": "UK budget fears clouding L&G shares, says CEO",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/uk-budget-fears-clouding-l-150234964.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "9281aa3318a8",
           "time": "16:01",
           "category": "Crypto",
@@ -1567,39 +1620,6 @@
           "summary": "The proof-of-work layer-1 is designed to make crypto mining accessible to mainstream users, contributor Naveen Jain explained.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345460/how-tari-lets-you-mine-crypto-in-less-than-a-minute",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "2b931ebbf403",
-          "time": "16:00",
-          "category": "Markets",
-          "title": "What Credit-Card Trends Tell Us About the U.S. Consumer, in Charts",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/banking/credit-card-consumers-charts-a4ce81e5?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "2d4b18aa343b",
-          "time": "15:53",
-          "category": "Markets",
-          "title": "Analyst Sentiment Remains Mixed on Aon (AON) as BofA Stays Bearish Despite Higher Target",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/analyst-sentiment-remains-mixed-aon-145345893.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6273c0fe6027",
-          "time": "15:53",
-          "category": "Markets",
-          "title": "Vanguard Gets the VOO Proxy Vote Out",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/vanguard-gets-voo-proxy-vote-145345076.html",
           "tags": [],
           "impact_score": 1
         }
