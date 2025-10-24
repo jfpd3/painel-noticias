@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T06:54+01:00",
+  "generated_at": "2025-10-24T07:04+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -55,6 +55,19 @@
           "impact_score": 3
         },
         {
+          "id": "77e60a16be26",
+          "time": "06:56",
+          "category": "Crypto",
+          "title": "Another ‘Satoshi era’ wallet from 2009 has woken up to move Bitcoin",
+          "summary": "The Satoshi-era Bitcoin whale was last active in June 2011, but initially mined its coins between April and June 2009, soon after the network went live.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-whale-moves-btc-after-14-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "b89a7fe0f687",
           "time": "06:43",
           "category": "Crypto",
@@ -71,7 +84,7 @@
           "id": "a44649ca2e3d",
           "time": "06:35",
           "category": "Crypto",
-          "title": "Solo Bitcoin miner scores $347K — 'pure self-soverignty in action'",
+          "title": "Solo Bitcoin miner scores $347K — ‘pure self-soverignty in action’",
           "summary": "A solo Bitcoin miner has solved block 920,440, mining it entirely on their own and cashing in a huge reward for themselves.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/solo-bitcoin-miner-wins-block-self-soverignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -152,6 +165,17 @@
           "url": "https://cointelegraph.com/news/decentralized-perps-1-trillion-volume-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 2
+        },
+        {
+          "id": "07ea91c5cbb0",
+          "time": "06:53",
+          "category": "Crypto",
+          "title": "Australians punch above their weight in crypto interest, data shows",
+          "summary": "The Australian crypto user base is expected to grow to 11.16 million by next year, with nearly 41% of Australians participating in crypto.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/australians-scores-high-per-capita-crypto-interest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "5b843506bddc",
@@ -340,17 +364,6 @@
           "summary": "Blockchain.com praised Malta’s regulatory clarity while member states still argued over how MiCA should apply across the EU.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/blockchain-com-mica-eu-institutions-malta-mfsa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "6d485ef5e075",
-          "time": "14:04",
-          "category": "Crypto",
-          "title": "Berachain joins race for real-time blockchains with sub-second transactions",
-          "summary": "A new Berachain governance proposal introduces a preconfirmation layer that would cut inclusion times to 200 milliseconds, making transactions feel nearly instantaneous.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/berachain-joins-race-for-real-time-blockchains-with-sub-second-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
         },
@@ -882,17 +895,6 @@
           "impact_score": 1
         },
         {
-          "id": "dd047b93b23c",
-          "time": "14:00",
-          "category": "Crypto",
-          "title": "From Taylor Swift to rate cuts, RedStone brings real-world bets onchain with Kalshi",
-          "summary": "RedStone’s partnership with Kalshi bridges regulated event data and DeFi, unlocking new use cases across over 110 networks.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/redstone-kalshi-defi-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "0d8d113f7ffb",
           "time": "13:57",
           "category": "Crypto",
@@ -1060,6 +1062,28 @@
           "impact_score": 3
         },
         {
+          "id": "f1a195fbb99a",
+          "time": "19:44",
+          "category": "Earnings",
+          "title": "Netflix Stock Flopped on Earnings. Barchart Options Data Tells Us NFLX Could Be Headed Here Next.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/netflix-stock-flopped-earnings-barchart-184458542.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "bb3d8136ac20",
+          "time": "19:21",
+          "category": "Crypto",
+          "title": "The Fed’s New Account Could Let Crypto Into the System – Here’s What Traders Need to Know",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fed-account-could-let-crypto-182154921.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "6ef2830047ab",
           "time": "19:06",
           "category": "Crypto",
@@ -1078,28 +1102,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/beyond-meat-soars-meme-etf-180109997.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "d32739d1b97a",
-          "time": "19:01",
-          "category": "Markets",
-          "title": "Dave Ramsey Caller Says She Was Trying To 'Help' Her Husband Retire Early By Borrowing From His 401(k) To Buy And Flip Houses...But They Didn't Sell",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/dave-ramsey-caller-says-she-180108915.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "5cfe84e0dd80",
-          "time": "18:45",
-          "category": "Crypto",
-          "title": "Why Did Ken Griffin Spend Nearly $1 Million on This New Crypto Treasury Company?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-did-ken-griffin-spend-174535626.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1159,6 +1161,19 @@
           "impact_score": 3
         },
         {
+          "id": "eb84ca7a9d9e",
+          "time": "19:18",
+          "category": "Crypto",
+          "title": "Coinbase Opens Amex Card With Up to 4% Back in BTC for U.S. Coinbase One Members",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/coinbase-opens-amex-card-4-181801171.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "100dee60b035",
           "time": "18:58",
           "category": "Crypto",
@@ -1214,6 +1229,28 @@
           "summary": "Senate Democrats and Republicans remain far apart on timeline and other key issues after flashy meetings with crypto leaders on Wednesday.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345503/big-gaps-remain-crypto-execs-meet-senators-market-structure-bill",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "cd6c2e541de9",
+          "time": "19:39",
+          "category": "Markets",
+          "title": "This Little-Known Power Stock Is Up 27%. AI Dollars Keep Trickling Down.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/vicor-stock-ai-power-demand-290abf65?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "92cc11955641",
+          "time": "19:37",
+          "category": "Markets",
+          "title": "Kristin Larson: How Growing Up on a Farm Led to Wealth Management Success",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/advisor/articles/kristin-larson-newspring-wealth-management-farming-7c6930e5?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -1471,6 +1508,28 @@
           "impact_score": 1
         },
         {
+          "id": "240feddc1125",
+          "time": "19:17",
+          "category": "Markets",
+          "title": "Trader Joe’s sued over knockoff of popular kids' meal",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/trader-joe-faces-copycat-lawsuit-181700787.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "83877e5fa229",
+          "time": "19:16",
+          "category": "Markets",
+          "title": "A 3rd proxy firm broke ranks on Elon Musk's $1 trillion Tesla pay plan — giving it a partial thumbs-up, with a catch",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/3rd-proxy-firm-broke-ranks-101647598.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "35879750a005",
           "time": "19:16",
           "category": "US Macro",
@@ -1489,17 +1548,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/meta-cutting-600-jobs-ai-180533221.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0da437c4ffc2",
-          "time": "19:00",
-          "category": "Markets",
-          "title": "From trading floors to streaming wars: Grindr’s ex-CFO on taking career risks at the right time",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/trading-floors-streaming-wars-grindr-180051040.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1533,50 +1581,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/amazon-just-suffered-major-aws-175345777.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "98f790c60e0c",
-          "time": "18:48",
-          "category": "Markets",
-          "title": "3 SPACs Hit New 52-Week Highs: Are Any Worth Owning?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/3-spacs-hit-52-week-174820859.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "40848527add7",
-          "time": "18:44",
-          "category": "Earnings",
-          "title": "Boston Scientific lifts FY25 outlook amid continued cardiovascular boom",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/boston-scientific-lifts-fy25-outlook-174426773.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "75068190dddd",
-          "time": "18:44",
-          "category": "Markets",
-          "title": "Meta to cut around 600 roles in Superintelligence Labs AI unit",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/meta-cut-around-600-roles-174425605.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "178a921bc8dc",
-          "time": "18:42",
-          "category": "Markets",
-          "title": "Workday wants to buy into the AI boom — without overpaying",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/workday-wants-to-buy-into-the-ai-boom--without-overpaying-174228703.html",
           "tags": [],
           "impact_score": 1
         },
