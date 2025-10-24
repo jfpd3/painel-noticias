@@ -1,15 +1,72 @@
 {
-  "generated_at": "2025-10-24T18:06+01:00",
+  "generated_at": "2025-10-24T18:43+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-24",
       "attention_points": [
-        "Deckers Stock Sinks As Tariffs Hurt Guidance, Adding To Industry's Woes",
-        "WazirX shutdown ends, UK watchdog targets HTX: Global Express",
-        "Crypto.com Files for National Bank Charter Following Circle, Stripe and Coinbase"
+        "Here’s How the Separation of Its Freight Unit Affects FedEx Corporation (FDX)",
+        "Apple, Google, Meta, Amazon, Microsoft Earnings Due; Fed Rate Cut, Trump-Xi Ahead",
+        "S&P 500 Hits 6,800 as CPI Gives Fed the Go-Ahead: Markets Wrap"
       ],
       "items": [
+        {
+          "id": "eb8684ca43a8",
+          "time": "18:17",
+          "category": "US Macro",
+          "title": "Here’s How the Separation of Its Freight Unit Affects FedEx Corporation (FDX)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/separation-freight-unit-affects-fedex-171748857.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "18:15",
+          "category": "US Macro",
+          "title": "Apple, Google, Meta, Amazon, Microsoft Earnings Due; Fed Rate Cut, Trump-Xi Ahead",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/research/investing-action-plan/apple-google-meta-amazon-microsoft-earnings-fed-rate-cut-trump-xi-ahead/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "b15a34958e9b",
+          "time": "18:00",
+          "category": "US Macro",
+          "title": "S&P 500 Hits 6,800 as CPI Gives Fed the Go-Ahead: Markets Wrap",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/asia-join-global-equity-rally-231917469.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "17:53",
+          "category": "US Macro",
+          "title": "Stock Market Today: Dow Soars To A New High On CPI Data; This Solar Name Shines After Earnings (Live Coverage)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-inflation-deckers-earnings-deck/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "dc53ab5ca499",
+          "time": "17:49",
+          "category": "Crypto",
+          "title": "Fed Rate Cut Odds Jump to 97% as CPI Comes in Cool at 3% – Bullish for BTC?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fed-rate-cut-odds-jump-164913404.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 3
+        },
         {
           "id": "1d6daef5b3f9",
           "time": "17:32",
@@ -44,17 +101,6 @@
           "impact_score": 3
         },
         {
-          "id": "75de1d1c15c2",
-          "time": "16:38",
-          "category": "Markets",
-          "title": "Big Banks Enter Stablecoin Era by Taking Zelle International",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/regulation/zelle-stablecoin-cryptocurrency-7ef515e7?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "0b22e76fdc87",
           "time": "15:17",
           "category": "Crypto",
@@ -78,17 +124,6 @@
           "tags": [
             "BTC"
           ],
-          "impact_score": 3
-        },
-        {
-          "id": "a72a480a6a34",
-          "time": "14:46",
-          "category": "US Macro",
-          "title": "Cooler-than-expected inflation reading keeps Fed on course for a rate cut next week",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cooler-than-expected-inflation-reading-keeps-fed-on-course-for-a-rate-cut-next-week-134613194.html",
-          "tags": [],
           "impact_score": 3
         },
         {
@@ -227,17 +262,6 @@
           "impact_score": 3
         },
         {
-          "id": "7a9d79bb2d73",
-          "time": "04:59",
-          "category": "Crypto",
-          "title": "Polymarket bets that Sam Bankman-Fried gets pardon surge to 12%",
-          "summary": "Former FTX CEO Sam Bankman-Fried’s odds on Polymarket of being pardoned by US President Donald Trump have more than doubled since Changpeng Zhao was pardoned.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/sbf-pardon-odds-rise-12-percent-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "46b987d00368",
           "time": "03:25",
           "category": "Crypto",
@@ -249,6 +273,54 @@
           "impact_score": 3
         },
         {
+          "id": "43df53fa395e",
+          "time": "18:15",
+          "category": "Crypto",
+          "title": "Tether’s stablecoin business set for another record year of profitability",
+          "summary": "Tether projects $15 billion in profit for 2025, extending its dominance in the stablecoin market as investor interest and digital dollar adoption surge.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/tether-2025-profit-forecast-stablecoin-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "ab537c836cfb",
+          "time": "18:10",
+          "category": "US Macro",
+          "title": "Tame Inflation Report, Tech Earnings Put 7000 Point S&P 500 in Sight",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/markets-inflation-profits-stocks-f0328fb4?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "0483adcc5478",
+          "time": "18:08",
+          "category": "Crypto",
+          "title": "Tether Eyes Fresh Investments to Push USAT Stablecoin to 100M Americans at December Launch",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/business/2025/10/24/tether-eyes-fresh-investments-to-push-usat-stablecoin-to-100m-americans-at-december-launch",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "d15e881d2b69",
+          "time": "18:05",
+          "category": "Markets",
+          "title": "The Dow, S&P 500, and Nasdaq Are Back at Records. Bad Headlines Haven’t Stopped the Stock Market.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102425/card/bad-headlines-haven-t-stopped-the-stock-market-why-it-keeps-hitting-records--y7FXNBuW5lNxPMD8eCBn?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "7dcfd2a67d65",
           "time": "17:47",
           "category": "US Macro",
@@ -256,6 +328,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/porsche-reports-downbeat-ytd-results-forward-guidance-as-it-recalibrates-its-ev-china-strategy-164725636.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "b0acc7b6cd76",
+          "time": "17:45",
+          "category": "Markets",
+          "title": "Tech, Small-Caps, Nuclear Stocks Leading Risk Resurgence",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102425/card/tech-small-caps-nuclear-stocks-leading-risk-resurgence-r6e4OTHqLbFehbKbnLJU?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 2
         },
@@ -271,19 +354,6 @@
           "impact_score": 2
         },
         {
-          "id": "8acd303cc870",
-          "time": "17:34",
-          "category": "Crypto",
-          "title": "Polyethylene to lead global upcoming petrochemicals project starts by 2030",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/polyethylene-lead-global-upcoming-petrochemicals-163434887.html",
-          "tags": [
-            "ETH"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "a0f7771a2939",
           "time": "17:30",
           "category": "Earnings",
@@ -295,50 +365,6 @@
           "impact_score": 2
         },
         {
-          "id": "73b3f6d5de6b",
-          "time": "17:28",
-          "category": "Earnings",
-          "title": "Primis Financial (FRST) Earnings Call Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/primis-financial-frst-earnings-call-162848038.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "89a5fa9ac1ef",
-          "time": "17:28",
-          "category": "Earnings",
-          "title": "Intel (INTC) Q3 2025 Earnings Call Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/intel-intc-q3-2025-earnings-162845112.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "f5ab3389015c",
-          "time": "17:27",
-          "category": "Earnings",
-          "title": "Resideo Technologies (REZI) Propelled on Strong Demand and Increased Guidance",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/resideo-technologies-rezi-propelled-strong-162743609.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "82152bf9dc75",
-          "time": "17:24",
-          "category": "Markets",
-          "title": "Sphere Entertainment Co. (SPHR) Surged on Strong Fundamentals and Demand",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/sphere-entertainment-co-sphr-surged-162405735.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "8d5a7ac2d701",
           "time": "17:21",
           "category": "Crypto",
@@ -346,17 +372,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/24/polymarket-will-launch-token-and-airdrop-after-u-s-relaunch-cmo-says",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "ec36e99ee29f",
-          "time": "17:09",
-          "category": "Earnings",
-          "title": "Deckers Stock Drops After Shoe Company Cuts Financial Guidance",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/deckers-stock-drops-after-shoe-company-cuts-financial-guidance-IyGM1Y8CTAGptXxXQC17?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 2
         },
@@ -382,17 +397,6 @@
           "tags": [
             "ETH"
           ],
-          "impact_score": 2
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "16:42",
-          "category": "Crypto",
-          "title": "Stock Market Today: Small Caps Surge After Inflation Data; Coinbase Spikes On JPMorgan Note (Live Coverage)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-inflation-deckers-earnings-deck/?src=A00220&yptr=yahoo",
-          "tags": [],
           "impact_score": 2
         },
         {
@@ -717,10 +721,197 @@
           "impact_score": 2
         },
         {
+          "id": "a76f92cccf16",
+          "time": "18:33",
+          "category": "Crypto",
+          "title": "Zelle fires up stablecoins to fuel faster cross-border payments",
+          "summary": "The stablecoin cross-border integration will only be for payments coming from and going to the United States, Zelle's parent company said.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/zelle-stablecoins-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "53007a0b4151",
+          "time": "18:31",
+          "category": "Crypto",
+          "title": "'AI Definitely Lowers The Barrier For Entry,' Gig Economy Workers Wrestle With How To Proceed As The Technology Infiltrates Their Industries",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ai-definitely-lowers-barrier-entry-173118831.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "18:23",
+          "category": "Markets",
+          "title": "IPO Stock Of The Week: Insurance Leader Hamilton Regains Key Level, Hits New Buy Area",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/stock-lists/ipo-analysis/hamilton-stock-hg-buy-zone/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "402d1de15edd",
+          "time": "18:23",
+          "category": "Markets",
+          "title": "Wall Street's junior employees could be managing teams sooner with AI. The catch? They're teams of bots.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/wall-streets-junior-employees-could-172301014.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7c8d5ad776f2",
+          "time": "18:22",
+          "category": "Earnings",
+          "title": "PVH (PVH) Proved Its Power to Deliver Strong Long-Term EPS",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/pvh-pvh-proved-power-deliver-172225009.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "18:22",
+          "category": "Markets",
+          "title": "PBF Energy Stock Earns 91 Relative Strength Rating",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/pbf-energy-stock-earns-91-relative-strength-rating/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3c272d5826d5",
+          "time": "18:19",
+          "category": "Markets",
+          "title": "Fidelity National Information Services (FIS) Increased Its Stock Repurchase Plan. Here’s Why",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fidelity-national-information-services-fis-171934014.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "18:15",
+          "category": "Markets",
+          "title": "Neocloud Crusoe Scores Funding, Oracle Debt Offering, CoreWeave Deal Drama",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/neoclouds-crusoe-coreweave-stock-oracle-banks/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0a9de2ef9f86",
+          "time": "18:14",
+          "category": "Markets",
+          "title": "Long Leaf Partners Fund’s Comment on Regeneron (REGN)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/long-leaf-partners-fund-regeneron-171424649.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5d63ec9f945d",
+          "time": "18:08",
+          "category": "Markets",
+          "title": "Long Leaf Partners’ Fund Increased Its Stake in Albertsons (ACI) on Weakness",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/long-leaf-partners-fund-increased-170816458.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "18:08",
+          "category": "Markets",
+          "title": "Circle Internet Group Stock Sees RS Rating Rise To 81",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/circle-internet-group-stock-sees-rs-rating-rise-to-81/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "18:07",
+          "category": "Markets",
+          "title": "Broadcom, IBD Stock Of The Day, Gains Custom AI Chip Business",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/research/ibd-stock-of-the-day/broadcom-stock-avgo-custom-ai-chip-business-2/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "98de1b5cc016",
+          "time": "18:05",
+          "category": "Markets",
+          "title": "Why Medpace Popped 13% This Week",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-medpace-popped-13-week-170527237.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "71572228d92c",
+          "time": "18:03",
+          "category": "Markets",
+          "title": "Rayonier (RYN) Announced a Merger Deal with PotlatchDeltic",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/rayonier-ryn-announced-merger-deal-170322544.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "51c3e9a464dd",
+          "time": "17:57",
+          "category": "Markets",
+          "title": "Long Leaf Partners Fund’s Updates on PotlatchDeltic (PCH)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/long-leaf-partners-fund-updates-165739837.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8dbb67decd17",
+          "time": "17:57",
+          "category": "Markets",
+          "title": "Ford Stock Has Quadrupled Tesla’s Gains. What’s Behind Its Meteoric Rise.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/ford-tesla-stock-tariffs-electric-vehicles-2dc8e62d?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f89ae684577d",
+          "time": "17:56",
+          "category": "Markets",
+          "title": "Here's Why This Aerospace Stock Burst Higher This Week",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/heres-why-aerospace-stock-burst-165658410.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "b901c944ac94",
           "time": "17:50",
           "category": "Markets",
-          "title": "Will The Kraft Heinz Company (NASDAQ:KHC) Stock Price Cross Over $40?",
+          "title": "Will The Kraft Heinz Company (KHC) Stock Price Cross Over $40?",
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/kraft-heinz-company-nasdaq-khc-165016349.html",
@@ -750,6 +941,17 @@
           "impact_score": 1
         },
         {
+          "id": "b87a9601bfa8",
+          "time": "17:45",
+          "category": "Markets",
+          "title": "Why Shares of MP Materials Are Sinking This Week",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-shares-mp-materials-sinking-164512715.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "a1efcb9ea80f",
           "time": "17:41",
           "category": "Markets",
@@ -757,17 +959,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/expect-accelerated-sales-growth-mattel-164121047.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "bcf1d707cf10",
-          "time": "17:37",
-          "category": "Markets",
-          "title": "Top Stock Movers Now: Ford, AMD, Deckers, Newmont, and More",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/top-stock-movers-now-ford-163751308.html",
           "tags": [],
           "impact_score": 1
         },
@@ -794,13 +985,13 @@
           "impact_score": 1
         },
         {
-          "id": "9ce47bac74d1",
+          "id": "1033310d803a",
           "time": "17:33",
-          "category": "Earnings",
-          "title": "Booz Allen Cuts Jobs, Fiscal-Year Outlook as Government Funding Stalls",
+          "category": "Crypto",
+          "title": "These Stocks Are Moving the Most Today: Intel, AMD, Ford, Deckers, Newmont, Nextracker, Booz Allen, Coinbase, and More",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/booz-allen-cuts-outlook-quarterly-111700934.html",
+          "url": "https://www.barrons.com/articles/stock-movers-d7bea212?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -827,17 +1018,6 @@
           "impact_score": 1
         },
         {
-          "id": "e03f07642d91",
-          "time": "17:31",
-          "category": "Markets",
-          "title": "More Low-Income Americans Than Ever Are Investing In The Stock Market, BlackRock Foundation And Commonwealth Survey Says",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/more-low-income-americans-ever-163108304.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "06230ec57492",
           "time": "17:29",
           "category": "Markets",
@@ -845,28 +1025,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/finance/investing/tech-media-telecom-roundup-market-talk-4b81d2db?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "2b05b0643072",
-          "time": "17:28",
-          "category": "Markets",
-          "title": "I’m a Financial Advisor: This Is The Number One Factor Retirement Clients Overlook",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/m-financial-advisor-number-one-162843850.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "77c150f9c20e",
-          "time": "17:28",
-          "category": "Markets",
-          "title": "Auto & Transport Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-cb93b220?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -882,17 +1040,6 @@
           "impact_score": 1
         },
         {
-          "id": "d0bb241f990b",
-          "time": "17:20",
-          "category": "Markets",
-          "title": "Is St. Joe (JOE) Trading at an Attractive Multiple On Adjusted Funds From Operations (AFFO)?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/st-joe-joe-trading-attractive-162034629.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "9aa2090e7b75",
           "time": "17:13",
           "category": "Crypto",
@@ -900,28 +1047,6 @@
           "summary": "Polymarket’s Matthew Modabber confirmed the platform will eventually launch a token, but said entering the US market takes priority.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/polymarket-token-us-launch-cmo-app?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ab4b24ddd1bc",
-          "time": "17:10",
-          "category": "Markets",
-          "title": "Ukraine Strikes Russia’s Fourth-Largest Refinery, Disrupting 80,000 bpd of Outpu",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ukraine-strikes-russia-fourth-largest-161000231.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ac5be4e42d07",
-          "time": "17:01",
-          "category": "Markets",
-          "title": "Porsche’s Operating Profit Slumps as EV Challenges, China Woes Take Toll",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/earnings/porsches-operating-profit-slumps-as-ev-challenges-china-woes-take-toll-9aabc85d?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -937,17 +1062,6 @@
           "impact_score": 1
         },
         {
-          "id": "1d6daef5b3f9",
-          "time": "16:50",
-          "category": "Markets",
-          "title": "Gold Stocks Agnico Eagle, Newmont Dive As Gold Prices Tumble",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/research/ibd-industry-themes/gold-stocks-gold-prices-agnico-eagle-aem-newmont-nem/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "747d37f842bc",
           "time": "16:49",
           "category": "Crypto",
@@ -955,50 +1069,6 @@
           "summary": "Pump.fun has acquired the Padre trading terminal to strengthen token liquidity as Solana’s memecoin market cools from its 2024 highs.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/pumpfun-acquires-padre-trading-terminal-solana-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "cc2691c04db5",
-          "time": "16:45",
-          "category": "Markets",
-          "title": "Stocks to Watch Friday: Intel, Deckers, Booz Allen Hamilton",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/stocks-to-watch-friday-intel-deckers-saab-ud7bpMfhbzMqNCdWndQK?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "16:44",
-          "category": "Markets",
-          "title": "Exxon Has A Compelling Dividend Yield. This Strategy Can Boost Its Attractiveness.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/research/options/exxon-xom-stock-options-trade-dividend-income-strategy-covered-call-markets-investing/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "502f43750240",
-          "time": "16:42",
-          "category": "Earnings",
-          "title": "Booz Allen Cuts Outlook as Government Funding Stalls",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/earnings/booz-allen-cuts-outlook-as-quarterly-profit-revenue-fall-3791a812?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "fa2f4c7e6721",
-          "time": "16:40",
-          "category": "Markets",
-          "title": "P&G latest to flag diverging consumer spending as profit tops on beauty demand",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/p-g-latest-flag-diverging-154002938.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1135,13 +1205,13 @@
           "impact_score": 1
         },
         {
-          "id": "de71d0754dc8",
+          "id": "5774cc65f229",
           "time": "12:09",
           "category": "Markets",
-          "title": "Analyst Report: American Airlines Group Inc",
+          "title": "Analyst Report: SAP SE",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_4643_AnalystReport_1761304151000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3373_AnalystReport_1761304151000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -1157,13 +1227,13 @@
           "impact_score": 1
         },
         {
-          "id": "5774cc65f229",
+          "id": "de71d0754dc8",
           "time": "12:09",
           "category": "Markets",
-          "title": "Analyst Report: SAP SE",
+          "title": "Analyst Report: American Airlines Group Inc",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3373_AnalystReport_1761304151000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_4643_AnalystReport_1761304151000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -1223,13 +1293,13 @@
           "impact_score": 1
         },
         {
-          "id": "1445981e2292",
+          "id": "5ebac5daf175",
           "time": "11:23",
           "category": "Markets",
-          "title": "Daily – Vickers Top Buyers & Sellers for 10/24/2025",
+          "title": "Daily – Vickers Top Insider Picks for 10/24/2025",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_45110_TopBottomInsiderActivity_1761301405000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_45109_InsiderActivity_1761301405000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "tags": [],
           "impact_score": 1
         },
@@ -1274,17 +1344,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/24/doge-breaks-usd0-195-level-on-heavy-trade-wyckoff-setup-points-to-next-leg-higher",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "743eb7a86b38",
-          "time": "05:45",
-          "category": "Crypto",
-          "title": "Hopes rise for altseason, but signals aren’t there yet",
-          "summary": "Crypto analysts said the altcoin season could be arriving soon as liquidity shifts to risk assets, but altseason indicators currently stand at bear market lows.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/altseason-on-the-way-analysts-but-indicators-disagree?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         }
@@ -1378,17 +1437,6 @@
           "impact_score": 2
         },
         {
-          "id": "7b850f18750a",
-          "time": "21:34",
-          "category": "Earnings",
-          "title": "Earnings live: Intel stock surges, Ford rises after-hours, Deckers drops",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/live/earnings-live-intel-stock-surges-ford-rises-after-hours-deckers-drops-203435980.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "48b9f998c184",
           "time": "21:07",
           "category": "Crypto",
@@ -1409,19 +1457,6 @@
           "summary": "The firm's stock rose Thursday, and has traded solidly above $1 during October.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345720/benchmark-boosts-bitcoin-maker-canaans-stock-target-turnaround",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "12e4fa7814ac",
-          "time": "19:47",
-          "category": "Crypto",
-          "title": "Bitcoin Climbs to $111K as Whipsaw Action in Crypto Continues",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/23/bitcoin-climbs-to-usd111k-as-whipsaw-action-in-crypto-continues",
           "tags": [
             "BTC"
           ],
@@ -1486,17 +1521,6 @@
           "summary": "Coins and tokens linked to crypto mogul Changpeng Zhao and President Trump jumped in price following news of the latest pardon.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345747/bnb-world-liberty-jump-trump-binance-founder",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0e804b5d37d7",
-          "time": "20:32",
-          "category": "US Macro",
-          "title": "How soaring national debt impacts mortgage rates and the housing market",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-national-debt-impacts-housing-market-and-mortgage-rates-193244911.html",
           "tags": [],
           "impact_score": 1
         },
