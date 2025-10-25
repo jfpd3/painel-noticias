@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T10:33+01:00",
+  "generated_at": "2025-10-25T10:46+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -392,17 +392,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/business/retail/safran-raises-outlook-forecasts-residual-tariff-hit-e34b38f7?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "3d4cbb7221e5",
-          "time": "06:41",
-          "category": "Crypto",
-          "title": "Cathie Wood-Backed Solana Treasury Explodes 50% After Revealing ‘Aggressive’ M&A and SOL Buys",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cathie-wood-backed-solana-treasury-054108271.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1238,6 +1227,17 @@
           "impact_score": 1
         },
         {
+          "id": "7a279a448db8",
+          "time": "09:24",
+          "category": "Markets",
+          "title": "Billionaire Bill Ackman May Be the Next Warren Buffett -- He's Buying 2 Artificial Intelligence (AI) Stocks Hand Over Fist",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/billionaire-bill-ackman-may-next-082400345.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "9685e453f02e",
           "time": "09:21",
           "category": "US Macro",
@@ -1267,6 +1267,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/heard-on-the-street-thursday-recap-casino-capitalism-RBEBUCIyZ4gq7yNzsFCx?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "46f77e1a6b55",
+          "time": "08:06",
+          "category": "Markets",
+          "title": "This Is the Biggest Threat to Quantum Computing Stocks IonQ, Rigetti Computing, and D-Wave Quantum That Virtually No One Is Talking About",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/biggest-threat-quantum-computing-stocks-070600133.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1399,17 +1410,6 @@
           "summary": "Trump’s pardon of Binance founder Changpeng Zhao has ignited political outrage and renewed scrutiny of his ties to the crypto industry.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345812/rep-maxine-waters-blasts-trump-pardon-of-binance-founder",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1adb337c479b",
-          "time": "05:00",
-          "category": "Markets",
-          "title": "Missing This Could Cost You $625,000 in Retirement, Says BlackRock",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/blackrock-says-workers-without-may-110000559.html",
           "tags": [],
           "impact_score": 1
         }
