@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T00:45+01:00",
+  "generated_at": "2025-10-26T00:56+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -307,17 +307,6 @@
           "impact_score": 2
         },
         {
-          "id": "a899f29aa9b3",
-          "time": "15:55",
-          "category": "Markets",
-          "title": "Moody’s Puts France on Watch for a Credit Downgrade. Why It’s Become a ‘Hot Mess.’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/france-credit-rating-downgrade-moodys-700510c5?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "8ed67cf8dd22",
           "time": "14:05",
           "category": "Crypto",
@@ -589,28 +578,6 @@
           "impact_score": 1
         },
         {
-          "id": "d7dc3d990bbc",
-          "time": "16:00",
-          "category": "Markets",
-          "title": "After a Massive 207.5% Run-Up, Is This AI Stock Still a Buy?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/massive-207-5-run-ai-150002788.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "26f7f7f12ab2",
-          "time": "16:00",
-          "category": "Markets",
-          "title": "A new 401(k) rule is coming in 2026 for millions of high-earning Americans — what to know if you’re in this group",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/401-k-rule-coming-2026-150000299.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "13122985c8d7",
           "time": "15:00",
           "category": "Crypto",
@@ -816,6 +783,39 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/public-enterprise-group-peg-price-045740758.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "38be369dd989",
+          "time": "05:57",
+          "category": "Markets",
+          "title": "Evergy (EVRG) – One of the Best Utility Stocks to Buy for Dividends",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/evergy-evrg-one-best-utility-045723750.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e9da153fa8ae",
+          "time": "05:57",
+          "category": "Markets",
+          "title": "Clearway Energy (CWEN) Receives an Updated Price Target from CIBC",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/clearway-energy-cwen-receives-updated-045709865.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a9625fa49aba",
+          "time": "05:56",
+          "category": "Markets",
+          "title": "Jeffries Raises its Price Target on OGE Energy (OGE)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jeffries-raises-price-target-oge-045635328.html",
           "tags": [],
           "impact_score": 1
         },
