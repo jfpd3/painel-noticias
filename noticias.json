@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T10:56+01:00",
+  "generated_at": "2025-10-25T11:38+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -84,6 +84,28 @@
             "ETH"
           ],
           "impact_score": 2
+        },
+        {
+          "id": "02f135f2e583",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Mortgage and refinance interest rates today, October 25, 2025: A click lower, a tick higher",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-october-25-2025-100041325.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2645090b5559",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Best money market account rates today, October 25, 2025 (best account provides 4.26% APY)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-october-25-2025-100008708.html",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "6fb5555453c4",
@@ -349,6 +371,19 @@
           "impact_score": 3
         },
         {
+          "id": "9aa8c4a3e2b7",
+          "time": "10:07",
+          "category": "Crypto",
+          "title": "[LIVE] Crypto News Today, October 24 – BNB Rallies After CZ Pardon, BTC Price Reclaims $110K and Everyone Is Waiting for CPI Data: Is Uptober Finally Here?! Best Crypto to Buy",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/live-crypto-news-today-october-090727643.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 3
+        },
+        {
           "id": "301999137764",
           "time": "09:48",
           "category": "Markets",
@@ -367,31 +402,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/24/ai-miners-surge-pre-market-on-record-usd38b-oracle-data-center-deal-boosts-sector",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "47d7ad365826",
-          "time": "07:07",
-          "category": "Crypto",
-          "title": "Nearly $6 Billion in Bitcoin and Ethereum Options Expire Ahead of September CPI",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nearly-6-billion-bitcoin-ethereum-060722323.html",
-          "tags": [
-            "BTC",
-            "ETH"
-          ],
-          "impact_score": 3
-        },
-        {
-          "id": "a836be898437",
-          "time": "06:58",
-          "category": "Earnings",
-          "title": "Safran Raises Outlook, Forecasts Residual Tariff Hit",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/retail/safran-raises-outlook-forecasts-residual-tariff-hit-e34b38f7?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 3
         },
@@ -700,6 +710,28 @@
           "impact_score": 2
         },
         {
+          "id": "2a8159f0fe75",
+          "time": "10:30",
+          "category": "Markets",
+          "title": "Hong Kong life insurance sales hit record US$22.3 billion on high-net-worth demand",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/hong-kong-life-insurance-sales-093000608.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "e925e7f866bc",
+          "time": "10:28",
+          "category": "Markets",
+          "title": "Oil Prices Dip After Rallying on U.S. Russia Sanctions",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102425/card/oil-prices-dip-after-rallying-on-u-s-russia-sanctions-f6tqDC93eEV0c9n55eu7?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "bd64da74dcd2",
           "time": "10:14",
           "category": "Earnings",
@@ -743,6 +775,20 @@
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/know-ahead-axon-enterprise-earnings-090821141.html",
           "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "76c3b551f9a4",
+          "time": "10:07",
+          "category": "Crypto",
+          "title": "JPMorgan to Allow Bitcoin and Ether as Collateral in Crypto Push",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jpmorgan-allow-bitcoin-ether-collateral-090756088.html",
+          "tags": [
+            "BTC",
+            "ETH"
+          ],
           "impact_score": 2
         },
         {
@@ -821,107 +867,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/chevron-earnings-preview-expect-065132174.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "5727fa2d5d93",
-          "time": "07:47",
-          "category": "Earnings",
-          "title": "Earnings Preview: What To Expect From Cboe Global Markets’ Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/earnings-preview-expect-cboe-global-064751588.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "3b6fa8c12e62",
-          "time": "07:44",
-          "category": "Earnings",
-          "title": "Here's What to Expect From T. Rowe Price Group's Next Earnings Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/heres-expect-t-rowe-price-064401858.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "b9af3e2756b0",
-          "time": "07:40",
-          "category": "Earnings",
-          "title": "LyondellBasell Industries’ Quarterly Earnings Preview: What You Need to Know",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/lyondellbasell-industries-quarterly-earnings-preview-064030200.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "96f25d26a160",
-          "time": "07:37",
-          "category": "Earnings",
-          "title": "Exxon Mobil's Q3 2025 Earnings: What to Expect",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/exxon-mobils-q3-2025-earnings-063723249.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "abeba967e95f",
-          "time": "07:36",
-          "category": "Markets",
-          "title": "Pressure grows on Europe to act on Chinese import surge",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/pressure-grows-europe-act-chinese-063601234.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "8fa7e2739de6",
-          "time": "07:11",
-          "category": "Crypto",
-          "title": "Bitcoin’s Rally Cools as Traders Hedge the Heat",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bitcoin-rally-cools-traders-hedge-061127221.html",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "175698c6b19a",
-          "time": "06:30",
-          "category": "Earnings",
-          "title": "Microsoft Stock Has Barely Budged Since July. Earnings Are About to Change That.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/microsoft-stock-flat-earnings-change-apple-a6e2ad2e?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "9382b43f0c6d",
-          "time": "06:28",
-          "category": "Markets",
-          "title": "Oil Prices Set to End the Week Higher After U.S. Sanctions Spark Rally",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/oil-prices-set-end-week-052830328.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "a0eef673ddc2",
-          "time": "06:21",
-          "category": "US Macro",
-          "title": "Wall Street hits records following an encouraging update on inflation",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/asian-shares-rise-white-house-052144341.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1159,6 +1104,17 @@
           "impact_score": 1
         },
         {
+          "id": "ec67a8de4742",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Best high-yield savings interest rates today, October 24, 2025 (up to 4.25% APY return)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-october-24-2025-100049791.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "a4daa522f15d",
           "time": "11:00",
           "category": "US Macro",
@@ -1181,6 +1137,17 @@
           "impact_score": 1
         },
         {
+          "id": "920765aa0145",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Best CD rates today, October 24, 2025 (up to 4.1% APY return)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-october-24-2025-100017058.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "118e802ffa98",
           "time": "11:00",
           "category": "US Macro",
@@ -1188,6 +1155,72 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-october-24-2025-100009224.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4c111cd73c57",
+          "time": "11:00",
+          "category": "Markets",
+          "title": "Is It Better to Take a $150k Lump Sum or $1,200 Monthly From My Pension?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/150-000-lump-sum-1-132703238.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "eba129958946",
+          "time": "10:37",
+          "category": "Markets",
+          "title": "Dave Ramsey says this purchase can keep Americans from moving up from middle class How you can build real wealth instead",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/dave-ramsey-says-purchase-keep-093700694.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "107bc2c6e6f0",
+          "time": "10:32",
+          "category": "Earnings",
+          "title": "NatWest Shares Rise After Strong Customer Activity Boosts Results",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/earnings/natwest-lifts-guidance-again-after-strong-customer-activity-boosts-quarter-5add946a?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c00256317499",
+          "time": "10:30",
+          "category": "Markets",
+          "title": "China Future Tech webinar: how Nexperia got caught in the US-China rivalry",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/china-future-tech-webinar-nexperia-093000472.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "080cb7031a34",
+          "time": "10:15",
+          "category": "Markets",
+          "title": "2 Things Investors Should Know About Eli Lilly's $5 Billion Investment to Improve Its Drug Production Capacity",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/2-things-investors-know-eli-091500286.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5dc272bc90d1",
+          "time": "10:15",
+          "category": "Markets",
+          "title": "Is IBM Stock a Buy?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ibm-stock-buy-091500085.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1203,6 +1236,61 @@
           "impact_score": 1
         },
         {
+          "id": "dbfd0e9f13e5",
+          "time": "10:11",
+          "category": "Markets",
+          "title": "G Mining starts construction of Oko West gold project in Guyana",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/g-mining-starts-construction-oko-091136877.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0b7d87534764",
+          "time": "10:10",
+          "category": "Markets",
+          "title": "Hyundai supports renewed US-South Korea trade talks",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/hyundai-supports-renewed-us-south-091010265.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "73bcde5a4c97",
+          "time": "10:10",
+          "category": "Markets",
+          "title": "Here's Why Robinhood Stock Is a Buy Before Nov. 5",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/heres-why-robinhood-stock-buy-091000515.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "229cc02667ea",
+          "time": "10:06",
+          "category": "Markets",
+          "title": "3 Top Artificial Intelligence (AI) Stocks Ready for a Bull Run",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/3-top-artificial-intelligence-ai-090600446.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "fce328d6070e",
+          "time": "10:05",
+          "category": "Markets",
+          "title": "Larger tax refunds in 2026 expected, thanks to Trump tax law and IRS delay: Economist",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/larger-tax-refunds-2026-expected-090521974.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "e99325a4ede0",
           "time": "09:33",
           "category": "US Macro",
@@ -1210,17 +1298,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/economy/global-markets-rise-u-s-inflation-data-eyed-gold-oil-down-168e6394?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "384a3213e338",
-          "time": "09:30",
-          "category": "Markets",
-          "title": "Has Lululemon Stock Bottomed Out?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/lululemon-stock-bottomed-083000179.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1258,39 +1335,6 @@
           "impact_score": 1
         },
         {
-          "id": "f22b6b998a1e",
-          "time": "08:20",
-          "category": "Markets",
-          "title": "2 Consumer Goods Stocks to Buy Now",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/2-consumer-goods-stocks-buy-072000594.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ad046174fb2d",
-          "time": "08:15",
-          "category": "Markets",
-          "title": "Down 20%, Should You Buy Nebius Group Right Now?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/down-20-buy-nebius-group-071500049.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "46f77e1a6b55",
-          "time": "08:06",
-          "category": "Markets",
-          "title": "This Is the Biggest Threat to Quantum Computing Stocks IonQ, Rigetti Computing, and D-Wave Quantum That Virtually No One Is Talking About",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/biggest-threat-quantum-computing-stocks-070600133.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "80b5ee6dd977",
           "time": "08:00",
           "category": "Markets",
@@ -1298,105 +1342,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/ask-advisor-im-highest-tax-150037357.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "dede23217932",
-          "time": "07:54",
-          "category": "Crypto",
-          "title": "Fidelity Expands Into Solana as Analysts Predict $500 Breakout",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/fidelity-expands-solana-analysts-predict-065456097.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f60627f7e7b4",
-          "time": "07:43",
-          "category": "Markets",
-          "title": "Bitget CEO Says Altcoin Season Won’t Return Until 2026 — If Ever",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bitget-ceo-says-altcoin-season-064338804.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3cff3cb6d726",
-          "time": "07:42",
-          "category": "Markets",
-          "title": "UBS Names New Chief Operating Officer in Executive Team Reshuffle",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ubs-names-chief-operating-officer-064200477.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "bbb1dcf9a028",
-          "time": "07:30",
-          "category": "Markets",
-          "title": "Eni Increases Buyback, Cost-Savings Target",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/earnings/eni-increases-buyback-cost-savings-target-019a3326?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "193063033919",
-          "time": "07:19",
-          "category": "Markets",
-          "title": "Intel shares jump as investments, cost cuts catapult turnaround efforts",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/intel-shares-nearly-10-third-061922195.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ffba9044e8fe",
-          "time": "07:00",
-          "category": "Earnings",
-          "title": "NextEra Energy Declares Quarterly Dividend",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nextera-energy-declares-quarterly-dividend-060000423.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "995fb9733717",
-          "time": "06:09",
-          "category": "Markets",
-          "title": "Analysis-Porsche's new CEO will inherit old problems",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/analysis-porsches-ceo-inherit-old-050939009.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "32f3f6743c97",
-          "time": "06:09",
-          "category": "Markets",
-          "title": "U.K. Car Manufacturing Hit by Jaguar Land Rover Cyberattack in September",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/autos/u-k-car-manufacturing-hit-by-jaguar-land-rover-cyberattack-in-september-db0d9ea6?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1a7805d9c036",
-          "time": "06:04",
-          "category": "Markets",
-          "title": "Analysis-Investors use dotcom era playbook to dodge AI bubble risks",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/analysis-investors-dotcom-era-playbook-050404071.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1549,6 +1494,17 @@
           "summary": "Coins and tokens linked to crypto mogul Changpeng Zhao and President Trump jumped in price following news of the latest pardon.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345747/bnb-world-liberty-jump-trump-binance-founder",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0e804b5d37d7",
+          "time": "20:32",
+          "category": "US Macro",
+          "title": "How soaring national debt impacts mortgage rates and the housing market",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-national-debt-impacts-housing-market-and-mortgage-rates-193244911.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1847,6 +1803,17 @@
           "summary": "Singapore, Singapore, 20th October 2025, Chainwire",
           "source": "Analysis RSS | CCN.com",
           "url": "https://www.ccn.com/jupiter-launches-ultra-v3-the-ultimate-trading-engine-for-solana/",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "feeeacdad05b",
+          "time": "13:53",
+          "category": "Markets",
+          "title": "Gold price today, Friday, October 24: Gold opens at $4,144 after Trump ends trade talks with Canada",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-october-24-gold-opens-at-4144-after-trump-ends-trade-talks-with-canada-125354307.html",
           "tags": [],
           "impact_score": 1
         },
