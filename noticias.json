@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T04:57+01:00",
+  "generated_at": "2025-10-25T05:42+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -944,28 +944,6 @@
           "url": "https://www.coindesk.com/markets/2025/10/24/doge-breaks-usd0-195-level-on-heavy-trade-wyckoff-setup-points-to-next-leg-higher",
           "tags": [],
           "impact_score": 1
-        },
-        {
-          "id": "3709ff6f476b",
-          "time": "00:10",
-          "category": "Markets",
-          "title": "Target to cut 1,800 corporate roles in turnaround effort",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/target-cut-1-800-corporate-231018232.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "dbc1742c2d94",
-          "time": "00:00",
-          "category": "Markets",
-          "title": "Post-OPEC Angola: The Quota’s Gone, the Decline Isn’t",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/post-opec-angola-quota-gone-230000467.html",
-          "tags": [],
-          "impact_score": 1
         }
       ]
     },
@@ -1191,6 +1169,41 @@
           "impact_score": 2
         },
         {
+          "id": "1d6daef5b3f9",
+          "time": "21:57",
+          "category": "Markets",
+          "title": "Super Micro Computer Stock Drops As Projects Delayed",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/smci-stock-drops-supermicro-projects-delayed/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "4e34f7f8b693",
+          "time": "21:50",
+          "category": "Crypto",
+          "title": "Union Pacific Earnings Were Solid. Investors Care About Something Else.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/union-pacific-earnings-stock-67b872f7?siteid=yhoof2&yptr=yahoo",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "33ad3493e608",
+          "time": "21:48",
+          "category": "Earnings",
+          "title": "Tesla Stock Finishes Session Higher After Earnings Miss",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/livecoverage/tesla-earnings-stock-price-elon-musk-news/card/tesla-stock-finishes-session-higher-after-earnings-miss-tU6W8f6e7nJn53rJrMng?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "48b9f998c184",
           "time": "21:07",
           "category": "Crypto",
@@ -1261,17 +1274,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/dividend-stocks-buy-income-investing-46818922?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "7933fbf92d65",
-          "time": "23:49",
-          "category": "US Macro",
-          "title": "How Trump Sparked a New Era of State Capitalism",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/intel-mp-materials-trump-stakes-state-capitalism-68202494?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
