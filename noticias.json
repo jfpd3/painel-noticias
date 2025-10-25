@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-25T22:56+01:00",
+  "generated_at": "2025-10-25T23:36+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-25",
       "attention_points": [
+        "SoftBank approves remaining $22.5 billion of OpenAI investment, the Information reports",
         "Trump Names SEC Crypto Task Force Head Selig as Next Nominee to Run U.S. CFTC",
-        "First U.S. Spot XRP ETF Surpasses $100M in Assets Under Management",
-        "Georgia woman’s husband keeps her in the dark about their finances — Dave Ramsey says to act now or ‘shut up about it’"
+        "First U.S. Spot XRP ETF Surpasses $100M in Assets Under Management"
       ],
       "items": [
+        {
+          "id": "b9f47275dacf",
+          "time": "22:11",
+          "category": "Markets",
+          "title": "SoftBank approves remaining $22.5 billion of OpenAI investment, the Information reports",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/softbank-approves-remaining-22-5-211139146.html",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "b1a34d07bebc",
           "time": "21:53",
@@ -29,6 +40,17 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/25/first-u-s-spot-xrp-etf-surpasses-usd100m-in-assets-under-management",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "f02639ff09d0",
+          "time": "21:00",
+          "category": "Markets",
+          "title": "First U.S. Spot XRP ETF Surpasses $100M in Assets Under Management",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/first-u-spot-xrp-etf-200003320.html",
           "tags": [],
           "impact_score": 3
         },
@@ -114,6 +136,17 @@
           "impact_score": 3
         },
         {
+          "id": "fbb823724af4",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Netflix: “I Think This Sell-Off is an Overreaction”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-netflix-think-sell-044455150.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "4020d0f15b06",
           "time": "03:09",
           "category": "Crypto",
@@ -171,19 +204,6 @@
           "url": "https://finance.yahoo.com/news/elon-musks-spacex-shakes-bitcoin-191617879.html",
           "tags": [
             "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "e66e9cd6a2e4",
-          "time": "20:00",
-          "category": "Crypto",
-          "title": "I Asked ChatGPT Whether Downsizing Saves Money in Retirement: Here’s What It Said",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/asked-chatgpt-whether-downsizing-saves-090101547.html",
-          "tags": [
-            "ETH"
           ],
           "impact_score": 2
         },
@@ -330,17 +350,6 @@
           "impact_score": 2
         },
         {
-          "id": "5063e029fd2f",
-          "time": "02:36",
-          "category": "Earnings",
-          "title": "Church & Dwight's Quarterly Earnings Preview: What You Need to Know",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/church-dwights-quarterly-earnings-preview-013649200.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "b5154c4d546f",
           "time": "01:16",
           "category": "Crypto",
@@ -353,6 +362,50 @@
             "ETH"
           ],
           "impact_score": 2
+        },
+        {
+          "id": "9202e38026f5",
+          "time": "23:05",
+          "category": "Markets",
+          "title": "Exxon sues California over climate disclosure laws",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/exxon-sues-california-over-climate-220521266.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d1d16bb87027",
+          "time": "23:02",
+          "category": "Markets",
+          "title": "Predition: This Supercharged Growth Stock Will Soar to $10 Trillion By 2030",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/predition-supercharged-growth-stock-soar-220200751.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d5bf76830c8f",
+          "time": "22:44",
+          "category": "Markets",
+          "title": "ExxonMobil sues California over climate disclosure laws",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/exxonmobil-sues-california-over-climate-214436516.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "22:36",
+          "category": "Markets",
+          "title": "Dow Jones Futures: From AAPL To Xi, Get Ready For A Huge Market Week",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-apple-microsoft-meta-earnings-fed-meeting-trump-xi/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "fc631d719662",
@@ -421,28 +474,6 @@
           "impact_score": 1
         },
         {
-          "id": "56d4736de61f",
-          "time": "20:56",
-          "category": "Markets",
-          "title": "Exxon sues California over climate disclosure laws",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/exxon-sues-california-over-climate-195659671.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "20:25",
-          "category": "Markets",
-          "title": "Dow Jones Futures: From AAPL To Xi, Get Ready For A Huge Market Week",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-apple-microsoft-meta-earnings-fed-meeting-trump-xi/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "f1c6247dafaa",
           "time": "20:18",
           "category": "Markets",
@@ -450,17 +481,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/trump-refilling-strategic-petroleum-big-191857738.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4bb130b475b5",
-          "time": "20:13",
-          "category": "Markets",
-          "title": "Goldman Sachs revisits gold price target for 2026",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/goldman-sachs-revisits-gold-price-191300756.html",
           "tags": [],
           "impact_score": 1
         },
@@ -641,17 +661,6 @@
           "impact_score": 1
         },
         {
-          "id": "f61ba559286c",
-          "time": "14:13",
-          "category": "Markets",
-          "title": "These self-made millionaires dish on the 5 habits that helped them to retire early — are you undermining your efforts?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/self-made-millionaires-dish-5-131300366.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "df7a72651774",
           "time": "14:00",
           "category": "Markets",
@@ -729,13 +738,46 @@
           "impact_score": 1
         },
         {
-          "id": "698c9c2edabb",
-          "time": "05:44",
+          "id": "a48b483ada32",
+          "time": "05:45",
           "category": "Markets",
-          "title": "Jim Cramer Says He is “Going to Recommend Buying BILL Holdings”",
+          "title": "Jim Cramer on Tecogen: “I Kind of Like This One, but it’s Really Speculative”",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-going-recommend-044444443.html",
+          "url": "https://finance.yahoo.com/news/jim-cramer-tecogen-kind-one-044502878.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5ee0dc0d673d",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer Says “No, Thank You” to AST SpaceMobile",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-no-thank-044457863.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "42da5c044231",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Thermo Fisher: “Maybe This Stock Can Finally Get its Groove Back”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-thermo-fisher-maybe-044454564.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "68c41639ec8d",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer Says “GE Vernova is a Very Important Company”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-ge-vernova-044446536.html",
           "tags": [],
           "impact_score": 1
         },
@@ -747,17 +789,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/jim-cramer-uranium-energy-don-044443188.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5d478d7129bc",
-          "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer on Warner Bros: “I Think You Gotta Hold Onto It”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-warner-bros-think-044437464.html",
           "tags": [],
           "impact_score": 1
         },
@@ -791,28 +822,6 @@
           "summary": "Ripple has completed its acquisition of Hidden Road, a move that will expand its fintech services for institutional clients and boost the utility and reach of its RLUSD stablecoin.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/ripple-closes-fintech-hidden-road-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "859108295e0c",
-          "time": "03:04",
-          "category": "Markets",
-          "title": "Delta, Aeromexico ask court to block Trump order forcing end to JV",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/delta-aeromexico-ask-court-block-020412211.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b8064c46d067",
-          "time": "03:00",
-          "category": "Markets",
-          "title": "Why Bubbles Can Keep Inflating in Plain Sight",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/stocks/why-bubbles-can-keep-inflating-in-plain-sight-a4af6aef?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -1549,17 +1558,6 @@
           "summary": "Cryptomus has been fined $126 million for failing to report thousands of high-risk transactions tied to child abuse, ransomware, and Iran-linked transfers.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345719/canada-hits-crypto-firm-with-126-million-fine",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b6b0a8ebd895",
-          "time": "19:57",
-          "category": "Markets",
-          "title": "When raiding your retirement to pay off debt might be a good idea",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/when-raiding-your-retirement-to-pay-off-debt-might-be-a-good-idea-185709794.html",
           "tags": [],
           "impact_score": 1
         },
