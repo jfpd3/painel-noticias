@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-25T20:59+01:00",
+  "generated_at": "2025-10-25T21:08+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-25",
       "attention_points": [
+        "First U.S. Spot XRP ETF Surpasses $100M in Assets Under Management",
         "Georgia woman’s husband keeps her in the dark about their finances — Dave Ramsey says to act now or ‘shut up about it’",
-        "My husband wants to buy a $60K truck — but we’re $30K in debt and saving for a house. How do we get on the same page?",
-        "I have $12K in my checking account and I was told by my bank that's too much"
+        "My husband wants to buy a $60K truck — but we’re $30K in debt and saving for a house. How do we get on the same page?"
       ],
       "items": [
+        {
+          "id": "42d1ca54040d",
+          "time": "21:00",
+          "category": "Crypto",
+          "title": "First U.S. Spot XRP ETF Surpasses $100M in Assets Under Management",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/25/first-u-s-spot-xrp-etf-surpasses-usd100m-in-assets-under-management",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "0bad03b8e912",
           "time": "20:00",
@@ -946,19 +957,6 @@
           "tags": [
             "BTC",
             "ETH"
-          ],
-          "impact_score": 3
-        },
-        {
-          "id": "ba5aa33d7ae2",
-          "time": "13:36",
-          "category": "Crypto",
-          "title": "U.S. CPI Rose Softer Than Expected 0.3% in September; Bitcoin Adds to Gains",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/23/u-s-cpi-rose-softer-than-expected-0-3-in-september-bitcoin-adds-to-gains",
-          "tags": [
-            "BTC"
           ],
           "impact_score": 3
         },
