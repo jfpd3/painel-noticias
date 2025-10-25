@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T12:29+01:00",
+  "generated_at": "2025-10-25T12:44+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -708,6 +708,17 @@
           "impact_score": 2
         },
         {
+          "id": "30e7c81048e0",
+          "time": "11:00",
+          "category": "Earnings",
+          "title": "Sonoco lowers full-year guidance, notes ‘targeted restructuring’ in Mexico, Europe",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/sonoco-lowers-full-guidance-notes-100000356.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "2a8159f0fe75",
           "time": "10:30",
           "category": "Markets",
@@ -1165,6 +1176,39 @@
           "impact_score": 1
         },
         {
+          "id": "2a8b680ba946",
+          "time": "11:00",
+          "category": "Markets",
+          "title": "1 Underrated Reason to Buy This Trillion-Dollar Artificial Intelligence (AI) Stock",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/1-underrated-reason-buy-trillion-100000987.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1948a7cc5c9a",
+          "time": "11:00",
+          "category": "Markets",
+          "title": "CFOs On the Move: Week ending Oct. 24",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/cfos-move-week-ending-oct-100000029.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c7cfd2f315d1",
+          "time": "10:59",
+          "category": "Markets",
+          "title": "How Investors Stockpiled Stellar (XLM) Despite Falling Prices in October",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/investors-stockpiled-stellar-xlm-despite-095916304.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "e45829884057",
           "time": "10:59",
           "category": "Markets",
@@ -1220,28 +1264,6 @@
           "impact_score": 1
         },
         {
-          "id": "1b0ec92f9974",
-          "time": "10:45",
-          "category": "Markets",
-          "title": "If I Could Only Buy and Hold a Single Stock, This Would Be It.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/could-only-buy-hold-single-094500261.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "25d127a9be24",
-          "time": "10:45",
-          "category": "Markets",
-          "title": "CEO of IT firm with 350K workers says AI will create more entry level jobs—and he’s recruiting liberal arts graduates",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ceo-firm-350k-workers-says-094500420.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "eba129958946",
           "time": "10:37",
           "category": "Markets",
@@ -1249,28 +1271,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/dave-ramsey-says-purchase-keep-093700694.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "676639c0299d",
-          "time": "10:33",
-          "category": "Markets",
-          "title": "Ebix launches ExposureHub in US",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ebix-launches-exposurehub-us-093327399.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5497950b883d",
-          "time": "10:33",
-          "category": "Markets",
-          "title": "Is the Artificial Intelligence (AI) Boom Turning Into a Bubble or Just Getting Started?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/artificial-intelligence-ai-boom-turning-093300835.html",
           "tags": [],
           "impact_score": 1
         },
