@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T23:47+01:00",
+  "generated_at": "2025-10-25T23:57+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -144,6 +144,17 @@
           "tags": [
             "ETH"
           ],
+          "impact_score": 3
+        },
+        {
+          "id": "fbb823724af4",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Netflix: “I Think This Sell-Off is an Overreaction”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-netflix-think-sell-044455150.html",
+          "tags": [],
           "impact_score": 3
         },
         {
@@ -373,6 +384,17 @@
           "impact_score": 1
         },
         {
+          "id": "925085bb6a33",
+          "time": "23:12",
+          "category": "Markets",
+          "title": "Every American Express (AXP) Investor Should Keep an Eye on This Number",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/every-american-express-axp-investor-221200772.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "9202e38026f5",
           "time": "23:05",
           "category": "Markets",
@@ -468,17 +490,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/north-america-set-cut-rates-200000572.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f1c6247dafaa",
-          "time": "20:18",
-          "category": "Markets",
-          "title": "Trump Refilling Strategic Petroleum Reserve – Big Oil Could Benefit",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/trump-refilling-strategic-petroleum-big-191857738.html",
           "tags": [],
           "impact_score": 1
         },
@@ -725,6 +736,17 @@
           "impact_score": 1
         },
         {
+          "id": "42da5c044231",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Thermo Fisher: “Maybe This Stock Can Finally Get its Groove Back”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-thermo-fisher-maybe-044454564.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "8772cb0ff12f",
           "time": "05:44",
           "category": "Markets",
@@ -780,35 +802,13 @@
           "impact_score": 1
         },
         {
-          "id": "5d478d7129bc",
+          "id": "38475796c217",
           "time": "05:44",
           "category": "Markets",
-          "title": "Jim Cramer on Warner Bros: “I Think You Gotta Hold Onto It”",
+          "title": "Jim Cramer Says Constellation Energy is a Good Company but “It’s Up Too Much”",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-warner-bros-think-044437464.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "2e564da230b1",
-          "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer on Automatic Data Processing: “It is an Excellent Company”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-automatic-data-processing-044435550.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1f6dc02bd57c",
-          "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer on Paypal: “He Has Gotta Start Delivering Numbers”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-paypal-gotta-start-044434541.html",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-constellation-energy-044440561.html",
           "tags": [],
           "impact_score": 1
         },
