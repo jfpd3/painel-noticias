@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T06:40+01:00",
+  "generated_at": "2025-10-25T06:49+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -298,6 +298,28 @@
           "tags": [
             "BTC"
           ],
+          "impact_score": 3
+        },
+        {
+          "id": "f9dd26212098",
+          "time": "03:03",
+          "category": "Markets",
+          "title": "Reversal of weak dollar may test Asia's resilience to tariffs, IMF says",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/reversal-weak-dollar-may-test-020315956.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "62a0fa62215b",
+          "time": "02:19",
+          "category": "Earnings",
+          "title": "Boston Beer Boosts Full-Year Profit Outlook, Sees Lower Tariff Risk",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/earnings/boston-beer-boosts-full-year-profit-outlook-sees-lower-tariff-risk-ba4c69f4?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
           "impact_score": 3
         },
         {
@@ -726,6 +748,17 @@
           "impact_score": 2
         },
         {
+          "id": "3da5c470de51",
+          "time": "02:00",
+          "category": "Earnings",
+          "title": "Strong Earnings Reassure Jittery, Data-Deprived Investors",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/finance/stocks/strong-earnings-us-economy-86f5fd79?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "fc21e581ac5c",
           "time": "22:31",
           "category": "Crypto",
@@ -968,6 +1001,17 @@
           "impact_score": 1
         },
         {
+          "id": "8d556024cff1",
+          "time": "01:38",
+          "category": "Markets",
+          "title": "South Korea's economy grew modestly in Q3 as exports, consumption stay resilient: Reuters poll",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/south-koreas-economy-grew-modestly-003836775.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "aa77f127aed0",
           "time": "01:00",
           "category": "Markets",
@@ -1112,6 +1156,30 @@
           "impact_score": 3
         },
         {
+          "id": "fb93edb6ab86",
+          "time": "23:41",
+          "category": "Crypto",
+          "title": "Ethereum Price Prediction: Is ETH’s Technical Breakout Real or Another Bull Trap Above $3,800?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ethereum-price-prediction-eth-technical-224156701.html",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "1641b2e386fd",
+          "time": "23:39",
+          "category": "Markets",
+          "title": "Beyond Meat is falling back to earth after rallying 1,300% — but the damage has already been done to short-sellers",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/beyond-meat-falling-back-earth-223916519.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "7f6e4c0b4683",
           "time": "23:33",
           "category": "Earnings",
@@ -1145,17 +1213,6 @@
           "impact_score": 2
         },
         {
-          "id": "5878c9ae5115",
-          "time": "23:21",
-          "category": "Earnings",
-          "title": "Boyd Gaming (BYD) Q3 2025 Earnings Call Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/boyd-gaming-byd-q3-2025-222154287.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "04ccda32c7b1",
           "time": "23:17",
           "category": "Earnings",
@@ -1164,19 +1221,6 @@
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/business/earnings/intel-intc-q3-earnings-report-2025-d2d9f65e?siteid=yhoof2&yptr=yahoo",
           "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "f7117b635270",
-          "time": "23:16",
-          "category": "Crypto",
-          "title": "China Is Third-Largest Contributor To Global Bitcoin Mining: Why It Matters",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/china-third-largest-contributor-global-221607958.html",
-          "tags": [
-            "BTC"
-          ],
           "impact_score": 2
         },
         {
@@ -1198,17 +1242,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/news/technology/intel-stock-intc-q3-2025-earnings-report/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "db300b05cd82",
-          "time": "22:05",
-          "category": "Markets",
-          "title": "Trading Day: US-China detente, oil surges",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/trading-day-us-china-detente-210518995.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1298,6 +1331,28 @@
           "impact_score": 1
         },
         {
+          "id": "43c3c448ec70",
+          "time": "23:45",
+          "category": "Crypto",
+          "title": "Trading legend Jon Najarian joins Solana DAT Upexi as advisor",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/trading-legend-jon-najarian-joins-224548381.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6f12199051dc",
+          "time": "23:42",
+          "category": "US Macro",
+          "title": "Gold's shine could be fading — and BNY says US stocks are the smarter inflation hedge",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/golds-shine-could-fading-mdash-224252926.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "01a6539a44f9",
           "time": "23:37",
           "category": "Markets",
@@ -1342,17 +1397,6 @@
           "impact_score": 1
         },
         {
-          "id": "f657e2b96eb4",
-          "time": "23:25",
-          "category": "Markets",
-          "title": "Why Garrett Motion Stock Skyrocketed Today",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-garrett-motion-stock-skyrocketed-222539827.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "04cb9cc4685f",
           "time": "23:23",
           "category": "Markets",
@@ -1371,17 +1415,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/target-layoffs-2025-stock-price-f4511adf?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b7e21a59b510",
-          "time": "23:14",
-          "category": "Markets",
-          "title": "Making the Most of Medicare, and the Bull Market Turns 3",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/making-most-medicare-bull-market-221400390.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1503,28 +1536,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/business/autos/rivian-to-layoff-more-than-600-workers-amid-ev-pullback-03a792e5?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "a4435a14ccf3",
-          "time": "22:07",
-          "category": "Markets",
-          "title": "Applied Materials to Cut 4% of Global Workforce",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/tech/applied-materials-to-cut-4-of-global-workforce-6119ae43?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "667664f182e4",
-          "time": "22:07",
-          "category": "Markets",
-          "title": "Anthropic Expands Google Cloud Partnership to Access 1 Million Chips",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/tech/ai/anthropic-expands-google-cloud-partnership-to-access-1-million-chips-96eb4603?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
