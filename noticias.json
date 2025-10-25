@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T19:50+01:00",
+  "generated_at": "2025-10-25T20:01+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -710,17 +710,39 @@
           "url": "https://www.coindesk.com/markets/2025/10/25/ripple-prime-is-the-fintech-firm-s-one-stop-institutional-trading-and-financing-desk",
           "tags": [],
           "impact_score": 1
+        },
+        {
+          "id": "cb6d929d6dd9",
+          "time": "00:00",
+          "category": "Markets",
+          "title": "The 5 Highest-Yielding ‘Strong Buy’ Dividend Stocks To Own for Generations",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/5-highest-yielding-strong-buy-230002115.html",
+          "tags": [],
+          "impact_score": 1
         }
       ]
     },
     {
       "date": "2025-10-24",
       "attention_points": [
+        "The Fed Will Soon End QT to Avoid a Financial ‘Plumbing’ Problem",
         "Trump to nominate SEC's 'pro-crypto' Michael Selig as CFTC chair: Report",
-        "Trump Picks SEC Crypto Task Force’s Mike Selig to Run CFTC: Report",
-        "Custodia, Vantage Expand Pilot Into Live Tokenized Deposit Network for US Banks"
+        "Trump Picks SEC Crypto Task Force’s Mike Selig to Run CFTC: Report"
       ],
       "items": [
+        {
+          "id": "4a08235c9dd7",
+          "time": "23:53",
+          "category": "US Macro",
+          "title": "The Fed Will Soon End QT to Avoid a Financial ‘Plumbing’ Problem",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/federal-reserve-end-balance-sheet-reduction-fomc-qt-e5b340f4?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "031f0ba1f35b",
           "time": "23:03",
@@ -1208,28 +1230,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/corn-heads-lower-weekend-221316169.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e819c29c2ab1",
-          "time": "23:13",
-          "category": "Markets",
-          "title": "Soybeans Correct Back Lower Ahead of the Weekend",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/soybeans-correct-back-lower-ahead-221316025.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ed7d17956d12",
-          "time": "22:57",
-          "category": "Markets",
-          "title": "The U.S. and China Are Piling Up Trouble for Companies. Xi-Trump Talks Might Not Help.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/us-china-trade-talks-leverage-38a58f11?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
