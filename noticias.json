@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T08:01+01:00",
+  "generated_at": "2025-10-25T08:33+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -336,13 +336,59 @@
           "impact_score": 3
         },
         {
-          "id": "f9dd26212098",
-          "time": "03:03",
+          "id": "a836be898437",
+          "time": "06:58",
+          "category": "Earnings",
+          "title": "Safran Raises Outlook, Forecasts Residual Tariff Hit",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/retail/safran-raises-outlook-forecasts-residual-tariff-hit-e34b38f7?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "1bc618e4942b",
+          "time": "03:25",
+          "category": "Regulation",
+          "title": "Asia Morning Briefing: After CZ’s Pardon, Odds Rise for Sam Bankman-Fried’s Second Chance",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/asia-morning-briefing-cz-pardon-022502887.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "ad265d73493f",
+          "time": "03:09",
           "category": "Markets",
           "title": "Reversal of weak dollar may test Asia's resilience to tariffs, IMF says",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/reversal-weak-dollar-may-test-020315956.html",
+          "url": "https://finance.yahoo.com/news/reversal-weak-dollar-may-test-020902622.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "ceb53e5c89b4",
+          "time": "02:38",
+          "category": "Crypto",
+          "title": "Tether Backs Pave Bank in $39M Raise to Expand Crypto-Friendly Banking",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/tether-backs-pave-bank-39m-013859076.html",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 3
+        },
+        {
+          "id": "5a9c43796b67",
+          "time": "02:37",
+          "category": "Markets",
+          "title": "159-year-old whiskey brand facing Chapter 11 bankruptcy, asset sale",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/159-old-liquor-brand-faces-013700162.html",
           "tags": [],
           "impact_score": 3
         },
@@ -358,13 +404,13 @@
           "impact_score": 3
         },
         {
-          "id": "9e6861ca5ef2",
-          "time": "00:48",
+          "id": "712a3dbf8928",
+          "time": "00:54",
           "category": "Regulation",
           "title": "Rivian agrees to pay $250 million to settle IPO fraud lawsuit",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/rivian-agrees-pay-250-million-234807031.html",
+          "url": "https://finance.yahoo.com/news/rivian-agrees-pay-250-million-235423499.html",
           "tags": [],
           "impact_score": 3
         },
@@ -376,17 +422,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/business/autos/rivian-to-pay-250m-to-settle-lawsuit-over-vehicle-cost-disclosure-in-ipo-documents-58f61702?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "609b137cbe27",
-          "time": "00:37",
-          "category": "Earnings",
-          "title": "Veteran analyst takes surprising move on Netflix stock after earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/veteran-analyst-takes-surprising-move-233700751.html",
           "tags": [],
           "impact_score": 3
         },
@@ -732,6 +767,28 @@
           "impact_score": 2
         },
         {
+          "id": "96f25d26a160",
+          "time": "07:37",
+          "category": "Earnings",
+          "title": "Exxon Mobil's Q3 2025 Earnings: What to Expect",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/exxon-mobils-q3-2025-earnings-063723249.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "abeba967e95f",
+          "time": "07:36",
+          "category": "Markets",
+          "title": "Pressure grows on Europe to act on Chinese import surge",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/pressure-grows-europe-act-chinese-063601234.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "9af22b23b31c",
           "time": "07:11",
           "category": "Crypto",
@@ -742,6 +799,17 @@
           "tags": [
             "BTC"
           ],
+          "impact_score": 2
+        },
+        {
+          "id": "175698c6b19a",
+          "time": "06:30",
+          "category": "Earnings",
+          "title": "Microsoft Stock Has Barely Budged Since July. Earnings Are About to Change That.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/microsoft-stock-flat-earnings-change-apple-a6e2ad2e?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
           "impact_score": 2
         },
         {
@@ -802,16 +870,14 @@
           "impact_score": 2
         },
         {
-          "id": "2f5958345c52",
-          "time": "00:01",
-          "category": "Crypto",
-          "title": "Steak 'n Shake Commemorates 5 Months Of BTC Payments With Limited Edition 'Bitcoin Steakburgers'",
+          "id": "4e081bd1135b",
+          "time": "01:55",
+          "category": "Earnings",
+          "title": "Knowles (KN) Q3 2025 Earnings Call Transcript",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/steak-n-shake-commemorates-5-230113011.html",
-          "tags": [
-            "BTC"
-          ],
+          "url": "https://finance.yahoo.com/news/knowles-kn-q3-2025-earnings-005503046.html",
+          "tags": [],
           "impact_score": 2
         },
         {
@@ -1035,6 +1101,39 @@
           "impact_score": 1
         },
         {
+          "id": "bbb1dcf9a028",
+          "time": "07:30",
+          "category": "Markets",
+          "title": "Eni Increases Buyback, Cost-Savings Target",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/earnings/eni-increases-buyback-cost-savings-target-019a3326?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "193063033919",
+          "time": "07:19",
+          "category": "Markets",
+          "title": "Intel shares jump as investments, cost cuts catapult turnaround efforts",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/intel-shares-nearly-10-third-061922195.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ffba9044e8fe",
+          "time": "07:00",
+          "category": "Earnings",
+          "title": "NextEra Energy Declares Quarterly Dividend",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/nextera-energy-declares-quarterly-dividend-060000423.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "995fb9733717",
           "time": "06:09",
           "category": "Markets",
@@ -1090,6 +1189,17 @@
           "impact_score": 1
         },
         {
+          "id": "058857e5770e",
+          "time": "04:07",
+          "category": "Markets",
+          "title": "AI Agents Create Enormous Opportunity — and Risk",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ai-agents-create-enormous-opportunity-030700577.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "90ae37d64af5",
           "time": "04:05",
           "category": "Markets",
@@ -1108,6 +1218,50 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/business/entrepreneurship/military-tech-companies-long-snubbed-in-europe-are-having-a-moment-0ffb2cf0?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "07b7ca2fb3fb",
+          "time": "03:31",
+          "category": "Earnings",
+          "title": "CoreWeave Is 'Frightening... It's Unbelievable,' Says Expert, Expecting Its Revenue To Multiply Nearly 5x By 2028",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/coreweave-frightening-unbelievable-says-expert-023133241.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "71c9ec9e7b9e",
+          "time": "03:29",
+          "category": "Crypto",
+          "title": "Woman Repeatedly Warned by Canadian Exchange Not to Transfer Crypto, Gets Scammed Anyway",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/woman-repeatedly-warned-canadian-exchange-022905962.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4a58576da3d7",
+          "time": "03:01",
+          "category": "Markets",
+          "title": "Here's How You Can Earn $100 In Passive Income By Investing In Iron Mountain Stock",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/heres-earn-100-passive-income-020104520.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5bff19436b82",
+          "time": "02:31",
+          "category": "Crypto",
+          "title": "Trump Pardons Binance Founder Changpeng Zhao, 'Ending Biden Administration's War On Crypto'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/trump-pardons-binance-founder-changpeng-013104095.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1134,17 +1288,6 @@
           "impact_score": 1
         },
         {
-          "id": "b96f8db3a8ee",
-          "time": "00:53",
-          "category": "Markets",
-          "title": "Blackstone's Steve Schwarzman says efforts to link credit crackups to private credit are 'misinformation'",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/blackstones-steve-schwarzman-says-efforts-235328105.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "bdfe52cfcf78",
           "time": "00:39",
           "category": "Markets",
@@ -1152,17 +1295,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/target-eliminating-1-800-corporate-233922300.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "33741b6e04a7",
-          "time": "00:37",
-          "category": "Markets",
-          "title": "Why Avery Dennison Stock Was Rocking It This Week",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-avery-dennison-stock-rocking-233724410.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1189,17 +1321,6 @@
           "impact_score": 1
         },
         {
-          "id": "0b0c4b9f306e",
-          "time": "00:03",
-          "category": "Markets",
-          "title": "Why Applied Digital Stock Skyrocketed Today",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-applied-digital-stock-skyrocketed-230317395.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "dbc1742c2d94",
           "time": "00:00",
           "category": "Markets",
@@ -1216,8 +1337,8 @@
       "date": "2025-10-23",
       "attention_points": [
         "Deckers Expects More Cautious Shoppers Due to Tariffs, Higher Prices",
-        "First Tech Federal Credit Union review (2025): Fee-free accounts and 24/7 member support",
-        "NY’s 'DQ Sisters' faced a $6M labor lawsuit they feared would ‘destroy’ them — now, their fight may protect other owners"
+        "OpenAI's ChatGPT Atlas Browser Has a Big Problem—How Crypto Users Can Protect Themselves",
+        "Revolut Secures MiCA License in Cyprus—Is a Stablecoin Next?"
       ],
       "items": [
         {
@@ -1228,28 +1349,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/business/earnings/deckers-second-quarter-profit-rises-on-higher-sales-for-hoka-ugg-9dbe50ca?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "f6ccfef529c0",
-          "time": "22:54",
-          "category": "US Macro",
-          "title": "First Tech Federal Credit Union review (2025): Fee-free accounts and 24/7 member support",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/banking/review/first-tech-federal-credit-union-review-215408280.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "9d411f59da42",
-          "time": "22:45",
-          "category": "Regulation",
-          "title": "NY’s 'DQ Sisters' faced a $6M labor lawsuit they feared would ‘destroy’ them — now, their fight may protect other owners",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ny-dq-sisters-faced-6m-214500028.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1289,19 +1388,6 @@
           "impact_score": 3
         },
         {
-          "id": "829e7d688830",
-          "time": "23:50",
-          "category": "Crypto",
-          "title": "Analyst who predicted ‘Liberation Day’ crash issues another Bitcoin prediction",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/analyst-predicted-liberation-day-crash-225051520.html",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "dbb8f44d6c9b",
           "time": "23:28",
           "category": "Crypto",
@@ -1309,17 +1395,6 @@
           "summary": "RAND Corporation's simulation has shed light on how a rogue AI could cripple U.S. infrastructure before humans could react.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345763/rand-warns-ai-driven-cyber-chaos-new-robot-insurgency-report",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "04ccda32c7b1",
-          "time": "23:17",
-          "category": "Earnings",
-          "title": "Intel Surges as First Earnings Report Since U.S. Investment Shows Momentum",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/earnings/intel-intc-q3-earnings-report-2025-d2d9f65e?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 2
         },
@@ -1398,17 +1473,6 @@
           "impact_score": 2
         },
         {
-          "id": "be8dfb3cf144",
-          "time": "23:59",
-          "category": "Markets",
-          "title": "'Transparency Will Help' in Private Credit: Oaktree PM",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/video/transparency-help-private-credit-oaktree-225938666.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "276742597a07",
           "time": "23:51",
           "category": "Markets",
@@ -1416,28 +1480,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/dividend-stocks-buy-income-investing-46818922?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "abe4a43d62ff",
-          "time": "23:50",
-          "category": "Markets",
-          "title": "Why Alcoa Stock Soared by Almost 13% on Thursday",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-alcoa-stock-soared-almost-225057471.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b12252ff0299",
-          "time": "23:49",
-          "category": "Crypto",
-          "title": "Solana Price Prediction: Is the Market Overreacting to Fidelity’s Solana Expansion?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/solana-price-prediction-market-overreacting-224949286.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1493,50 +1535,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/target-layoffs-2025-stock-price-f4511adf?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8c9adaf6dcc3",
-          "time": "23:13",
-          "category": "Markets",
-          "title": "Corrections & Amplifications",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/corrections-amplifications-78b67711?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "298d61e9328f",
-          "time": "22:59",
-          "category": "Markets",
-          "title": "Corn Hits One Month High on Thursday",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/corn-hits-one-month-high-215927716.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5d285edb3da4",
-          "time": "22:39",
-          "category": "US Macro",
-          "title": "Review & Preview: Inflation Data, Baby!",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/review-preview-inflation-data-baby-c0a3a354?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ae692d15e742",
-          "time": "22:37",
-          "category": "Markets",
-          "title": "Popularity of Leveraged Single-Stock Funds Exposes More Investors to Steep Losses",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2025/card/popularity-of-leveraged-single-stock-funds-exposes-more-investors-to-steep-losses-JUFW3IkhpdqZt0gI7bL0?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
