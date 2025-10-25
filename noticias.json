@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T18:47+01:00",
+  "generated_at": "2025-10-25T19:01+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -748,17 +748,6 @@
           "impact_score": 3
         },
         {
-          "id": "4a1141cf3def",
-          "time": "20:05",
-          "category": "US Macro",
-          "title": "Week Ahead for FX, Bonds: Fed Expected to Cut Rates; U.S.-China Talks Eyed",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-fed-expected-to-cut-rates-u-s-china-talks-eyed-cc39b651?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "7b4c768f59df",
           "time": "19:00",
           "category": "Crypto",
@@ -946,6 +935,17 @@
           "tags": [
             "ETH"
           ],
+          "impact_score": 2
+        },
+        {
+          "id": "ac511ec219fb",
+          "time": "20:39",
+          "category": "Markets",
+          "title": "Oil Rally on U.S. Russia Sanctions Loses Steam",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/articles/oil-declines-in-likely-technical-correction-30a200d6?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
           "impact_score": 2
         },
         {
@@ -1170,6 +1170,28 @@
           "impact_score": 1
         },
         {
+          "id": "4f82c3c9e908",
+          "time": "20:39",
+          "category": "Markets",
+          "title": "“I Love Amazon (AMZN),” Says Jim Cramer As He Discusses AI Partner Anthropic",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/love-amazon-amzn-says-jim-193953355.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "75e76c4a58e4",
+          "time": "20:39",
+          "category": "Markets",
+          "title": "Alphabet (GOOGL)’s Stock Is Great, Says Jim Cramer",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/alphabet-googl-stock-great-says-193934919.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "cfcb6ad70110",
           "time": "20:34",
           "category": "Markets",
@@ -1199,28 +1221,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/bloom-energy-doordash-boeing-snowflake-stock-39203e7f?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e623df3457f1",
-          "time": "20:06",
-          "category": "Markets",
-          "title": "Sugar Prices Fall to Lowest Levels in More Than 4 Years",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/sugar-prices-fall-lowest-levels-190638697.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "9d8785724d4c",
-          "time": "20:00",
-          "category": "Markets",
-          "title": "Over half of American entrepreneurs are eyeing moves abroad, says survey — here’s why it matters for US jobs and growth",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/over-half-american-entrepreneurs-eyeing-190000614.html",
           "tags": [],
           "impact_score": 1
         },
