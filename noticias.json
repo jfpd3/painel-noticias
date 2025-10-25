@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T12:44+01:00",
+  "generated_at": "2025-10-25T12:55+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -349,6 +349,17 @@
           "impact_score": 3
         },
         {
+          "id": "42436c5a580c",
+          "time": "11:44",
+          "category": "US Macro",
+          "title": "Why the Fed Has Inflation Blinders On",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/why-the-fed-has-inflation-blinders-on-1bszpqSexicXmv39CIEk?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "a24651ab3982",
           "time": "11:34",
           "category": "US Macro",
@@ -356,6 +367,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102425/card/markets-head-toward-record-highs-stock-futures-rise-ahead-of-cpi-inflation-report--aSKq08aFbLApIPzd0guy?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "561050b1eb27",
+          "time": "11:13",
+          "category": "Regulation",
+          "title": "Rivian agrees to $250m settlement in 2022 IPO lawsuit",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/rivian-agrees-250m-settlement-2022-101320857.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1066,6 +1088,28 @@
           "impact_score": 1
         },
         {
+          "id": "3ede59ba011d",
+          "time": "12:00",
+          "category": "Earnings",
+          "title": "Alaska Air’s Profit Slips as Expenses Offset Revenue Growth",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/earnings/alaska-airs-profit-slips-as-expenses-offset-revenue-growth-2d4c11ab?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "819209d2dde9",
+          "time": "11:46",
+          "category": "Markets",
+          "title": "Trump Boosts Stock Markets with China Talks. Reasons to Bet on a Trade Deal.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/trump-stock-market-china-trade-deal-things-to-know-today-64dec5ca?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "e79df79dd0db",
           "time": "11:33",
           "category": "Crypto",
@@ -1095,6 +1139,72 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/oil-spikes-us-sanctions-russian-103000009.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "03fa566d2eab",
+          "time": "11:18",
+          "category": "Markets",
+          "title": "4 Signs You Need a New Medicare Advantage Plan",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/4-signs-medicare-advantage-plan-101800278.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "fa8b1ddabb76",
+          "time": "11:15",
+          "category": "Markets",
+          "title": "Prediction: This Will Be Nvidia's Stock Price in 2026",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/prediction-nvidias-stock-price-2026-101500678.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ab6226667d89",
+          "time": "11:15",
+          "category": "Markets",
+          "title": "Starting With Just $500? Here's the Simplest Way to Build a Multimillion-Dollar Portfolio.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/starting-just-500-heres-simplest-101500463.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "78ee9c10faec",
+          "time": "11:05",
+          "category": "Markets",
+          "title": "1 Growth Stock Down 62% to Buy Right Now",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/1-growth-stock-down-62-100500461.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "557562dc0de8",
+          "time": "11:03",
+          "category": "Earnings",
+          "title": "Cambricon a.k.a. ‘China’s Nvidia’ says revenue spiked 14-fold last quarter. The ensuing stock frenzy made its CEO one of the world’s richest people",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/cambricon-k-china-nvidia-says-100300365.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "572d43e06159",
+          "time": "11:02",
+          "category": "Crypto",
+          "title": "HYPE Continues To Climb Despite no Binance or Coinbase Listing",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/hype-continues-climb-despite-no-100215136.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1187,83 +1297,6 @@
           "impact_score": 1
         },
         {
-          "id": "1948a7cc5c9a",
-          "time": "11:00",
-          "category": "Markets",
-          "title": "CFOs On the Move: Week ending Oct. 24",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cfos-move-week-ending-oct-100000029.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c7cfd2f315d1",
-          "time": "10:59",
-          "category": "Markets",
-          "title": "How Investors Stockpiled Stellar (XLM) Despite Falling Prices in October",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/investors-stockpiled-stellar-xlm-despite-095916304.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e45829884057",
-          "time": "10:59",
-          "category": "Markets",
-          "title": "Morgan Stanley Sees a Compelling Entry Point in These 2 Cloud Stocks",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/morgan-stanley-sees-compelling-entry-095901522.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "58ba29a3ef2d",
-          "time": "10:58",
-          "category": "Markets",
-          "title": "Teladoc finance chief to step down",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/teladoc-finance-chief-step-down-095832835.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "62f3fc713027",
-          "time": "10:56",
-          "category": "Markets",
-          "title": "The Weekly Closeout: Amazon hikes fulfillment fees and retailers list AI as a risk factor",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/weekly-closeout-amazon-hikes-fulfillment-095600381.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "070669006989",
-          "time": "10:55",
-          "category": "Markets",
-          "title": "FirstEnergy expects peak load to grow 45% by 2035 on data centers",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/firstenergy-expects-peak-load-grow-095527749.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c15b394cba84",
-          "time": "10:50",
-          "category": "Markets",
-          "title": "Can Shiba Inu Reach $1 in 2026? The Answer Might Blow Your Mind.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/shiba-inu-reach-1-2026-095000951.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "eba129958946",
           "time": "10:37",
           "category": "Markets",
@@ -1308,24 +1341,13 @@
           "impact_score": 1
         },
         {
-          "id": "e99325a4ede0",
-          "time": "09:33",
-          "category": "US Macro",
-          "title": "Global Markets Rise; U.S. Inflation Data Eyed, Gold, Oil Down",
+          "id": "b269ceeabe13",
+          "time": "06:04",
+          "category": "Markets",
+          "title": "Analysis-Investors use dotcom era playbook to dodge AI bubble risks",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/economy/global-markets-rise-u-s-inflation-data-eyed-gold-oil-down-168e6394?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "9685e453f02e",
-          "time": "09:21",
-          "category": "US Macro",
-          "title": "What Investors Are Saying About Inflation",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/what-investors-are-saying-about-inflation-81mtEyiqSJQPsZCPZpas?siteid=yhoof2&yptr=yahoo",
+          "url": "https://finance.yahoo.com/news/analysis-investors-dotcom-era-playbook-050404210.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1478,17 +1500,6 @@
           "summary": "Coins and tokens linked to crypto mogul Changpeng Zhao and President Trump jumped in price following news of the latest pardon.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345747/bnb-world-liberty-jump-trump-binance-founder",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0e804b5d37d7",
-          "time": "20:32",
-          "category": "US Macro",
-          "title": "How soaring national debt impacts mortgage rates and the housing market",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-national-debt-impacts-housing-market-and-mortgage-rates-193244911.html",
           "tags": [],
           "impact_score": 1
         },
