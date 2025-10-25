@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T21:08+01:00",
+  "generated_at": "2025-10-25T21:42+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -112,6 +112,30 @@
           "url": "https://cointelegraph.com/news/bank-of-england-probes-data-mining-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "5b15a42ecb36",
+          "time": "21:09",
+          "category": "Crypto",
+          "title": "Ethereum Whales are Quietly Splashing Cash – Is Confidence Returning in ETH?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ethereum-whales-quietly-splashing-cash-200909745.html",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "b431ea497743",
+          "time": "21:00",
+          "category": "Crypto",
+          "title": "Here’s what happened in crypto today",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 2
         },
         {
           "id": "fe39dafcc00b",
@@ -282,17 +306,6 @@
           "impact_score": 2
         },
         {
-          "id": "b431ea497743",
-          "time": "13:48",
-          "category": "Crypto",
-          "title": "Here’s what happened in crypto today",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "1d6daef5b3f9",
           "time": "13:30",
           "category": "Earnings",
@@ -342,6 +355,39 @@
             "ETH"
           ],
           "impact_score": 2
+        },
+        {
+          "id": "117cd2213c8e",
+          "time": "21:17",
+          "category": "Markets",
+          "title": "History of Apple: Company timeline and facts",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/history-apple-company-timeline-facts-201700463.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f5f50c802534",
+          "time": "21:00",
+          "category": "Markets",
+          "title": "Jennifer Garner's baby food company is going public on the NYSE — should investors be putting their eggs in this basket?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jennifer-garners-baby-food-company-200000842.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "56d4736de61f",
+          "time": "20:56",
+          "category": "Markets",
+          "title": "Exxon sues California over climate disclosure laws",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/exxon-sues-california-over-climate-195659671.html",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "1d6daef5b3f9",
@@ -402,7 +448,7 @@
           "id": "3d674f3b5605",
           "time": "19:26",
           "category": "Markets",
-          "title": "ExxonMobil sues California, claims new green laws violate speech",
+          "title": "ExxonMobil Sues California, Claims New Green Laws Violate Speech",
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/exxonmobil-sues-california-claims-green-182613325.html",
@@ -428,28 +474,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/target-announces-major-change-affecting-180300190.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "70b43a263e6b",
-          "time": "19:00",
-          "category": "Crypto",
-          "title": "Is XRP the Best Cryptocurrency to Buy With $1,000 Right Now?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/xrp-best-cryptocurrency-buy-1-180000572.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "46a1a3d06885",
-          "time": "18:47",
-          "category": "Markets",
-          "title": "Why Southwest stock is down while American Airlines is soaring",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-southwest-stock-down-while-174700241.html",
           "tags": [],
           "impact_score": 1
         },
@@ -685,17 +709,6 @@
           "impact_score": 1
         },
         {
-          "id": "a36405d0320d",
-          "time": "12:45",
-          "category": "Markets",
-          "title": "MTG admits prices under Trump ‘have not come down at all,’ says young Americans have ‘no hope’ of buying homes",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/mtg-admits-prices-under-trump-114500551.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "35b27860e229",
           "time": "11:33",
           "category": "Crypto",
@@ -703,6 +716,28 @@
           "summary": "Ferrari is deepening its crypto push with a new digital token for its top clients, letting them bid on the Le Mans-winning 499P as part of a limited auction set to launch in 2027.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/ferrari-digital-token-lets-fans-bid-on-le-mans-winning-car?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2645090b5559",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Best money market account rates today, October 25, 2025 (best account provides 4.26% APY)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-october-25-2025-100008708.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b37c8a311b21",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Best high-yield savings interest rates today, October 25, 2025 (Earn up to 4.25% APY)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-saturday-october-25-2025-100000897.html",
           "tags": [],
           "impact_score": 1
         },
@@ -747,50 +782,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/25/ripple-prime-is-the-fintech-firm-s-one-stop-institutional-trading-and-financing-desk",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "bea0c9194014",
-          "time": "01:02",
-          "category": "Markets",
-          "title": "GM Stock Gets a Buy Rating—With Caveats. Plus, Lithia Motors, Vertiv Holdings, and More.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/gm-stock-gets-a-buy-ratingwith-caveats-plus-lithia-motors-vertiv-holdings-and-more-96cdc00a?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3e464170b5ab",
-          "time": "01:00",
-          "category": "Markets",
-          "title": "The Cracker Barrel Mess Isn’t Over Yet",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/the-cracker-barrel-logo-mess-c57d23e8?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "13c7b3388261",
-          "time": "00:45",
-          "category": "Crypto",
-          "title": "AI Chatbots Were Told to Trade Crypto. The Returns Were Ugly.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/ai-chatbots-were-told-to-trade-crypto-the-returns-were-ugly-5c6467d3?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "cb6d929d6dd9",
-          "time": "00:00",
-          "category": "Markets",
-          "title": "The 5 Highest-Yielding ‘Strong Buy’ Dividend Stocks To Own for Generations",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/5-highest-yielding-strong-buy-230002115.html",
           "tags": [],
           "impact_score": 1
         }
@@ -848,17 +839,6 @@
           "tags": [
             "BTC"
           ],
-          "impact_score": 3
-        },
-        {
-          "id": "30bc894a095b",
-          "time": "21:00",
-          "category": "US Macro",
-          "title": "Stock market today: Dow, S&P 500, Nasdaq surge to records as tame inflation cements Fed rate cut bets",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-surge-to-records-as-tame-inflation-cements-fed-rate-cut-bets-200014567.html",
-          "tags": [],
           "impact_score": 3
         },
         {
@@ -1527,6 +1507,17 @@
           "summary": "Coins and tokens linked to crypto mogul Changpeng Zhao and President Trump jumped in price following news of the latest pardon.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345747/bnb-world-liberty-jump-trump-binance-founder",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0e804b5d37d7",
+          "time": "20:32",
+          "category": "US Macro",
+          "title": "How soaring national debt impacts mortgage rates and the housing market",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-national-debt-impacts-housing-market-and-mortgage-rates-193244911.html",
           "tags": [],
           "impact_score": 1
         },
