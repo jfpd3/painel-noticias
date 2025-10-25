@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-25T16:04+01:00",
+  "generated_at": "2025-10-25T16:38+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-25",
       "attention_points": [
-        "Stand Secures $35 Million From Eclipse, Lowercarbon And Inspired Capital To Insure Homes Traditional Carriers Refuse To ",
         "Stock Market Rallies To Highs But Huge Earnings, Fed Meeting, Trump-Xi Ahead",
+        "Stand Secures $35 Million From Eclipse, Lowercarbon And Inspired Capital To Insure Homes Traditional Carriers Refuse To ",
         "Crypto.com Applies for OCC National Trust Bank Charter to Expand U.S. Institutional Custody"
       ],
       "items": [
+        {
+          "id": "1d6daef5b3f9",
+          "time": "16:07",
+          "category": "US Macro",
+          "title": "Stock Market Rallies To Highs But Huge Earnings, Fed Meeting, Trump-Xi Ahead",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-apple-microsoft-meta-earnings-fed-meeting-trump-xi/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "46648b276f13",
           "time": "15:16",
@@ -18,17 +29,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/stand-secures-35-million-eclipse-141622976.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "14:00",
-          "category": "US Macro",
-          "title": "Stock Market Rallies To Highs But Huge Earnings, Fed Meeting, Trump-Xi Ahead",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-apple-microsoft-meta-earnings-fed-meeting-trump-xi/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 3
         },
@@ -68,16 +68,40 @@
           "impact_score": 3
         },
         {
-          "id": "7ea9c8c89c7e",
-          "time": "15:02",
+          "id": "96743db731b1",
+          "time": "16:06",
           "category": "Crypto",
-          "title": "Bitcoin to $2M? Tom Lee And Michael Saylor Think So, But Analysts Disagree",
+          "title": "Rumble to Roll Out Bitcoin Tipping for 51M Users in December",
           "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bitcoin-2m-tom-lee-michael-140215916.html",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/business/2025/10/25/rumble-to-roll-out-bitcoin-tipping-for-51m-users-in-december",
           "tags": [
             "BTC"
           ],
+          "impact_score": 2
+        },
+        {
+          "id": "770fdc4e1112",
+          "time": "16:02",
+          "category": "Crypto",
+          "title": "ETH $10K Path Projected by Analyst as Ether Whales and Sharks Show ‘Signs of Confidence’",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/25/eth-usd10k-path-projected-by-analyst-as-ether-whales-and-sharks-show-signs-of-confidence",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "603ad7f47252",
+          "time": "15:57",
+          "category": "Crypto",
+          "title": "XRP price eyes rally to $3.45 after Ripple CEO tells investors to ‘lock in’",
+          "summary": "XRP eyes a breakout toward $3–$3.45 as strong technical support and Ripple’s expanding institutional push fuel renewed bullish momentum.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/xrp-price-3-45-dollars-ripple-ceo-tells-investors-lock-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
           "impact_score": 2
         },
         {
@@ -154,6 +178,50 @@
           "impact_score": 2
         },
         {
+          "id": "905ab54e9893",
+          "time": "16:32",
+          "category": "Markets",
+          "title": "Nancy Pelosi Is Crushing The S&P 500 And These Are Her 3 Best Positions",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/nancy-pelosi-crushing-p-500-153246932.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7a3feed5605e",
+          "time": "16:16",
+          "category": "Markets",
+          "title": "Franklin Templeton Makes Bold Private Credit Move With Apera Acquisition — Making Its Next Big Bet in Alternatives",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/franklin-templeton-makes-bold-private-151609304.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "26f7f7f12ab2",
+          "time": "16:00",
+          "category": "Markets",
+          "title": "A new 401(k) rule is coming in 2026 for millions of high-earning Americans — what to know if you’re in this group",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/401-k-rule-coming-2026-150000299.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d37cbf8fab8f",
+          "time": "15:46",
+          "category": "Crypto",
+          "title": "The Blockchain Revolution Is Quietly Remaking Commercial Real Estate—And It Could Unlock Trillions In New Value",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/blockchain-revolution-quietly-remaking-commercial-144607438.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "e6dab70c3e72",
           "time": "15:43",
           "category": "Markets",
@@ -187,6 +255,17 @@
           "impact_score": 1
         },
         {
+          "id": "30a7dcc8796b",
+          "time": "15:28",
+          "category": "Markets",
+          "title": "I’m a veteran, 57, and on disability benefits. How do I persuade my wife, 52, to downsize so we can both retire?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/m-veteran-57-disability-benefits-202300254.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "93aab7f524e6",
           "time": "15:18",
           "category": "Markets",
@@ -209,17 +288,6 @@
           "impact_score": 1
         },
         {
-          "id": "a41e7c945b1b",
-          "time": "15:01",
-          "category": "Markets",
-          "title": "Does Your Nest Egg Make You Rich? Here's What You Need To Be In The Top 3% —And It's Probably A Lot Less Than You Think",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/does-nest-egg-rich-heres-140111431.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "13122985c8d7",
           "time": "15:00",
           "category": "Crypto",
@@ -238,28 +306,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/stolen-car-found-insurance-already-140000246.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "a4f2d39871d1",
-          "time": "14:51",
-          "category": "Crypto",
-          "title": "Bitwise CEO Reacts as LinkedIn Founder Buys a CryptoPunk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bitwise-ceo-reacts-linkedin-founder-135106441.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ad191936d241",
-          "time": "14:46",
-          "category": "Markets",
-          "title": "A Study Says San Francisco's Housing Costs Have Returned To 'Normal' Levels – So Why Is It Still So Unaffordable?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/study-says-san-franciscos-housing-134606886.html",
           "tags": [],
           "impact_score": 1
         },
@@ -370,6 +416,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/mtg-admits-prices-under-trump-114500551.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8b63b61a9f4e",
+          "time": "12:00",
+          "category": "Markets",
+          "title": "Some premium credit cards have hiked annual fees by 45% — make sure ‘fee creep’ isn’t quietly canceling your rewards",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/premium-credit-cards-hiked-annual-110000639.html",
           "tags": [],
           "impact_score": 1
         },
@@ -570,13 +627,35 @@
           "impact_score": 3
         },
         {
-          "id": "b61e6190f517",
-          "time": "14:00",
-          "category": "Markets",
-          "title": "Netflix Produces Strong FCF Q3 Margins - NFLX Looks 23% Too Cheap",
+          "id": "b1f806dbb031",
+          "time": "15:04",
+          "category": "US Macro",
+          "title": "Stocks See Support from Favorable CPI Report",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/netflix-produces-strong-fcf-q3-130002990.html",
+          "url": "https://finance.yahoo.com/news/stocks-see-support-favorable-cpi-140411975.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "e7ba351426ea",
+          "time": "14:51",
+          "category": "Earnings",
+          "title": "Procter & Gamble fiscal 1Q results top Street, sees less of an impact from tariffs for fiscal 2026",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/procter-gamble-fiscal-1q-results-135107781.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "1f19999b2638",
+          "time": "14:34",
+          "category": "US Macro",
+          "title": "September CPI: Inflation comes in lower than expected but holds firm near 3%",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/september-cpi-inflation-comes-in-lower-than-expected-but-holds-firm-near-3-123503719.html",
           "tags": [],
           "impact_score": 3
         },
@@ -592,39 +671,6 @@
             "BTC",
             "ETH"
           ],
-          "impact_score": 3
-        },
-        {
-          "id": "25dca8588090",
-          "time": "13:54",
-          "category": "US Macro",
-          "title": "Gas Prices Surged in September, CPI Data Show",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/livecoverage/inflation-september-cpi-report/card/gas-prices-surged-in-september-cpi-data-show-NbZp8U6SS4nSnjGEUGvT?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "5c2f9869c85b",
-          "time": "13:54",
-          "category": "US Macro",
-          "title": "September CPI Cements Bets on Two More Rate Cuts This Year",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102425/card/september-cpi-cements-bets-on-two-more-rate-cuts-this-year-vEIcAk7KKdFluuYbPuCM?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "81035fbf5133",
-          "time": "13:51",
-          "category": "US Macro",
-          "title": "Cooler Inflation Data Sends Bond Yields Lower",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/cooler-inflation-data-sends-bond-yields-lower-wR90yatuuEplgiRiVrPv?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
           "impact_score": 3
         },
         {
@@ -857,6 +903,61 @@
           "impact_score": 2
         },
         {
+          "id": "19c635553ea8",
+          "time": "15:03",
+          "category": "Earnings",
+          "title": "What You Need to Know Ahead of PPL Corporation's Earnings Release",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/know-ahead-ppl-corporations-earnings-140359090.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "946c157d1dae",
+          "time": "15:01",
+          "category": "Markets",
+          "title": "Deckers Outdoor Stock Plunges. This Analyst Is Worried About Ugg Boots.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/deckers-outdoor-price-earnings-stock-ugg-7d915aca?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "627b5eb14fc6",
+          "time": "14:55",
+          "category": "Earnings",
+          "title": "What to Expect From Vistra's Next Quarterly Earnings Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/expect-vistras-next-quarterly-earnings-135518109.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "d7fcf1ea3586",
+          "time": "14:50",
+          "category": "US Macro",
+          "title": "Stocks Hit Record Highs After Benign Inflation Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102425/card/stocks-chase-new-record-highs-after-benign-inflation-report-9ucGplLOfazDjSKuRz7T?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "cf7dfd8b2f60",
+          "time": "14:49",
+          "category": "Earnings",
+          "title": "What to Expect From Dominion Energy's Q3 2025 Earnings Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/expect-dominion-energys-q3-2025-134938743.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "91d3a930ef1a",
           "time": "14:47",
           "category": "Crypto",
@@ -867,6 +968,39 @@
           "tags": [
             "ETH"
           ],
+          "impact_score": 2
+        },
+        {
+          "id": "1dfef9bac6d9",
+          "time": "14:42",
+          "category": "Earnings",
+          "title": "Intel’s Resurrection Gains Traction Following Q3 Earnings: How to Play INTC Stock Now",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/intel-resurrection-gains-traction-following-134253128.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "3e24ad9c4ad5",
+          "time": "14:41",
+          "category": "Earnings",
+          "title": "Here's What to Expect From Berkshire Hathaway's Next Earnings Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/heres-expect-berkshire-hathaways-next-134132363.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "a9fcb623557e",
+          "time": "14:35",
+          "category": "US Macro",
+          "title": "U.S. equity funds see strong inflows as earnings optimism boost risk appetite",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/u-equity-funds-see-strong-133530808.html",
+          "tags": [],
           "impact_score": 2
         },
         {
@@ -894,107 +1028,6 @@
           "impact_score": 2
         },
         {
-          "id": "deec556830c3",
-          "time": "14:15",
-          "category": "Crypto",
-          "title": "Bitcoin-only app Relai gets EU green light under MiCA",
-          "summary": "Switzerland’s BTC-only investment app, Relai, obtained a MiCA license in France, aiming to bring Bitcoin to as many people as possible.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/swiss-bitcoin-only-app-relai-gets-mica-license-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "f45716ba2fee",
-          "time": "13:47",
-          "category": "Earnings",
-          "title": "What to Expect From Insulet's Next Quarterly Earnings Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/expect-insulets-next-quarterly-earnings-124715618.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "f6a7371a2c40",
-          "time": "13:45",
-          "category": "Earnings",
-          "title": "What to Expect From Solventum's Next Quarterly Earnings Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/expect-solventums-next-quarterly-earnings-124505616.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "99e3a273d34e",
-          "time": "13:44",
-          "category": "Earnings",
-          "title": "Darling Ingredients (DAR) Soars 11.4% as Investors Cheer Q3 Earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/darling-ingredients-dar-soars-11-124403031.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "eddc78f29a4f",
-          "time": "13:43",
-          "category": "Earnings",
-          "title": "Las Vegas (LVS) Sands Climbs to Fresh High on Q3 Earnings, Bullish Rating",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/las-vegas-lvs-sands-climbs-124354527.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "3f00b39755fc",
-          "time": "13:43",
-          "category": "Earnings",
-          "title": "Sandisk (SNDK) Climbs to Fresh High Ahead of Earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/sandisk-sndk-climbs-fresh-high-124334028.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "ae73a8c9a7e6",
-          "time": "13:43",
-          "category": "Earnings",
-          "title": "Transocean (RIG) Soars 13.7% Ahead of Q3 Earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/transocean-rig-soars-13-7-124310420.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "fe714017ba68",
-          "time": "13:42",
-          "category": "Earnings",
-          "title": "PBF Energy (PBF) Jumps 15.67%, Nears 52-Week High Ahead of Earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/pbf-energy-pbf-jumps-15-124252911.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "f345aa84ab44",
-          "time": "13:42",
-          "category": "Earnings",
-          "title": "Garrett Motion (GTX) Soars to New Record High on Higher Earnings, Outlook, Dividend",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/garrett-motion-gtx-soars-record-124244647.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "53ee2e9ea95a",
           "time": "13:09",
           "category": "Crypto",
@@ -1003,20 +1036,6 @@
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/business/2025/10/24/tether-unveils-synthetic-ai-dataset-to-democratize-stem-intelligence",
           "tags": [
-            "ETH"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "137d8f83f81c",
-          "time": "12:09",
-          "category": "Crypto",
-          "title": "JPMorgan to Allow Clients to Pledge Bitcoin and Ether as Collateral: Bloomberg",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/24/jpmorgan-to-allow-clients-to-pledge-bitcoin-and-ether-as-collateral-bloomberg",
-          "tags": [
-            "BTC",
             "ETH"
           ],
           "impact_score": 2
@@ -1156,6 +1175,17 @@
           "impact_score": 1
         },
         {
+          "id": "247aaaac702d",
+          "time": "15:07",
+          "category": "Markets",
+          "title": "JPMorgan Is Betting Big on Quantum Computing. 1 Top-Rated Stock to Buy Now.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jpmorgan-betting-big-quantum-computing-140701460.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "c6f3f9a32ae1",
           "time": "15:02",
           "category": "Crypto",
@@ -1163,6 +1193,94 @@
           "summary": "Crypto is growing significantly in user base and market cap—find out what key trends have emerged over the past year, according to a16z.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345835/morning-minute-a16zs-state-of-crypto-2025-highlights-growth-key-trends",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d5d6e5232683",
+          "time": "14:55",
+          "category": "Markets",
+          "title": "Alaska Airlines restores operations after tech outage grounds flights",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/alaska-airlines-restores-operations-tech-135520630.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "407989e01670",
+          "time": "14:54",
+          "category": "Markets",
+          "title": "Dear Google Stock Fans, Mark Your Calendars for October 29",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/dear-google-stock-fans-mark-135456340.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1e37d48bf998",
+          "time": "14:54",
+          "category": "Markets",
+          "title": "Ford stock shakes off $1.5 billion hit from Novelis fire on news plant will reopen this year",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ford-stock-shakes-off-15-billion-hit-from-novelis-fire-on-news-plant-will-reopen-this-year-135408887.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d610a5f0d715",
+          "time": "14:49",
+          "category": "Markets",
+          "title": "The S&P 500 Finally Broke Out of Its Oct. 10 Range. What History Says Happens Next.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102425/card/the-s-p-500-finally-broke-out-of-its-oct-10-range-what-history-says-happens-next--tuwiHp9I5swmAKs63l1o?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4bd99a9f81bc",
+          "time": "14:34",
+          "category": "Markets",
+          "title": "US consumer prices increase less than expected in September",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/us-consumer-prices-increase-less-133455559.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "87182bd819aa",
+          "time": "14:34",
+          "category": "Markets",
+          "title": "US firms grapple with economic divide as lower income struggles mount",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/us-firms-grapple-economic-divide-133450433.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "35d5a0f42188",
+          "time": "14:34",
+          "category": "Markets",
+          "title": "P&G latest to flag diverging consumer spending as profit tops on beauty demand",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/p-g-latest-flag-diverging-133404370.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "43cee1cd2c0e",
+          "time": "14:31",
+          "category": "US Macro",
+          "title": "Boyd Gaming Reports Sluggish Las Vegas Business Amid Tourism Slowdown",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/hospitality/boyd-gaming-third-quarter-earnings-boosted-by-fanduel-stake-sale-6b696a90?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -1200,83 +1318,6 @@
           "impact_score": 1
         },
         {
-          "id": "63a93b34baab",
-          "time": "14:12",
-          "category": "Markets",
-          "title": "Outperformance Possible After Strong September",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/outperformance-possible-strong-september-131233064.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c1fa1bc87c9d",
-          "time": "14:11",
-          "category": "Markets",
-          "title": "This HVAC Contractor’s Stock Pops 18%. It’s Seeing ‘Unprecedented Demand.’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/comfort-systems-earnings-stock-price-d6ec3564?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c910d8b6cc60",
-          "time": "14:09",
-          "category": "Markets",
-          "title": "How Much Higher Can Wheat Prices Go Now?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/much-higher-wheat-prices-now-130930563.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "7d9b6e68979e",
-          "time": "14:06",
-          "category": "Markets",
-          "title": "AI, Big Money Flows Send Camtek Higher",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ai-big-money-flows-send-130625266.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6a4a3c70d23f",
-          "time": "14:02",
-          "category": "Markets",
-          "title": "US consumer prices increase less than expected in September",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/us-consumer-prices-increase-less-130258790.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8c65c1825e67",
-          "time": "14:02",
-          "category": "US Macro",
-          "title": "Dollar Falls After Lower-Than-Forecast U.S. Inflation Data",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102425/card/dollar-falls-after-lower-than-forecast-u-s-inflation-data-W90S5IZJpPWBFiMZmKTy?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0b33c02640e3",
-          "time": "14:01",
-          "category": "Markets",
-          "title": "See How Big Money Flows Made AMD Shares Rise Yet Again",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/see-big-money-flows-made-130141070.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "c435fc7ce361",
           "time": "14:00",
           "category": "Crypto",
@@ -1284,50 +1325,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/opinion/2025/10/22/crypto-regulators-must-adapt-quickly-to-stay-globally-competitive",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "293d6dd7490b",
-          "time": "14:00",
-          "category": "Markets",
-          "title": "Can My Mom Add Me to Her $40k Account to Avoid Taxes When She Passes?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/mom-wants-add-her-40k-141947629.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "673c3bd34e13",
-          "time": "13:58",
-          "category": "Earnings",
-          "title": "Beyond Meat Expects Impairment Charge, Revenue In Line With Target",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/retail/beyond-meat-expects-impairment-charge-revenue-in-line-with-target-b484c86f?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "a8f8184407cc",
-          "time": "13:43",
-          "category": "Markets",
-          "title": "Alcoa Corp. (AA) Soars 12.6% After ‘More-Than-Double’ Net Income",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/alcoa-corp-aa-soars-12-124347628.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "a867c85057df",
-          "time": "13:43",
-          "category": "Markets",
-          "title": "Dow Inc. (DOW) Jumps 12.9% as Firm Books Lowe-Than-Expected Loss",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/dow-inc-dow-jumps-12-124341199.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1361,17 +1358,6 @@
           "summary": "$260 million in fiat and crypto was flagged as part of Operation Catalyst, of which some $600,000 has been seized to date.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345822/interpol-arrests-83-in-landmark-african-operation-hitting-crypto-terrorist-financing-cybercrime",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e79df79dd0db",
-          "time": "11:33",
-          "category": "Crypto",
-          "title": "USD.AI Bridges DeFi and AI by Turning Stablecoins Into Loans for Nvidia GPUs",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/24/usdai-bridges-defi-and-ai-by-turning-stablecoins-into-loans-for-nvidia-gpus",
           "tags": [],
           "impact_score": 1
         },
@@ -1450,6 +1436,17 @@
           "summary": "Meteora’s co-founder resigned from his leadership role due to his part in the MELANIA launch. Now wallets linked to it just received an airdrop of $1.2 million in MET.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345768/wallets-melania-trump-meme-coin-airdropped-1-2-million-meteora-tokens",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "d705b982432a",
+          "time": "21:43",
+          "category": "Earnings",
+          "title": "Intel stock jumps as Q3 earnings beat expectations, AI drives chip demand",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/intel-stock-jumps-as-q3-earnings-beat-expectations-ai-drives-chip-demand-201344592.html",
           "tags": [],
           "impact_score": 2
         },
