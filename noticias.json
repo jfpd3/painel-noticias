@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T14:40+01:00",
+  "generated_at": "2025-10-25T14:51+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -130,6 +130,17 @@
           "impact_score": 2
         },
         {
+          "id": "fa65fb73121f",
+          "time": "14:35",
+          "category": "Crypto",
+          "title": "Kyrgyzstan Launches National Stablecoin, Sets Up Cryptocurrency Reserve: CZ",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/policy/2025/10/25/kyrgyzstan-launches-national-stablecoin-sets-up-cryptocurrency-reserve-cz",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "d777fb20e74c",
           "time": "14:30",
           "category": "US Macro",
@@ -192,6 +203,17 @@
           "summary": "Crypto laws are popping up across Africa as countries race to offer favorable conditions to the crypto industry and balance consumer safety concerns.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/countries-africa-approve-crypto-laws-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3466b7266b25",
+          "time": "13:59",
+          "category": "Crypto",
+          "title": "Crypto Mergers and Acquisitions Reach an All-Time High at $10 Billion",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/crypto-mergers-acquisitions-reach-time-125913304.html",
           "tags": [],
           "impact_score": 1
         },
@@ -280,17 +302,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/stablecoin-payments-jumps-70-since-123000991.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8479f748f7a8",
-          "time": "13:18",
-          "category": "Markets",
-          "title": "5 Ways To Mitigate Risk as You Plan Financially for Retirement",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/5-ways-mitigate-risk-plan-121816053.html",
           "tags": [],
           "impact_score": 1
         },
@@ -551,6 +562,39 @@
           "impact_score": 3
         },
         {
+          "id": "08ac038efc79",
+          "time": "13:07",
+          "category": "Regulation",
+          "title": "JPMorgan Ups Rivian Automotive (RIVN) PT to $10 Amid Mixed Auto Sector View",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jpmorgan-ups-rivian-automotive-rivn-120753207.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "4fa930cd1054",
+          "time": "13:07",
+          "category": "Regulation",
+          "title": "QXO Inc. (QXO) Gets New Buy Rating, $30 PT by Vertical Research Amid Mixed Analyst Sentiment on Building Products Sector",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/qxo-inc-qxo-gets-buy-120738963.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "6288f0a64248",
+          "time": "13:00",
+          "category": "Markets",
+          "title": "3 ETFs to Buy to Profit if the Quantum Computing Stocks Bubble Bursts",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/3-etfs-buy-profit-quantum-120003802.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "a211e46ed270",
           "time": "12:47",
           "category": "Regulation",
@@ -558,72 +602,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/oppenheimer-keeps-outperform-rating-applovin-114728555.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "ed4890947df6",
-          "time": "12:42",
-          "category": "Markets",
-          "title": "Morgan Stanley Resumes Coverage of Banco Bilbao Vizcaya Argentaria (BBVA) With an Equal Weight Rating",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/morgan-stanley-resumes-coverage-banco-114225575.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "13b0307233e5",
-          "time": "12:42",
-          "category": "Regulation",
-          "title": "Cemex S.A.B. de C.V. (CX) Gets Downgraded to Sector Perform from Outperform by Scotiabank",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cemex-b-c-v-cx-114223554.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "7788aa7b5a3a",
-          "time": "12:42",
-          "category": "Markets",
-          "title": "Morgan Stanley Remains Bullish on Lloyds Banking Group (LYG)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/morgan-stanley-remains-bullish-lloyds-114222906.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "20b425c5196d",
-          "time": "12:42",
-          "category": "US Macro",
-          "title": "Berenberg Bank Reiterates a Hold Rating on Vodafone Group Public Limited (VOD)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/berenberg-bank-reiterates-hold-rating-114220838.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "6b676e56bbd4",
-          "time": "12:42",
-          "category": "Markets",
-          "title": "Scotiabank Slashes PT on Venture Global (VG) to $13 From $16",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/scotiabank-slashes-pt-venture-global-114219496.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "d2bd0296df1e",
-          "time": "12:42",
-          "category": "Regulation",
-          "title": "Bank of America Securities Lifts PT on Huntington Bancshares (HBAN) to $21 From $20",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bank-america-securities-lifts-pt-114210524.html",
           "tags": [],
           "impact_score": 3
         },
@@ -639,17 +617,6 @@
             "BTC",
             "ETH"
           ],
-          "impact_score": 3
-        },
-        {
-          "id": "43d53c2acfb5",
-          "time": "09:25",
-          "category": "Crypto",
-          "title": "AI Miners Surge Pre-Market on Record $38B Oracle Data Center Deal Boosts Sector",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/24/ai-miners-surge-pre-market-on-record-usd38b-oracle-data-center-deal-boosts-sector",
-          "tags": [],
           "impact_score": 3
         },
         {
@@ -918,6 +885,28 @@
           "impact_score": 2
         },
         {
+          "id": "f84a8ac06979",
+          "time": "13:03",
+          "category": "Earnings",
+          "title": "Newmont Posts Earnings Beat Despite Gold’s Volatility. The Stock Falls Anyway.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/newmont-earnings-stock-price-gold-46246d99?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "7c130bc196c7",
+          "time": "12:54",
+          "category": "Earnings",
+          "title": "Earnings Preview: What To Expect From Ralph Lauren’s Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/earnings-preview-expect-ralph-lauren-115459590.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "7ddbed68d5c2",
           "time": "12:47",
           "category": "Earnings",
@@ -1156,6 +1145,127 @@
           "impact_score": 1
         },
         {
+          "id": "be0a1c8f8fb5",
+          "time": "13:07",
+          "category": "Markets",
+          "title": "Is Cenovus Energy (CVE) One of the Best Large Cap Stocks to Buy Under $20?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/cenovus-energy-cve-one-best-120751123.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e8aeb2a52e75",
+          "time": "13:07",
+          "category": "Markets",
+          "title": "Truist Initiates Viatris (VTRS) Coverage with Buy Rating, $15 PT",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/truist-initiates-viatris-vtrs-coverage-120740654.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ccf4e713e5ef",
+          "time": "13:07",
+          "category": "Markets",
+          "title": "Morgan Stanley Raises PG&E (PCG) PT to $21 on Utilities’ Data Center Focus",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/morgan-stanley-raises-pg-e-120736453.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6b29d52609c9",
+          "time": "13:07",
+          "category": "Markets",
+          "title": "Zedge Launches New Creator-Focused Music App ‘Tapedeck’ for Fair Artist Compensation",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/zedge-launches-creator-focused-music-120735122.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "84a52acd8983",
+          "time": "13:07",
+          "category": "Markets",
+          "title": "Real Brokerage Launches ‘Real Wallet Capital,’ Industry’s First Embedded Lending for Agents",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/real-brokerage-launches-real-wallet-120731619.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ce211ee0f709",
+          "time": "13:01",
+          "category": "Markets",
+          "title": "US firms grapple with economic divide as lower income struggles mount",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/us-firms-grapple-economic-divide-120119493.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "13:00",
+          "category": "Markets",
+          "title": "Robinhood Stock: Does Rise Of Prediction Markets Make It A Buy?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/research/robinhood-hood-stock-does-rise-of-prediction-markets-make-it-a-buy/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "13:00",
+          "category": "Markets",
+          "title": "The 'Unprecedented' Opportunity That's Driving Cameco To Fresh Highs",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/research/the-new-america/cameco-ccj-stock-ai-power/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b8463d5baba1",
+          "time": "13:00",
+          "category": "Markets",
+          "title": "What’s the Difference Between 351 Exchanges and Exchange Funds?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/difference-between-351-exchanges-exchange-120000022.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "68b4cf6521e2",
+          "time": "12:53",
+          "category": "Earnings",
+          "title": "HCA Lifts Outlook as Quarterly Profit, Revenue Rise",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/earnings/hca-lifts-outlook-as-quarterly-profit-revenue-rise-3fe58e0e?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5ba6fc9c1852",
+          "time": "12:50",
+          "category": "Markets",
+          "title": "Adobe (ADBE) Announces AI Foundry",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/adobe-adbe-announces-ai-foundry-115024750.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "cd43e46a1099",
           "time": "12:50",
           "category": "Markets",
@@ -1163,6 +1273,28 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/oracle-orcl-one-best-american-115022136.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e6372a3ec48b",
+          "time": "12:50",
+          "category": "Earnings",
+          "title": "Stifel Keeps Buy Rating on Okta, Inc. (OKTA)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/stifel-keeps-buy-rating-okta-115021680.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "adf581f3b059",
+          "time": "12:50",
+          "category": "Markets",
+          "title": "Citi Starts Coverage of Strategy (MSTR) with a Buy Rating",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/citi-starts-coverage-strategy-mstr-115019082.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1207,116 +1339,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/vistra-vst-expands-power-fleet-114720164.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0b84b7d8e232",
-          "time": "12:42",
-          "category": "US Macro",
-          "title": "Jefferies Reiterates a Buy Rating on Stellantis N.V. (STLA), Sets a €11 PT",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jefferies-reiterates-buy-rating-stellantis-114217305.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "30ed2c1180bd",
-          "time": "12:42",
-          "category": "Markets",
-          "title": "Vale S.A. (VALE) Reports Production and Sales for Fiscal Q3 2025",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/vale-vale-reports-production-sales-114215306.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f0887de563ee",
-          "time": "12:42",
-          "category": "Markets",
-          "title": "Petróleo Brasileiro S.A. – Petrobras (PBR) Receives Operating License for Exploratory Research in Amapá Deep Waters",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/petr-leo-brasileiro-petrobras-pbr-114214454.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ad712e5d963e",
-          "time": "12:42",
-          "category": "Markets",
-          "title": "Morgan Stanley Maintains a Hold on KeyCorp (KEY)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/morgan-stanley-maintains-hold-keycorp-114212015.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "7cc9b020b690",
-          "time": "12:42",
-          "category": "Markets",
-          "title": "JPMorgan Maintains an Overweight Rating on Ford Motor Company (F)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jpmorgan-maintains-overweight-rating-ford-114209283.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5fc705d78a2b",
-          "time": "12:42",
-          "category": "Markets",
-          "title": "Teva Pharmaceutical (TEVA) Enters Into a License Agreement With Prestige Biopharma for the Commercialization of Tuznue in Europe",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/teva-pharmaceutical-teva-enters-license-114207968.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "dd513e534561",
-          "time": "12:42",
-          "category": "US Macro",
-          "title": "Canaccord Genuity Reiterates a Buy Rating on Kenvue Inc. (KVUE)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/canaccord-genuity-reiterates-buy-rating-114206082.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "d843a822e210",
-          "time": "12:42",
-          "category": "Markets",
-          "title": "How is PG&E Corporation (PCG) One of the Best Affordable Stocks to Buy Under $20?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/pg-e-corporation-pcg-one-114204972.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "472dc9bda243",
-          "time": "12:42",
-          "category": "Earnings",
-          "title": "General Dynamics Revenue Rises on Stronger Business-Jet Demand",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/earnings/general-dynamics-revenue-rises-on-stronger-business-jet-demand-e4b049b9?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "daac09040339",
-          "time": "12:30",
-          "category": "Markets",
-          "title": "This ‘Strong Buy’ Tech Stock Is Riding the AI Server Boom to New Highs",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/strong-buy-tech-stock-riding-113002933.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1442,17 +1464,6 @@
           "tags": [
             "BTC"
           ],
-          "impact_score": 2
-        },
-        {
-          "id": "26bc575b04d8",
-          "time": "21:04",
-          "category": "Earnings",
-          "title": "Stock market today: Dow, S&P 500, Nasdaq jump as Trump confirms Xi meet, earnings flood in",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-as-trump-confirms-xi-meet-earnings-flood-in-200021931.html",
-          "tags": [],
           "impact_score": 2
         },
         {
