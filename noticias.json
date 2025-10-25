@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T11:49+01:00",
+  "generated_at": "2025-10-25T12:00+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -371,16 +371,14 @@
           "impact_score": 3
         },
         {
-          "id": "9aa8c4a3e2b7",
-          "time": "10:07",
-          "category": "Crypto",
-          "title": "[LIVE] Crypto News Today, October 24 – BNB Rallies After CZ Pardon, BTC Price Reclaims $110K and Everyone Is Waiting for CPI Data: Is Uptober Finally Here?! Best Crypto to Buy",
+          "id": "f731767c1461",
+          "time": "10:23",
+          "category": "Regulation",
+          "title": "Optum taps its second CFO in 6 months",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/live-crypto-news-today-october-090727643.html",
-          "tags": [
-            "BTC"
-          ],
+          "url": "https://finance.yahoo.com/news/optum-taps-second-cfo-6-092324761.html",
+          "tags": [],
           "impact_score": 3
         },
         {
@@ -710,6 +708,17 @@
           "impact_score": 2
         },
         {
+          "id": "ef591ebdce71",
+          "time": "11:00",
+          "category": "Earnings",
+          "title": "Eni Raises 2025 Cash Flow Guidance After Beating Q3 Estimates",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/eni-raises-2025-cash-flow-100000570.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "2a8159f0fe75",
           "time": "10:30",
           "category": "Markets",
@@ -728,6 +737,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102425/card/oil-prices-dip-after-rallying-on-u-s-russia-sanctions-f6tqDC93eEV0c9n55eu7?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "74d53988c892",
+          "time": "10:16",
+          "category": "Earnings",
+          "title": "Packaging Corporation of America reports Q3 2025 earnings growth",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/packaging-corporation-america-reports-q3-091633377.html",
           "tags": [],
           "impact_score": 2
         },
@@ -775,20 +795,6 @@
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/know-ahead-axon-enterprise-earnings-090821141.html",
           "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "76c3b551f9a4",
-          "time": "10:07",
-          "category": "Crypto",
-          "title": "JPMorgan to Allow Bitcoin and Ether as Collateral in Crypto Push",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jpmorgan-allow-bitcoin-ether-collateral-090756088.html",
-          "tags": [
-            "BTC",
-            "ETH"
-          ],
           "impact_score": 2
         },
         {
@@ -856,17 +862,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/24/on-chain-perps-smash-records-with-usd1t-trading-volume",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "65fe0bb54fc2",
-          "time": "07:51",
-          "category": "Earnings",
-          "title": "Chevron Earnings Preview: What to Expect",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/chevron-earnings-preview-expect-065132174.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1170,6 +1165,17 @@
           "impact_score": 1
         },
         {
+          "id": "359363fca4ea",
+          "time": "11:00",
+          "category": "Earnings",
+          "title": "Truckload segment at Marten again a plus 100% OR in third quarter",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/truckload-segment-marten-again-plus-100000946.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "eba129958946",
           "time": "10:37",
           "category": "Markets",
@@ -1203,6 +1209,61 @@
           "impact_score": 1
         },
         {
+          "id": "30cd97547c80",
+          "time": "10:25",
+          "category": "Markets",
+          "title": "The Ultimate Growth Stock to Buy With $1,000 Right Now",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ultimate-growth-stock-buy-1-092500885.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d1ebd6a296af",
+          "time": "10:24",
+          "category": "Markets",
+          "title": "Honeywell sees sales growth despite market turmoil",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/honeywell-sees-sales-growth-despite-092457451.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ca4f02606ead",
+          "time": "10:22",
+          "category": "Markets",
+          "title": "Google TPUs Find Sweet Spot of AI Demand, a Decade After Chip’s Debut",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/google-tpus-sweet-spot-ai-231842149.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ab4de3693621",
+          "time": "10:20",
+          "category": "Markets",
+          "title": "2 Super Semiconductor Stocks (Besides Nvidia) to Buy Hand Over Fist in 2026",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/2-super-semiconductor-stocks-besides-092000259.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e936992d1b29",
+          "time": "10:17",
+          "category": "Markets",
+          "title": "AngloGold finalises acquisition of Augusta Gold",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/anglogold-finalises-acquisition-augusta-gold-091753536.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "080cb7031a34",
           "time": "10:15",
           "category": "Markets",
@@ -1232,61 +1293,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/hedge-funds-boost-ai-tech-091409193.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "dbfd0e9f13e5",
-          "time": "10:11",
-          "category": "Markets",
-          "title": "G Mining starts construction of Oko West gold project in Guyana",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/g-mining-starts-construction-oko-091136877.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0b7d87534764",
-          "time": "10:10",
-          "category": "Markets",
-          "title": "Hyundai supports renewed US-South Korea trade talks",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hyundai-supports-renewed-us-south-091010265.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "73bcde5a4c97",
-          "time": "10:10",
-          "category": "Markets",
-          "title": "Here's Why Robinhood Stock Is a Buy Before Nov. 5",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/heres-why-robinhood-stock-buy-091000515.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "229cc02667ea",
-          "time": "10:06",
-          "category": "Markets",
-          "title": "3 Top Artificial Intelligence (AI) Stocks Ready for a Bull Run",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/3-top-artificial-intelligence-ai-090600446.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "fce328d6070e",
-          "time": "10:05",
-          "category": "Markets",
-          "title": "Larger tax refunds in 2026 expected, thanks to Trump tax law and IRS delay: Economist",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/larger-tax-refunds-2026-expected-090521974.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1331,17 +1337,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/heard-on-the-street-thursday-recap-casino-capitalism-RBEBUCIyZ4gq7yNzsFCx?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "80b5ee6dd977",
-          "time": "08:00",
-          "category": "Markets",
-          "title": "I'm in the Highest Tax Bracket. Is a Roth Conversion a Good Idea?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ask-advisor-im-highest-tax-150037357.html",
           "tags": [],
           "impact_score": 1
         },
