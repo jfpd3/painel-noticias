@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T05:42+01:00",
+  "generated_at": "2025-10-25T05:53+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -7,7 +7,7 @@
       "attention_points": [
         "Bank of England probes data-mining lending strategies fueling AI bets",
         "Rumble partners with Tether to add Bitcoin tips for content creators",
-        "Ripple Prime Is the Fintech Firm’s One-Stop Institutional Trading and Financing Desk"
+        "Ripple now a one-stop fintech shop after closing Hidden Road acquisition"
       ],
       "items": [
         {
@@ -34,6 +34,17 @@
             "ETH"
           ],
           "impact_score": 2
+        },
+        {
+          "id": "1273398ba575",
+          "time": "05:33",
+          "category": "US Macro",
+          "title": "Ripple now a one-stop fintech shop after closing Hidden Road acquisition",
+          "summary": "Ripple has completed its acquisition of Hidden Road, a move that will expand its fintech services for institutional clients and boost the utility and reach of its RLUSD stablecoin.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/ripple-closes-fintech-hidden-road-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "efa648e3d0e6",
@@ -902,17 +913,6 @@
           "impact_score": 1
         },
         {
-          "id": "def5bb80ab34",
-          "time": "12:07",
-          "category": "Crypto",
-          "title": "Dogecoin price chart projects 25% gains, but first, this must happen",
-          "summary": "Dogecoin must break above the $0.20 resistance level to signal a reduction in selling pressure, potentially sending the DOGE price beyond $0.25.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/dogecoin-price-chart-projects-25-gains-but-this-must-happen-first?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "e79df79dd0db",
           "time": "11:33",
           "category": "Crypto",
@@ -942,6 +942,17 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/24/doge-breaks-usd0-195-level-on-heavy-trade-wyckoff-setup-points-to-next-leg-higher",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "dbc1742c2d94",
+          "time": "00:00",
+          "category": "Markets",
+          "title": "Post-OPEC Angola: The Quota’s Gone, the Decline Isn’t",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/post-opec-angola-quota-gone-230000467.html",
           "tags": [],
           "impact_score": 1
         }
@@ -1079,6 +1090,19 @@
           "impact_score": 2
         },
         {
+          "id": "b8097d704183",
+          "time": "23:04",
+          "category": "Crypto",
+          "title": "Gold vs Bitcoin: Peter Schiff to Debate CZ Over the Future of Money",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/gold-vs-bitcoin-peter-schiff-220445168.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "0bd2551aea94",
           "time": "22:57",
           "category": "Earnings",
@@ -1125,17 +1149,6 @@
           "impact_score": 2
         },
         {
-          "id": "7d6341e9a5e4",
-          "time": "22:30",
-          "category": "Earnings",
-          "title": "First Internet INBK Earnings Call Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/first-internet-inbk-earnings-call-213041407.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "1d6daef5b3f9",
           "time": "22:14",
           "category": "Earnings",
@@ -1176,30 +1189,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/news/technology/smci-stock-drops-supermicro-projects-delayed/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "4e34f7f8b693",
-          "time": "21:50",
-          "category": "Crypto",
-          "title": "Union Pacific Earnings Were Solid. Investors Care About Something Else.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/union-pacific-earnings-stock-67b872f7?siteid=yhoof2&yptr=yahoo",
-          "tags": [
-            "ETH"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "33ad3493e608",
-          "time": "21:48",
-          "category": "Earnings",
-          "title": "Tesla Stock Finishes Session Higher After Earnings Miss",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/livecoverage/tesla-earnings-stock-price-elon-musk-news/card/tesla-stock-finishes-session-higher-after-earnings-miss-tU6W8f6e7nJn53rJrMng?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 2
         },
@@ -1278,6 +1267,17 @@
           "impact_score": 1
         },
         {
+          "id": "7933fbf92d65",
+          "time": "23:49",
+          "category": "US Macro",
+          "title": "How Trump Sparked a New Era of State Capitalism",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/intel-mp-materials-trump-stakes-state-capitalism-68202494?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "b726b4331cd9",
           "time": "23:33",
           "category": "Markets",
@@ -1329,6 +1329,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/articles/corrections-amplifications-78b67711?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "fe564dc80014",
+          "time": "23:00",
+          "category": "Markets",
+          "title": "Why Molina Healthcare Stock Dived by Almost 18% Today",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-molina-healthcare-stock-dived-220034512.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1406,17 +1417,6 @@
           "summary": "Coins and tokens linked to crypto mogul Changpeng Zhao and President Trump jumped in price following news of the latest pardon.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345747/bnb-world-liberty-jump-trump-binance-founder",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f3dc8e086b1d",
-          "time": "22:28",
-          "category": "Crypto",
-          "title": "BNB, World Liberty, Meme Coins Jump After Trump Pardons Binance Founder",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bnb-world-liberty-meme-coins-212846123.html",
           "tags": [],
           "impact_score": 1
         },
