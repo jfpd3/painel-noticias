@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T11:38+01:00",
+  "generated_at": "2025-10-25T11:49+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -84,6 +84,17 @@
             "ETH"
           ],
           "impact_score": 2
+        },
+        {
+          "id": "35b27860e229",
+          "time": "11:33",
+          "category": "Crypto",
+          "title": "Ferrari to launch digital token to let fans bid on its Le Mans-winning race car",
+          "summary": "Ferrari is deepening its crypto push with a new digital token for its top clients, letting them bid on the Le Mans-winning 499P as part of a limited auction set to launch in 2027.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/ferrari-digital-token-lets-fans-bid-on-le-mans-winning-car?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "02f135f2e583",
@@ -343,17 +354,6 @@
           "tags": [
             "BTC"
           ],
-          "impact_score": 3
-        },
-        {
-          "id": "61466cefb518",
-          "time": "12:46",
-          "category": "Regulation",
-          "title": "Thai regulators raid alleged World iris scanning site, arrest multiple suspects",
-          "summary": "Thailand’s SEC raids World’s iris scanning site over unlicensed WLD token operations, raising legal concerns about the digital identity project.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/thai-regulators-raid-world-iris-scanning-site-in-latest-headache-for-sam-altman?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
           "impact_score": 3
         },
         {
