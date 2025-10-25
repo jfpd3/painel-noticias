@@ -1,15 +1,28 @@
 {
-  "generated_at": "2025-10-25T08:33+01:00",
+  "generated_at": "2025-10-25T08:44+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-25",
       "attention_points": [
+        "Spot Ether ETFs see outflows for second consecutive week amid ‘cooling demand’",
         "Bank of England probes data-mining lending strategies fueling AI bets",
-        "XRP Leads Gains on Ripple Moves, Bitcoin Holds $111K as ‘Uptober’ Dud Heads for Last Week",
-        "Rumble partners with Tether to add Bitcoin tips for content creators"
+        "XRP Leads Gains on Ripple Moves, Bitcoin Holds $111K as ‘Uptober’ Dud Heads for Last Week"
       ],
       "items": [
+        {
+          "id": "540be7805477",
+          "time": "08:33",
+          "category": "Crypto",
+          "title": "Spot Ether ETFs see outflows for second consecutive week amid ‘cooling demand’",
+          "summary": "Spot Bitcoin ETFs attracted $446 million in weekly inflows, signaling renewed institutional confidence in BTC as Ether funds faced a second straight week of outflows.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/ethereum-etfs-outflows-bitcoin-inflows-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 3
+        },
         {
           "id": "4020d0f15b06",
           "time": "03:09",
@@ -358,13 +371,13 @@
           "impact_score": 3
         },
         {
-          "id": "ad265d73493f",
-          "time": "03:09",
+          "id": "f9dd26212098",
+          "time": "03:03",
           "category": "Markets",
           "title": "Reversal of weak dollar may test Asia's resilience to tariffs, IMF says",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/reversal-weak-dollar-may-test-020902622.html",
+          "url": "https://finance.yahoo.com/news/reversal-weak-dollar-may-test-020315956.html",
           "tags": [],
           "impact_score": 3
         },
@@ -767,6 +780,28 @@
           "impact_score": 2
         },
         {
+          "id": "3b6fa8c12e62",
+          "time": "07:44",
+          "category": "Earnings",
+          "title": "Here's What to Expect From T. Rowe Price Group's Next Earnings Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/heres-expect-t-rowe-price-064401858.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "b9af3e2756b0",
+          "time": "07:40",
+          "category": "Earnings",
+          "title": "LyondellBasell Industries’ Quarterly Earnings Preview: What You Need to Know",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/lyondellbasell-industries-quarterly-earnings-preview-064030200.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "96f25d26a160",
           "time": "07:37",
           "category": "Earnings",
@@ -824,13 +859,13 @@
           "impact_score": 2
         },
         {
-          "id": "b71a6627b333",
+          "id": "a0eef673ddc2",
           "time": "06:21",
           "category": "US Macro",
           "title": "Wall Street hits records following an encouraging update on inflation",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/asian-shares-rise-white-house-052144923.html",
+          "url": "https://finance.yahoo.com/news/asian-shares-rise-white-house-052144341.html",
           "tags": [],
           "impact_score": 2
         },
@@ -866,17 +901,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/finance/stocks/strong-earnings-us-economy-86f5fd79?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "4e081bd1135b",
-          "time": "01:55",
-          "category": "Earnings",
-          "title": "Knowles (KN) Q3 2025 Earnings Call Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/knowles-kn-q3-2025-earnings-005503046.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1057,17 +1081,6 @@
           "impact_score": 1
         },
         {
-          "id": "7f330a9ab1fb",
-          "time": "12:29",
-          "category": "Crypto",
-          "title": "Crypto treasuries siphon $800B from altcoins, and it might be ‘forever’",
-          "summary": "Corporate crypto treasuries have attracted about $800 billion from retail investors, mainly at the expense of altcoins, according to 10x Research.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/crypto-treasuries-siphon-800b-from-altcoins-and-it-might-be-forever?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "7a93cbaab55f",
           "time": "12:15",
           "category": "Crypto",
@@ -1185,6 +1198,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/blackrock-says-workers-without-may-110000559.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "695d0ef7c906",
+          "time": "04:31",
+          "category": "Earnings",
+          "title": "T-Mobile Raises Outlook, So Why Is Wall Street Selling?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/t-mobile-raises-outlook-why-033104376.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1513,28 +1537,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2025/card/heard-on-the-street-recap-casino-capitalism-6cChrwFQlOhLSbhgk0n3?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "04cb9cc4685f",
-          "time": "23:23",
-          "category": "Markets",
-          "title": "Meta, Microsoft, and Others Need Power. These Utility Stocks Will Benefit.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/meta-microsoft-ai-utility-stocks-mergers-6959fadd?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "da9cb2becae6",
-          "time": "23:20",
-          "category": "Markets",
-          "title": "Target Announces Major Layoffs. They’re Part of the New CEO’s Turnaround Plan.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/target-layoffs-2025-stock-price-f4511adf?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
