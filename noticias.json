@@ -1,13 +1,13 @@
 {
-  "generated_at": "2025-10-25T07:50+01:00",
+  "generated_at": "2025-10-25T08:01+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-25",
       "attention_points": [
         "Bank of England probes data-mining lending strategies fueling AI bets",
-        "Rumble partners with Tether to add Bitcoin tips for content creators",
-        "Inverse Head-and-Shoulders Breakout Puts XRP on Track for $2.80 Test"
+        "XRP Leads Gains on Ripple Moves, Bitcoin Holds $111K as ‘Uptober’ Dud Heads for Last Week",
+        "Rumble partners with Tether to add Bitcoin tips for content creators"
       ],
       "items": [
         {
@@ -20,6 +20,19 @@
           "url": "https://cointelegraph.com/news/bank-of-england-probes-data-mining-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "b38af18ec460",
+          "time": "07:46",
+          "category": "Crypto",
+          "title": "XRP Leads Gains on Ripple Moves, Bitcoin Holds $111K as ‘Uptober’ Dud Heads for Last Week",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/25/xrp-leads-gains-on-ripple-moves-bitcoin-holds-usd111k-as-uptober-dud-heads-for-last-week",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
         },
         {
           "id": "b5154c4d546f",
@@ -732,17 +745,25 @@
           "impact_score": 2
         },
         {
-          "id": "751037c15e62",
-          "time": "06:24",
-          "category": "Crypto",
-          "title": "How Much Could Bitcoin, Ether, XRP and Solana Move After the U.S. Inflation Report?",
+          "id": "9382b43f0c6d",
+          "time": "06:28",
+          "category": "Markets",
+          "title": "Oil Prices Set to End the Week Higher After U.S. Sanctions Spark Rally",
           "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/24/how-much-could-bitcoin-ether-xrp-and-solana-move-after-the-u-s-inflation-report",
-          "tags": [
-            "BTC",
-            "ETH"
-          ],
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/oil-prices-set-end-week-052830328.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "b71a6627b333",
+          "time": "06:21",
+          "category": "US Macro",
+          "title": "Wall Street hits records following an encouraging update on inflation",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/asian-shares-rise-white-house-052144923.html",
+          "tags": [],
           "impact_score": 2
         },
         {
@@ -778,6 +799,19 @@
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/finance/stocks/strong-earnings-us-economy-86f5fd79?siteid=yhoof2&yptr=yahoo",
           "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "2f5958345c52",
+          "time": "00:01",
+          "category": "Crypto",
+          "title": "Steak 'n Shake Commemorates 5 Months Of BTC Payments With Limited Edition 'Bitcoin Steakburgers'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/steak-n-shake-commemorates-5-230113011.html",
+          "tags": [
+            "BTC"
+          ],
           "impact_score": 2
         },
         {
@@ -1001,6 +1035,28 @@
           "impact_score": 1
         },
         {
+          "id": "995fb9733717",
+          "time": "06:09",
+          "category": "Markets",
+          "title": "Analysis-Porsche's new CEO will inherit old problems",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/analysis-porsches-ceo-inherit-old-050939009.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "32f3f6743c97",
+          "time": "06:09",
+          "category": "Markets",
+          "title": "U.K. Car Manufacturing Hit by Jaguar Land Rover Cyberattack in September",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/autos/u-k-car-manufacturing-hit-by-jaguar-land-rover-cyberattack-in-september-db0d9ea6?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "1a7805d9c036",
           "time": "06:04",
           "category": "Markets",
@@ -1078,6 +1134,17 @@
           "impact_score": 1
         },
         {
+          "id": "b96f8db3a8ee",
+          "time": "00:53",
+          "category": "Markets",
+          "title": "Blackstone's Steve Schwarzman says efforts to link credit crackups to private credit are 'misinformation'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/blackstones-steve-schwarzman-says-efforts-235328105.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "bdfe52cfcf78",
           "time": "00:39",
           "category": "Markets",
@@ -1111,17 +1178,6 @@
           "impact_score": 1
         },
         {
-          "id": "8ed80a2523df",
-          "time": "00:13",
-          "category": "Markets",
-          "title": "Target to cut about 1,800 corporate jobs amid stagnant sales, reports say",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/target-cut-1-800-corporate-231357736.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "3709ff6f476b",
           "time": "00:10",
           "category": "Markets",
@@ -1129,6 +1185,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/target-cut-1-800-corporate-231018232.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0b0c4b9f306e",
+          "time": "00:03",
+          "category": "Markets",
+          "title": "Why Applied Digital Stock Skyrocketed Today",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-applied-digital-stock-skyrocketed-230317395.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1235,19 +1302,6 @@
           "impact_score": 2
         },
         {
-          "id": "fb93edb6ab86",
-          "time": "23:41",
-          "category": "Crypto",
-          "title": "Ethereum Price Prediction: Is ETH’s Technical Breakout Real or Another Bull Trap Above $3,800?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ethereum-price-prediction-eth-technical-224156701.html",
-          "tags": [
-            "ETH"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "dbb8f44d6c9b",
           "time": "23:28",
           "category": "Crypto",
@@ -1344,6 +1398,17 @@
           "impact_score": 2
         },
         {
+          "id": "be8dfb3cf144",
+          "time": "23:59",
+          "category": "Markets",
+          "title": "'Transparency Will Help' in Private Credit: Oaktree PM",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/video/transparency-help-private-credit-oaktree-225938666.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "276742597a07",
           "time": "23:51",
           "category": "Markets",
@@ -1384,28 +1449,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/intel-mp-materials-trump-stakes-state-capitalism-68202494?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "43c3c448ec70",
-          "time": "23:45",
-          "category": "Crypto",
-          "title": "Trading legend Jon Najarian joins Solana DAT Upexi as advisor",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/trading-legend-jon-najarian-joins-224548381.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6f12199051dc",
-          "time": "23:42",
-          "category": "US Macro",
-          "title": "Gold's shine could be fading — and BNY says US stocks are the smarter inflation hedge",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/golds-shine-could-fading-mdash-224252926.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1505,50 +1548,6 @@
           "summary": "Coins and tokens linked to crypto mogul Changpeng Zhao and President Trump jumped in price following news of the latest pardon.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345747/bnb-world-liberty-jump-trump-binance-founder",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "586d418cd08b",
-          "time": "22:27",
-          "category": "Markets",
-          "title": "Basic Materials Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/basic-materials-roundup-market-talk-5b8359ea?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3d72a9b79a83",
-          "time": "22:25",
-          "category": "Markets",
-          "title": "Energy & Utilities Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/energy-utilities-roundup-market-talk-89876a5b?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "316c6251b7f6",
-          "time": "22:24",
-          "category": "Markets",
-          "title": "Financial Services Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/financial-services-roundup-a6e6cd54?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "af5148c4cf34",
-          "time": "22:06",
-          "category": "Markets",
-          "title": "Applied Materials to lay off 4% of workforce to simplify operations",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/applied-materials-lay-off-4-210647012.html",
           "tags": [],
           "impact_score": 1
         },
