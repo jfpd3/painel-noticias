@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T06:49+01:00",
+  "generated_at": "2025-10-25T07:00+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -759,6 +759,19 @@
           "impact_score": 2
         },
         {
+          "id": "2f5958345c52",
+          "time": "00:01",
+          "category": "Crypto",
+          "title": "Steak 'n Shake Commemorates 5 Months Of BTC Payments With Limited Edition 'Bitcoin Steakburgers'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/steak-n-shake-commemorates-5-230113011.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "fc21e581ac5c",
           "time": "22:31",
           "category": "Crypto",
@@ -1056,6 +1069,17 @@
           "impact_score": 1
         },
         {
+          "id": "0b0c4b9f306e",
+          "time": "00:03",
+          "category": "Markets",
+          "title": "Why Applied Digital Stock Skyrocketed Today",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-applied-digital-stock-skyrocketed-230317395.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "dbc1742c2d94",
           "time": "00:00",
           "category": "Markets",
@@ -1072,8 +1096,8 @@
       "date": "2025-10-23",
       "attention_points": [
         "Deckers Expects More Cautious Shoppers Due to Tariffs, Higher Prices",
-        "Will September CPI be above or below 3%?",
-        "First Tech Federal Credit Union review (2025): Fee-free accounts and 24/7 member support"
+        "First Tech Federal Credit Union review (2025): Fee-free accounts and 24/7 member support",
+        "NY’s 'DQ Sisters' faced a $6M labor lawsuit they feared would ‘destroy’ them — now, their fight may protect other owners"
       ],
       "items": [
         {
@@ -1084,17 +1108,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/business/earnings/deckers-second-quarter-profit-rises-on-higher-sales-for-hoka-ugg-9dbe50ca?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "6509de15f6b2",
-          "time": "23:29",
-          "category": "US Macro",
-          "title": "Will September CPI be above or below 3%?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/poll-september-cpi-above-below-222900197.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1156,6 +1169,19 @@
           "impact_score": 3
         },
         {
+          "id": "829e7d688830",
+          "time": "23:50",
+          "category": "Crypto",
+          "title": "Analyst who predicted ‘Liberation Day’ crash issues another Bitcoin prediction",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/analyst-predicted-liberation-day-crash-225051520.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "fb93edb6ab86",
           "time": "23:41",
           "category": "Crypto",
@@ -1169,28 +1195,6 @@
           "impact_score": 2
         },
         {
-          "id": "1641b2e386fd",
-          "time": "23:39",
-          "category": "Markets",
-          "title": "Beyond Meat is falling back to earth after rallying 1,300% — but the damage has already been done to short-sellers",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/beyond-meat-falling-back-earth-223916519.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "7f6e4c0b4683",
-          "time": "23:33",
-          "category": "Earnings",
-          "title": "Digital Realty (DLR) Q3 2025 Earnings Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/digital-realty-dlr-q3-2025-223317055.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "dbb8f44d6c9b",
           "time": "23:28",
           "category": "Crypto",
@@ -1198,17 +1202,6 @@
           "summary": "RAND Corporation's simulation has shed light on how a rogue AI could cripple U.S. infrastructure before humans could react.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345763/rand-warns-ai-driven-cyber-chaos-new-robot-insurgency-report",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "a92cd5d73feb",
-          "time": "23:27",
-          "category": "US Macro",
-          "title": "PG&E CEO Poppe on Earnings, Rates and AI Buildout",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/video/pg-e-ceo-poppe-earnings-222715631.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1309,6 +1302,17 @@
           "impact_score": 2
         },
         {
+          "id": "be8dfb3cf144",
+          "time": "23:59",
+          "category": "Markets",
+          "title": "'Transparency Will Help' in Private Credit: Oaktree PM",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/video/transparency-help-private-credit-oaktree-225938666.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "276742597a07",
           "time": "23:51",
           "category": "Markets",
@@ -1316,6 +1320,28 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/dividend-stocks-buy-income-investing-46818922?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "abe4a43d62ff",
+          "time": "23:50",
+          "category": "Markets",
+          "title": "Why Alcoa Stock Soared by Almost 13% on Thursday",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-alcoa-stock-soared-almost-225057471.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b12252ff0299",
+          "time": "23:49",
+          "category": "Crypto",
+          "title": "Solana Price Prediction: Is the Market Overreacting to Fidelity’s Solana Expansion?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/solana-price-prediction-market-overreacting-224949286.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1353,17 +1379,6 @@
           "impact_score": 1
         },
         {
-          "id": "01a6539a44f9",
-          "time": "23:37",
-          "category": "Markets",
-          "title": "Google, Anthropic Announce Cloud Deal Worth Tens of Billions",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/google-anthropic-announce-cloud-deal-204519600.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "b726b4331cd9",
           "time": "23:33",
           "category": "Markets",
@@ -1382,17 +1397,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2025/card/heard-on-the-street-recap-casino-capitalism-6cChrwFQlOhLSbhgk0n3?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5b80ad1706f1",
-          "time": "23:28",
-          "category": "Markets",
-          "title": "Why CACI International Crushed the Market Today",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-caci-international-crushed-market-222824041.html",
           "tags": [],
           "impact_score": 1
         },
