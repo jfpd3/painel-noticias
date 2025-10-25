@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T12:00+01:00",
+  "generated_at": "2025-10-25T12:29+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -93,28 +93,6 @@
           "summary": "Ferrari is deepening its crypto push with a new digital token for its top clients, letting them bid on the Le Mans-winning 499P as part of a limited auction set to launch in 2027.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/ferrari-digital-token-lets-fans-bid-on-le-mans-winning-car?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "02f135f2e583",
-          "time": "11:00",
-          "category": "US Macro",
-          "title": "Mortgage and refinance interest rates today, October 25, 2025: A click lower, a tick higher",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-october-25-2025-100041325.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "2645090b5559",
-          "time": "11:00",
-          "category": "US Macro",
-          "title": "Best money market account rates today, October 25, 2025 (best account provides 4.26% APY)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-october-25-2025-100008708.html",
           "tags": [],
           "impact_score": 1
         },
@@ -371,13 +349,24 @@
           "impact_score": 3
         },
         {
-          "id": "f731767c1461",
-          "time": "10:23",
-          "category": "Regulation",
-          "title": "Optum taps its second CFO in 6 months",
+          "id": "a24651ab3982",
+          "time": "11:34",
+          "category": "US Macro",
+          "title": "Markets Chase Record Highs. Stock Futures Rise Ahead of CPI Inflation Report.",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/optum-taps-second-cfo-6-092324761.html",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102425/card/markets-head-toward-record-highs-stock-futures-rise-ahead-of-cpi-inflation-report--aSKq08aFbLApIPzd0guy?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "302a4527bb78",
+          "time": "11:08",
+          "category": "US Macro",
+          "title": "U.S. Inflation Eases to 3% in September, Strengthening Case for Fed Rate Cut",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/u-inflation-eases-3-september-100816218.html",
           "tags": [],
           "impact_score": 3
         },
@@ -741,17 +730,6 @@
           "impact_score": 2
         },
         {
-          "id": "74d53988c892",
-          "time": "10:16",
-          "category": "Earnings",
-          "title": "Packaging Corporation of America reports Q3 2025 earnings growth",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/packaging-corporation-america-reports-q3-091633377.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "bd64da74dcd2",
           "time": "10:14",
           "category": "Earnings",
@@ -827,17 +805,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/business/earnings/sanofi-earnings-driven-by-new-medicine-sales-dupixent-performance-8bf8970e?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "a8c5c11b4ec4",
-          "time": "08:48",
-          "category": "Earnings",
-          "title": "Saab Lifts Full-Year Sales Guidance as Defense Demand Remains Strong",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/earnings/saab-lifts-full-year-sales-guidance-as-defense-demand-remains-strong-d058886f?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 2
         },
@@ -1099,6 +1066,28 @@
           "impact_score": 1
         },
         {
+          "id": "99733835839f",
+          "time": "11:30",
+          "category": "Markets",
+          "title": "Stampeding Bull Market Will Keep Bears at Bay for Another Year, Investors Predict",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/stampeding-bull-market-keep-bears-103000112.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "21534219cd89",
+          "time": "11:30",
+          "category": "Markets",
+          "title": "Oil Spikes as US Sanctions Russian Producers to Undermine Putin’s War Machine",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/oil-spikes-us-sanctions-russian-103000009.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "ec67a8de4742",
           "time": "11:00",
           "category": "US Macro",
@@ -1176,6 +1165,83 @@
           "impact_score": 1
         },
         {
+          "id": "e45829884057",
+          "time": "10:59",
+          "category": "Markets",
+          "title": "Morgan Stanley Sees a Compelling Entry Point in These 2 Cloud Stocks",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/morgan-stanley-sees-compelling-entry-095901522.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "58ba29a3ef2d",
+          "time": "10:58",
+          "category": "Markets",
+          "title": "Teladoc finance chief to step down",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/teladoc-finance-chief-step-down-095832835.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "62f3fc713027",
+          "time": "10:56",
+          "category": "Markets",
+          "title": "The Weekly Closeout: Amazon hikes fulfillment fees and retailers list AI as a risk factor",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/weekly-closeout-amazon-hikes-fulfillment-095600381.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "070669006989",
+          "time": "10:55",
+          "category": "Markets",
+          "title": "FirstEnergy expects peak load to grow 45% by 2035 on data centers",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/firstenergy-expects-peak-load-grow-095527749.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c15b394cba84",
+          "time": "10:50",
+          "category": "Markets",
+          "title": "Can Shiba Inu Reach $1 in 2026? The Answer Might Blow Your Mind.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/shiba-inu-reach-1-2026-095000951.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1b0ec92f9974",
+          "time": "10:45",
+          "category": "Markets",
+          "title": "If I Could Only Buy and Hold a Single Stock, This Would Be It.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/could-only-buy-hold-single-094500261.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "25d127a9be24",
+          "time": "10:45",
+          "category": "Markets",
+          "title": "CEO of IT firm with 350K workers says AI will create more entry level jobs—and he’s recruiting liberal arts graduates",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ceo-firm-350k-workers-says-094500420.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "eba129958946",
           "time": "10:37",
           "category": "Markets",
@@ -1183,6 +1249,28 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/dave-ramsey-says-purchase-keep-093700694.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "676639c0299d",
+          "time": "10:33",
+          "category": "Markets",
+          "title": "Ebix launches ExposureHub in US",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ebix-launches-exposurehub-us-093327399.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5497950b883d",
+          "time": "10:33",
+          "category": "Markets",
+          "title": "Is the Artificial Intelligence (AI) Boom Turning Into a Bubble or Just Getting Started?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/artificial-intelligence-ai-boom-turning-093300835.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1205,83 +1293,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/china-future-tech-webinar-nexperia-093000472.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "30cd97547c80",
-          "time": "10:25",
-          "category": "Markets",
-          "title": "The Ultimate Growth Stock to Buy With $1,000 Right Now",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ultimate-growth-stock-buy-1-092500885.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "d1ebd6a296af",
-          "time": "10:24",
-          "category": "Markets",
-          "title": "Honeywell sees sales growth despite market turmoil",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/honeywell-sees-sales-growth-despite-092457451.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ca4f02606ead",
-          "time": "10:22",
-          "category": "Markets",
-          "title": "Google TPUs Find Sweet Spot of AI Demand, a Decade After Chip’s Debut",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/google-tpus-sweet-spot-ai-231842149.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ab4de3693621",
-          "time": "10:20",
-          "category": "Markets",
-          "title": "2 Super Semiconductor Stocks (Besides Nvidia) to Buy Hand Over Fist in 2026",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/2-super-semiconductor-stocks-besides-092000259.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e936992d1b29",
-          "time": "10:17",
-          "category": "Markets",
-          "title": "AngloGold finalises acquisition of Augusta Gold",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/anglogold-finalises-acquisition-augusta-gold-091753536.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "080cb7031a34",
-          "time": "10:15",
-          "category": "Markets",
-          "title": "2 Things Investors Should Know About Eli Lilly's $5 Billion Investment to Improve Its Drug Production Capacity",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/2-things-investors-know-eli-091500286.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5dc272bc90d1",
-          "time": "10:15",
-          "category": "Markets",
-          "title": "Is IBM Stock a Buy?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ibm-stock-buy-091500085.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1315,28 +1326,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/what-investors-are-saying-about-inflation-81mtEyiqSJQPsZCPZpas?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1813c49b287f",
-          "time": "08:30",
-          "category": "Earnings",
-          "title": "LNG Demand Fuels Strong Third Quarter for Baker Hughes",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/lng-demand-fuels-strong-third-073000622.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "76c9a23f4d7a",
-          "time": "08:27",
-          "category": "US Macro",
-          "title": "Heard on the Street Thursday Recap: Casino Capitalism",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/heard-on-the-street-thursday-recap-casino-capitalism-RBEBUCIyZ4gq7yNzsFCx?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
