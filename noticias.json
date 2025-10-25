@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-25T23:36+01:00",
+  "generated_at": "2025-10-25T23:47+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-25",
       "attention_points": [
+        "Dow Jones Futures: Trump Ups Canada Tariff; Huge Earnings, Fed, China's Xi Ahead",
         "SoftBank approves remaining $22.5 billion of OpenAI investment, the Information reports",
-        "Trump Names SEC Crypto Task Force Head Selig as Next Nominee to Run U.S. CFTC",
-        "First U.S. Spot XRP ETF Surpasses $100M in Assets Under Management"
+        "Trump Names SEC Crypto Task Force Head Selig as Next Nominee to Run U.S. CFTC"
       ],
       "items": [
+        {
+          "id": "1d6daef5b3f9",
+          "time": "23:25",
+          "category": "US Macro",
+          "title": "Dow Jones Futures: Trump Ups Canada Tariff; Huge Earnings, Fed, China's Xi Ahead",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-apple-microsoft-meta-earnings-fed-meeting-trump-xi/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "b9f47275dacf",
           "time": "22:11",
@@ -136,17 +147,6 @@
           "impact_score": 3
         },
         {
-          "id": "fbb823724af4",
-          "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer on Netflix: “I Think This Sell-Off is an Overreaction”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-netflix-think-sell-044455150.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "4020d0f15b06",
           "time": "03:09",
           "category": "Crypto",
@@ -189,19 +189,6 @@
           "summary": "Bitcoin’s market cycles may stretch longer as ISM manufacturing data remains weak, hinting at extended macro headwinds and slower business recovery.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/ism-manufacturing-pmi-bitcoin-cycle-extended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "7bd2db46b406",
-          "time": "20:16",
-          "category": "Crypto",
-          "title": "Elon Musk's SpaceX Shakes Up Bitcoin Market With $133 Million Transfer",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/elon-musks-spacex-shakes-bitcoin-191617879.html",
           "tags": [
             "BTC"
           ],
@@ -350,6 +337,17 @@
           "impact_score": 2
         },
         {
+          "id": "cc8c3aace36d",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer Highlights Intuitive Surgical Rally on Unexpected Procedure Growth",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-highlights-intuitive-surgical-044449478.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "b5154c4d546f",
           "time": "01:16",
           "category": "Crypto",
@@ -362,6 +360,17 @@
             "ETH"
           ],
           "impact_score": 2
+        },
+        {
+          "id": "a9e3b572ab14",
+          "time": "23:31",
+          "category": "Markets",
+          "title": "A Dave Ramsey Caller Asked If Buying A Classic Muscle Car Beats Buying A Home. Here's The Rare Case Where That Decision Might Pay Off",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/dave-ramsey-caller-asked-buying-223114039.html",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "9202e38026f5",
@@ -393,17 +402,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/exxonmobil-sues-california-over-climate-214436516.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "22:36",
-          "category": "Markets",
-          "title": "Dow Jones Futures: From AAPL To Xi, Get Ready For A Huge Market Week",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-apple-microsoft-meta-earnings-fed-meeting-trump-xi/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -628,17 +626,6 @@
           "impact_score": 1
         },
         {
-          "id": "f7f332a35592",
-          "time": "15:00",
-          "category": "Markets",
-          "title": "My stolen car was found after insurance already paid me for it — but now I want to buy it back. What should I do?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stolen-car-found-insurance-already-140000246.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "fa65fb73121f",
           "time": "14:35",
           "category": "Crypto",
@@ -738,35 +725,35 @@
           "impact_score": 1
         },
         {
-          "id": "a48b483ada32",
-          "time": "05:45",
+          "id": "8772cb0ff12f",
+          "time": "05:44",
           "category": "Markets",
-          "title": "Jim Cramer on Tecogen: “I Kind of Like This One, but it’s Really Speculative”",
+          "title": "Jim Cramer Uses Capital One as an Example of Real Economy Stocks",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-tecogen-kind-one-044502878.html",
+          "url": "https://finance.yahoo.com/news/jim-cramer-uses-capital-one-044452971.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "5ee0dc0d673d",
+          "id": "62e97ec39238",
           "time": "05:44",
           "category": "Markets",
-          "title": "Jim Cramer Says “No, Thank You” to AST SpaceMobile",
+          "title": "Jim Cramer on Texas Instruments: “I Don’t Expect Buyers to Take That Stock Up Anytime Soon”",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-no-thank-044457863.html",
+          "url": "https://finance.yahoo.com/news/jim-cramer-texas-instruments-don-044450779.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "42da5c044231",
+          "id": "f44d2d6ac4cd",
           "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer on Thermo Fisher: “Maybe This Stock Can Finally Get its Groove Back”",
+          "category": "Earnings",
+          "title": "Jim Cramer Notes Vertiv’s Strong Results",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-thermo-fisher-maybe-044454564.html",
+          "url": "https://finance.yahoo.com/news/jim-cramer-notes-vertiv-strong-044447848.html",
           "tags": [],
           "impact_score": 1
         },
@@ -782,13 +769,24 @@
           "impact_score": 1
         },
         {
-          "id": "1acc93a76145",
+          "id": "45e7853dabfa",
           "time": "05:44",
           "category": "Markets",
-          "title": "Jim Cramer on Uranium Energy: “Don’t Buy These Uranium Companies”",
+          "title": "Jim Cramer on Microvast: “I Liked it a Year Ago, and I Continue to Like it Now”",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-uranium-energy-don-044443188.html",
+          "url": "https://finance.yahoo.com/news/jim-cramer-microvast-liked-ago-044441075.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5d478d7129bc",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Warner Bros: “I Think You Gotta Hold Onto It”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-warner-bros-think-044437464.html",
           "tags": [],
           "impact_score": 1
         },
