@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T05:53+01:00",
+  "generated_at": "2025-10-25T06:04+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -298,6 +298,17 @@
           "tags": [
             "BTC"
           ],
+          "impact_score": 3
+        },
+        {
+          "id": "25561a90ebd9",
+          "time": "00:14",
+          "category": "Regulation",
+          "title": "Rivian agrees to pay $250 million to settle IPO fraud lawsuit",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/rivian-agrees-pay-250-million-231414422.html",
+          "tags": [],
           "impact_score": 3
         },
         {
@@ -946,6 +957,28 @@
           "impact_score": 1
         },
         {
+          "id": "79f022ae9599",
+          "time": "00:30",
+          "category": "Markets",
+          "title": "This 6.7%-Yielding Dividend Aristocrat Has Raised Its Payout 60 Times in the Last 56 Years. Should You Buy?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/6-7-yielding-dividend-aristocrat-233002125.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3709ff6f476b",
+          "time": "00:10",
+          "category": "Markets",
+          "title": "Target to cut 1,800 corporate roles in turnaround effort",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/target-cut-1-800-corporate-231018232.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "dbc1742c2d94",
           "time": "00:00",
           "category": "Markets",
@@ -1018,17 +1051,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/citi-ceo-fraser-bonus-called-excessive-560ac41b?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "2acd8b2f5ad7",
-          "time": "22:00",
-          "category": "Markets",
-          "title": "Daily ETF Flows: IWM Pulls In $482M",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/daily-etf-flows-iwm-pulls-210004521.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1136,19 +1158,6 @@
           "impact_score": 2
         },
         {
-          "id": "1910c592bcde",
-          "time": "22:33",
-          "category": "Crypto",
-          "title": "Target quietly rolls out something huge to lure back customers",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/target-quietly-rolls-something-huge-213300313.html",
-          "tags": [
-            "ETH"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "1d6daef5b3f9",
           "time": "22:14",
           "category": "Earnings",
@@ -1178,17 +1187,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/valero-earnings-refiners-margins-stock-37dd861e?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "21:57",
-          "category": "Markets",
-          "title": "Super Micro Computer Stock Drops As Projects Delayed",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/technology/smci-stock-drops-supermicro-projects-delayed/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 2
         },
@@ -1322,6 +1320,17 @@
           "impact_score": 1
         },
         {
+          "id": "413c5d3f7e0b",
+          "time": "23:14",
+          "category": "Markets",
+          "title": "Why Las Vegas Sands Investors Hit the Jackpot Today",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-las-vegas-sands-investors-221400366.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "8c9adaf6dcc3",
           "time": "23:13",
           "category": "Markets",
@@ -1329,6 +1338,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/articles/corrections-amplifications-78b67711?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "81205e3e84f2",
+          "time": "23:10",
+          "category": "Markets",
+          "title": "Why STMicroelectronics Stock Plummeted Today",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-stmicroelectronics-stock-plummeted-today-221021634.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1395,17 +1415,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2025/card/popularity-of-leveraged-single-stock-funds-exposes-more-investors-to-steep-losses-JUFW3IkhpdqZt0gI7bL0?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "081595d82e68",
-          "time": "22:31",
-          "category": "Markets",
-          "title": "Trump Administration Reportedly Exploring Taking Stakes In Quantum Computing Companies— IonQ, Rigetti And D-Wave Discussing Move",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/trump-administration-reportedly-exploring-taking-213110281.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1516,17 +1525,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/applied-materials-lay-off-4-210647012.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "dfbad0cbece7",
-          "time": "22:00",
-          "category": "Markets",
-          "title": "Critical Auto-Aluminum Supplier Says Fire-Damaged Plant Will Restart This Year",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/autos/critical-auto-aluminum-supplier-says-fire-damaged-plant-will-restart-this-year-a2099535?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
