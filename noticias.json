@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T09:44+01:00",
+  "generated_at": "2025-10-25T09:56+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -367,6 +367,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/business/retail/safran-raises-outlook-forecasts-residual-tariff-hit-e34b38f7?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "3d4cbb7221e5",
+          "time": "06:41",
+          "category": "Crypto",
+          "title": "Cathie Wood-Backed Solana Treasury Explodes 50% After Revealing ‘Aggressive’ M&A and SOL Buys",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/cathie-wood-backed-solana-treasury-054108271.html",
           "tags": [],
           "impact_score": 3
         },
@@ -829,19 +840,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/24/bitcoin-s-rally-cools-as-traders-hedge-the-heat",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "8fa7e2739de6",
-          "time": "07:11",
-          "category": "Crypto",
-          "title": "Bitcoin’s Rally Cools as Traders Hedge the Heat",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bitcoin-rally-cools-traders-hedge-061127221.html",
           "tags": [
             "BTC"
           ],
