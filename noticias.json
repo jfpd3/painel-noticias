@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T21:42+01:00",
+  "generated_at": "2025-10-25T21:49+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -340,6 +340,17 @@
           "tags": [
             "BTC"
           ],
+          "impact_score": 2
+        },
+        {
+          "id": "5063e029fd2f",
+          "time": "02:36",
+          "category": "Earnings",
+          "title": "Church & Dwight's Quarterly Earnings Preview: What You Need to Know",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/church-dwights-quarterly-earnings-preview-013649200.html",
+          "tags": [],
           "impact_score": 2
         },
         {
@@ -687,17 +698,6 @@
           "impact_score": 1
         },
         {
-          "id": "1d6daef5b3f9",
-          "time": "13:00",
-          "category": "Markets",
-          "title": "Tesla, AI Plays Lead Five Stocks Near Buy Points Without This Big Risk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/tesla-stock-ai-plays-stocks-buy-points/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "774cc4c1f499",
           "time": "13:00",
           "category": "Crypto",
@@ -720,13 +720,13 @@
           "impact_score": 1
         },
         {
-          "id": "2645090b5559",
+          "id": "3d9387c657cf",
           "time": "11:00",
           "category": "US Macro",
-          "title": "Best money market account rates today, October 25, 2025 (best account provides 4.26% APY)",
+          "title": "Best CD rates today, October 25, 2025 (best account provides 4.1% APY)",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-october-25-2025-100008708.html",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-october-25-2025-100004979.html",
           "tags": [],
           "impact_score": 1
         },
@@ -771,6 +771,28 @@
           "summary": "Ripple has completed its acquisition of Hidden Road, a move that will expand its fintech services for institutional clients and boost the utility and reach of its RLUSD stablecoin.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/ripple-closes-fintech-hidden-road-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "859108295e0c",
+          "time": "03:04",
+          "category": "Markets",
+          "title": "Delta, Aeromexico ask court to block Trump order forcing end to JV",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/delta-aeromexico-ask-court-block-020412211.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b8064c46d067",
+          "time": "03:00",
+          "category": "Markets",
+          "title": "Why Bubbles Can Keep Inflating in Plain Sight",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/finance/stocks/why-bubbles-can-keep-inflating-in-plain-sight-a4af6aef?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -1507,17 +1529,6 @@
           "summary": "Coins and tokens linked to crypto mogul Changpeng Zhao and President Trump jumped in price following news of the latest pardon.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345747/bnb-world-liberty-jump-trump-binance-founder",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0e804b5d37d7",
-          "time": "20:32",
-          "category": "US Macro",
-          "title": "How soaring national debt impacts mortgage rates and the housing market",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-national-debt-impacts-housing-market-and-mortgage-rates-193244911.html",
           "tags": [],
           "impact_score": 1
         },
