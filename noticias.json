@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-25T09:56+01:00",
+  "generated_at": "2025-10-25T10:33+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-25",
       "attention_points": [
+        "Crypto.com Applies for OCC National Trust Bank Charter to Expand U.S. Institutional Custody",
         "Spot Ether ETFs see outflows for second consecutive week amid ‘cooling demand’",
-        "Bank of England probes data-mining lending strategies fueling AI bets",
-        "XRP Leads Gains on Ripple Moves, Bitcoin Holds $111K as ‘Uptober’ Dud Heads for Last Week"
+        "Bank of England probes data-mining lending strategies fueling AI bets"
       ],
       "items": [
+        {
+          "id": "f6b153e9079c",
+          "time": "10:10",
+          "category": "Crypto",
+          "title": "Crypto.com Applies for OCC National Trust Bank Charter to Expand U.S. Institutional Custody",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/policy/2025/10/25/crypto-com-applies-for-occ-national-trust-bank-charter-to-expand-u-s-institutional-custody",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "540be7805477",
           "time": "08:33",
@@ -347,13 +358,27 @@
           "impact_score": 3
         },
         {
-          "id": "dfa60be45a43",
+          "id": "47d7ad365826",
+          "time": "07:07",
+          "category": "Crypto",
+          "title": "Nearly $6 Billion in Bitcoin and Ethereum Options Expire Ahead of September CPI",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/nearly-6-billion-bitcoin-ethereum-060722323.html",
+          "tags": [
+            "BTC",
+            "ETH"
+          ],
+          "impact_score": 3
+        },
+        {
+          "id": "6f7403842896",
           "time": "07:00",
           "category": "Crypto",
           "title": "Swiss Bank Sygnum to Launch Bitcoin-Backed Loan Platform With Multi-Sig Wallet Control",
           "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/business/2025/10/24/swiss-bank-sygnum-to-launch-bitcoin-backed-loan-platform-with-multi-sig-wallet-control",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/swiss-bank-sygnum-launch-bitcoin-060000535.html",
           "tags": [
             "BTC"
           ],
@@ -378,28 +403,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/cathie-wood-backed-solana-treasury-054108271.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "ad265d73493f",
-          "time": "03:09",
-          "category": "Markets",
-          "title": "Reversal of weak dollar may test Asia's resilience to tariffs, IMF says",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/reversal-weak-dollar-may-test-020902622.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "62a0fa62215b",
-          "time": "02:19",
-          "category": "Earnings",
-          "title": "Boston Beer Boosts Full-Year Profit Outlook, Sees Lower Tariff Risk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/earnings/boston-beer-boosts-full-year-profit-outlook-sees-lower-tariff-risk-ba4c69f4?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 3
         },
@@ -708,6 +711,28 @@
           "impact_score": 2
         },
         {
+          "id": "bd64da74dcd2",
+          "time": "10:14",
+          "category": "Earnings",
+          "title": "TransDigm Group’s Quarterly Earnings Preview: What You Need to Know",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/transdigm-group-quarterly-earnings-preview-091413937.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "fa87f06d7eaf",
+          "time": "10:11",
+          "category": "Earnings",
+          "title": "Earnings Preview: What to Expect From Duke Energy’s Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/earnings-preview-expect-duke-energy-091141728.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "9dfba4490bbb",
           "time": "10:10",
           "category": "Crypto",
@@ -718,6 +743,39 @@
           "tags": [
             "BTC"
           ],
+          "impact_score": 2
+        },
+        {
+          "id": "5907fd18e92d",
+          "time": "10:08",
+          "category": "Earnings",
+          "title": "What You Need to Know Ahead of Axon Enterprise’s Earnings Release",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/know-ahead-axon-enterprise-earnings-090821141.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "4407b3d6b4ba",
+          "time": "10:05",
+          "category": "Earnings",
+          "title": "Akamai Technologies’ Q3 2025 Earnings: What to Expect",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/akamai-technologies-q3-2025-earnings-090518819.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "83bf7ad3a8e2",
+          "time": "10:01",
+          "category": "Earnings",
+          "title": "Here's What to Expect From NRG Energy’s Next Earnings Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/heres-expect-nrg-energy-next-090130231.html",
+          "tags": [],
           "impact_score": 2
         },
         {
@@ -846,6 +904,19 @@
           "impact_score": 2
         },
         {
+          "id": "8fa7e2739de6",
+          "time": "07:11",
+          "category": "Crypto",
+          "title": "Bitcoin’s Rally Cools as Traders Hedge the Heat",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bitcoin-rally-cools-traders-hedge-061127221.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "175698c6b19a",
           "time": "06:30",
           "category": "Earnings",
@@ -865,20 +936,6 @@
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/oil-prices-set-end-week-052830328.html",
           "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "f4b05f523521",
-          "time": "06:24",
-          "category": "Crypto",
-          "title": "How Much Could Bitcoin, Ether, XRP and Solana Move After the U.S. Inflation Report?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/much-could-bitcoin-ether-xrp-052415840.html",
-          "tags": [
-            "BTC",
-            "ETH"
-          ],
           "impact_score": 2
         },
         {
@@ -906,30 +963,6 @@
           "impact_score": 2
         },
         {
-          "id": "9079b3089b0d",
-          "time": "05:07",
-          "category": "Crypto",
-          "title": "Bitcoin's Large Bag Holders Remain Net Buyers as Leverage Unwinds",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bitcoins-large-bag-holders-remain-040752998.html",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "b9e112854f69",
-          "time": "04:32",
-          "category": "Earnings",
-          "title": "Intel to Take on Broadcom: 3 Reasons the Stock is Surging 8% After Q3 Earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/intel-broadcom-3-reasons-stock-033228010.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "10073657fc10",
           "time": "03:29",
           "category": "Crypto",
@@ -937,17 +970,6 @@
           "summary": "Despite repeated warnings from crypto exchange NDAX Canada, the customer lost her life savings in Ethereum to a scam.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345780/woman-warned-canadian-exchange-crypto-scammed-anyway",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "3da5c470de51",
-          "time": "02:00",
-          "category": "Earnings",
-          "title": "Strong Earnings Reassure Jittery, Data-Deprived Investors",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/stocks/strong-earnings-us-economy-86f5fd79?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 2
         },
@@ -1161,6 +1183,17 @@
           "impact_score": 1
         },
         {
+          "id": "a4daa522f15d",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Best money market account rates today, October 24, 2025 (up to 4.26% APY return)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-friday-october-24-2025-100033189.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "204e5f48ae61",
           "time": "11:00",
           "category": "US Macro",
@@ -1179,6 +1212,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-october-24-2025-100009224.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c9dd94172cae",
+          "time": "10:14",
+          "category": "Markets",
+          "title": "Hedge funds boost AI tech bets to highest since 2016, Goldman Sachs says",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/hedge-funds-boost-ai-tech-091409193.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1238,6 +1282,39 @@
           "impact_score": 1
         },
         {
+          "id": "dede23217932",
+          "time": "07:54",
+          "category": "Crypto",
+          "title": "Fidelity Expands Into Solana as Analysts Predict $500 Breakout",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fidelity-expands-solana-analysts-predict-065456097.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f60627f7e7b4",
+          "time": "07:43",
+          "category": "Markets",
+          "title": "Bitget CEO Says Altcoin Season Won’t Return Until 2026 — If Ever",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bitget-ceo-says-altcoin-season-064338804.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3cff3cb6d726",
+          "time": "07:42",
+          "category": "Markets",
+          "title": "UBS Names New Chief Operating Officer in Executive Team Reshuffle",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ubs-names-chief-operating-officer-064200477.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "bbb1dcf9a028",
           "time": "07:30",
           "category": "Markets",
@@ -1267,6 +1344,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/nextera-energy-declares-quarterly-dividend-060000423.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "979c2d847d6d",
+          "time": "07:00",
+          "category": "Markets",
+          "title": "Magic Circle law firms face £250m blow from Reeves tax raid",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/magic-circle-law-firms-face-060000890.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1315,28 +1403,6 @@
           "impact_score": 1
         },
         {
-          "id": "15f784cb7297",
-          "time": "05:56",
-          "category": "Crypto",
-          "title": "Coinbase Grows Altcoin Offerings With aPriori (APR) and Meteora (MET) Listings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/coinbase-grows-altcoin-offerings-apriori-045647354.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b9d196801493",
-          "time": "05:08",
-          "category": "Crypto",
-          "title": "Fidelity Rolls Out Solana Trading Access for US-Based Investors",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/fidelity-rolls-solana-trading-access-040826931.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "1adb337c479b",
           "time": "05:00",
           "category": "Markets",
@@ -1344,72 +1410,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/blackrock-says-workers-without-may-110000559.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "28343edf190a",
-          "time": "04:58",
-          "category": "Markets",
-          "title": "Balyasny’s New $30 Million Man Adds Four to His Asia Macro Pod",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/balyasny-30-million-man-adds-035807616.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "695d0ef7c906",
-          "time": "04:31",
-          "category": "Earnings",
-          "title": "T-Mobile Raises Outlook, So Why Is Wall Street Selling?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/t-mobile-raises-outlook-why-033104376.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "058857e5770e",
-          "time": "04:07",
-          "category": "Markets",
-          "title": "AI Agents Create Enormous Opportunity — and Risk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ai-agents-create-enormous-opportunity-030700577.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "90ae37d64af5",
-          "time": "04:05",
-          "category": "Markets",
-          "title": "The ATA has damaged the economics of trucking, while compromising public safety",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ata-damaged-economics-trucking-while-030542421.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "eb3395011dc1",
-          "time": "04:00",
-          "category": "Markets",
-          "title": "Military Tech Companies, Long Snubbed in Europe, Are Having a Moment",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/entrepreneurship/military-tech-companies-long-snubbed-in-europe-are-having-a-moment-0ffb2cf0?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8d556024cff1",
-          "time": "01:38",
-          "category": "Markets",
-          "title": "South Korea's economy grew modestly in Q3 as exports, consumption stay resilient: Reuters poll",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/south-koreas-economy-grew-modestly-003836775.html",
           "tags": [],
           "impact_score": 1
         }
