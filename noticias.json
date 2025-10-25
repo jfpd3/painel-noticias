@@ -1,7 +1,38 @@
 {
-  "generated_at": "2025-10-26T00:31+01:00",
+  "generated_at": "2025-10-26T00:45+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
+    {
+      "date": "2025-10-26",
+      "attention_points": [
+        "One more regional airline files for Chapter 11 bankruptcy",
+        "5 Frugal Habits Suze Orman Still Follows, Even as a Millionaire"
+      ],
+      "items": [
+        {
+          "id": "0c4a33e27fd3",
+          "time": "00:32",
+          "category": "Markets",
+          "title": "One more regional airline files for Chapter 11 bankruptcy",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/one-more-regional-airline-files-233200652.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "295eb181ccf6",
+          "time": "00:03",
+          "category": "Markets",
+          "title": "5 Frugal Habits Suze Orman Still Follows, Even as a Millionaire",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/5-frugal-habits-suze-orman-140128491.html",
+          "tags": [],
+          "impact_score": 1
+        }
+      ]
+    },
     {
       "date": "2025-10-25",
       "attention_points": [
@@ -51,17 +82,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/25/first-u-s-spot-xrp-etf-surpasses-usd100m-in-assets-under-management",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "f02639ff09d0",
-          "time": "21:00",
-          "category": "Markets",
-          "title": "First U.S. Spot XRP ETF Surpasses $100M in Assets Under Management",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/first-u-spot-xrp-etf-200003320.html",
           "tags": [],
           "impact_score": 3
         },
@@ -147,6 +167,17 @@
           "impact_score": 3
         },
         {
+          "id": "797a417b8419",
+          "time": "07:30",
+          "category": "Crypto",
+          "title": "Crypto Treasury Stocks Face a Reckoning. Why Boom Could Turn to Bust.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/crypto-treasury-stocks-strategy-bitcoin-80005ff0?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "4020d0f15b06",
           "time": "03:09",
           "category": "Crypto",
@@ -156,19 +187,6 @@
           "url": "https://cointelegraph.com/news/bank-of-england-probes-data-mining-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
-        },
-        {
-          "id": "5b15a42ecb36",
-          "time": "21:09",
-          "category": "Crypto",
-          "title": "Ethereum Whales are Quietly Splashing Cash – Is Confidence Returning in ETH?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ethereum-whales-quietly-splashing-cash-200909745.html",
-          "tags": [
-            "ETH"
-          ],
-          "impact_score": 2
         },
         {
           "id": "b431ea497743",
@@ -798,17 +816,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/public-enterprise-group-peg-price-045740758.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "38be369dd989",
-          "time": "05:57",
-          "category": "Markets",
-          "title": "Evergy (EVRG) – One of the Best Utility Stocks to Buy for Dividends",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/evergy-evrg-one-best-utility-045723750.html",
           "tags": [],
           "impact_score": 1
         },
