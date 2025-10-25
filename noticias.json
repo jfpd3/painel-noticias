@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T22:45+01:00",
+  "generated_at": "2025-10-25T22:56+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -304,19 +304,6 @@
           "impact_score": 2
         },
         {
-          "id": "698b5af9877b",
-          "time": "14:00",
-          "category": "Crypto",
-          "title": "Can This AI Stock Dethrone Nvidia by 2030?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ai-stock-dethrone-nvidia-2030-130002958.html",
-          "tags": [
-            "ETH"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "6623fc7c663a",
           "time": "10:49",
           "category": "Crypto",
@@ -423,6 +410,17 @@
           "impact_score": 1
         },
         {
+          "id": "07ea71c35483",
+          "time": "21:00",
+          "category": "US Macro",
+          "title": "North America Set to Cut Rates as Rest of G-7 Looks On",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/north-america-set-cut-rates-200000572.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "56d4736de61f",
           "time": "20:56",
           "category": "Markets",
@@ -485,17 +483,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/25/sol-now-on-fidelity-s-retail-platform-as-price-tests-usd195-while-usd188-support-draws-focus",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3d674f3b5605",
-          "time": "19:26",
-          "category": "Markets",
-          "title": "ExxonMobil Sues California, Claims New Green Laws Violate Speech",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/exxonmobil-sues-california-claims-green-182613325.html",
           "tags": [],
           "impact_score": 1
         },
@@ -720,17 +707,6 @@
           "impact_score": 1
         },
         {
-          "id": "3d9387c657cf",
-          "time": "11:00",
-          "category": "US Macro",
-          "title": "Best CD rates today, October 25, 2025 (best account provides 4.1% APY)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-october-25-2025-100004979.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "6fb5555453c4",
           "time": "07:34",
           "category": "Crypto",
@@ -753,13 +729,35 @@
           "impact_score": 1
         },
         {
-          "id": "38475796c217",
+          "id": "698c9c2edabb",
           "time": "05:44",
           "category": "Markets",
-          "title": "Jim Cramer Says Constellation Energy is a Good Company but “It’s Up Too Much”",
+          "title": "Jim Cramer Says He is “Going to Recommend Buying BILL Holdings”",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-constellation-energy-044440561.html",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-going-recommend-044444443.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1acc93a76145",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Uranium Energy: “Don’t Buy These Uranium Companies”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-uranium-energy-don-044443188.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5d478d7129bc",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Warner Bros: “I Think You Gotta Hold Onto It”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-warner-bros-think-044437464.html",
           "tags": [],
           "impact_score": 1
         },
