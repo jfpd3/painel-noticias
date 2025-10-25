@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T07:00+01:00",
+  "generated_at": "2025-10-25T07:50+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -7,7 +7,7 @@
       "attention_points": [
         "Bank of England probes data-mining lending strategies fueling AI bets",
         "Rumble partners with Tether to add Bitcoin tips for content creators",
-        "Ripple now a one-stop fintech shop after closing Hidden Road acquisition"
+        "Inverse Head-and-Shoulders Breakout Puts XRP on Track for $2.80 Test"
       ],
       "items": [
         {
@@ -34,6 +34,28 @@
             "ETH"
           ],
           "impact_score": 2
+        },
+        {
+          "id": "6fb5555453c4",
+          "time": "07:34",
+          "category": "Crypto",
+          "title": "Inverse Head-and-Shoulders Breakout Puts XRP on Track for $2.80 Test",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/25/inverse-head-and-shoulders-breakout-puts-xrp-on-track-for-usd2-80-test",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3dfdef0197b8",
+          "time": "07:00",
+          "category": "Crypto",
+          "title": "Dogecoin Hits $0.20 as Breakout Volume Triples Average, Confirms Bullish Setup",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/25/dogecoin-hits-usd0-20-as-breakout-volume-triples-average-confirms-bullish-setup",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "1273398ba575",
@@ -323,6 +345,17 @@
           "impact_score": 3
         },
         {
+          "id": "9e6861ca5ef2",
+          "time": "00:48",
+          "category": "Regulation",
+          "title": "Rivian agrees to pay $250 million to settle IPO fraud lawsuit",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/rivian-agrees-pay-250-million-234807031.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "acd11066d2d0",
           "time": "00:44",
           "category": "Regulation",
@@ -334,13 +367,13 @@
           "impact_score": 3
         },
         {
-          "id": "25561a90ebd9",
-          "time": "00:14",
-          "category": "Regulation",
-          "title": "Rivian agrees to pay $250 million to settle IPO fraud lawsuit",
+          "id": "609b137cbe27",
+          "time": "00:37",
+          "category": "Earnings",
+          "title": "Veteran analyst takes surprising move on Netflix stock after earnings",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/rivian-agrees-pay-250-million-231414422.html",
+          "url": "https://finance.yahoo.com/news/veteran-analyst-takes-surprising-move-233700751.html",
           "tags": [],
           "impact_score": 3
         },
@@ -713,17 +746,6 @@
           "impact_score": 2
         },
         {
-          "id": "15285a89bfdd",
-          "time": "05:44",
-          "category": "Crypto",
-          "title": "XRP Flashes Bullish Signal as Exchange Balances Drop 3%",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/24/xrp-flashes-bullish-signal-as-exchange-balances-drop-3",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "51f3f6dd5f23",
           "time": "05:07",
           "category": "Crypto",
@@ -756,19 +778,6 @@
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/finance/stocks/strong-earnings-us-economy-86f5fd79?siteid=yhoof2&yptr=yahoo",
           "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "2f5958345c52",
-          "time": "00:01",
-          "category": "Crypto",
-          "title": "Steak 'n Shake Commemorates 5 Months Of BTC Payments With Limited Edition 'Bitcoin Steakburgers'",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/steak-n-shake-commemorates-5-230113011.html",
-          "tags": [
-            "BTC"
-          ],
           "impact_score": 2
         },
         {
@@ -992,6 +1001,17 @@
           "impact_score": 1
         },
         {
+          "id": "1a7805d9c036",
+          "time": "06:04",
+          "category": "Markets",
+          "title": "Analysis-Investors use dotcom era playbook to dodge AI bubble risks",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/analysis-investors-dotcom-era-playbook-050404071.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "5b843506bddc",
           "time": "06:03",
           "category": "Crypto",
@@ -1003,13 +1023,35 @@
           "impact_score": 1
         },
         {
-          "id": "e74480ca9cc8",
-          "time": "05:49",
-          "category": "Crypto",
-          "title": "DOGE Breaks $0.195 Level on Heavy Trade, Wyckoff Setup Points to Next Leg Higher",
+          "id": "1adb337c479b",
+          "time": "05:00",
+          "category": "Markets",
+          "title": "Missing This Could Cost You $625,000 in Retirement, Says BlackRock",
           "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/24/doge-breaks-usd0-195-level-on-heavy-trade-wyckoff-setup-points-to-next-leg-higher",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/blackrock-says-workers-without-may-110000559.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "90ae37d64af5",
+          "time": "04:05",
+          "category": "Markets",
+          "title": "The ATA has damaged the economics of trucking, while compromising public safety",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ata-damaged-economics-trucking-while-030542421.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "eb3395011dc1",
+          "time": "04:00",
+          "category": "Markets",
+          "title": "Military Tech Companies, Long Snubbed in Europe, Are Having a Moment",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/entrepreneurship/military-tech-companies-long-snubbed-in-europe-are-having-a-moment-0ffb2cf0?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -1047,6 +1089,17 @@
           "impact_score": 1
         },
         {
+          "id": "33741b6e04a7",
+          "time": "00:37",
+          "category": "Markets",
+          "title": "Why Avery Dennison Stock Was Rocking It This Week",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-avery-dennison-stock-rocking-233724410.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "79f022ae9599",
           "time": "00:30",
           "category": "Markets",
@@ -1058,6 +1111,17 @@
           "impact_score": 1
         },
         {
+          "id": "8ed80a2523df",
+          "time": "00:13",
+          "category": "Markets",
+          "title": "Target to cut about 1,800 corporate jobs amid stagnant sales, reports say",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/target-cut-1-800-corporate-231357736.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "3709ff6f476b",
           "time": "00:10",
           "category": "Markets",
@@ -1065,17 +1129,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/target-cut-1-800-corporate-231018232.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0b0c4b9f306e",
-          "time": "00:03",
-          "category": "Markets",
-          "title": "Why Applied Digital Stock Skyrocketed Today",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-applied-digital-stock-skyrocketed-230317395.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1228,17 +1281,6 @@
           "impact_score": 2
         },
         {
-          "id": "1d6daef5b3f9",
-          "time": "22:14",
-          "category": "Earnings",
-          "title": "Intel Stock Rises On Big Third-Quarter Earnings Beat",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/technology/intel-stock-intc-q3-2025-earnings-report/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "48b9f998c184",
           "time": "21:07",
           "category": "Crypto",
@@ -1300,17 +1342,6 @@
           "url": "https://decrypt.co/345650/trezor-unveils-quantum-ready-safe-7-hardware-wallet",
           "tags": [],
           "impact_score": 2
-        },
-        {
-          "id": "be8dfb3cf144",
-          "time": "23:59",
-          "category": "Markets",
-          "title": "'Transparency Will Help' in Private Credit: Oaktree PM",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/video/transparency-help-private-credit-oaktree-225938666.html",
-          "tags": [],
-          "impact_score": 1
         },
         {
           "id": "276742597a07",
@@ -1507,39 +1538,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/articles/financial-services-roundup-a6e6cd54?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f1ff79f9468a",
-          "time": "22:22",
-          "category": "Markets",
-          "title": "Tech, Media & Telecom Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-7adecefa?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b124941612da",
-          "time": "22:19",
-          "category": "Markets",
-          "title": "Auto & Transport Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-f0bc6ad2?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0b64d5ef3b0b",
-          "time": "22:15",
-          "category": "Markets",
-          "title": "Rivian Lays Off More Than 600 Workers Amid EV Pullback",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/autos/rivian-to-layoff-more-than-600-workers-amid-ev-pullback-03a792e5?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
