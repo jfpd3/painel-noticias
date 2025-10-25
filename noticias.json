@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T21:49+01:00",
+  "generated_at": "2025-10-25T22:00+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -368,6 +368,17 @@
           "impact_score": 2
         },
         {
+          "id": "be212de3eb44",
+          "time": "21:36",
+          "category": "Markets",
+          "title": "Scale AI Veteran Bilal Abu-Ghazaleh Launches 1001 With $9 Million To Rebuild The Physical World Through Artificial Intelligence",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/scale-ai-veteran-bilal-abu-203635437.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "117cd2213c8e",
           "time": "21:17",
           "category": "Markets",
@@ -474,17 +485,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/one-wall-street-rising-star-181202514.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "946dc1194a43",
-          "time": "19:03",
-          "category": "Markets",
-          "title": "Target announces a major change affecting its entire business",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/target-announces-major-change-affecting-180300190.html",
           "tags": [],
           "impact_score": 1
         },
@@ -731,13 +731,13 @@
           "impact_score": 1
         },
         {
-          "id": "b37c8a311b21",
+          "id": "e44052de3e68",
           "time": "11:00",
           "category": "US Macro",
-          "title": "Best high-yield savings interest rates today, October 25, 2025 (Earn up to 4.25% APY)",
+          "title": "HELOC rates today, October 25, 2025: Downward momentum",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-saturday-october-25-2025-100000897.html",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-saturday-october-25-2025-100004377.html",
           "tags": [],
           "impact_score": 1
         },
