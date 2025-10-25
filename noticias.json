@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T23:57+01:00",
+  "generated_at": "2025-10-26T00:31+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -144,17 +144,6 @@
           "tags": [
             "ETH"
           ],
-          "impact_score": 3
-        },
-        {
-          "id": "fbb823724af4",
-          "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer on Netflix: “I Think This Sell-Off is an Overreaction”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-netflix-think-sell-044455150.html",
-          "tags": [],
           "impact_score": 3
         },
         {
@@ -348,17 +337,6 @@
           "impact_score": 2
         },
         {
-          "id": "cc8c3aace36d",
-          "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer Highlights Intuitive Surgical Rally on Unexpected Procedure Growth",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-highlights-intuitive-surgical-044449478.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "b5154c4d546f",
           "time": "01:16",
           "category": "Crypto",
@@ -380,6 +358,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/dave-ramsey-caller-asked-buying-223114039.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7f9c3f2fa748",
+          "time": "23:20",
+          "category": "Markets",
+          "title": "1 Magnificent Oil Stock Down 18% to Buy and Hold Forever",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/1-magnificent-oil-stock-down-222000590.html",
           "tags": [],
           "impact_score": 1
         },
@@ -479,17 +468,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/jennifer-garners-baby-food-company-200000842.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "07ea71c35483",
-          "time": "21:00",
-          "category": "US Macro",
-          "title": "North America Set to Cut Rates as Rest of G-7 Looks On",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/north-america-set-cut-rates-200000572.html",
           "tags": [],
           "impact_score": 1
         },
@@ -615,17 +593,6 @@
           "impact_score": 1
         },
         {
-          "id": "52fe18ecee4e",
-          "time": "15:36",
-          "category": "Markets",
-          "title": "'This fight is far from over': Intel’s key business is nowhere near a turnaround",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/this-fight-is-far-from-over-intels-key-business-is-nowhere-near-a-turnaround-143041684.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "13122985c8d7",
           "time": "15:00",
           "category": "Crypto",
@@ -736,79 +703,112 @@
           "impact_score": 1
         },
         {
-          "id": "42da5c044231",
-          "time": "05:44",
+          "id": "df19cf6c6fe3",
+          "time": "07:00",
           "category": "Markets",
-          "title": "Jim Cramer on Thermo Fisher: “Maybe This Stock Can Finally Get its Groove Back”",
+          "title": "This Couple Oversees Billions in Assets. We Caught Up With Them.",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-thermo-fisher-maybe-044454564.html",
+          "url": "https://www.barrons.com/articles/amy-falls-hartley-rogers-interview-finance-markets-economy-87d2070f?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "8772cb0ff12f",
-          "time": "05:44",
+          "id": "d3c98f4fc567",
+          "time": "06:00",
           "category": "Markets",
-          "title": "Jim Cramer Uses Capital One as an Example of Real Economy Stocks",
+          "title": "Worried About the AI Bubble? How to Stay Invested in Stocks Without Getting Burned.",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-uses-capital-one-044452971.html",
+          "url": "https://www.barrons.com/articles/stock-market-bubble-ai-investments-68733125?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "62e97ec39238",
-          "time": "05:44",
+          "id": "7a0a74cb476a",
+          "time": "05:59",
           "category": "Markets",
-          "title": "Jim Cramer on Texas Instruments: “I Don’t Expect Buyers to Take That Stock Up Anytime Soon”",
+          "title": "The AES Corporation (AES) Price Target Updated at Barclays",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-texas-instruments-don-044450779.html",
+          "url": "https://finance.yahoo.com/news/aes-corporation-aes-price-target-045951806.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "f44d2d6ac4cd",
-          "time": "05:44",
+          "id": "9aecac4074ce",
+          "time": "05:59",
+          "category": "Markets",
+          "title": "The Southern Company (SO) Receives a Price Target Update",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/southern-company-receives-price-target-045939941.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0271fce25a25",
+          "time": "05:59",
+          "category": "Markets",
+          "title": "Jeffries Raises Price Target for Eversource Energy (ES)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jeffries-raises-price-target-eversource-045927275.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "36ca0f966969",
+          "time": "05:59",
           "category": "Earnings",
-          "title": "Jim Cramer Notes Vertiv’s Strong Results",
+          "title": "FirstEnergy (FE) Reports its Q3 Results",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-notes-vertiv-strong-044447848.html",
+          "url": "https://finance.yahoo.com/news/firstenergy-fe-reports-q3-results-045915347.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "68c41639ec8d",
-          "time": "05:44",
+          "id": "e061cc20c8cd",
+          "time": "05:59",
           "category": "Markets",
-          "title": "Jim Cramer Says “GE Vernova is a Very Important Company”",
+          "title": "Exelon Corporation (EXC) Price Target Raised by $4 at Morgan Stanley",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-ge-vernova-044446536.html",
+          "url": "https://finance.yahoo.com/news/exelon-corporation-exc-price-target-045903881.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "45e7853dabfa",
-          "time": "05:44",
+          "id": "acc69a7d7538",
+          "time": "05:58",
           "category": "Markets",
-          "title": "Jim Cramer on Microvast: “I Liked it a Year Ago, and I Continue to Like it Now”",
+          "title": "Duke Energy Corporation (DUK) Price Target Raised by $9 at Morgan Stanley",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-microvast-liked-ago-044441075.html",
+          "url": "https://finance.yahoo.com/news/duke-energy-corporation-duk-price-045843356.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "38475796c217",
-          "time": "05:44",
+          "id": "2d83010a04db",
+          "time": "05:57",
           "category": "Markets",
-          "title": "Jim Cramer Says Constellation Energy is a Good Company but “It’s Up Too Much”",
+          "title": "Public Service Enterprise Group (PEG) – Price Target Raised at Morgan Stanley",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-constellation-energy-044440561.html",
+          "url": "https://finance.yahoo.com/news/public-enterprise-group-peg-price-045740758.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "38be369dd989",
+          "time": "05:57",
+          "category": "Markets",
+          "title": "Evergy (EVRG) – One of the Best Utility Stocks to Buy for Dividends",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/evergy-evrg-one-best-utility-045723750.html",
           "tags": [],
           "impact_score": 1
         },
