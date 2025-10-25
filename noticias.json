@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-25T22:00+01:00",
+  "generated_at": "2025-10-25T22:32+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-25",
       "attention_points": [
+        "Trump Names SEC Crypto Task Force Head Selig as Next Nominee to Run U.S. CFTC",
         "First U.S. Spot XRP ETF Surpasses $100M in Assets Under Management",
-        "Georgia woman’s husband keeps her in the dark about their finances — Dave Ramsey says to act now or ‘shut up about it’",
-        "My husband wants to buy a $60K truck — but we’re $30K in debt and saving for a house. How do we get on the same page?"
+        "Georgia woman’s husband keeps her in the dark about their finances — Dave Ramsey says to act now or ‘shut up about it’"
       ],
       "items": [
+        {
+          "id": "b1a34d07bebc",
+          "time": "21:53",
+          "category": "Crypto",
+          "title": "Trump Names SEC Crypto Task Force Head Selig as Next Nominee to Run U.S. CFTC",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/policy/2025/10/25/frame-trump-names-sec-crypto-task-force-head-selig-as-next-nominee-to-run-u-s-cftc",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "42d1ca54040d",
           "time": "21:00",
@@ -368,6 +379,17 @@
           "impact_score": 2
         },
         {
+          "id": "6f23bed4705d",
+          "time": "21:57",
+          "category": "US Macro",
+          "title": "Amazon (AMZN) Announces the Expansion of Amazon Now Across the United Arab Emirates",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/amazon-amzn-announces-expansion-amazon-205719363.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "be212de3eb44",
           "time": "21:36",
           "category": "Markets",
@@ -720,24 +742,24 @@
           "impact_score": 1
         },
         {
-          "id": "3d9387c657cf",
+          "id": "2645090b5559",
           "time": "11:00",
           "category": "US Macro",
-          "title": "Best CD rates today, October 25, 2025 (best account provides 4.1% APY)",
+          "title": "Best money market account rates today, October 25, 2025 (best account provides 4.26% APY)",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-october-25-2025-100004979.html",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-october-25-2025-100008708.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "e44052de3e68",
+          "id": "b37c8a311b21",
           "time": "11:00",
           "category": "US Macro",
-          "title": "HELOC rates today, October 25, 2025: Downward momentum",
+          "title": "Best high-yield savings interest rates today, October 25, 2025 (Earn up to 4.25% APY)",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-saturday-october-25-2025-100004377.html",
+          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-saturday-october-25-2025-100000897.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1355,17 +1377,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/24/bnb-jumps-sees-35-volume-spike-after-trump-pardons-binance-founder-cz",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c435fc7ce361",
-          "time": "14:00",
-          "category": "Crypto",
-          "title": "Crypto Regulators Must Adapt Quickly to Stay Globally Competitive",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/opinion/2025/10/22/crypto-regulators-must-adapt-quickly-to-stay-globally-competitive",
           "tags": [],
           "impact_score": 1
         },
