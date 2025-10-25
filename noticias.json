@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T10:46+01:00",
+  "generated_at": "2025-10-25T10:56+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -44,6 +44,19 @@
           "url": "https://cointelegraph.com/news/bank-of-england-probes-data-mining-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "6623fc7c663a",
+          "time": "10:49",
+          "category": "Crypto",
+          "title": "Bitcoin Consolidates Above $111,000 as Breakout Awaits Fresh Catalyst",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/25/bitcoin-consolidates-as-breakout-awaits-fresh-catalyst",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
         },
         {
           "id": "b38af18ec460",
@@ -368,19 +381,6 @@
           "tags": [
             "BTC",
             "ETH"
-          ],
-          "impact_score": 3
-        },
-        {
-          "id": "6f7403842896",
-          "time": "07:00",
-          "category": "Crypto",
-          "title": "Swiss Bank Sygnum to Launch Bitcoin-Backed Loan Platform With Multi-Sig Wallet Control",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/swiss-bank-sygnum-launch-bitcoin-060000535.html",
-          "tags": [
-            "BTC"
           ],
           "impact_score": 3
         },
@@ -880,19 +880,6 @@
           "impact_score": 2
         },
         {
-          "id": "9af22b23b31c",
-          "time": "07:11",
-          "category": "Crypto",
-          "title": "Bitcoin’s Rally Cools as Traders Hedge the Heat",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/24/bitcoin-s-rally-cools-as-traders-hedge-the-heat",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "8fa7e2739de6",
           "time": "07:11",
           "category": "Crypto",
@@ -1227,13 +1214,13 @@
           "impact_score": 1
         },
         {
-          "id": "7a279a448db8",
-          "time": "09:24",
+          "id": "384a3213e338",
+          "time": "09:30",
           "category": "Markets",
-          "title": "Billionaire Bill Ackman May Be the Next Warren Buffett -- He's Buying 2 Artificial Intelligence (AI) Stocks Hand Over Fist",
+          "title": "Has Lululemon Stock Bottomed Out?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/billionaire-bill-ackman-may-next-082400345.html",
+          "url": "https://finance.yahoo.com/news/lululemon-stock-bottomed-083000179.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1267,6 +1254,28 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/heard-on-the-street-thursday-recap-casino-capitalism-RBEBUCIyZ4gq7yNzsFCx?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f22b6b998a1e",
+          "time": "08:20",
+          "category": "Markets",
+          "title": "2 Consumer Goods Stocks to Buy Now",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/2-consumer-goods-stocks-buy-072000594.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ad046174fb2d",
+          "time": "08:15",
+          "category": "Markets",
+          "title": "Down 20%, Should You Buy Nebius Group Right Now?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/down-20-buy-nebius-group-071500049.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1355,17 +1364,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/nextera-energy-declares-quarterly-dividend-060000423.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "979c2d847d6d",
-          "time": "07:00",
-          "category": "Markets",
-          "title": "Magic Circle law firms face £250m blow from Reeves tax raid",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/magic-circle-law-firms-face-060000890.html",
           "tags": [],
           "impact_score": 1
         },
