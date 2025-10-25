@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T08:55+01:00",
+  "generated_at": "2025-10-25T09:44+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -325,6 +325,17 @@
           "impact_score": 3
         },
         {
+          "id": "301999137764",
+          "time": "09:48",
+          "category": "Markets",
+          "title": "Gold Price Drops Again. What’s Halting Its 9-Week Winning Run.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/gold-price-drops-trump-china-0c1ff421?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "43d53c2acfb5",
           "time": "09:25",
           "category": "Crypto",
@@ -360,17 +371,6 @@
           "impact_score": 3
         },
         {
-          "id": "1bc618e4942b",
-          "time": "03:25",
-          "category": "Regulation",
-          "title": "Asia Morning Briefing: After CZ’s Pardon, Odds Rise for Sam Bankman-Fried’s Second Chance",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/asia-morning-briefing-cz-pardon-022502887.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "ad265d73493f",
           "time": "03:09",
           "category": "Markets",
@@ -382,19 +382,6 @@
           "impact_score": 3
         },
         {
-          "id": "ceb53e5c89b4",
-          "time": "02:38",
-          "category": "Crypto",
-          "title": "Tether Backs Pave Bank in $39M Raise to Expand Crypto-Friendly Banking",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/tether-backs-pave-bank-39m-013859076.html",
-          "tags": [
-            "ETH"
-          ],
-          "impact_score": 3
-        },
-        {
           "id": "62a0fa62215b",
           "time": "02:19",
           "category": "Earnings",
@@ -402,28 +389,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/business/earnings/boston-beer-boosts-full-year-profit-outlook-sees-lower-tariff-risk-ba4c69f4?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "712a3dbf8928",
-          "time": "00:54",
-          "category": "Regulation",
-          "title": "Rivian agrees to pay $250 million to settle IPO fraud lawsuit",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/rivian-agrees-pay-250-million-235423499.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "acd11066d2d0",
-          "time": "00:44",
-          "category": "Regulation",
-          "title": "Rivian to Pay $250M to Settle Lawsuit Over Vehicle-Cost Disclosure in IPO Documents",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/autos/rivian-to-pay-250m-to-settle-lawsuit-over-vehicle-cost-disclosure-in-ipo-documents-58f61702?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 3
         },
@@ -745,6 +710,28 @@
           "impact_score": 2
         },
         {
+          "id": "f820a10c7f62",
+          "time": "09:45",
+          "category": "Earnings",
+          "title": "Sanofi Earnings Get Boost From Dupixent, New Drugs as U.S. Talks Continue",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/earnings/sanofi-earnings-driven-by-new-medicine-sales-dupixent-performance-8bf8970e?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "a8c5c11b4ec4",
+          "time": "08:48",
+          "category": "Earnings",
+          "title": "Saab Lifts Full-Year Sales Guidance as Defense Demand Remains Strong",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/earnings/saab-lifts-full-year-sales-guidance-as-defense-demand-remains-strong-d058886f?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "74b7bfe2af21",
           "time": "08:40",
           "category": "Crypto",
@@ -848,6 +835,19 @@
           "impact_score": 2
         },
         {
+          "id": "8fa7e2739de6",
+          "time": "07:11",
+          "category": "Crypto",
+          "title": "Bitcoin’s Rally Cools as Traders Hedge the Heat",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bitcoin-rally-cools-traders-hedge-061127221.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "175698c6b19a",
           "time": "06:30",
           "category": "Earnings",
@@ -870,6 +870,20 @@
           "impact_score": 2
         },
         {
+          "id": "f4b05f523521",
+          "time": "06:24",
+          "category": "Crypto",
+          "title": "How Much Could Bitcoin, Ether, XRP and Solana Move After the U.S. Inflation Report?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/much-could-bitcoin-ether-xrp-052415840.html",
+          "tags": [
+            "BTC",
+            "ETH"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "a0eef673ddc2",
           "time": "06:21",
           "category": "US Macro",
@@ -888,6 +902,19 @@
           "summary": "Some see possibility for a renewed bullish setup for Bitcoin as key holders continue accumulating following the market's historic wipeout.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345810/bitcoins-large-bag-holders-remain-net-buyers-leverage-unwinds",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "9079b3089b0d",
+          "time": "05:07",
+          "category": "Crypto",
+          "title": "Bitcoin's Large Bag Holders Remain Net Buyers as Leverage Unwinds",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bitcoins-large-bag-holders-remain-040752998.html",
           "tags": [
             "BTC"
           ],
@@ -1136,6 +1163,72 @@
           "impact_score": 1
         },
         {
+          "id": "204e5f48ae61",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "HELOC rates today, October 24, 2025: Primed for another move lower",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-friday-october-24-2025-100029756.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "118e802ffa98",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Mortgage and refinance interest rates today, October 24, 2025: Now at a more than a one-year low",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-october-24-2025-100009224.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e99325a4ede0",
+          "time": "09:33",
+          "category": "US Macro",
+          "title": "Global Markets Rise; U.S. Inflation Data Eyed, Gold, Oil Down",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/economy/global-markets-rise-u-s-inflation-data-eyed-gold-oil-down-168e6394?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9685e453f02e",
+          "time": "09:21",
+          "category": "US Macro",
+          "title": "What Investors Are Saying About Inflation",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/what-investors-are-saying-about-inflation-81mtEyiqSJQPsZCPZpas?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1813c49b287f",
+          "time": "08:30",
+          "category": "Earnings",
+          "title": "LNG Demand Fuels Strong Third Quarter for Baker Hughes",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/lng-demand-fuels-strong-third-073000622.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "76c9a23f4d7a",
+          "time": "08:27",
+          "category": "US Macro",
+          "title": "Heard on the Street Thursday Recap: Casino Capitalism",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/heard-on-the-street-thursday-recap-casino-capitalism-RBEBUCIyZ4gq7yNzsFCx?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "80b5ee6dd977",
           "time": "08:00",
           "category": "Markets",
@@ -1224,6 +1317,28 @@
           "impact_score": 1
         },
         {
+          "id": "15f784cb7297",
+          "time": "05:56",
+          "category": "Crypto",
+          "title": "Coinbase Grows Altcoin Offerings With aPriori (APR) and Meteora (MET) Listings",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/coinbase-grows-altcoin-offerings-apriori-045647354.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b9d196801493",
+          "time": "05:08",
+          "category": "Crypto",
+          "title": "Fidelity Rolls Out Solana Trading Access for US-Based Investors",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fidelity-rolls-solana-trading-access-040826931.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "1adb337c479b",
           "time": "05:00",
           "category": "Markets",
@@ -1231,6 +1346,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/blackrock-says-workers-without-may-110000559.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "28343edf190a",
+          "time": "04:58",
+          "category": "Markets",
+          "title": "Balyasny’s New $30 Million Man Adds Four to His Asia Macro Pod",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/balyasny-30-million-man-adds-035807616.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1279,39 +1405,6 @@
           "impact_score": 1
         },
         {
-          "id": "07b7ca2fb3fb",
-          "time": "03:31",
-          "category": "Earnings",
-          "title": "CoreWeave Is 'Frightening... It's Unbelievable,' Says Expert, Expecting Its Revenue To Multiply Nearly 5x By 2028",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/coreweave-frightening-unbelievable-says-expert-023133241.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "71c9ec9e7b9e",
-          "time": "03:29",
-          "category": "Crypto",
-          "title": "Woman Repeatedly Warned by Canadian Exchange Not to Transfer Crypto, Gets Scammed Anyway",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/woman-repeatedly-warned-canadian-exchange-022905962.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4a58576da3d7",
-          "time": "03:01",
-          "category": "Markets",
-          "title": "Here's How You Can Earn $100 In Passive Income By Investing In Iron Mountain Stock",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/heres-earn-100-passive-income-020104520.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "8d556024cff1",
           "time": "01:38",
           "category": "Markets",
@@ -1321,83 +1414,17 @@
           "url": "https://finance.yahoo.com/news/south-koreas-economy-grew-modestly-003836775.html",
           "tags": [],
           "impact_score": 1
-        },
-        {
-          "id": "aa77f127aed0",
-          "time": "01:00",
-          "category": "Markets",
-          "title": "StanChart Finally Turns Bearish, Cuts Oil Price Forecast By $15/bbl",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stanchart-finally-turns-bearish-cuts-000000636.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "bdfe52cfcf78",
-          "time": "00:39",
-          "category": "Markets",
-          "title": "Target is eliminating 1,800 corporate jobs as it looks to reclaim its lost luster",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/target-eliminating-1-800-corporate-233922300.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "79f022ae9599",
-          "time": "00:30",
-          "category": "Markets",
-          "title": "This 6.7%-Yielding Dividend Aristocrat Has Raised Its Payout 60 Times in the Last 56 Years. Should You Buy?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/6-7-yielding-dividend-aristocrat-233002125.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3709ff6f476b",
-          "time": "00:10",
-          "category": "Markets",
-          "title": "Target to cut 1,800 corporate roles in turnaround effort",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/target-cut-1-800-corporate-231018232.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "dbc1742c2d94",
-          "time": "00:00",
-          "category": "Markets",
-          "title": "Post-OPEC Angola: The Quota’s Gone, the Decline Isn’t",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/post-opec-angola-quota-gone-230000467.html",
-          "tags": [],
-          "impact_score": 1
         }
       ]
     },
     {
       "date": "2025-10-23",
       "attention_points": [
-        "Deckers Expects More Cautious Shoppers Due to Tariffs, Higher Prices",
         "OpenAI's ChatGPT Atlas Browser Has a Big Problem—How Crypto Users Can Protect Themselves",
-        "Revolut Secures MiCA License in Cyprus—Is a Stablecoin Next?"
+        "Revolut Secures MiCA License in Cyprus—Is a Stablecoin Next?",
+        "The MegaETH interview (w/ Bread)"
       ],
       "items": [
-        {
-          "id": "56a169319067",
-          "time": "23:50",
-          "category": "Markets",
-          "title": "Deckers Expects More Cautious Shoppers Due to Tariffs, Higher Prices",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/earnings/deckers-second-quarter-profit-rises-on-higher-sales-for-hoka-ugg-9dbe50ca?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
         {
           "id": "e321fce3b972",
           "time": "22:20",
@@ -1517,28 +1544,6 @@
           "url": "https://decrypt.co/345650/trezor-unveils-quantum-ready-safe-7-hardware-wallet",
           "tags": [],
           "impact_score": 2
-        },
-        {
-          "id": "276742597a07",
-          "time": "23:51",
-          "category": "Markets",
-          "title": "Dividend Stocks Aren’t Just for Income Investors. Here’s Another Reason to Buy Them.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/dividend-stocks-buy-income-investing-46818922?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "7933fbf92d65",
-          "time": "23:49",
-          "category": "US Macro",
-          "title": "How Trump Sparked a New Era of State Capitalism",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/intel-mp-materials-trump-stakes-state-capitalism-68202494?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
         },
         {
           "id": "6962a4fab514",
