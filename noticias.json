@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T15:42+01:00",
+  "generated_at": "2025-10-25T16:04+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -154,6 +154,50 @@
           "impact_score": 2
         },
         {
+          "id": "e6dab70c3e72",
+          "time": "15:43",
+          "category": "Markets",
+          "title": "If JP Morgan’s ‘Healthy Correction’ Is Coming, 6 Investor Moves to Remember",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jp-morgan-healthy-correction-coming-144344562.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "17b5cec7a412",
+          "time": "15:37",
+          "category": "Markets",
+          "title": "O'Reilly Auto Parts CEO warns consumers will see change in stores",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/oreilly-auto-parts-ceo-warns-143700126.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "52fe18ecee4e",
+          "time": "15:36",
+          "category": "Markets",
+          "title": "'This fight is far from over': Intel’s key business is nowhere near a turnaround",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/this-fight-is-far-from-over-intels-key-business-is-nowhere-near-a-turnaround-143041684.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "93aab7f524e6",
+          "time": "15:18",
+          "category": "Markets",
+          "title": "4 Tesla Stock Mistakes That Cost Investors Thousands",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/4-tesla-stock-mistakes-cost-141807852.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "f0c2db6b0183",
           "time": "15:03",
           "category": "Markets",
@@ -198,6 +242,17 @@
           "impact_score": 1
         },
         {
+          "id": "a4f2d39871d1",
+          "time": "14:51",
+          "category": "Crypto",
+          "title": "Bitwise CEO Reacts as LinkedIn Founder Buys a CryptoPunk",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bitwise-ceo-reacts-linkedin-founder-135106441.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "ad191936d241",
           "time": "14:46",
           "category": "Markets",
@@ -205,17 +260,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/study-says-san-franciscos-housing-134606886.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5a76690169cd",
-          "time": "14:45",
-          "category": "Markets",
-          "title": "Insiders Are Scooping Up Shares of a Miner, a Driller, and a Biotech",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/insiders-scooping-shares-miner-driller-134503731.html",
           "tags": [],
           "impact_score": 1
         },
@@ -242,17 +286,6 @@
           "impact_score": 1
         },
         {
-          "id": "285fa55898ab",
-          "time": "14:16",
-          "category": "Markets",
-          "title": "'There Are A Million Ways' To Replace Rental Income: Suze Orman Shares Advice For Retirees Selling Property",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/million-ways-replace-rental-income-131645287.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "f61ba559286c",
           "time": "14:13",
           "category": "Markets",
@@ -260,17 +293,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/self-made-millionaires-dish-5-131300366.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "51626a235cd3",
-          "time": "14:07",
-          "category": "Markets",
-          "title": "5 Financial Pitfalls To Avoid in 2026, According to Economists",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/5-financial-pitfalls-avoid-2026-130703951.html",
           "tags": [],
           "impact_score": 1
         },
@@ -293,17 +315,6 @@
           "summary": "Crypto laws are popping up across Africa as countries race to offer favorable conditions to the crypto industry and balance consumer safety concerns.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/countries-africa-approve-crypto-laws-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3466b7266b25",
-          "time": "13:59",
-          "category": "Crypto",
-          "title": "Crypto Mergers and Acquisitions Reach an All-Time High at $10 Billion",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/crypto-mergers-acquisitions-reach-time-125913304.html",
           "tags": [],
           "impact_score": 1
         },
@@ -359,17 +370,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/mtg-admits-prices-under-trump-114500551.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8b63b61a9f4e",
-          "time": "12:00",
-          "category": "Markets",
-          "title": "Some premium credit cards have hiked annual fees by 45% — make sure ‘fee creep’ isn’t quietly canceling your rewards",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/premium-credit-cards-hiked-annual-110000639.html",
           "tags": [],
           "impact_score": 1
         },
@@ -570,6 +570,17 @@
           "impact_score": 3
         },
         {
+          "id": "b61e6190f517",
+          "time": "14:00",
+          "category": "Markets",
+          "title": "Netflix Produces Strong FCF Q3 Margins - NFLX Looks 23% Too Cheap",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/netflix-produces-strong-fcf-q3-130002990.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "86b4615c5fba",
           "time": "13:58",
           "category": "Crypto",
@@ -581,6 +592,17 @@
             "BTC",
             "ETH"
           ],
+          "impact_score": 3
+        },
+        {
+          "id": "25dca8588090",
+          "time": "13:54",
+          "category": "US Macro",
+          "title": "Gas Prices Surged in September, CPI Data Show",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/livecoverage/inflation-september-cpi-report/card/gas-prices-surged-in-september-cpi-data-show-NbZp8U6SS4nSnjGEUGvT?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
           "impact_score": 3
         },
         {
@@ -907,17 +929,6 @@
           "impact_score": 2
         },
         {
-          "id": "1c4421d067cd",
-          "time": "13:44",
-          "category": "Markets",
-          "title": "Hexcel (HXL) Surges to New High Ahead of Dividend Record Date",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hexcel-hxl-surges-high-ahead-124419594.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "99e3a273d34e",
           "time": "13:44",
           "category": "Earnings",
@@ -980,72 +991,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/garrett-motion-gtx-soars-record-124244647.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "35c6c3fe9d11",
-          "time": "13:42",
-          "category": "Earnings",
-          "title": "What You Need to Know Ahead of Viatris' Earnings Release",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/know-ahead-viatris-earnings-release-124200119.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "348fd31380b2",
-          "time": "13:38",
-          "category": "Earnings",
-          "title": "What to Expect From News Corporation's Q1 2026 Earnings Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/expect-news-corporations-q1-2026-123819889.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "7f692f6b27b8",
-          "time": "13:32",
-          "category": "Markets",
-          "title": "Global equity fund inflows surge as US-China trade tensions ease",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/global-equity-fund-inflows-surge-123224285.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "132f86e198d0",
-          "time": "13:31",
-          "category": "Earnings",
-          "title": "Live Nation Entertainment Earnings Preview: What to Expect",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/live-nation-entertainment-earnings-preview-123133924.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "7a9f9e1dd559",
-          "time": "13:31",
-          "category": "Earnings",
-          "title": "Here's What to Expect From Rockwell Automation’s Next Earnings Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/heres-expect-rockwell-automation-next-123128401.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "57c1f7973367",
-          "time": "13:15",
-          "category": "Earnings",
-          "title": "Corpay's Q3 2025 Earnings: What to Expect",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/corpays-q3-2025-earnings-expect-121556388.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1255,6 +1200,83 @@
           "impact_score": 1
         },
         {
+          "id": "63a93b34baab",
+          "time": "14:12",
+          "category": "Markets",
+          "title": "Outperformance Possible After Strong September",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/outperformance-possible-strong-september-131233064.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c1fa1bc87c9d",
+          "time": "14:11",
+          "category": "Markets",
+          "title": "This HVAC Contractor’s Stock Pops 18%. It’s Seeing ‘Unprecedented Demand.’",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/comfort-systems-earnings-stock-price-d6ec3564?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c910d8b6cc60",
+          "time": "14:09",
+          "category": "Markets",
+          "title": "How Much Higher Can Wheat Prices Go Now?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/much-higher-wheat-prices-now-130930563.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7d9b6e68979e",
+          "time": "14:06",
+          "category": "Markets",
+          "title": "AI, Big Money Flows Send Camtek Higher",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ai-big-money-flows-send-130625266.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6a4a3c70d23f",
+          "time": "14:02",
+          "category": "Markets",
+          "title": "US consumer prices increase less than expected in September",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/us-consumer-prices-increase-less-130258790.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8c65c1825e67",
+          "time": "14:02",
+          "category": "US Macro",
+          "title": "Dollar Falls After Lower-Than-Forecast U.S. Inflation Data",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102425/card/dollar-falls-after-lower-than-forecast-u-s-inflation-data-W90S5IZJpPWBFiMZmKTy?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0b33c02640e3",
+          "time": "14:01",
+          "category": "Markets",
+          "title": "See How Big Money Flows Made AMD Shares Rise Yet Again",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/see-big-money-flows-made-130141070.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "c435fc7ce361",
           "time": "14:00",
           "category": "Crypto",
@@ -1262,6 +1284,28 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/opinion/2025/10/22/crypto-regulators-must-adapt-quickly-to-stay-globally-competitive",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "293d6dd7490b",
+          "time": "14:00",
+          "category": "Markets",
+          "title": "Can My Mom Add Me to Her $40k Account to Avoid Taxes When She Passes?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/mom-wants-add-her-40k-141947629.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "673c3bd34e13",
+          "time": "13:58",
+          "category": "Earnings",
+          "title": "Beyond Meat Expects Impairment Charge, Revenue In Line With Target",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/retail/beyond-meat-expects-impairment-charge-revenue-in-line-with-target-b484c86f?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -1284,50 +1328,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/dow-inc-dow-jumps-12-124341199.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "81aa57511e1c",
-          "time": "13:43",
-          "category": "Markets",
-          "title": "D-Wave (QBTS) Ends 5-Day Losses, Soars 13.8% on Potential Govt Investment",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/d-wave-qbts-ends-5-124301328.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "892be35fa787",
-          "time": "13:36",
-          "category": "US Macro",
-          "title": "Stock Futures Pop After Cooler-Than-Expected Inflation Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102425/card/stock-futures-pop-after-cooler-than-expected-inflation-report-bVdhKPfNVFAWE3UrRGnX?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "dee46d72d809",
-          "time": "13:16",
-          "category": "Markets",
-          "title": "Soybeans Easing Lower on Friday AM Trade",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/soybeans-easing-lower-friday-am-121604666.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b244870f68f3",
-          "time": "13:16",
-          "category": "US Macro",
-          "title": "Corn Slipping Back on Friday Morning",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/corn-slipping-back-friday-morning-121604359.html",
           "tags": [],
           "impact_score": 1
         },
