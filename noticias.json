@@ -1,13 +1,13 @@
 {
-  "generated_at": "2025-10-25T19:01+01:00",
+  "generated_at": "2025-10-25T19:50+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-25",
       "attention_points": [
         "Kevin O'Leary Says 'Tariffs And Trade Pain Are Temporary.' That's Why Businesses Are 'Quietly Eating Costs, Trimming Was",
-        "New CPI data resets December Fed interest rate cut",
-        "Stock Market Rallies To Highs But Huge Earnings, Fed Meeting, Trump-Xi Ahead"
+        "Stock Market Rallies To Highs But Huge Earnings, Fed Meeting, Trump-Xi Ahead",
+        "My husband wants to buy a $60K truck — but we’re $30K in debt and saving for a house. How do we get on the same page?"
       ],
       "items": [
         {
@@ -18,17 +18,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/kevin-oleary-says-tariffs-trade-173106025.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "ab1d969a23b4",
-          "time": "18:17",
-          "category": "US Macro",
-          "title": "New CPI data resets December Fed interest rate cut",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cpi-data-resets-december-fed-171700628.html",
           "tags": [],
           "impact_score": 3
         },
@@ -196,7 +185,7 @@
           "id": "96743db731b1",
           "time": "16:06",
           "category": "Crypto",
-          "title": "Rumble to Roll Out Bitcoin Tipping for 51M Users in December",
+          "title": "Rumble to Roll Out Bitcoin Tipping for 51 Million Users in December",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/business/2025/10/25/rumble-to-roll-out-bitcoin-tipping-for-51m-users-in-december",
@@ -327,6 +316,72 @@
           "impact_score": 2
         },
         {
+          "id": "b78b3e0a95cd",
+          "time": "19:35",
+          "category": "Crypto",
+          "title": "AI Biodefense Startup Valthos Launches With $30 Million, OpenAI Backing",
+          "summary": "New York-based startup Valthos is developing AI systems to identify and counter biological threats before they spread.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345959/ai-biodefense-startup-valthos-launches-30-million-openai-backing",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8a7fd03df863",
+          "time": "19:27",
+          "category": "Crypto",
+          "title": "SOL Now on Fidelity’s Retail Platform as Price Tests $195 While $188 Support Draws Focus",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/25/sol-now-on-fidelity-s-retail-platform-as-price-tests-usd195-while-usd188-support-draws-focus",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1ed3384c27e2",
+          "time": "19:12",
+          "category": "Markets",
+          "title": "How one Wall Street Rising Star went from tech investing to building a tire shop business",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/one-wall-street-rising-star-181202514.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "946dc1194a43",
+          "time": "19:03",
+          "category": "Markets",
+          "title": "Target announces a major change affecting its entire business",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/target-announces-major-change-affecting-180300190.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "70b43a263e6b",
+          "time": "19:00",
+          "category": "Crypto",
+          "title": "Is XRP the Best Cryptocurrency to Buy With $1,000 Right Now?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/xrp-best-cryptocurrency-buy-1-180000572.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "46a1a3d06885",
+          "time": "18:47",
+          "category": "Markets",
+          "title": "Why Southwest stock is down while American Airlines is soaring",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-southwest-stock-down-while-174700241.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "7cf9ae82ca5a",
           "time": "18:33",
           "category": "Markets",
@@ -338,6 +393,17 @@
           "impact_score": 1
         },
         {
+          "id": "57d709577863",
+          "time": "18:30",
+          "category": "Markets",
+          "title": "5 Things to Know About Amazon Stock Before You Buy",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/5-things-know-amazon-stock-173000195.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "77b790319e73",
           "time": "18:25",
           "category": "Markets",
@@ -345,50 +411,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/asked-chatgpt-much-d-pay-172508796.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "228e60652a42",
-          "time": "18:06",
-          "category": "Markets",
-          "title": "After a Couple of Deep Cuts in Recent Years, This 6.2%-Yielding Dividend Is Getting Healthier and Could Start Heading Higher in 2026 and Beyond",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/couple-deep-cuts-recent-years-170600006.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "a3175b7dbb6a",
-          "time": "18:02",
-          "category": "Markets",
-          "title": "Is Broadcom Stock the Next Nvidia?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/broadcom-stock-next-nvidia-170200692.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "fe2663615c42",
-          "time": "18:02",
-          "category": "Markets",
-          "title": "The Best Stocks to Invest $1,000 in Right Now",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/best-stocks-invest-1-000-170200591.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "751c450dcf55",
-          "time": "18:01",
-          "category": "Markets",
-          "title": "Is ESG Investing Losing Its Shine? ESG Stocks Continue To Underperform The S&P 500",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/esg-investing-losing-shine-esg-170114071.html",
           "tags": [],
           "impact_score": 1
         },
@@ -466,6 +488,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/clover-health-clov-jumps-19-164442772.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d7dc3d990bbc",
+          "time": "16:00",
+          "category": "Markets",
+          "title": "After a Massive 207.5% Run-Up, Is This AI Stock Still a Buy?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/massive-207-5-run-ai-150002788.html",
           "tags": [],
           "impact_score": 1
         },
@@ -938,17 +971,6 @@
           "impact_score": 2
         },
         {
-          "id": "ac511ec219fb",
-          "time": "20:39",
-          "category": "Markets",
-          "title": "Oil Rally on U.S. Russia Sanctions Loses Steam",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/oil-declines-in-likely-technical-correction-30a200d6?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "2e9ffaa07207",
           "time": "20:06",
           "category": "Crypto",
@@ -1111,19 +1133,6 @@
           "impact_score": 2
         },
         {
-          "id": "53ee2e9ea95a",
-          "time": "13:09",
-          "category": "Crypto",
-          "title": "Tether Unveils Synthetic AI Dataset to Democratize STEM Intelligence",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/business/2025/10/24/tether-unveils-synthetic-ai-dataset-to-democratize-stem-intelligence",
-          "tags": [
-            "ETH"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "51f3f6dd5f23",
           "time": "05:07",
           "category": "Crypto",
@@ -1148,6 +1157,83 @@
           "impact_score": 2
         },
         {
+          "id": "d6ba3678171f",
+          "time": "23:43",
+          "category": "Earnings",
+          "title": "Alaska Airlines Outage Results in Hundreds of Canceled Flights",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/airlines/alaska-airlines-grounds-flights-due-to-tech-outage-844dc044?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b11879642938",
+          "time": "23:19",
+          "category": "Markets",
+          "title": "JPMorgan Chase wants out of paying $115M legal tab for convicted fraudsters",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jpmorgan-chase-wants-paying-115m-221931178.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "cbfc1a0bf61e",
+          "time": "23:16",
+          "category": "Markets",
+          "title": "Novavax, Core Scientific, and More Stocks See Action From Activist Investors",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/novavax-core-scientific-and-more-stocks-see-action-from-activist-investors-41bc6124?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "203f353c1fc7",
+          "time": "23:15",
+          "category": "Markets",
+          "title": "Aeromexico asks US court to block Trump order forcing end to Delta joint venture",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/aeromexico-asks-us-court-block-221510280.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6e8d06671feb",
+          "time": "23:13",
+          "category": "Markets",
+          "title": "Corn Heads Lower into the Weekend",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/corn-heads-lower-weekend-221316169.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e819c29c2ab1",
+          "time": "23:13",
+          "category": "Markets",
+          "title": "Soybeans Correct Back Lower Ahead of the Weekend",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/soybeans-correct-back-lower-ahead-221316025.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ed7d17956d12",
+          "time": "22:57",
+          "category": "Markets",
+          "title": "The U.S. and China Are Piling Up Trouble for Companies. Xi-Trump Talks Might Not Help.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/us-china-trade-talks-leverage-38a58f11?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "fc21e581ac5c",
           "time": "22:31",
           "category": "Crypto",
@@ -1166,61 +1252,6 @@
           "summary": "US President Donald Trump said Binance founder Changpeng Zhao had \"a lot of support\" from the crypto industry and was widely recommended for a pardon.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/binance-cz-pardon-us-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4f82c3c9e908",
-          "time": "20:39",
-          "category": "Markets",
-          "title": "“I Love Amazon (AMZN),” Says Jim Cramer As He Discusses AI Partner Anthropic",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/love-amazon-amzn-says-jim-193953355.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "75e76c4a58e4",
-          "time": "20:39",
-          "category": "Markets",
-          "title": "Alphabet (GOOGL)’s Stock Is Great, Says Jim Cramer",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/alphabet-googl-stock-great-says-193934919.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "cfcb6ad70110",
-          "time": "20:34",
-          "category": "Markets",
-          "title": "Grindr Gets Buyout Offer Valuing Company at Nearly $3.5 Billion",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/investing/grindr-gets-buyout-offer-from-two-board-members-f0dd0d15?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "20:20",
-          "category": "Markets",
-          "title": "Two Data Center Plays Race To New Highs, Near Buy Points",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/stock-lists/new-highs/data-center-cloud-software-johnson-controls-jci-stock/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "a65d3d746e73",
-          "time": "20:17",
-          "category": "Markets",
-          "title": "6 Stocks to Sell in a Hot Market",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/bloom-energy-doordash-boeing-snowflake-stock-39203e7f?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -1549,17 +1580,6 @@
           "summary": "U.S. President Donald Trump has pardoned Binance founder Changpeng \"CZ\" Zhao, the White House confirmed to Decrypt.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345681/trump-pardons-binance-founder-changpeng-zhao",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "9281aa3318a8",
-          "time": "16:01",
-          "category": "Crypto",
-          "title": "How Tari Lets You Mine Crypto in ‘Less Than a Minute’",
-          "summary": "The proof-of-work layer-1 is designed to make crypto mining accessible to mainstream users, contributor Naveen Jain explained.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345460/how-tari-lets-you-mine-crypto-in-less-than-a-minute",
           "tags": [],
           "impact_score": 1
         }
