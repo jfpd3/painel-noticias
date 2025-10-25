@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T08:44+01:00",
+  "generated_at": "2025-10-25T08:55+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -371,13 +371,13 @@
           "impact_score": 3
         },
         {
-          "id": "f9dd26212098",
-          "time": "03:03",
+          "id": "ad265d73493f",
+          "time": "03:09",
           "category": "Markets",
           "title": "Reversal of weak dollar may test Asia's resilience to tariffs, IMF says",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/reversal-weak-dollar-may-test-020315956.html",
+          "url": "https://finance.yahoo.com/news/reversal-weak-dollar-may-test-020902622.html",
           "tags": [],
           "impact_score": 3
         },
@@ -392,17 +392,6 @@
           "tags": [
             "ETH"
           ],
-          "impact_score": 3
-        },
-        {
-          "id": "5a9c43796b67",
-          "time": "02:37",
-          "category": "Markets",
-          "title": "159-year-old whiskey brand facing Chapter 11 bankruptcy, asset sale",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/159-old-liquor-brand-faces-013700162.html",
-          "tags": [],
           "impact_score": 3
         },
         {
@@ -780,6 +769,28 @@
           "impact_score": 2
         },
         {
+          "id": "65fe0bb54fc2",
+          "time": "07:51",
+          "category": "Earnings",
+          "title": "Chevron Earnings Preview: What to Expect",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/chevron-earnings-preview-expect-065132174.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "5727fa2d5d93",
+          "time": "07:47",
+          "category": "Earnings",
+          "title": "Earnings Preview: What To Expect From Cboe Global Markets’ Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/earnings-preview-expect-cboe-global-064751588.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "3b6fa8c12e62",
           "time": "07:44",
           "category": "Earnings",
@@ -880,6 +891,17 @@
           "tags": [
             "BTC"
           ],
+          "impact_score": 2
+        },
+        {
+          "id": "b9e112854f69",
+          "time": "04:32",
+          "category": "Earnings",
+          "title": "Intel to Take on Broadcom: 3 Reasons the Stock is Surging 8% After Q3 Earnings",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/intel-broadcom-3-reasons-stock-033228010.html",
+          "tags": [],
           "impact_score": 2
         },
         {
@@ -1114,6 +1136,17 @@
           "impact_score": 1
         },
         {
+          "id": "80b5ee6dd977",
+          "time": "08:00",
+          "category": "Markets",
+          "title": "I'm in the Highest Tax Bracket. Is a Roth Conversion a Good Idea?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ask-advisor-im-highest-tax-150037357.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "bbb1dcf9a028",
           "time": "07:30",
           "category": "Markets",
@@ -1275,17 +1308,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/heres-earn-100-passive-income-020104520.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5bff19436b82",
-          "time": "02:31",
-          "category": "Crypto",
-          "title": "Trump Pardons Binance Founder Changpeng Zhao, 'Ending Biden Administration's War On Crypto'",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/trump-pardons-binance-founder-changpeng-013104095.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1515,28 +1537,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/intel-mp-materials-trump-stakes-state-capitalism-68202494?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b726b4331cd9",
-          "time": "23:33",
-          "category": "Markets",
-          "title": "A 6% Yield Without Much Risk? This Bond Fund Manager Knows Where to Find It.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/a-6-yield-without-much-risk-this-bond-fund-manager-knows-where-to-find-it-51614814?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "baa2f6c90fd6",
-          "time": "23:31",
-          "category": "US Macro",
-          "title": "Heard on the Street Recap: Casino Capitalism",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2025/card/heard-on-the-street-recap-casino-capitalism-6cChrwFQlOhLSbhgk0n3?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
