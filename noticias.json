@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T22:32+01:00",
+  "generated_at": "2025-10-25T22:45+01:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -317,17 +317,6 @@
           "impact_score": 2
         },
         {
-          "id": "1d6daef5b3f9",
-          "time": "13:30",
-          "category": "Earnings",
-          "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; AI Related Stocks Rally",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "6623fc7c663a",
           "time": "10:49",
           "category": "Crypto",
@@ -377,6 +366,17 @@
             "ETH"
           ],
           "impact_score": 2
+        },
+        {
+          "id": "fc631d719662",
+          "time": "22:14",
+          "category": "Markets",
+          "title": "4 Ways Everybody Should Be Using AI To Grow Their Wealth in Late 2025",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/4-ways-everybody-using-ai-211407597.html",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "6f23bed4705d",
@@ -496,17 +496,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/exxonmobil-sues-california-claims-green-182613325.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1ed3384c27e2",
-          "time": "19:12",
-          "category": "Markets",
-          "title": "How one Wall Street Rising Star went from tech investing to building a tire shop business",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/one-wall-street-rising-star-181202514.html",
           "tags": [],
           "impact_score": 1
         },
@@ -709,17 +698,6 @@
           "impact_score": 1
         },
         {
-          "id": "fefe0dc9e646",
-          "time": "13:33",
-          "category": "Markets",
-          "title": "Californians keep finding leftover loot from the Gold Rush — 1 man even bought a home with his spoils. How to cash in",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/californians-keep-finding-leftover-loot-123300020.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "774cc4c1f499",
           "time": "13:00",
           "category": "Crypto",
@@ -742,24 +720,13 @@
           "impact_score": 1
         },
         {
-          "id": "2645090b5559",
+          "id": "3d9387c657cf",
           "time": "11:00",
           "category": "US Macro",
-          "title": "Best money market account rates today, October 25, 2025 (best account provides 4.26% APY)",
+          "title": "Best CD rates today, October 25, 2025 (best account provides 4.1% APY)",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-october-25-2025-100008708.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b37c8a311b21",
-          "time": "11:00",
-          "category": "US Macro",
-          "title": "Best high-yield savings interest rates today, October 25, 2025 (Earn up to 4.25% APY)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-saturday-october-25-2025-100000897.html",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-october-25-2025-100004979.html",
           "tags": [],
           "impact_score": 1
         },
@@ -782,6 +749,39 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/25/dogecoin-hits-usd0-20-as-breakout-volume-triples-average-confirms-bullish-setup",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "38475796c217",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer Says Constellation Energy is a Good Company but “It’s Up Too Much”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-constellation-energy-044440561.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2e564da230b1",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Automatic Data Processing: “It is an Excellent Company”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-automatic-data-processing-044435550.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1f6dc02bd57c",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Paypal: “He Has Gotta Start Delivering Numbers”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-paypal-gotta-start-044434541.html",
           "tags": [],
           "impact_score": 1
         },
