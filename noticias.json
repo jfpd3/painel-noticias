@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T17:52+00:00",
+  "generated_at": "2025-10-26T18:03+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -7,7 +7,7 @@
       "attention_points": [
         "Dow Jones Futures: China Trade Deal Close Amid Flurry Of Trump Moves; Huge Earnings, Fed Rate Cut Ahead",
         "US Treasury chief Bessent says 'substantial' trade framework with China reached",
-        "Is the Vanguard Information Technology ETF (VGT) the Smartest Investment to Buy With $1,000 Right Now?"
+        "Alibaba’s Qwen Deep Research Creates Live Webpages, Podcasts in Seconds"
       ],
       "items": [
         {
@@ -29,17 +29,6 @@
           "summary": "Secretary Scott Bessent said the negotiations alleviate the need for the 100% additional tariffs announced by US president Trump in October.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/bessent-substantial-trade-framework-china?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "3d07d7b2b604",
-          "time": "17:00",
-          "category": "Markets",
-          "title": "Is the Vanguard Information Technology ETF (VGT) the Smartest Investment to Buy With $1,000 Right Now?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/vanguard-information-technology-etf-vgt-170000936.html",
           "tags": [],
           "impact_score": 3
         },
@@ -149,6 +138,19 @@
           "impact_score": 3
         },
         {
+          "id": "9025c61193d7",
+          "time": "17:18",
+          "category": "Crypto",
+          "title": "Better Cryptocurrency Buy: Ethereum vs. Zcash",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/better-cryptocurrency-buy-ethereum-vs-171800949.html",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "b228c08474b6",
           "time": "15:00",
           "category": "Crypto",
@@ -222,6 +224,28 @@
           "impact_score": 2
         },
         {
+          "id": "b54ecba3a47f",
+          "time": "17:47",
+          "category": "Markets",
+          "title": "Really Want To Build Wealth? Stop Doing These 3 Things",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/really-want-build-wealth-stop-174705413.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3cc3b1c6ad7b",
+          "time": "17:45",
+          "category": "Markets",
+          "title": "Single women are 30% more likely to be denied a mortgage — but improving debt-to-income ratio could change those odds",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/single-women-30-more-likely-174500565.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "dd3d89603088",
           "time": "17:25",
           "category": "Markets",
@@ -229,6 +253,28 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/goldman-sachs-still-says-sell-172513738.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f7c56bd0f888",
+          "time": "17:19",
+          "category": "Markets",
+          "title": "Which Comes First? How to Prioritize Withdrawals from Brokerage Accounts, 401(k)s, and IRAs",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/comes-first-prioritize-withdrawals-brokerage-171900469.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "39b32939b6fe",
+          "time": "17:18",
+          "category": "Markets",
+          "title": "Where Will Domino's Pizza Be in 5 Years?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/where-dominos-pizza-5-years-171800950.html",
           "tags": [],
           "impact_score": 1
         },
@@ -284,39 +330,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/prediction-artificial-intelligence-ai-stock-170500063.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "348f1a53b89f",
-          "time": "17:02",
-          "category": "Markets",
-          "title": "Should You Buy Nvidia (NVDA) Stock Before Nov. 19??",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/buy-nvidia-nvda-stock-nov-170200883.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0e827d867862",
-          "time": "17:01",
-          "category": "Markets",
-          "title": "Beyond Chips: AI Infrastructure Spending Is Projected to Hit $490 Billion -- Who Benefits Most?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/beyond-chips-ai-infrastructure-spending-170100630.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1bbe749fc93b",
-          "time": "17:00",
-          "category": "Markets",
-          "title": "Prediction: This Will Be Oracle's Stock Price in 2030",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/prediction-oracles-stock-price-2030-170000735.html",
           "tags": [],
           "impact_score": 1
         },
@@ -496,6 +509,17 @@
           "impact_score": 3
         },
         {
+          "id": "4d96178d6ae9",
+          "time": "18:00",
+          "category": "Markets",
+          "title": "My husband wants to buy a $60K truck — but we’re $30K in debt and saving for a house. How do we get on the same page?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/husband-wants-buy-60k-truck-170000787.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "f912f64344c8",
           "time": "17:17",
           "category": "Markets",
@@ -669,17 +693,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/france-credit-rating-downgrade-moodys-700510c5?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "15:42",
-          "category": "Earnings",
-          "title": "Apple Shines, Leads Parade Of Megacap Hyperscaler Earnings Reports",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/research/earnings-preview/apple-stock-shines-leads-parade-hyperscaler-earnings-reports/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 2
         },
@@ -1448,17 +1461,6 @@
           "summary": "$260 million in fiat and crypto was flagged as part of Operation Catalyst, of which some $600,000 has been seized to date.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345822/interpol-arrests-83-in-landmark-african-operation-hitting-crypto-terrorist-financing-cybercrime",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "920765aa0145",
-          "time": "11:00",
-          "category": "US Macro",
-          "title": "Best CD rates today, October 24, 2025 (up to 4.1% APY return)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-october-24-2025-100017058.html",
           "tags": [],
           "impact_score": 1
         },
