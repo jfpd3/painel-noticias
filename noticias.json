@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T13:42+00:00",
+  "generated_at": "2025-10-26T13:53+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -189,7 +189,7 @@
       "attention_points": [
         "Trump Names SEC Crypto Task Force Head Selig as Next Nominee to Run U.S. CFTC",
         "REX-Osprey XRP ETF (XRPR) Surpasses $100M in Assets Under Management",
-        "Bitcoin Treasury Firms Now Valued at Less Than Their BTC Holdings Amid Crumbled Sentiment"
+        "I have $12K in my checking account and I was told by my bank that's too much"
       ],
       "items": [
         {
@@ -211,6 +211,17 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/25/first-u-s-spot-xrp-etf-surpasses-usd100m-in-assets-under-management",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "f912f64344c8",
+          "time": "17:17",
+          "category": "Markets",
+          "title": "I have $12K in my checking account and I was told by my bank that's too much",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/12k-checking-account-told-bank-161700554.html",
           "tags": [],
           "impact_score": 3
         },
@@ -250,17 +261,6 @@
           "impact_score": 3
         },
         {
-          "id": "c0670e17dc8b",
-          "time": "12:30",
-          "category": "Markets",
-          "title": "The Smartest Vanguard ETF to Buy With $500 Right Now",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/smartest-vanguard-etf-buy-500-113000226.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "f6b153e9079c",
           "time": "10:10",
           "category": "Crypto",
@@ -282,17 +282,6 @@
           "tags": [
             "ETH"
           ],
-          "impact_score": 3
-        },
-        {
-          "id": "5138491592b6",
-          "time": "08:30",
-          "category": "Markets",
-          "title": "European Banks Look Steadier Than U.S. Peers. 6 Stocks to Consider.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/european-banks-six-stocks-to-consider-0e9d45c9?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
           "impact_score": 3
         },
         {
@@ -446,19 +435,6 @@
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/applied-materials-stock-buy-ai-120000046.html",
           "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "062abceb82b4",
-          "time": "12:19",
-          "category": "Crypto",
-          "title": "Crypto News Today, October 25: US Stock Market Ends Wild Week in Green, Trump Crypto Push Turns Heads as Bitcoin Price Trails",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/crypto-news-today-october-25-111928411.html",
-          "tags": [
-            "BTC"
-          ],
           "impact_score": 2
         },
         {
@@ -667,6 +643,39 @@
           "impact_score": 1
         },
         {
+          "id": "58ba6ade35ce",
+          "time": "13:31",
+          "category": "Markets",
+          "title": "Deckers Outdoor price target lowered to $115 from $137 at Raymond James",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/deckers-outdoor-price-target-lowered-123113104.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "280549d5688d",
+          "time": "13:30",
+          "category": "Markets",
+          "title": "Cineverse price target lowered to $9 from $10 at Benchmark",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/cineverse-price-target-lowered-9-123031453.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d5302d48c3bc",
+          "time": "13:30",
+          "category": "Markets",
+          "title": "Winnebago price target raised to $38 from $32 at DA Davidson",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/winnebago-price-target-raised-38-123019710.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "089bf0d49c69",
           "time": "13:30",
           "category": "Regulation",
@@ -740,17 +749,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/mtg-admits-prices-under-trump-114500551.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "2dc3c8284c9e",
-          "time": "12:45",
-          "category": "Markets",
-          "title": "Down 62%, Can Nike Stock Be a Millionaire Maker?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/down-62-nike-stock-millionaire-114500299.html",
           "tags": [],
           "impact_score": 1
         },
@@ -832,17 +830,6 @@
           "impact_score": 1
         },
         {
-          "id": "d5649b167acd",
-          "time": "10:30",
-          "category": "Markets",
-          "title": "Sanctioned Russian Oil Will Find New Ways to Flow",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/commodities-futures/sanctioned-russian-oil-will-find-new-ways-to-flow-652d0601?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "0d3e75fa01bd",
           "time": "10:30",
           "category": "Crypto",
@@ -850,6 +837,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/chinas-pause-stablecoin-projects-not-093000232.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d5649b167acd",
+          "time": "10:30",
+          "category": "Markets",
+          "title": "Sanctioned Russian Oil Will Find New Ways to Flow",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/finance/commodities-futures/sanctioned-russian-oil-will-find-new-ways-to-flow-652d0601?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
