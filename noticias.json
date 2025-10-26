@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T20:51+00:00",
+  "generated_at": "2025-10-26T21:02+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -132,6 +132,17 @@
           "summary": "The 15-hour Amazon Web Services outage that halted Coinbase, Robinhood and MetaMask revealed how much of Web3 still relies on centralized servers.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/aws-outage-shows-crypto-decentralization-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "a5da3071b64c",
+          "time": "11:43",
+          "category": "US Macro",
+          "title": "Big Tech earnings, a crucial Fed meeting, and a Trump-Xi sit-down: What to watch this week",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/big-tech-earnings-a-crucial-fed-meeting-and-a-trump-xi-sit-down-what-to-watch-this-week-114354660.html",
           "tags": [],
           "impact_score": 3
         },
@@ -292,6 +303,28 @@
           "impact_score": 2
         },
         {
+          "id": "6904f8925f17",
+          "time": "20:34",
+          "category": "Markets",
+          "title": "Gold Surpasses US Treasuries for the First Time in 30 Years",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/gold-surpasses-us-treasuries-first-203442334.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "aaa7ad342c78",
+          "time": "20:23",
+          "category": "Markets",
+          "title": "3 Healthcare Stocks That Are Screaming Deals Right Now",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/3-healthcare-stocks-screaming-deals-202300008.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "0ff8b3269c83",
           "time": "20:01",
           "category": "Crypto",
@@ -380,17 +413,6 @@
           "impact_score": 1
         },
         {
-          "id": "8c0a78e30a28",
-          "time": "19:00",
-          "category": "Markets",
-          "title": "Western Union Embraces Stablecoins Amid Global Remittance Overhaul",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/western-union-embraces-stablecoins-amid-190000724.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "42fe65691e01",
           "time": "19:00",
           "category": "Markets",
@@ -398,6 +420,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/1-dividend-stock-yielding-over-190000366.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8c0a78e30a28",
+          "time": "19:00",
+          "category": "Markets",
+          "title": "Western Union Embraces Stablecoins Amid Global Remittance Overhaul",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/western-union-embraces-stablecoins-amid-190000724.html",
           "tags": [],
           "impact_score": 1
         },
@@ -508,50 +541,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/1-important-tailwind-could-send-174300338.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "d80146cd41bb",
-          "time": "17:37",
-          "category": "Markets",
-          "title": "2 Incredible Growth Stocks I Can't Stop Buying",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/2-incredible-growth-stocks-cant-173700183.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e293ab3f9b00",
-          "time": "17:33",
-          "category": "Markets",
-          "title": "XRP Is Trailing Badly in This 1 Area. Should You Sell It?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/xrp-trailing-badly-1-area-173300761.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1dd2a926cbff",
-          "time": "17:30",
-          "category": "Markets",
-          "title": "Why AST SpaceMobile Stock Sank This Week",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-ast-spacemobile-stock-sank-173000945.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "dd3d89603088",
-          "time": "17:25",
-          "category": "Markets",
-          "title": "Goldman Sachs Still Says Sell-Off Coming – 5 Safe Conviction List Picks",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/goldman-sachs-still-says-sell-172513738.html",
           "tags": [],
           "impact_score": 1
         },
@@ -924,6 +913,17 @@
             "ETH"
           ],
           "impact_score": 2
+        },
+        {
+          "id": "9202e38026f5",
+          "time": "23:05",
+          "category": "Markets",
+          "title": "Exxon sues California over climate disclosure laws",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/exxon-sues-california-over-climate-220521266.html",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "b78b3e0a95cd",
