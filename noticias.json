@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-26T21:02+00:00",
+  "generated_at": "2025-10-26T21:34+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-26",
       "attention_points": [
+        "Dow Jones Futures: China Trade Deal Close Amid Flurry Of Trump Moves; Huge Earnings, Fed Rate Cut Ahead",
         "49-year-old favorite pizza chain files for Chapter 11 bankruptcy",
-        "I was laid off at 60 with basically no retirement savings or real plan except for Social Security — how can I survive?",
-        "Dow Jones Futures: China Trade Deal Close Amid Flurry Of Trump Moves; Huge Earnings, Fed Rate Cut Ahead"
+        "I was laid off at 60 with basically no retirement savings or real plan except for Social Security — how can I survive?"
       ],
       "items": [
+        {
+          "id": "1d6daef5b3f9",
+          "time": "21:02",
+          "category": "US Macro",
+          "title": "Dow Jones Futures: China Trade Deal Close Amid Flurry Of Trump Moves; Huge Earnings, Fed Rate Cut Ahead",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-china-trade-deal-trump-xi-apple-earnings-fed-rate-cut/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "5c5130c43273",
           "time": "20:10",
@@ -29,17 +40,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/laid-off-60-basically-no-190000140.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "18:19",
-          "category": "US Macro",
-          "title": "Dow Jones Futures: China Trade Deal Close Amid Flurry Of Trump Moves; Huge Earnings, Fed Rate Cut Ahead",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-china-trade-deal-trump-xi-apple-earnings-fed-rate-cut/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 3
         },
@@ -303,6 +303,17 @@
           "impact_score": 2
         },
         {
+          "id": "27f3fb41cfad",
+          "time": "20:52",
+          "category": "Markets",
+          "title": "Warren Buffett's Wealth-Building Tips For Upper Class: 'Take Advantage of Compound Interest, Don't Be Captivated By Siren Song of The Market'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/warren-buffetts-wealth-building-tips-205228814.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "6904f8925f17",
           "time": "20:34",
           "category": "Markets",
@@ -332,6 +343,17 @@
           "summary": "The sanctioning of the DPRK IT worker network and recovery of Bybit funds are signs of the growing pushback, experts told Decrypt.",
           "source": "Decrypt",
           "url": "https://decrypt.co/346010/north-korea-stolen-billions-crypto-ability-fight-back-growing-chainalysis",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1f852ed83111",
+          "time": "20:00",
+          "category": "Markets",
+          "title": "Gold Trader Hiring Spree Drives Up Pay as Bullion Market Booms",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/gold-trader-hiring-spree-drives-200000517.html",
           "tags": [],
           "impact_score": 1
         },
@@ -413,17 +435,6 @@
           "impact_score": 1
         },
         {
-          "id": "42fe65691e01",
-          "time": "19:00",
-          "category": "Markets",
-          "title": "1 Dividend Stock Yielding Over 5% to Buy and 1 to Avoid",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/1-dividend-stock-yielding-over-190000366.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "8c0a78e30a28",
           "time": "19:00",
           "category": "Markets",
@@ -431,6 +442,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/western-union-embraces-stablecoins-amid-190000724.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "42fe65691e01",
+          "time": "19:00",
+          "category": "Markets",
+          "title": "1 Dividend Stock Yielding Over 5% to Buy and 1 to Avoid",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/1-dividend-stock-yielding-over-190000366.html",
           "tags": [],
           "impact_score": 1
         },
@@ -545,13 +567,13 @@
           "impact_score": 1
         },
         {
-          "id": "07ea71c35483",
-          "time": "17:10",
-          "category": "US Macro",
-          "title": "North America set to cut rates as rest of G-7 looks on",
+          "id": "d80146cd41bb",
+          "time": "17:37",
+          "category": "Markets",
+          "title": "2 Incredible Growth Stocks I Can't Stop Buying",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/north-america-set-cut-rates-200000572.html",
+          "url": "https://finance.yahoo.com/news/2-incredible-growth-stocks-cant-173700183.html",
           "tags": [],
           "impact_score": 1
         },
@@ -596,17 +618,6 @@
           "summary": "Government regulators and legal experts warn that insider trading could proliferate in professional sports as wagers migrate to prediction markets.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345961/sports-betting-scandals-nba-prediction-markets",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b08222908ee3",
-          "time": "13:30",
-          "category": "Markets",
-          "title": "Tesla's Strong FCF Margins Could Imply TSLA Stock is Worth Over $500",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/teslas-strong-fcf-margins-could-133002586.html",
           "tags": [],
           "impact_score": 1
         },
@@ -913,17 +924,6 @@
             "ETH"
           ],
           "impact_score": 2
-        },
-        {
-          "id": "9202e38026f5",
-          "time": "23:05",
-          "category": "Markets",
-          "title": "Exxon sues California over climate disclosure laws",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/exxon-sues-california-over-climate-220521266.html",
-          "tags": [],
-          "impact_score": 1
         },
         {
           "id": "b78b3e0a95cd",
