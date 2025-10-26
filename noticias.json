@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T07:44+00:00",
+  "generated_at": "2025-10-26T07:56+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -142,6 +142,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/looking-yields-comcast-hp-maa-020105281.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "55ba1d4a6fd6",
+          "time": "01:01",
+          "category": "Markets",
+          "title": "Can The Growing ETF Market Lead To The Stock Market's Undoing?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/growing-etf-market-lead-stock-000106115.html",
           "tags": [],
           "impact_score": 3
         },
@@ -474,6 +485,28 @@
           "impact_score": 1
         },
         {
+          "id": "fe7de8c62f15",
+          "time": "05:45",
+          "category": "Markets",
+          "title": "Jim Cramer on Aurora Innovation: “Just Go Buy the Stock of Tesla in the Weakness”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-aurora-innovation-just-044503874.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a48b483ada32",
+          "time": "05:45",
+          "category": "Markets",
+          "title": "Jim Cramer on Tecogen: “I Kind of Like This One, but it’s Really Speculative”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-tecogen-kind-one-044502878.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "711d92c71dbb",
           "time": "05:45",
           "category": "Markets",
@@ -778,17 +811,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/5-highest-yielding-strong-buy-230002115.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e548977ef6ed",
-          "time": "00:00",
-          "category": "Markets",
-          "title": "Could This Under-the-Radar AI Company Become the Next Nvidia?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/could-under-radar-ai-company-230000898.html",
           "tags": [],
           "impact_score": 1
         }
@@ -1250,28 +1272,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/aeromexico-asks-us-court-block-221510280.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6e8d06671feb",
-          "time": "23:13",
-          "category": "Markets",
-          "title": "Corn Heads Lower into the Weekend",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/corn-heads-lower-weekend-221316169.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e819c29c2ab1",
-          "time": "23:13",
-          "category": "Markets",
-          "title": "Soybeans Correct Back Lower Ahead of the Weekend",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/soybeans-correct-back-lower-ahead-221316025.html",
           "tags": [],
           "impact_score": 1
         },
