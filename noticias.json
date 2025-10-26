@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-26T15:02+00:00",
+  "generated_at": "2025-10-26T15:39+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-26",
       "attention_points": [
+        "Dow Jones Futures: 'Comprehensive' China Trade Deal Near For Trump-Xi; Huge Earnings, Fed Rate Cut Ahead",
         "Bitcoin Bid, XRP Retakes 200-Day Average as Fed Rate Cut Looms; 'Mag 7' Earnings, Trump-Xi Summit Eyed",
-        "Gold’s Pause is Bitcoin’s Pulse as Risk Appetite Returns Ahead of the Fed Week",
-        "Teucrium CEO: 'Enormous Interest' in XRP, 'Extraordinary’ Success for Firm's XRP ETF"
+        "3 Dividend Stocks With Yields Over 5%. Should You Buy?"
       ],
       "items": [
+        {
+          "id": "1d6daef5b3f9",
+          "time": "14:52",
+          "category": "US Macro",
+          "title": "Dow Jones Futures: 'Comprehensive' China Trade Deal Near For Trump-Xi; Huge Earnings, Fed Rate Cut Ahead",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-china-trade-deal-trump-xi-apple-earnings-fed-rate-cut/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "90bedf2f0a79",
           "time": "14:38",
@@ -21,6 +32,17 @@
           "tags": [
             "BTC"
           ],
+          "impact_score": 3
+        },
+        {
+          "id": "1f65e539ec8c",
+          "time": "14:17",
+          "category": "US Macro",
+          "title": "3 Dividend Stocks With Yields Over 5%. Should You Buy?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/3-dividend-stocks-yields-over-141719833.html",
+          "tags": [],
           "impact_score": 3
         },
         {
@@ -94,6 +116,19 @@
           "impact_score": 3
         },
         {
+          "id": "b228c08474b6",
+          "time": "15:00",
+          "category": "Crypto",
+          "title": "Bitcoin 'just doesn’t cut it anymore': Miners' pivot to AI sends stocks soaring",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bitcoin-just-doesnt-cut-it-anymore-miners-pivot-to-ai-sends-stocks-soaring-150018229.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "4fc9f6d8c566",
           "time": "14:30",
           "category": "Crypto",
@@ -101,6 +136,17 @@
           "summary": "DeFi trading volumes hit record ratios against CEXs as matured infrastructure and regulatory clarity shift power to transparent, code-driven platforms.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/crypto-belongs-to-decentralized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "3b971ef41d5e",
+          "time": "14:30",
+          "category": "Markets",
+          "title": "Prediction: Archer Stock Will Surge Over the Next 5 Years. Here's 1 Reason Why.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/prediction-archer-stock-surge-over-143000727.html",
           "tags": [],
           "impact_score": 2
         },
@@ -152,6 +198,94 @@
             "BTC"
           ],
           "impact_score": 2
+        },
+        {
+          "id": "68eddbe70827",
+          "time": "15:05",
+          "category": "Markets",
+          "title": "Tesla Stock Is Up 219% Since 2020. Can Investors Still Make Money With This Texas-Based Company?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/tesla-stock-219-since-2020-150500554.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "dc0659ca6ab9",
+          "time": "14:46",
+          "category": "Markets",
+          "title": "Financial Experts Say To Max Out Your 401(k) And Roth IRA Annually, But How Many People Can Actually Afford To Do It?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/financial-experts-max-401-k-144604144.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c234d3ec2e04",
+          "time": "14:30",
+          "category": "Markets",
+          "title": "3 AI Infrastructure Stocks Solving the Power Crisis",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/3-ai-infrastructure-stocks-solving-143000631.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c5a1b24ab622",
+          "time": "14:19",
+          "category": "Markets",
+          "title": "More Rate Cuts Are Coming: Grab 6% High-Yield S&P 500 Stocks Now",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/more-rate-cuts-coming-grab-141941677.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "83219c81214b",
+          "time": "14:16",
+          "category": "Markets",
+          "title": "Bill Cosby's NYC Townhouse Snatched Up In A Flash — Foreclosure Listing Finds Buyer In Under A Month",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bill-cosbys-nyc-townhouse-snatched-141603504.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "33fb6d856149",
+          "time": "14:15",
+          "category": "Markets",
+          "title": "Prediction: ASML Stock Will Soar Over the Next 5 Years. Here's 1 Reason Why.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/prediction-asml-stock-soar-over-141500939.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6a3a795e0d3e",
+          "time": "14:13",
+          "category": "Markets",
+          "title": "20 Best Hidden Gem Housing Markets in the South for 2025",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/20-best-hidden-gem-housing-141308090.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "dfc8bf3f6c2c",
+          "time": "14:11",
+          "category": "Markets",
+          "title": "Huge week and risks face stocks this week",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/huge-week-risks-face-stocks-141124877.html",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "81dcb4306eb3",
@@ -209,17 +343,6 @@
           "impact_score": 1
         },
         {
-          "id": "45883a51c40c",
-          "time": "09:20",
-          "category": "Crypto",
-          "title": "Kyrgyzstan launches stablecoin on BNB Chain, confirms future CBDC rollout",
-          "summary": "A stablecoin is now live in Kyrgyzstan, which confirmed plans to launch a CBDC and explore a national crypto reserve after meeting with strategic adviser Changpeng Zhao.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/kyrgyzstan-rolls-out-stablecoin-confirms-future-cbdc-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "c05cbc8755b4",
           "time": "07:08",
           "category": "Crypto",
@@ -240,6 +363,17 @@
           "url": "https://cointelegraph.com/news/coinbases-x402-transactions-rise-10000-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
+        },
+        {
+          "id": "9f45057bcd0f",
+          "time": "01:38",
+          "category": "Crypto",
+          "title": "Kyrgyzstan launches stablecoin on BNB Chain, confirms future CBDC rollout",
+          "summary": "A stablecoin is now live in Kyrgyzstan, which confirmed plans to launch a CBDC and explore a national crypto reserve after meeting with strategic adviser Changpeng Zhao.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/kyrgyzstan-rolls-out-stablecoin-and-confirms-future-cbdc-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
         }
       ]
     },
@@ -248,7 +382,7 @@
       "attention_points": [
         "Trump Names SEC Crypto Task Force Head Selig as Next Nominee to Run U.S. CFTC",
         "REX-Osprey XRP ETF (XRPR) Surpasses $100M in Assets Under Management",
-        "I have $12K in my checking account and I was told by my bank that's too much"
+        "My husband wants to buy a $60K truck — but we’re $30K in debt and saving for a house. How do we get on the same page?"
       ],
       "items": [
         {
@@ -270,6 +404,17 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/25/first-u-s-spot-xrp-etf-surpasses-usd100m-in-assets-under-management",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "4d96178d6ae9",
+          "time": "18:00",
+          "category": "Markets",
+          "title": "My husband wants to buy a $60K truck — but we’re $30K in debt and saving for a house. How do we get on the same page?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/husband-wants-buy-60k-truck-170000787.html",
           "tags": [],
           "impact_score": 3
         },
@@ -356,6 +501,17 @@
           "tags": [
             "BTC"
           ],
+          "impact_score": 2
+        },
+        {
+          "id": "a13e131b9fd8",
+          "time": "17:46",
+          "category": "Earnings",
+          "title": "IREN Ltd. (IREN) Jumps 12.6% on Renewed AI Frenzy, Upcoming Earnings",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/iren-ltd-iren-jumps-12-164614243.html",
+          "tags": [],
           "impact_score": 2
         },
         {
@@ -462,17 +618,6 @@
           "impact_score": 2
         },
         {
-          "id": "bd71df9ef3af",
-          "time": "14:05",
-          "category": "Crypto",
-          "title": "Bitmine’s Tom Lee Sees Crypto Rally Into Year-End, Says S&P 500 Could Climb Another 10%",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bitmine-tom-lee-sees-crypto-130514049.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "698b5af9877b",
           "time": "14:00",
           "category": "Crypto",
@@ -566,6 +711,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/fluence-energy-flnc-soars-21-164624790.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "420dc76efc83",
+          "time": "17:46",
+          "category": "Markets",
+          "title": "Opendoor (OPEN) Soars 13% on Rate Cut Prospects for Real Estate Market",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/opendoor-open-soars-13-rate-164604976.html",
           "tags": [],
           "impact_score": 1
         },
@@ -680,39 +836,6 @@
           "impact_score": 1
         },
         {
-          "id": "a4f2d39871d1",
-          "time": "14:51",
-          "category": "Crypto",
-          "title": "Bitwise CEO Reacts as LinkedIn Founder Buys a CryptoPunk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bitwise-ceo-reacts-linkedin-founder-135106441.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ad191936d241",
-          "time": "14:46",
-          "category": "Markets",
-          "title": "A Study Says San Francisco's Housing Costs Have Returned To 'Normal' Levels – So Why Is It Still So Unaffordable?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/study-says-san-franciscos-housing-134606886.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5a76690169cd",
-          "time": "14:45",
-          "category": "Markets",
-          "title": "Insiders Are Scooping Up Shares of a Miner, a Driller, and a Biotech",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/insiders-scooping-shares-miner-driller-134503731.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "fa65fb73121f",
           "time": "14:35",
           "category": "Crypto",
@@ -735,17 +858,6 @@
           "impact_score": 1
         },
         {
-          "id": "285fa55898ab",
-          "time": "14:16",
-          "category": "Markets",
-          "title": "'There Are A Million Ways' To Replace Rental Income: Suze Orman Shares Advice For Retirees Selling Property",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/million-ways-replace-rental-income-131645287.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "f61ba559286c",
           "time": "14:13",
           "category": "Markets",
@@ -753,17 +865,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/self-made-millionaires-dish-5-131300366.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "51626a235cd3",
-          "time": "14:07",
-          "category": "Markets",
-          "title": "5 Financial Pitfalls To Avoid in 2026, According to Economists",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/5-financial-pitfalls-avoid-2026-130703951.html",
           "tags": [],
           "impact_score": 1
         },
@@ -790,17 +891,6 @@
           "impact_score": 1
         },
         {
-          "id": "3466b7266b25",
-          "time": "13:59",
-          "category": "Crypto",
-          "title": "Crypto Mergers and Acquisitions Reach an All-Time High at $10 Billion",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/crypto-mergers-acquisitions-reach-time-125913304.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "efa70a2c7af5",
           "time": "13:45",
           "category": "Crypto",
@@ -819,39 +909,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/californians-keep-finding-leftover-loot-123300020.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "58ba6ade35ce",
-          "time": "13:31",
-          "category": "Markets",
-          "title": "Deckers Outdoor price target lowered to $115 from $137 at Raymond James",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/deckers-outdoor-price-target-lowered-123113104.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8926be13d1b9",
-          "time": "13:30",
-          "category": "Markets",
-          "title": "Boise Cascade price target lowered to $95 from $100 at DA Davidson",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/boise-cascade-price-target-lowered-123054849.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3dddd16089c0",
-          "time": "13:30",
-          "category": "Markets",
-          "title": "Integer price target lowered to $95 from $143 at Raymond James",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/integer-price-target-lowered-95-123048302.html",
           "tags": [],
           "impact_score": 1
         },
@@ -885,17 +942,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/mtg-admits-prices-under-trump-114500551.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8b63b61a9f4e",
-          "time": "12:00",
-          "category": "Markets",
-          "title": "Some premium credit cards have hiked annual fees by 45% — make sure ‘fee creep’ isn’t quietly canceling your rewards",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/premium-credit-cards-hiked-annual-110000639.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1073,6 +1119,19 @@
           "summary": "Early BTC whales shift to ETFs, giving up keys for TradFi perks, as BlackRock conversions rise and onchain self-custody breaks a 15-year uptrend.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-whales-trade-keys-for-comfort?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 3
+        },
+        {
+          "id": "7b4c768f59df",
+          "time": "19:00",
+          "category": "Crypto",
+          "title": "$19B crypto crash opens door to $200K Bitcoin in 2025: Finance Redefined",
+          "summary": "Bitcoin may still be on track to $200,000 before the end of the year despite the recent market crash, but a lack of ETF buying continues to limit upside potential.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/19b-crypto-crash-200k-bitcoin-2025-finance-redefined?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -1415,17 +1474,6 @@
           "summary": "$260 million in fiat and crypto was flagged as part of Operation Catalyst, of which some $600,000 has been seized to date.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345822/interpol-arrests-83-in-landmark-african-operation-hitting-crypto-terrorist-financing-cybercrime",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "920765aa0145",
-          "time": "11:00",
-          "category": "US Macro",
-          "title": "Best CD rates today, October 24, 2025 (up to 4.1% APY return)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-october-24-2025-100017058.html",
           "tags": [],
           "impact_score": 1
         },
