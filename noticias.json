@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T18:52+00:00",
+  "generated_at": "2025-10-26T19:01+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -235,6 +235,17 @@
           "impact_score": 2
         },
         {
+          "id": "2628999a43b1",
+          "time": "18:40",
+          "category": "Markets",
+          "title": "Novartis to acquire Avidity Biosciences for about $12 billion",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/novartis-acquire-avidity-biosciences-12-184046281.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "c1f6c237dfb0",
           "time": "18:09",
           "category": "Markets",
@@ -363,17 +374,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/comes-first-prioritize-withdrawals-brokerage-171900469.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "39b32939b6fe",
-          "time": "17:18",
-          "category": "Markets",
-          "title": "Where Will Domino's Pizza Be in 5 Years?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/where-dominos-pizza-5-years-171800950.html",
           "tags": [],
           "impact_score": 1
         },
