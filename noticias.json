@@ -1,15 +1,37 @@
 {
-  "generated_at": "2025-10-26T16:59+00:00",
+  "generated_at": "2025-10-26T17:39+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-26",
       "attention_points": [
-        "Mark Cuban Warns Ending Billionaires Would Destroy Market and Erase Savings: 'Should We Get Rid of the Stock Market?'",
-        "Alibaba’s Qwen Deep Research Creates Live Webpages, Podcasts in Seconds",
-        "Dow Jones Futures: 'Comprehensive' China Trade Deal Near For Trump-Xi; Huge Earnings, Fed Rate Cut Ahead"
+        "US Treasury chief Bessent says 'substantial' trade framework with China reached",
+        "Dow Jones Futures: China Deal Close Amid Flurry Of Trump Trade Moves; Huge Earnings, Fed Rate Cut Ahead",
+        "Mark Cuban Warns Ending Billionaires Would Destroy Market and Erase Savings: 'Should We Get Rid of the Stock Market?'"
       ],
       "items": [
+        {
+          "id": "9188b06b6155",
+          "time": "17:28",
+          "category": "US Macro",
+          "title": "US Treasury chief Bessent says 'substantial' trade framework with China reached",
+          "summary": "Secretary Scott Bessent said the negotiations alleviate the need for the 100% additional tariffs announced by US president Trump in October.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/bessent-substantial-trade-framework-china?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "16:54",
+          "category": "US Macro",
+          "title": "Dow Jones Futures: China Deal Close Amid Flurry Of Trump Trade Moves; Huge Earnings, Fed Rate Cut Ahead",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-china-trade-deal-trump-xi-apple-earnings-fed-rate-cut/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "c3f3a483a9eb",
           "time": "16:31",
@@ -29,17 +51,6 @@
           "summary": "Alibaba's Qwen Deep Research now converts reports into live webpages and podcasts with one click. Here's how the free service compares to Gemini, ChatGPT, and Grok.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345517/alibabas-qwen-deep-research-live-webpages-podcasts-seconds",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "15:37",
-          "category": "US Macro",
-          "title": "Dow Jones Futures: 'Comprehensive' China Trade Deal Near For Trump-Xi; Huge Earnings, Fed Rate Cut Ahead",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-china-trade-deal-trump-xi-apple-earnings-fed-rate-cut/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 3
         },
@@ -151,16 +162,14 @@
           "impact_score": 2
         },
         {
-          "id": "d9314f19e65f",
-          "time": "15:46",
-          "category": "Crypto",
-          "title": "New Lawyer Debates Whether To Stay At $200K Job He Hates Or Take A Pay Cut To Do What He Loves. Dave Ramsey Says There's Never Just 2 Options.",
+          "id": "f42f4a6202da",
+          "time": "16:30",
+          "category": "Earnings",
+          "title": "Coca-Cola Stock Jumps Following Earnings Beat. Will the Run Continue for Investors?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/lawyer-debates-whether-stay-200k-154618450.html",
-          "tags": [
-            "ETH"
-          ],
+          "url": "https://finance.yahoo.com/news/coca-cola-stock-jumps-following-163022804.html",
+          "tags": [],
           "impact_score": 2
         },
         {
@@ -237,6 +246,50 @@
           "impact_score": 2
         },
         {
+          "id": "bb4fe063b2d6",
+          "time": "17:15",
+          "category": "Markets",
+          "title": "The state of the meme stock: One person with a thesis is all it takes",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/state-meme-stock-one-person-171501630.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "33f6744fdf34",
+          "time": "17:11",
+          "category": "Markets",
+          "title": "People Believe Writing Off Expenses Saves Them Money, But Dave Ramsey Says Otherwise. 'It's Dumb, Dumb, Dumb. Don't Do It'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/people-believe-writing-off-expenses-171147600.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "542dcabb6a2f",
+          "time": "17:07",
+          "category": "Markets",
+          "title": "Nearly-100-year-old fast food chain closes final restaurants",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/nearly-100-old-fast-food-170700987.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "72fbbc53149b",
+          "time": "16:40",
+          "category": "Markets",
+          "title": "This Texas-Based Company Could Be a Strong Buy for Energy Investors",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/texas-based-company-could-strong-164000192.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "28466f586faa",
           "time": "16:20",
           "category": "Crypto",
@@ -259,17 +312,6 @@
           "impact_score": 1
         },
         {
-          "id": "1ee889a00f6a",
-          "time": "16:05",
-          "category": "Markets",
-          "title": "Is Cameco Stock a Buy Now?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cameco-stock-buy-now-160500478.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "8df171baf663",
           "time": "16:05",
           "category": "Markets",
@@ -281,28 +323,6 @@
           "impact_score": 1
         },
         {
-          "id": "85d6ea696e41",
-          "time": "16:01",
-          "category": "Markets",
-          "title": "'Protect Yourself From Me Entirely' — Pregnant Fiancée Says $800K-A-Year Partner's Prenup Makes Her 'Legally And Financially Easy To Discard'",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/protect-yourself-entirely-pregnant-fianc-160108141.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8acd4319dba9",
-          "time": "15:53",
-          "category": "Markets",
-          "title": "Is AST SpaceMobile Stock Your Ticket to Becoming a Millionaire?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ast-spacemobile-stock-ticket-becoming-155300636.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "5040e1141696",
           "time": "15:50",
           "category": "Crypto",
@@ -310,17 +330,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/26/xrp-ledger-validator-sees-nft-to-nft-trading-potential-in-proposed-batch-amendment",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5beab6f91e94",
-          "time": "15:36",
-          "category": "Markets",
-          "title": "After $175 Million Scam, JPMorgan Battles $115M in Legal Fees: 'Patently Excessive and Egregious'",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/175-million-scam-jpmorgan-battles-153637617.html",
           "tags": [],
           "impact_score": 1
         },
@@ -428,11 +437,22 @@
     {
       "date": "2025-10-25",
       "attention_points": [
+        "SoftBank approves remaining $22.5 billion of OpenAI investment, the Information reports",
         "Trump Names SEC Crypto Task Force Head Selig as Next Nominee to Run U.S. CFTC",
-        "REX-Osprey XRP ETF (XRPR) Surpasses $100M in Assets Under Management",
-        "My husband wants to buy a $60K truck — but we’re $30K in debt and saving for a house. How do we get on the same page?"
+        "REX-Osprey XRP ETF (XRPR) Surpasses $100M in Assets Under Management"
       ],
       "items": [
+        {
+          "id": "b9f47275dacf",
+          "time": "22:11",
+          "category": "Markets",
+          "title": "SoftBank approves remaining $22.5 billion of OpenAI investment, the Information reports",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/softbank-approves-remaining-22-5-211139146.html",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "b1a34d07bebc",
           "time": "21:53",
@@ -456,13 +476,13 @@
           "impact_score": 3
         },
         {
-          "id": "4d96178d6ae9",
-          "time": "18:00",
-          "category": "Markets",
-          "title": "My husband wants to buy a $60K truck — but we’re $30K in debt and saving for a house. How do we get on the same page?",
+          "id": "0bad03b8e912",
+          "time": "20:00",
+          "category": "Earnings",
+          "title": "Georgia woman’s husband keeps her in the dark about their finances — Dave Ramsey says to act now or ‘shut up about it’",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/husband-wants-buy-60k-truck-170000787.html",
+          "url": "https://finance.yahoo.com/news/georgia-woman-husband-keeps-her-190000980.html",
           "tags": [],
           "impact_score": 3
         },
@@ -706,6 +726,39 @@
           "impact_score": 2
         },
         {
+          "id": "6f23bed4705d",
+          "time": "21:57",
+          "category": "US Macro",
+          "title": "Amazon (AMZN) Announces the Expansion of Amazon Now Across the United Arab Emirates",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/amazon-amzn-announces-expansion-amazon-205719363.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f5f50c802534",
+          "time": "21:00",
+          "category": "Markets",
+          "title": "Jennifer Garner's baby food company is going public on the NYSE — should investors be putting their eggs in this basket?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jennifer-garners-baby-food-company-200000842.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "56d4736de61f",
+          "time": "20:56",
+          "category": "Markets",
+          "title": "Exxon sues California over climate disclosure laws",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/exxon-sues-california-over-climate-195659671.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "b78b3e0a95cd",
           "time": "19:35",
           "category": "Crypto",
@@ -724,17 +777,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/25/sol-now-on-fidelity-s-retail-platform-as-price-tests-usd195-while-usd188-support-draws-focus",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b8c69e876e40",
-          "time": "17:46",
-          "category": "Markets",
-          "title": "Fluence Energy (FLNC) Soars 21.8% as Funds Flock to AI",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/fluence-energy-flnc-soars-21-164624790.html",
           "tags": [],
           "impact_score": 1
         },
@@ -849,17 +891,6 @@
           "impact_score": 1
         },
         {
-          "id": "f7f332a35592",
-          "time": "15:00",
-          "category": "Markets",
-          "title": "My stolen car was found after insurance already paid me for it — but now I want to buy it back. What should I do?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stolen-car-found-insurance-already-140000246.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "fa65fb73121f",
           "time": "14:35",
           "category": "Crypto",
@@ -878,17 +909,6 @@
           "summary": "RWA tokenization faces criticism, but regulatory clarity and institutional adoption prove it’s building the foundation for finance’s future.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/tokenization-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f61ba559286c",
-          "time": "14:13",
-          "category": "Markets",
-          "title": "These self-made millionaires dish on the 5 habits that helped them to retire early — are you undermining your efforts?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/self-made-millionaires-dish-5-131300366.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1110,19 +1130,6 @@
           "summary": "Early BTC whales shift to ETFs, giving up keys for TradFi perks, as BlackRock conversions rise and onchain self-custody breaks a 15-year uptrend.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-whales-trade-keys-for-comfort?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 3
-        },
-        {
-          "id": "7b4c768f59df",
-          "time": "19:00",
-          "category": "Crypto",
-          "title": "$19B crypto crash opens door to $200K Bitcoin in 2025: Finance Redefined",
-          "summary": "Bitcoin may still be on track to $200,000 before the end of the year despite the recent market crash, but a lack of ETF buying continues to limit upside potential.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/19b-crypto-crash-200k-bitcoin-2025-finance-redefined?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -1606,17 +1613,6 @@
           "summary": "Cryptomus has been fined $126 million for failing to report thousands of high-risk transactions tied to child abuse, ransomware, and Iran-linked transfers.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345719/canada-hits-crypto-firm-with-126-million-fine",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b6b0a8ebd895",
-          "time": "19:57",
-          "category": "Markets",
-          "title": "When raiding your retirement to pay off debt might be a good idea",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/when-raiding-your-retirement-to-pay-off-debt-might-be-a-good-idea-185709794.html",
           "tags": [],
           "impact_score": 1
         },
