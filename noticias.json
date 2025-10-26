@@ -1,15 +1,37 @@
 {
-  "generated_at": "2025-10-26T23:00+00:00",
+  "generated_at": "2025-10-26T23:34+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-26",
       "attention_points": [
-        "Stock market today: Dow, S&P 500, Nasdaq futures climb with Fed, Big Tech earnings, Trump-Xi meeting ahead",
+        "Dave Ramsey Caller Sparks Debate Over Credit Cards, Arguing It's Fine If You Pay Them Off Monthly. 'Banks Have Screwed O",
         "Dow Jones Futures Rise On China Trade Deal Hopes; Huge Earnings, Fed Rate Cut Ahead",
-        "What will next Fed rate cut mean for mortgages, credit cards and car loans?"
+        "Stock market today: Dow, S&P 500, Nasdaq futures climb with Fed, Big Tech earnings, Trump-Xi meeting ahead"
       ],
       "items": [
+        {
+          "id": "6bb5a55248fc",
+          "time": "23:01",
+          "category": "Markets",
+          "title": "Dave Ramsey Caller Sparks Debate Over Credit Cards, Arguing It's Fine If You Pay Them Off Monthly. 'Banks Have Screwed Over The American People'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/dave-ramsey-caller-sparks-debate-230132927.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "22:57",
+          "category": "US Macro",
+          "title": "Dow Jones Futures Rise On China Trade Deal Hopes; Huge Earnings, Fed Rate Cut Ahead",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-china-trade-deal-trump-xi-apple-earnings-fed-rate-cut/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "82fd1c2ea1bc",
           "time": "22:50",
@@ -18,17 +40,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-with-fed-big-tech-earnings-trump-xi-meeting-ahead-225050011.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "22:46",
-          "category": "US Macro",
-          "title": "Dow Jones Futures Rise On China Trade Deal Hopes; Huge Earnings, Fed Rate Cut Ahead",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-china-trade-deal-trump-xi-apple-earnings-fed-rate-cut/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 3
         },
@@ -228,6 +239,19 @@
           "impact_score": 3
         },
         {
+          "id": "49aaceee997e",
+          "time": "22:37",
+          "category": "Crypto",
+          "title": "US-China Trade Truce Spurs Bitcoin; Key Week of Events Looms",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/us-china-trade-truce-spurs-223701251.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "b431ea497743",
           "time": "22:10",
           "category": "Crypto",
@@ -349,6 +373,39 @@
           "impact_score": 2
         },
         {
+          "id": "fab34cf3f446",
+          "time": "23:00",
+          "category": "Markets",
+          "title": "HSBC to book $1.1 billion provision after Luxembourg court ruling in Madoff case",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/hsbc-book-1-1-billion-230052131.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ff139ef0f583",
+          "time": "22:48",
+          "category": "Markets",
+          "title": "1 Incredible Reason to Buy Cameco (CCJ) Stock Before October Ends",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/1-incredible-reason-buy-cameco-224800477.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9176d667e63d",
+          "time": "22:33",
+          "category": "Markets",
+          "title": "BioAge Labs Stock Just Soared. Does It Have More Fuel to Climb Higher?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bioage-labs-stock-just-soared-223300487.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "0da91b8862d8",
           "time": "22:08",
           "category": "Markets",
@@ -382,6 +439,17 @@
           "impact_score": 1
         },
         {
+          "id": "c5cad9f40f3e",
+          "time": "22:00",
+          "category": "Markets",
+          "title": "Shale Giants Slash Thousands of Jobs as Lower Prices Bite",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/shale-giants-slash-thousands-jobs-220000110.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "ed46852e4755",
           "time": "22:00",
           "category": "Markets",
@@ -411,6 +479,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/ohio-based-companys-stock-over-214600642.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2e0174679e5b",
+          "time": "21:33",
+          "category": "Markets",
+          "title": "Novartis Agrees to Acquire Avidity Biosciences for $12 Billion",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/tech/biotech/novartis-agrees-to-acquire-avidity-biosciences-for-12-billion-c5a2fb53?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -488,72 +567,6 @@
           "summary": "The sanctioning of the DPRK IT worker network and recovery of Bybit funds are signs of the growing pushback, experts told Decrypt.",
           "source": "Decrypt",
           "url": "https://decrypt.co/346010/north-korea-stolen-billions-crypto-ability-fight-back-growing-chainalysis",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1f852ed83111",
-          "time": "20:00",
-          "category": "Markets",
-          "title": "Gold Trader Hiring Spree Drives Up Pay as Bullion Market Booms",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/gold-trader-hiring-spree-drives-200000517.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6647c61875bc",
-          "time": "20:00",
-          "category": "Markets",
-          "title": "Why Las Vegas Sands Stock Skyrocketed This Week",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-las-vegas-sands-stock-200000121.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "2e1a80a5d739",
-          "time": "19:55",
-          "category": "Markets",
-          "title": "Why CoreWeave Stock Slipped This Week",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-coreweave-stock-slipped-week-195500573.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8bb4f122d935",
-          "time": "19:45",
-          "category": "Markets",
-          "title": "Why D-Wave Quantum Stock Plummeted This Week",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-d-wave-quantum-stock-194500521.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "51238464774b",
-          "time": "19:43",
-          "category": "Markets",
-          "title": "Swiss drugmaker Novartis to buy Avidity Biosciences for $12 billion",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/swiss-drugmaker-novartis-buy-avidity-194333840.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f7e08637bc2d",
-          "time": "19:30",
-          "category": "Markets",
-          "title": "Should You Buy Applied Digital (APLD) Stock Right Now?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/buy-applied-digital-apld-stock-193000732.html",
           "tags": [],
           "impact_score": 1
         },
@@ -741,17 +754,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/truckload-capacity-falling-faster-demand-003000764.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6103c32dde7f",
-          "time": "01:00",
-          "category": "Markets",
-          "title": "How to Squeeze the Most From the New SALT Cap",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/personal-finance/taxes/salt-cap-tax-deduction-guide-05756b47?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         }
