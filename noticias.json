@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-26T23:34+00:00",
+  "generated_at": "2025-10-26T23:47+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-26",
       "attention_points": [
-        "Dave Ramsey Caller Sparks Debate Over Credit Cards, Arguing It's Fine If You Pay Them Off Monthly. 'Banks Have Screwed O",
         "Dow Jones Futures Rise On China Trade Deal Hopes; Huge Earnings, Fed Rate Cut Ahead",
+        "Dave Ramsey Caller Sparks Debate Over Credit Cards, Arguing It's Fine If You Pay Them Off Monthly. 'Banks Have Screwed O",
         "Stock market today: Dow, S&P 500, Nasdaq futures climb with Fed, Big Tech earnings, Trump-Xi meeting ahead"
       ],
       "items": [
+        {
+          "id": "1d6daef5b3f9",
+          "time": "23:21",
+          "category": "US Macro",
+          "title": "Dow Jones Futures Rise On China Trade Deal Hopes; Huge Earnings, Fed Rate Cut Ahead",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-china-trade-deal-trump-xi-apple-earnings-fed-rate-cut/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "6bb5a55248fc",
           "time": "23:01",
@@ -18,17 +29,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/dave-ramsey-caller-sparks-debate-230132927.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "22:57",
-          "category": "US Macro",
-          "title": "Dow Jones Futures Rise On China Trade Deal Hopes; Huge Earnings, Fed Rate Cut Ahead",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-china-trade-deal-trump-xi-apple-earnings-fed-rate-cut/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 3
         },
@@ -55,6 +55,17 @@
           "impact_score": 3
         },
         {
+          "id": "46bd9fe3090a",
+          "time": "22:16",
+          "category": "US Macro",
+          "title": "Stock Futures Rise Ahead of Mag 7 Earnings, Fed Decision",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/stock-futures-mag-7-earnings-fed-cc5f7e35?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "fcab025a5656",
           "time": "21:52",
           "category": "Crypto",
@@ -75,17 +86,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/washington-oil-sanctions-rattle-asia-210000361.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "5c5130c43273",
-          "time": "20:10",
-          "category": "Markets",
-          "title": "Popular 49-year-old pizza chain files for Chapter 11 bankruptcy",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/49-old-favorite-pizza-chain-201037011.html",
           "tags": [],
           "impact_score": 3
         },
@@ -373,6 +373,28 @@
           "impact_score": 2
         },
         {
+          "id": "dd5a19daf9ae",
+          "time": "23:08",
+          "category": "Markets",
+          "title": "Suze Orman: $2M Retirement Savings Is ‘Chump Change’ in 2025 — Here’s How To Catch Up",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/suze-orman-2m-retirement-savings-230858068.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8fc1e8a42743",
+          "time": "23:02",
+          "category": "Markets",
+          "title": "If I Could Buy Only 1 \"Magnificent Seven\" Stock Over the Next 10 Years, This Would Be It (Hint: Not Nvidia)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/could-buy-only-1-magnificent-230200141.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "fab34cf3f446",
           "time": "23:00",
           "category": "Markets",
@@ -428,17 +450,6 @@
           "impact_score": 1
         },
         {
-          "id": "1715691f03e4",
-          "time": "22:00",
-          "category": "Markets",
-          "title": "NC woman canceled her ‘health insurance’ — then $12K in charges hit her card. Why regulators say they’re powerless",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nc-woman-canceled-her-health-220000762.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "c5cad9f40f3e",
           "time": "22:00",
           "category": "Markets",
@@ -446,6 +457,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/shale-giants-slash-thousands-jobs-220000110.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1715691f03e4",
+          "time": "22:00",
+          "category": "Markets",
+          "title": "NC woman canceled her ‘health insurance’ — then $12K in charges hit her card. Why regulators say they’re powerless",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/nc-woman-canceled-her-health-220000762.html",
           "tags": [],
           "impact_score": 1
         },
@@ -545,17 +567,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/gold-surpasses-us-treasuries-first-203442334.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "aaa7ad342c78",
-          "time": "20:23",
-          "category": "Markets",
-          "title": "3 Healthcare Stocks That Are Screaming Deals Right Now",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/3-healthcare-stocks-screaming-deals-202300008.html",
           "tags": [],
           "impact_score": 1
         },
@@ -743,17 +754,6 @@
           "summary": "A stablecoin is now live in Kyrgyzstan, which confirmed plans to launch a CBDC and explore a national crypto reserve after meeting with strategic adviser Changpeng Zhao.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/kyrgyzstan-rolls-out-stablecoin-and-confirms-future-cbdc-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "815e48f82f87",
-          "time": "01:30",
-          "category": "Markets",
-          "title": "Truckload capacity is falling faster than demand",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/truckload-capacity-falling-faster-demand-003000764.html",
           "tags": [],
           "impact_score": 1
         }
