@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T21:34+00:00",
+  "generated_at": "2025-10-26T21:45+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -303,6 +303,28 @@
           "impact_score": 2
         },
         {
+          "id": "b9a8ffc29e42",
+          "time": "21:19",
+          "category": "Markets",
+          "title": "Novartis to acquire Avidity Biosciences for about $12 billion",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/novartis-acquire-avidity-biosciences-12-211946494.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6037514b2386",
+          "time": "21:00",
+          "category": "Crypto",
+          "title": "Solana Profit Remains Underwhelming – Will SOL Price Recover Above $200?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/solana-profit-remains-underwhelming-sol-210000194.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "27f3fb41cfad",
           "time": "20:52",
           "category": "Markets",
@@ -435,17 +457,6 @@
           "impact_score": 1
         },
         {
-          "id": "8c0a78e30a28",
-          "time": "19:00",
-          "category": "Markets",
-          "title": "Western Union Embraces Stablecoins Amid Global Remittance Overhaul",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/western-union-embraces-stablecoins-amid-190000724.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "42fe65691e01",
           "time": "19:00",
           "category": "Markets",
@@ -457,6 +468,17 @@
           "impact_score": 1
         },
         {
+          "id": "8c0a78e30a28",
+          "time": "19:00",
+          "category": "Markets",
+          "title": "Western Union Embraces Stablecoins Amid Global Remittance Overhaul",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/western-union-embraces-stablecoins-amid-190000724.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "c38404205af2",
           "time": "18:45",
           "category": "Markets",
@@ -464,17 +486,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/prediction-1-growth-stock-set-184500172.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "2628999a43b1",
-          "time": "18:40",
-          "category": "Markets",
-          "title": "Novartis to acquire Avidity Biosciences for about $12 billion",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/novartis-acquire-avidity-biosciences-12-184046281.html",
           "tags": [],
           "impact_score": 1
         },
@@ -563,17 +574,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/1-important-tailwind-could-send-174300338.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "d80146cd41bb",
-          "time": "17:37",
-          "category": "Markets",
-          "title": "2 Incredible Growth Stocks I Can't Stop Buying",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/2-incredible-growth-stocks-cant-173700183.html",
           "tags": [],
           "impact_score": 1
         },
