@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T05:06+00:00",
+  "generated_at": "2025-10-26T05:41+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -400,17 +400,94 @@
           "url": "https://www.coindesk.com/markets/2025/10/25/ripple-prime-is-the-fintech-firm-s-one-stop-institutional-trading-and-financing-desk",
           "tags": [],
           "impact_score": 1
+        },
+        {
+          "id": "bea0c9194014",
+          "time": "01:02",
+          "category": "Markets",
+          "title": "GM Stock Gets a Buy Rating—With Caveats. Plus, Lithia Motors, Vertiv Holdings, and More.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/gm-stock-gets-a-buy-ratingwith-caveats-plus-lithia-motors-vertiv-holdings-and-more-96cdc00a?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3e464170b5ab",
+          "time": "01:00",
+          "category": "Markets",
+          "title": "The Cracker Barrel Mess Isn’t Over Yet",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/the-cracker-barrel-logo-mess-c57d23e8?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "13c7b3388261",
+          "time": "00:45",
+          "category": "Crypto",
+          "title": "AI Chatbots Were Told to Trade Crypto. The Returns Were Ugly.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/ai-chatbots-were-told-to-trade-crypto-the-returns-were-ugly-5c6467d3?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "cb6d929d6dd9",
+          "time": "00:00",
+          "category": "Markets",
+          "title": "The 5 Highest-Yielding ‘Strong Buy’ Dividend Stocks To Own for Generations",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/5-highest-yielding-strong-buy-230002115.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e548977ef6ed",
+          "time": "00:00",
+          "category": "Markets",
+          "title": "Could This Under-the-Radar AI Company Become the Next Nvidia?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/could-under-radar-ai-company-230000898.html",
+          "tags": [],
+          "impact_score": 1
         }
       ]
     },
     {
       "date": "2025-10-24",
       "attention_points": [
-        "Trump to nominate SEC's 'pro-crypto' Michael Selig as CFTC chair: Report",
-        "Trump Picks SEC Crypto Task Force’s Mike Selig to Run CFTC: Report",
-        "Custodia, Vantage Expand Pilot Into Live Tokenized Deposit Network for US Banks"
+        "The Fed Will Soon End QT to Avoid a Financial ‘Plumbing’ Problem",
+        "Who Is Michael Selig? Everything to Know About Trump’s New CFTC Pick",
+        "Trump to nominate SEC's 'pro-crypto' Michael Selig as CFTC chair: Report"
       ],
       "items": [
+        {
+          "id": "4a08235c9dd7",
+          "time": "23:53",
+          "category": "US Macro",
+          "title": "The Fed Will Soon End QT to Avoid a Financial ‘Plumbing’ Problem",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/federal-reserve-end-balance-sheet-reduction-fomc-qt-e5b340f4?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "254f8a75bde5",
+          "time": "23:48",
+          "category": "Regulation",
+          "title": "Who Is Michael Selig? Everything to Know About Trump’s New CFTC Pick",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/michael-selig-everything-know-trump-224840120.html",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "031f0ba1f35b",
           "time": "23:03",
@@ -489,28 +566,6 @@
           "impact_score": 3
         },
         {
-          "id": "260559c311ac",
-          "time": "21:46",
-          "category": "US Macro",
-          "title": "Stocks Rally to Record Highs on Favorable US CPI Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stocks-rally-record-highs-favorable-204620301.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "98b458dcaeed",
-          "time": "21:39",
-          "category": "US Macro",
-          "title": "Gold Slips From Record Highs as Traders Take Profits Ahead of Fed Decision",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/gold-slips-record-highs-traders-203901869.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "afb06e517bab",
           "time": "21:17",
           "category": "Crypto",
@@ -521,6 +576,17 @@
           "tags": [
             "BTC"
           ],
+          "impact_score": 3
+        },
+        {
+          "id": "30bc894a095b",
+          "time": "21:00",
+          "category": "US Macro",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq surge to records as tame inflation cements Fed rate cut bets",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-surge-to-records-as-tame-inflation-cements-fed-rate-cut-bets-200014567.html",
+          "tags": [],
           "impact_score": 3
         },
         {
@@ -650,6 +716,17 @@
           "impact_score": 2
         },
         {
+          "id": "472b63b87a01",
+          "time": "23:00",
+          "category": "Earnings",
+          "title": "Core Scientific releases Q3 2025 earnings, reports 45% boost to AI revenue",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/core-scientific-releases-q3-2025-220028813.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "1d6daef5b3f9",
           "time": "22:55",
           "category": "Earnings",
@@ -707,28 +784,6 @@
           "impact_score": 2
         },
         {
-          "id": "d7becb13c5c6",
-          "time": "22:14",
-          "category": "Markets",
-          "title": "S&P 500 Gains & Losses Today: Ford Leads Automakers Higher; Deckers Stock Drops",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/p-500-gains-losses-today-211449266.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "236408f82211",
-          "time": "22:13",
-          "category": "Markets",
-          "title": "Why Did NuScale Stock Drop 14.7% This Week?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-did-nuscale-stock-drop-211302904.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "b7c0be63145f",
           "time": "22:10",
           "category": "US Macro",
@@ -772,17 +827,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/news/technology/vertiv-stock-record-high-data-center-business/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "ec36e99ee29f",
-          "time": "21:49",
-          "category": "Earnings",
-          "title": "Deckers Stock Drops After Shoe Company Cuts Financial Guidance",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/deckers-stock-drops-after-shoe-company-cuts-financial-guidance-IyGM1Y8CTAGptXxXQC17?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 2
         },
@@ -1127,17 +1171,6 @@
           "impact_score": 1
         },
         {
-          "id": "4cb3fd87e7db",
-          "time": "22:14",
-          "category": "Markets",
-          "title": "Grégoire Martin Joins Executive Search Firm Ginger Finds as President",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/gr-goire-martin-joins-executive-211437439.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "cc2691c04db5",
           "time": "22:06",
           "category": "Markets",
@@ -1233,39 +1266,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/research/ibd-stock-of-the-day/broadcom-stock-avgo-custom-ai-chip-business-2/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "21:44",
-          "category": "Markets",
-          "title": "Biotech Stocks Returned To Health And Offered Multiple Entries",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/research/swing-trading/biotech-stocks-returned-to-health/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f73aa0c180fe",
-          "time": "21:40",
-          "category": "Markets",
-          "title": "Intel Expects Chip Shortages on Better PC Demand. Here’s Why AMD Is Winning Too.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/intel-earnings-stock-price-d05fab01?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ff731fb642cd",
-          "time": "21:36",
-          "category": "Markets",
-          "title": "Heard on the Street Recap: Keep on Truckin’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/heard-on-the-street-recap-keep-on-truckin--AtaMd4UJGlSjyvWwGWU8?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
