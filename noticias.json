@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T11:29+00:00",
+  "generated_at": "2025-10-26T11:45+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -310,6 +310,19 @@
           "impact_score": 2
         },
         {
+          "id": "d15dbcbb6cd8",
+          "time": "11:45",
+          "category": "Crypto",
+          "title": "How Bitcoin Could Help You Retire a Millionaire",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bitcoin-could-help-retire-millionaire-104500339.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "18ee5338e243",
           "time": "11:00",
           "category": "Markets",
@@ -460,6 +473,17 @@
           "impact_score": 1
         },
         {
+          "id": "1d6daef5b3f9",
+          "time": "13:00",
+          "category": "Markets",
+          "title": "Tesla, AI Plays Lead Five Stocks Near Buy Points Without This Big Risk",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/tesla-stock-ai-plays-stocks-buy-points/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "774cc4c1f499",
           "time": "13:00",
           "category": "Crypto",
@@ -489,6 +513,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/premium-credit-cards-hiked-annual-110000639.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "432afff2a967",
+          "time": "11:39",
+          "category": "Crypto",
+          "title": "Coinbase rival announces major change for departing workers",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/coinbase-rival-announces-major-change-103904954.html",
           "tags": [],
           "impact_score": 1
         },
@@ -603,17 +638,6 @@
           "impact_score": 1
         },
         {
-          "id": "db236590181a",
-          "time": "10:31",
-          "category": "Earnings",
-          "title": "Tesla Returns to Double-Digit Revenue Growth. Time to Buy the Stock?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/tesla-returns-double-digit-revenue-093100374.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "0d3e75fa01bd",
           "time": "10:30",
           "category": "Crypto",
@@ -632,17 +656,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/finance/commodities-futures/sanctioned-russian-oil-will-find-new-ways-to-flow-652d0601?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "92f61778f0fd",
-          "time": "10:15",
-          "category": "Crypto",
-          "title": "Up 429% in 1 Month, Is the Zcash Cryptocurrency a Screaming Buy?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/429-1-month-zcash-cryptocurrency-091500137.html",
           "tags": [],
           "impact_score": 1
         },
@@ -896,6 +909,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/jim-cramer-uses-capital-one-044452971.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "62e97ec39238",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Texas Instruments: “I Don’t Expect Buyers to Take That Stock Up Anytime Soon”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-texas-instruments-don-044450779.html",
           "tags": [],
           "impact_score": 1
         },
