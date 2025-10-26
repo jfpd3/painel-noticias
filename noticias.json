@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T11:00+00:00",
+  "generated_at": "2025-10-26T11:29+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -113,6 +113,39 @@
           "impact_score": 3
         },
         {
+          "id": "b164ac228357",
+          "time": "11:20",
+          "category": "Crypto",
+          "title": "Are There Any Crypto Treasury Companies Worth Buying Right Now?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/crypto-treasury-companies-worth-buying-102000692.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "33725c48c603",
+          "time": "11:00",
+          "category": "Regulation",
+          "title": "First XRP ETF Tops $100 Million Amid SEC Delay on New Approvals",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/first-xrp-etf-tops-100-100038729.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "18536c47f75b",
+          "time": "11:00",
+          "category": "Regulation",
+          "title": "Wall Street Is Worried About an AI Bubble—Here's the Sector Where Stock Prices Really Stand Out",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/wall-street-worried-ai-bubble-100000598.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "f6b153e9079c",
           "time": "10:10",
           "category": "Crypto",
@@ -120,28 +153,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/policy/2025/10/25/crypto-com-applies-for-occ-national-trust-bank-charter-to-expand-u-s-institutional-custody",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "7c954a9171fc",
-          "time": "10:02",
-          "category": "Markets",
-          "title": "Ripple Eyes Prime London Real Estate To Be Closer to Banking Giants",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ripple-eyes-prime-london-real-090215325.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "b7a2986ea607",
-          "time": "09:04",
-          "category": "Markets",
-          "title": "JPMorgan is stuck paying for Charlie Javice's legal fees. The bank says her $115 million bill is 'patently excessive and egregious'",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jpmorgan-stuck-paying-charlie-javices-000426882.html",
           "tags": [],
           "impact_score": 3
         },
@@ -299,6 +310,17 @@
           "impact_score": 2
         },
         {
+          "id": "18ee5338e243",
+          "time": "11:00",
+          "category": "Markets",
+          "title": "Should You Buy Rigetti Computing After Its 3,800% Rally Over the Past Year?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/buy-rigetti-computing-3-800-100000974.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "6623fc7c663a",
           "time": "10:49",
           "category": "Crypto",
@@ -333,17 +355,6 @@
           "tags": [
             "BTC"
           ],
-          "impact_score": 2
-        },
-        {
-          "id": "cc8c3aace36d",
-          "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer Highlights Intuitive Surgical Rally on Unexpected Procedure Growth",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-highlights-intuitive-surgical-044449478.html",
-          "tags": [],
           "impact_score": 2
         },
         {
@@ -460,6 +471,17 @@
           "impact_score": 1
         },
         {
+          "id": "a36405d0320d",
+          "time": "12:45",
+          "category": "Markets",
+          "title": "MTG admits prices under Trump ‘have not come down at all,’ says young Americans have ‘no hope’ of buying homes",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/mtg-admits-prices-under-trump-114500551.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "8b63b61a9f4e",
           "time": "12:00",
           "category": "Markets",
@@ -478,6 +500,39 @@
           "summary": "Ferrari is deepening its crypto push with a new digital token for its top clients, letting them bid on the Le Mans-winning 499P as part of a limited auction set to launch in 2027.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/ferrari-digital-token-lets-fans-bid-on-le-mans-winning-car?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "18e69963a13b",
+          "time": "11:30",
+          "category": "Markets",
+          "title": "Prediction: This Under-the-Radar AI Stock Could Deliver the Market's Best Returns",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/prediction-under-radar-ai-stock-103000846.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a3f4c74a6b7b",
+          "time": "11:10",
+          "category": "Markets",
+          "title": "2 Magnificent S&P 500 Dividend Stocks Down 24% to 50% to Buy and Hold Forever",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/2-magnificent-p-500-dividend-101000142.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c9030d29b8cf",
+          "time": "11:03",
+          "category": "Markets",
+          "title": "Needham Sees Opportunity in 2 Lesser-Known Energy Stocks Riding the Data-Center Boom",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/needham-sees-opportunity-2-lesser-100355735.html",
           "tags": [],
           "impact_score": 1
         },
@@ -537,6 +592,28 @@
           "impact_score": 1
         },
         {
+          "id": "53bc57f8c773",
+          "time": "10:45",
+          "category": "Markets",
+          "title": "2 Beaten-Down Stocks to Buy and Hold",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/2-beaten-down-stocks-buy-094500592.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "db236590181a",
+          "time": "10:31",
+          "category": "Earnings",
+          "title": "Tesla Returns to Double-Digit Revenue Growth. Time to Buy the Stock?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/tesla-returns-double-digit-revenue-093100374.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "0d3e75fa01bd",
           "time": "10:30",
           "category": "Crypto",
@@ -559,79 +636,13 @@
           "impact_score": 1
         },
         {
-          "id": "7d2dc267406c",
-          "time": "10:00",
-          "category": "Markets",
-          "title": "Should You Buy SoFi Technologies While It's Below $30?",
+          "id": "92f61778f0fd",
+          "time": "10:15",
+          "category": "Crypto",
+          "title": "Up 429% in 1 Month, Is the Zcash Cryptocurrency a Screaming Buy?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/buy-sofi-technologies-while-below-090000760.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c06fd62558a6",
-          "time": "09:50",
-          "category": "Markets",
-          "title": "Prediction: 2 Stocks That'll Be Worth More Than Apple 5 Years From Now",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/prediction-2-stocks-thatll-worth-085000506.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "645fc008fa23",
-          "time": "09:46",
-          "category": "Markets",
-          "title": "Why This Top Stock Rocketed 15% Higher Tuesday",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-top-stock-rocketed-15-084600109.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "51df33cfb154",
-          "time": "09:30",
-          "category": "Markets",
-          "title": "1 Stock-Split Stock to Buy Hand Over Fist in October and 1 to Avoid",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/1-stock-split-stock-buy-083000383.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d53b3318a0f",
-          "time": "09:10",
-          "category": "Markets",
-          "title": "Should You Buy Robinhood Stock Before Nov. 5, or Run for the Hills?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/buy-robinhood-stock-nov-5-081000564.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b565db74c18e",
-          "time": "09:00",
-          "category": "Markets",
-          "title": "2 Warren Buffett Stocks to Buy Hand Over Fist and 1 to Avoid",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/2-warren-buffett-stocks-buy-080000020.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "a6569b7ffc50",
-          "time": "08:57",
-          "category": "Markets",
-          "title": "2 AI Stocks Partnered With Nvidia to Sell Before They Fall 66% and 69%, According to Wall Street Analysts",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/2-ai-stocks-partnered-nvidia-075700987.html",
+          "url": "https://finance.yahoo.com/news/429-1-month-zcash-cryptocurrency-091500137.html",
           "tags": [],
           "impact_score": 1
         },
@@ -834,6 +845,39 @@
           "impact_score": 1
         },
         {
+          "id": "711d92c71dbb",
+          "time": "05:45",
+          "category": "Markets",
+          "title": "Jim Cramer on GRAIL: “Don’t Call Yourself Early if You’re Buying This One”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-grail-don-t-044500603.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2532e5283dda",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Trilogy Metals: “Has Been Losing Money Year After Year After Year’",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-trilogy-metals-losing-044458228.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5ee0dc0d673d",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer Says “No, Thank You” to AST SpaceMobile",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-no-thank-044457863.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "42da5c044231",
           "time": "05:44",
           "category": "Markets",
@@ -856,46 +900,24 @@
           "impact_score": 1
         },
         {
-          "id": "62e97ec39238",
+          "id": "68c41639ec8d",
           "time": "05:44",
           "category": "Markets",
-          "title": "Jim Cramer on Texas Instruments: “I Don’t Expect Buyers to Take That Stock Up Anytime Soon”",
+          "title": "Jim Cramer Says “GE Vernova is a Very Important Company”",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-texas-instruments-don-044450779.html",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-ge-vernova-044446536.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "0cb3b5a4b168",
+          "id": "698c9c2edabb",
           "time": "05:44",
           "category": "Markets",
-          "title": "Jim Cramer on MNTN: “I’m Sticking By It”",
+          "title": "Jim Cramer Says He is “Going to Recommend Buying BILL Holdings”",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-mntn-m-sticking-044438417.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5d478d7129bc",
-          "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer on Warner Bros: “I Think You Gotta Hold Onto It”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-warner-bros-think-044437464.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "2e564da230b1",
-          "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer on Automatic Data Processing: “It is an Excellent Company”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-automatic-data-processing-044435550.html",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-going-recommend-044444443.html",
           "tags": [],
           "impact_score": 1
         },
