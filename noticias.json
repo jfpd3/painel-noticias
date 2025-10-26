@@ -1,23 +1,45 @@
 {
-  "generated_at": "2025-10-26T22:50+00:00",
+  "generated_at": "2025-10-26T23:00+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-26",
       "attention_points": [
+        "Stock market today: Dow, S&P 500, Nasdaq futures climb with Fed, Big Tech earnings, Trump-Xi meeting ahead",
         "Dow Jones Futures Rise On China Trade Deal Hopes; Huge Earnings, Fed Rate Cut Ahead",
-        "‘The claim that L2s inherit ETH security is erroneous’ — Solana co-founder",
-        "Washington’s Oil Sanctions Rattle Asia’s Energy Security"
+        "What will next Fed rate cut mean for mortgages, credit cards and car loans?"
       ],
       "items": [
         {
+          "id": "82fd1c2ea1bc",
+          "time": "22:50",
+          "category": "US Macro",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq futures climb with Fed, Big Tech earnings, Trump-Xi meeting ahead",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-with-fed-big-tech-earnings-trump-xi-meeting-ahead-225050011.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "1d6daef5b3f9",
-          "time": "22:25",
+          "time": "22:46",
           "category": "US Macro",
           "title": "Dow Jones Futures Rise On China Trade Deal Hopes; Huge Earnings, Fed Rate Cut Ahead",
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-china-trade-deal-trump-xi-apple-earnings-fed-rate-cut/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "28d12a960c54",
+          "time": "22:43",
+          "category": "US Macro",
+          "title": "What will next Fed rate cut mean for mortgages, credit cards and car loans?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/next-fed-rate-cut-mean-224316308.html",
           "tags": [],
           "impact_score": 3
         },
@@ -243,19 +265,6 @@
           "impact_score": 2
         },
         {
-          "id": "c0d78322c939",
-          "time": "19:30",
-          "category": "Crypto",
-          "title": "Michael Saylor Hints at Next Bitcoin Buy Despite MicroStrategy’s Sharp Slowdown",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/michael-saylor-hints-next-bitcoin-193000891.html",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "42f52a68c676",
           "time": "17:00",
           "category": "Earnings",
@@ -338,6 +347,17 @@
           "url": "https://www.wsj.com/finance/stocks/u-s-stocks-are-breaking-records-the-rest-of-the-world-is-doing-better-8e1005be?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 2
+        },
+        {
+          "id": "0da91b8862d8",
+          "time": "22:08",
+          "category": "Markets",
+          "title": "Can This Ultra-High Dividend Stock Shield Your Portfolio From a Market Crash?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ultra-high-dividend-stock-shield-220800471.html",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "4ebb6c5ef171",
@@ -472,17 +492,6 @@
           "impact_score": 1
         },
         {
-          "id": "6647c61875bc",
-          "time": "20:00",
-          "category": "Markets",
-          "title": "Why Las Vegas Sands Stock Skyrocketed This Week",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-las-vegas-sands-stock-200000121.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "1f852ed83111",
           "time": "20:00",
           "category": "Markets",
@@ -490,6 +499,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/gold-trader-hiring-spree-drives-200000517.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6647c61875bc",
+          "time": "20:00",
+          "category": "Markets",
+          "title": "Why Las Vegas Sands Stock Skyrocketed This Week",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-las-vegas-sands-stock-200000121.html",
           "tags": [],
           "impact_score": 1
         },
@@ -545,39 +565,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/novartis-deal-avidity-biosciences-acquisition-efa3ef51?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "dac6d0c869cd",
-          "time": "19:18",
-          "category": "Markets",
-          "title": "Is This 7.5%-Yielding Dividend Too Good to Be True?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/7-5-yielding-dividend-too-191800187.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8c0a78e30a28",
-          "time": "19:00",
-          "category": "Markets",
-          "title": "Western Union Embraces Stablecoins Amid Global Remittance Overhaul",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/western-union-embraces-stablecoins-amid-190000724.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "42fe65691e01",
-          "time": "19:00",
-          "category": "Markets",
-          "title": "1 Dividend Stock Yielding Over 5% to Buy and 1 to Avoid",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/1-dividend-stock-yielding-over-190000366.html",
           "tags": [],
           "impact_score": 1
         },
@@ -699,6 +686,17 @@
           "summary": "Coinbase CEO Brian Armstrong said onchain fundraising could make capital formation “more efficient, fair, and transparent.”",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/coinbase-startup-lifecycle-onchain-armstrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "33e7aa2195a7",
+          "time": "07:00",
+          "category": "Markets",
+          "title": "Mattel, Hasbro Could Win As Toy Retailers Scramble to Stock Up for Holiday",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/mattel-hasbro-toys-tariffs-holiday-spending-c588d914?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
