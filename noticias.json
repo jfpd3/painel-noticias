@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T07:32+00:00",
+  "generated_at": "2025-10-26T07:44+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -279,6 +279,30 @@
           "impact_score": 2
         },
         {
+          "id": "cc8c3aace36d",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer Highlights Intuitive Surgical Rally on Unexpected Procedure Growth",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-highlights-intuitive-surgical-044449478.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "62ac7ecc4b93",
+          "time": "03:31",
+          "category": "Crypto",
+          "title": "Ethereum Taps $4,000 As Analyst Predicts 'Final Rally' Ahead Of 2026 Downturn",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ethereum-taps-4-000-analyst-023104967.html",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "5063e029fd2f",
           "time": "02:36",
           "category": "Earnings",
@@ -450,28 +474,6 @@
           "impact_score": 1
         },
         {
-          "id": "fe7de8c62f15",
-          "time": "05:45",
-          "category": "Markets",
-          "title": "Jim Cramer on Aurora Innovation: “Just Go Buy the Stock of Tesla in the Weakness”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-aurora-innovation-just-044503874.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "a48b483ada32",
-          "time": "05:45",
-          "category": "Markets",
-          "title": "Jim Cramer on Tecogen: “I Kind of Like This One, but it’s Really Speculative”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-tecogen-kind-one-044502878.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "711d92c71dbb",
           "time": "05:45",
           "category": "Markets",
@@ -582,6 +584,17 @@
           "impact_score": 1
         },
         {
+          "id": "45e7853dabfa",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Microvast: “I Liked it a Year Ago, and I Continue to Like it Now”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-microvast-liked-ago-044441075.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "38475796c217",
           "time": "05:44",
           "category": "Markets",
@@ -600,6 +613,39 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/jim-cramer-mntn-m-sticking-044438417.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5d478d7129bc",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Warner Bros: “I Think You Gotta Hold Onto It”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-warner-bros-think-044437464.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2e564da230b1",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Automatic Data Processing: “It is an Excellent Company”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-automatic-data-processing-044435550.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1f6dc02bd57c",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Paypal: “He Has Gotta Start Delivering Numbers”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-paypal-gotta-start-044434541.html",
           "tags": [],
           "impact_score": 1
         },
@@ -752,8 +798,8 @@
       "date": "2025-10-24",
       "attention_points": [
         "The Fed Will Soon End QT to Avoid a Financial ‘Plumbing’ Problem",
-        "Who Is Michael Selig? Everything to Know About Trump’s New CFTC Pick",
-        "Trump to nominate SEC's 'pro-crypto' Michael Selig as CFTC chair: Report"
+        "Trump to nominate SEC's 'pro-crypto' Michael Selig as CFTC chair: Report",
+        "Trump Picks SEC Crypto Task Force’s Mike Selig to Run CFTC: Report"
       ],
       "items": [
         {
@@ -764,17 +810,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/federal-reserve-end-balance-sheet-reduction-fomc-qt-e5b340f4?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "254f8a75bde5",
-          "time": "23:48",
-          "category": "Regulation",
-          "title": "Who Is Michael Selig? Everything to Know About Trump’s New CFTC Pick",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/michael-selig-everything-know-trump-224840120.html",
           "tags": [],
           "impact_score": 3
         },
@@ -948,17 +983,6 @@
           "tags": [
             "BTC"
           ],
-          "impact_score": 2
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "22:55",
-          "category": "Earnings",
-          "title": "HVAC Stock Soars Off Key Level As Earnings Trounce Expectations",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/stock-lists/sector-leaders/hvac-ac-comfort-systems-fix-stock/?src=A00220&yptr=yahoo",
-          "tags": [],
           "impact_score": 2
         },
         {
@@ -1248,17 +1272,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/soybeans-correct-back-lower-ahead-221316025.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ed7d17956d12",
-          "time": "22:57",
-          "category": "Markets",
-          "title": "The U.S. and China Are Piling Up Trouble for Companies. Xi-Trump Talks Might Not Help.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/us-china-trade-talks-leverage-38a58f11?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
