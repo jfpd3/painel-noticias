@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T22:38+00:00",
+  "generated_at": "2025-10-26T22:50+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -12,7 +12,7 @@
       "items": [
         {
           "id": "1d6daef5b3f9",
-          "time": "22:15",
+          "time": "22:25",
           "category": "US Macro",
           "title": "Dow Jones Futures Rise On China Trade Deal Hopes; Huge Earnings, Fed Rate Cut Ahead",
           "summary": "",
@@ -340,6 +340,17 @@
           "impact_score": 2
         },
         {
+          "id": "4ebb6c5ef171",
+          "time": "22:05",
+          "category": "Markets",
+          "title": "Is There a Future for Shiba Inu?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/future-shiba-inu-220500013.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "1715691f03e4",
           "time": "22:00",
           "category": "Markets",
@@ -347,6 +358,28 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/nc-woman-canceled-her-health-220000762.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ed46852e4755",
+          "time": "22:00",
+          "category": "Markets",
+          "title": "Could This Semiconductor Leader Become the New Face of Artificial Intelligence (AI)?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/could-semiconductor-leader-become-face-220000606.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "84894c92fb96",
+          "time": "22:00",
+          "category": "Markets",
+          "title": "Billionaire David Tepper Is Selling Meta Platforms and Buying This Genius AI Stock, Up 1,150% Since 2023",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/billionaire-david-tepper-selling-meta-220000521.html",
           "tags": [],
           "impact_score": 1
         },
@@ -527,17 +560,6 @@
           "impact_score": 1
         },
         {
-          "id": "42fe65691e01",
-          "time": "19:00",
-          "category": "Markets",
-          "title": "1 Dividend Stock Yielding Over 5% to Buy and 1 to Avoid",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/1-dividend-stock-yielding-over-190000366.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "8c0a78e30a28",
           "time": "19:00",
           "category": "Markets",
@@ -549,35 +571,13 @@
           "impact_score": 1
         },
         {
-          "id": "c38404205af2",
-          "time": "18:45",
+          "id": "42fe65691e01",
+          "time": "19:00",
           "category": "Markets",
-          "title": "Prediction: 1 Growth Stock Set to Bounce Next Year",
+          "title": "1 Dividend Stock Yielding Over 5% to Buy and 1 to Avoid",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/prediction-1-growth-stock-set-184500172.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ad978ee35324",
-          "time": "18:30",
-          "category": "Markets",
-          "title": "Meet the Exciting AI Stock That Has More Than Tripled This Year, and Which Nvidia Is Investing In",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/meet-exciting-ai-stock-more-183000074.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c1f6c237dfb0",
-          "time": "18:09",
-          "category": "Markets",
-          "title": "4 Low-Cost Ways To Start Investing If You Feel Priced Out of Stocks",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/4-low-cost-ways-start-180907579.html",
+          "url": "https://finance.yahoo.com/news/1-dividend-stock-yielding-over-190000366.html",
           "tags": [],
           "impact_score": 1
         },
