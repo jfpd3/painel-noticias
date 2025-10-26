@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T04:55+00:00",
+  "generated_at": "2025-10-26T05:06+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -456,19 +456,6 @@
           "impact_score": 3
         },
         {
-          "id": "61d179a5f047",
-          "time": "22:13",
-          "category": "Crypto",
-          "title": "Bitcoin mining stock prices fall for second week in a row",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bitcoin-mining-stock-prices-fall-211300425.html",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 3
-        },
-        {
           "id": "189d662a304a",
           "time": "22:07",
           "category": "Crypto",
@@ -476,17 +463,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/finance/stocks/netflix-amazon-six-flags-warner-mattel-and-more-stocks-that-defined-the-week-11effd7b?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "c0dc842aafd1",
-          "time": "22:07",
-          "category": "Markets",
-          "title": "Could Netflix Stock Join the Trillion-Dollar Club by 2030?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/could-netflix-stock-join-trillion-210700285.html",
           "tags": [],
           "impact_score": 3
         },
@@ -997,6 +973,17 @@
           "impact_score": 2
         },
         {
+          "id": "d6ba3678171f",
+          "time": "23:43",
+          "category": "Earnings",
+          "title": "Alaska Airlines Outage Results in Hundreds of Canceled Flights",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/airlines/alaska-airlines-grounds-flights-due-to-tech-outage-844dc044?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "b11879642938",
           "time": "23:19",
           "category": "Markets",
@@ -1030,17 +1017,6 @@
           "impact_score": 1
         },
         {
-          "id": "e819c29c2ab1",
-          "time": "23:13",
-          "category": "Markets",
-          "title": "Soybeans Correct Back Lower Ahead of the Weekend",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/soybeans-correct-back-lower-ahead-221316025.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "6e8d06671feb",
           "time": "23:13",
           "category": "Markets",
@@ -1052,6 +1028,17 @@
           "impact_score": 1
         },
         {
+          "id": "e819c29c2ab1",
+          "time": "23:13",
+          "category": "Markets",
+          "title": "Soybeans Correct Back Lower Ahead of the Weekend",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/soybeans-correct-back-lower-ahead-221316025.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "ed7d17956d12",
           "time": "22:57",
           "category": "Markets",
@@ -1059,6 +1046,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/us-china-trade-talks-leverage-38a58f11?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2886ceaf50a2",
+          "time": "22:45",
+          "category": "Markets",
+          "title": "Why Coursera Stock Plummeted Today",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-coursera-stock-plummeted-today-214549451.html",
           "tags": [],
           "impact_score": 1
         },
