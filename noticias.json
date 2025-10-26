@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-26T17:39+00:00",
+  "generated_at": "2025-10-26T17:52+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-26",
       "attention_points": [
+        "Dow Jones Futures: China Trade Deal Close Amid Flurry Of Trump Moves; Huge Earnings, Fed Rate Cut Ahead",
         "US Treasury chief Bessent says 'substantial' trade framework with China reached",
-        "Dow Jones Futures: China Deal Close Amid Flurry Of Trump Trade Moves; Huge Earnings, Fed Rate Cut Ahead",
-        "Mark Cuban Warns Ending Billionaires Would Destroy Market and Erase Savings: 'Should We Get Rid of the Stock Market?'"
+        "Is the Vanguard Information Technology ETF (VGT) the Smartest Investment to Buy With $1,000 Right Now?"
       ],
       "items": [
+        {
+          "id": "1d6daef5b3f9",
+          "time": "17:31",
+          "category": "US Macro",
+          "title": "Dow Jones Futures: China Trade Deal Close Amid Flurry Of Trump Moves; Huge Earnings, Fed Rate Cut Ahead",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-china-trade-deal-trump-xi-apple-earnings-fed-rate-cut/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "9188b06b6155",
           "time": "17:28",
@@ -22,24 +33,13 @@
           "impact_score": 3
         },
         {
-          "id": "1d6daef5b3f9",
-          "time": "16:54",
-          "category": "US Macro",
-          "title": "Dow Jones Futures: China Deal Close Amid Flurry Of Trump Trade Moves; Huge Earnings, Fed Rate Cut Ahead",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-china-trade-deal-trump-xi-apple-earnings-fed-rate-cut/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "c3f3a483a9eb",
-          "time": "16:31",
+          "id": "3d07d7b2b604",
+          "time": "17:00",
           "category": "Markets",
-          "title": "Mark Cuban Warns Ending Billionaires Would Destroy Market and Erase Savings: 'Should We Get Rid of the Stock Market?'",
+          "title": "Is the Vanguard Information Technology ETF (VGT) the Smartest Investment to Buy With $1,000 Right Now?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/mark-cuban-warns-ending-billionaires-163118038.html",
+          "url": "https://finance.yahoo.com/news/vanguard-information-technology-etf-vgt-170000936.html",
           "tags": [],
           "impact_score": 3
         },
@@ -149,30 +149,6 @@
           "impact_score": 3
         },
         {
-          "id": "7bb123798f41",
-          "time": "16:31",
-          "category": "Crypto",
-          "title": "'You Don't Need To Buy A Full Bitcoin': Coinbase CEO Brian Armstrong Slams Idea That It Is Too Late To Get Into Crypto",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/dont-buy-full-bitcoin-coinbase-163104426.html",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "f42f4a6202da",
-          "time": "16:30",
-          "category": "Earnings",
-          "title": "Coca-Cola Stock Jumps Following Earnings Beat. Will the Run Continue for Investors?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/coca-cola-stock-jumps-following-163022804.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "b228c08474b6",
           "time": "15:00",
           "category": "Crypto",
@@ -246,6 +222,17 @@
           "impact_score": 2
         },
         {
+          "id": "dd3d89603088",
+          "time": "17:25",
+          "category": "Markets",
+          "title": "Goldman Sachs Still Says Sell-Off Coming – 5 Safe Conviction List Picks",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/goldman-sachs-still-says-sell-172513738.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "bb4fe063b2d6",
           "time": "17:15",
           "category": "Markets",
@@ -268,6 +255,17 @@
           "impact_score": 1
         },
         {
+          "id": "07ea71c35483",
+          "time": "17:10",
+          "category": "US Macro",
+          "title": "North America Set to Cut Rates as Rest of G-7 Looks On",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/north-america-set-cut-rates-200000572.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "542dcabb6a2f",
           "time": "17:07",
           "category": "Markets",
@@ -279,46 +277,68 @@
           "impact_score": 1
         },
         {
-          "id": "72fbbc53149b",
-          "time": "16:40",
+          "id": "f7db10e738d2",
+          "time": "17:05",
           "category": "Markets",
-          "title": "This Texas-Based Company Could Be a Strong Buy for Energy Investors",
+          "title": "Prediction: This Artificial Intelligence (AI) Stock Will Join Nvidia, Microsoft, Apple, and Alphabet in the $3 Trillion Club by 2027",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/texas-based-company-could-strong-164000192.html",
+          "url": "https://finance.yahoo.com/news/prediction-artificial-intelligence-ai-stock-170500063.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "28466f586faa",
-          "time": "16:20",
-          "category": "Crypto",
-          "title": "Should You Buy Solana While It's Under $200?",
+          "id": "348f1a53b89f",
+          "time": "17:02",
+          "category": "Markets",
+          "title": "Should You Buy Nvidia (NVDA) Stock Before Nov. 19??",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/buy-solana-while-under-200-162000441.html",
+          "url": "https://finance.yahoo.com/news/buy-nvidia-nvda-stock-nov-170200883.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "ddc2173fe461",
-          "time": "16:07",
+          "id": "0e827d867862",
+          "time": "17:01",
           "category": "Markets",
-          "title": "Is AppLovin Stock a Bad-News Buy?",
+          "title": "Beyond Chips: AI Infrastructure Spending Is Projected to Hit $490 Billion -- Who Benefits Most?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/applovin-stock-bad-news-buy-160700484.html",
+          "url": "https://finance.yahoo.com/news/beyond-chips-ai-infrastructure-spending-170100630.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "8df171baf663",
-          "time": "16:05",
+          "id": "1bbe749fc93b",
+          "time": "17:00",
           "category": "Markets",
-          "title": "TechCrunch Mobility: The ‘robot army’ argument",
+          "title": "Prediction: This Will Be Oracle's Stock Price in 2030",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/techcrunch-mobility-robot-army-argument-160500541.html",
+          "url": "https://finance.yahoo.com/news/prediction-oracles-stock-price-2030-170000735.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "aa14de0121ee",
+          "time": "16:00",
+          "category": "Markets",
+          "title": "How Russia’s Sanctioned Arctic Gas Found a Chinese Loophole",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/world/russia/russia-arctic-gas-production-china-b6eb5f87?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d502f2d31592",
+          "time": "16:00",
+          "category": "Markets",
+          "title": "It’s Not Just Rich Countries. Tech’s Trillion-Dollar Bet on AI Is Everywhere.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/tech/ai/its-not-just-rich-countries-techs-trillion-dollar-bet-on-ai-is-everywhere-1781a117?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -472,17 +492,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/25/first-u-s-spot-xrp-etf-surpasses-usd100m-in-assets-under-management",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "0bad03b8e912",
-          "time": "20:00",
-          "category": "Earnings",
-          "title": "Georgia woman’s husband keeps her in the dark about their finances — Dave Ramsey says to act now or ‘shut up about it’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/georgia-woman-husband-keeps-her-190000980.html",
           "tags": [],
           "impact_score": 3
         },
@@ -737,28 +746,6 @@
           "impact_score": 1
         },
         {
-          "id": "f5f50c802534",
-          "time": "21:00",
-          "category": "Markets",
-          "title": "Jennifer Garner's baby food company is going public on the NYSE — should investors be putting their eggs in this basket?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jennifer-garners-baby-food-company-200000842.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "56d4736de61f",
-          "time": "20:56",
-          "category": "Markets",
-          "title": "Exxon sues California over climate disclosure laws",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/exxon-sues-california-over-climate-195659671.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "b78b3e0a95cd",
           "time": "19:35",
           "category": "Crypto",
@@ -777,6 +764,17 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/25/sol-now-on-fidelity-s-retail-platform-as-price-tests-usd195-while-usd188-support-draws-focus",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b8c69e876e40",
+          "time": "17:46",
+          "category": "Markets",
+          "title": "Fluence Energy (FLNC) Soars 21.8% as Funds Flock to AI",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fluence-energy-flnc-soars-21-164624790.html",
           "tags": [],
           "impact_score": 1
         },
@@ -865,17 +863,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/401-k-rule-coming-2026-150000299.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "52fe18ecee4e",
-          "time": "15:36",
-          "category": "Markets",
-          "title": "'This fight is far from over': Intel’s key business is nowhere near a turnaround",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/this-fight-is-far-from-over-intels-key-business-is-nowhere-near-a-turnaround-143041684.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1461,6 +1448,17 @@
           "summary": "$260 million in fiat and crypto was flagged as part of Operation Catalyst, of which some $600,000 has been seized to date.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345822/interpol-arrests-83-in-landmark-african-operation-hitting-crypto-terrorist-financing-cybercrime",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "920765aa0145",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Best CD rates today, October 24, 2025 (up to 4.1% APY return)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-october-24-2025-100017058.html",
           "tags": [],
           "impact_score": 1
         },
