@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T19:44+00:00",
+  "generated_at": "2025-10-26T20:05+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -246,6 +246,28 @@
           "impact_score": 2
         },
         {
+          "id": "51238464774b",
+          "time": "19:43",
+          "category": "Markets",
+          "title": "Swiss drugmaker Novartis to buy Avidity Biosciences for $12 billion",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/swiss-drugmaker-novartis-buy-avidity-194333840.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "dac6d0c869cd",
+          "time": "19:18",
+          "category": "Markets",
+          "title": "Is This 7.5%-Yielding Dividend Too Good to Be True?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/7-5-yielding-dividend-too-191800187.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "8c0a78e30a28",
           "time": "19:00",
           "category": "Markets",
@@ -455,39 +477,6 @@
           "impact_score": 1
         },
         {
-          "id": "33f6744fdf34",
-          "time": "17:11",
-          "category": "Markets",
-          "title": "People Believe Writing Off Expenses Saves Them Money, But Dave Ramsey Says Otherwise. 'It's Dumb, Dumb, Dumb. Don't Do It'",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/people-believe-writing-off-expenses-171147600.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "07ea71c35483",
-          "time": "17:10",
-          "category": "US Macro",
-          "title": "North America Set to Cut Rates as Rest of G-7 Looks On",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/north-america-set-cut-rates-200000572.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "542dcabb6a2f",
-          "time": "17:07",
-          "category": "Markets",
-          "title": "Nearly-100-year-old fast food chain closes final restaurants",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nearly-100-old-fast-food-170700987.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "aa14de0121ee",
           "time": "16:00",
           "category": "Markets",
@@ -517,6 +506,17 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/26/xrp-ledger-validator-sees-nft-to-nft-trading-potential-in-proposed-batch-amendment",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6d246a575512",
+          "time": "15:03",
+          "category": "Markets",
+          "title": "Citi opens Riyadh HQ as Wall Street CEOs forge deeper Saudi ties",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/citi-opens-riyadh-hq-wall-150324811.html",
           "tags": [],
           "impact_score": 1
         },
@@ -616,6 +616,17 @@
           "summary": "A stablecoin is now live in Kyrgyzstan, which confirmed plans to launch a CBDC and explore a national crypto reserve after meeting with strategic adviser Changpeng Zhao.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/kyrgyzstan-rolls-out-stablecoin-and-confirms-future-cbdc-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "815e48f82f87",
+          "time": "01:30",
+          "category": "Markets",
+          "title": "Truckload capacity is falling faster than demand",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/truckload-capacity-falling-faster-demand-003000764.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1624,17 +1635,6 @@
           "summary": "Coins and tokens linked to crypto mogul Changpeng Zhao and President Trump jumped in price following news of the latest pardon.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345747/bnb-world-liberty-jump-trump-binance-founder",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0e804b5d37d7",
-          "time": "20:32",
-          "category": "US Macro",
-          "title": "How soaring national debt impacts mortgage rates and the housing market",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-national-debt-impacts-housing-market-and-mortgage-rates-193244911.html",
           "tags": [],
           "impact_score": 1
         },
