@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T09:56+00:00",
+  "generated_at": "2025-10-26T10:39+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -124,6 +124,28 @@
           "impact_score": 3
         },
         {
+          "id": "b7a2986ea607",
+          "time": "09:04",
+          "category": "Markets",
+          "title": "JPMorgan is stuck paying for Charlie Javice's legal fees. The bank says her $115 million bill is 'patently excessive and egregious'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jpmorgan-stuck-paying-charlie-javices-000426882.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "7db90d822c44",
+          "time": "08:55",
+          "category": "US Macro",
+          "title": "The Stock Market Will Make a Big Move in 2026 if History Repeats Itself, but Fed Chair Jerome Powell Has a Warning for Investors",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/stock-market-big-move-2026-075500742.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "540be7805477",
           "time": "08:33",
           "category": "Crypto",
@@ -155,17 +177,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/crypto-treasury-stocks-strategy-bitcoin-80005ff0?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "fbb823724af4",
-          "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer on Netflix: “I Think This Sell-Off is an Overreaction”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-netflix-think-sell-044455150.html",
           "tags": [],
           "impact_score": 3
         },
@@ -301,6 +312,19 @@
           "impact_score": 2
         },
         {
+          "id": "30b7b77ff9b8",
+          "time": "08:49",
+          "category": "Crypto",
+          "title": "Rumble Challenges YouTube with Bitcoin Tipping",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/rumble-challenges-youtube-bitcoin-tipping-074927866.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "b38af18ec460",
           "time": "07:46",
           "category": "Crypto",
@@ -308,19 +332,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/25/xrp-leads-gains-on-ripple-moves-bitcoin-holds-usd111k-as-uptober-dud-heads-for-last-week",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "13f169e5c161",
-          "time": "07:46",
-          "category": "Crypto",
-          "title": "XRP Leads Gains on Ripple Moves, Bitcoin Holds $111K as ‘Uptober’ Dud Heads for Last Week",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/xrp-leads-gains-ripple-moves-064634352.html",
           "tags": [
             "BTC"
           ],
@@ -462,6 +473,149 @@
           "impact_score": 1
         },
         {
+          "id": "02f135f2e583",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Mortgage and refinance interest rates today, October 25, 2025: A click lower, a tick higher",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-october-25-2025-100041325.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2645090b5559",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Best money market account rates today, October 25, 2025 (best account provides 4.26% APY)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-october-25-2025-100008708.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3d9387c657cf",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Best CD rates today, October 25, 2025 (best account provides 4.1% APY)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-october-25-2025-100004979.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e44052de3e68",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "HELOC rates today, October 25, 2025: Downward momentum",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-saturday-october-25-2025-100004377.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b37c8a311b21",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Best high-yield savings interest rates today, October 25, 2025 (Earn up to 4.25% APY)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-saturday-october-25-2025-100000897.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0d3e75fa01bd",
+          "time": "10:30",
+          "category": "Crypto",
+          "title": "China's pause on stablecoin projects will not dampen Hong Kong's crypto push, experts say",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/chinas-pause-stablecoin-projects-not-093000232.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d5649b167acd",
+          "time": "10:30",
+          "category": "Markets",
+          "title": "Sanctioned Russian Oil Will Find New Ways to Flow",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/finance/commodities-futures/sanctioned-russian-oil-will-find-new-ways-to-flow-652d0601?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "645fc008fa23",
+          "time": "09:46",
+          "category": "Markets",
+          "title": "Why This Top Stock Rocketed 15% Higher Tuesday",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-top-stock-rocketed-15-084600109.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "51df33cfb154",
+          "time": "09:30",
+          "category": "Markets",
+          "title": "1 Stock-Split Stock to Buy Hand Over Fist in October and 1 to Avoid",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/1-stock-split-stock-buy-083000383.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d53b3318a0f",
+          "time": "09:10",
+          "category": "Markets",
+          "title": "Should You Buy Robinhood Stock Before Nov. 5, or Run for the Hills?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/buy-robinhood-stock-nov-5-081000564.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b565db74c18e",
+          "time": "09:00",
+          "category": "Markets",
+          "title": "2 Warren Buffett Stocks to Buy Hand Over Fist and 1 to Avoid",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/2-warren-buffett-stocks-buy-080000020.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a6569b7ffc50",
+          "time": "08:57",
+          "category": "Markets",
+          "title": "2 AI Stocks Partnered With Nvidia to Sell Before They Fall 66% and 69%, According to Wall Street Analysts",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/2-ai-stocks-partnered-nvidia-075700987.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e91ce35766af",
+          "time": "08:45",
+          "category": "Markets",
+          "title": "Got $5,000? 2 Tech Stocks to Buy and Hold for the Long Term",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/got-5-000-2-tech-074500313.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "6fb5555453c4",
           "time": "07:34",
           "category": "Crypto",
@@ -469,17 +623,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/25/inverse-head-and-shoulders-breakout-puts-xrp-on-track-for-usd2-80-test",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3ca60ad67473",
-          "time": "07:34",
-          "category": "Markets",
-          "title": "Inverse Head-and-Shoulders Breakout Puts XRP on Track for $2.80 Test",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/inverse-head-shoulders-breakout-puts-063453521.html",
           "tags": [],
           "impact_score": 1
         },
@@ -502,28 +645,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/amy-falls-hartley-rogers-interview-finance-markets-economy-87d2070f?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "60fbb7e28ce3",
-          "time": "06:24",
-          "category": "Crypto",
-          "title": "Ripple Grows Beyond Crypto—But Can XRP Keep Up?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ripple-grows-beyond-crypto-xrp-052442857.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6a0f6a1c9d44",
-          "time": "06:00",
-          "category": "Markets",
-          "title": "Very Group loses £500m on loan to Barclay family",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/very-group-loses-500m-loan-050000225.html",
           "tags": [],
           "impact_score": 1
         },
@@ -671,17 +792,6 @@
           "impact_score": 1
         },
         {
-          "id": "287b3213a382",
-          "time": "05:49",
-          "category": "Markets",
-          "title": "Zelle Expands Abroad With Stablecoins, But Details Remain Elusive",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/zelle-expands-abroad-stablecoins-details-044957656.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "fe7de8c62f15",
           "time": "05:45",
           "category": "Markets",
@@ -693,28 +803,6 @@
           "impact_score": 1
         },
         {
-          "id": "a48b483ada32",
-          "time": "05:45",
-          "category": "Markets",
-          "title": "Jim Cramer on Tecogen: “I Kind of Like This One, but it’s Really Speculative”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-tecogen-kind-one-044502878.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "711d92c71dbb",
-          "time": "05:45",
-          "category": "Markets",
-          "title": "Jim Cramer on GRAIL: “Don’t Call Yourself Early if You’re Buying This One”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-grail-don-t-044500603.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "2532e5283dda",
           "time": "05:44",
           "category": "Markets",
@@ -722,17 +810,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/jim-cramer-trilogy-metals-losing-044458228.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5ee0dc0d673d",
-          "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer Says “No, Thank You” to AST SpaceMobile",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-no-thank-044457863.html",
           "tags": [],
           "impact_score": 1
         },
@@ -799,83 +876,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/jim-cramer-says-going-recommend-044444443.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1acc93a76145",
-          "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer on Uranium Energy: “Don’t Buy These Uranium Companies”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-uranium-energy-don-044443188.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "45e7853dabfa",
-          "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer on Microvast: “I Liked it a Year Ago, and I Continue to Like it Now”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-microvast-liked-ago-044441075.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "38475796c217",
-          "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer Says Constellation Energy is a Good Company but “It’s Up Too Much”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-constellation-energy-044440561.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0cb3b5a4b168",
-          "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer on MNTN: “I’m Sticking By It”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-mntn-m-sticking-044438417.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5d478d7129bc",
-          "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer on Warner Bros: “I Think You Gotta Hold Onto It”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-warner-bros-think-044437464.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "2e564da230b1",
-          "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer on Automatic Data Processing: “It is an Excellent Company”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-automatic-data-processing-044435550.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1f6dc02bd57c",
-          "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer on Paypal: “He Has Gotta Start Delivering Numbers”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-paypal-gotta-start-044434541.html",
           "tags": [],
           "impact_score": 1
         },
