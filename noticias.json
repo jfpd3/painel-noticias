@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-26T08:55+00:00",
+  "generated_at": "2025-10-26T09:32+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-26",
       "attention_points": [
+        "Kyrgyzstan launches stablecoin on BNB Chain, confirms future CBDC rollout",
         "Coinbase wants to bring the entire startup lifecycle onchain, CEO Armstrong says",
-        "Coinbase’s x402 transactions explode over 10,000% in a month",
-        "Kyrgyzstan launches stablecoin on BNB Chain, confirms future CBDC rollout"
+        "Coinbase’s x402 transactions explode over 10,000% in a month"
       ],
       "items": [
+        {
+          "id": "45883a51c40c",
+          "time": "09:20",
+          "category": "Crypto",
+          "title": "Kyrgyzstan launches stablecoin on BNB Chain, confirms future CBDC rollout",
+          "summary": "A stablecoin is now live in Kyrgyzstan, which confirmed plans to launch a CBDC and explore a national crypto reserve after meeting with strategic adviser Changpeng Zhao.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/kyrgyzstan-rolls-out-stablecoin-confirms-future-cbdc-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
         {
           "id": "c05cbc8755b4",
           "time": "07:08",
@@ -29,17 +40,6 @@
           "summary": "Coinbase’s x402 protocol, which enables AI agents to transact autonomously over the internet, has seen a 10,000% rise in transaction activity over a month.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/coinbases-x402-transactions-rise-10000-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "9f45057bcd0f",
-          "time": "01:38",
-          "category": "Crypto",
-          "title": "Kyrgyzstan launches stablecoin on BNB Chain, confirms future CBDC rollout",
-          "summary": "A stablecoin is now live in Kyrgyzstan, which confirmed plans to launch a CBDC and explore a national crypto reserve after meeting with strategic adviser Changpeng Zhao.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/kyrgyzstan-rolls-out-stablecoin-and-confirms-future-cbdc-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         }
@@ -113,6 +113,28 @@
           "impact_score": 3
         },
         {
+          "id": "5138491592b6",
+          "time": "08:30",
+          "category": "Markets",
+          "title": "European Banks Look Steadier Than U.S. Peers. 6 Stocks to Consider.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/european-banks-six-stocks-to-consider-0e9d45c9?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "797a417b8419",
+          "time": "07:30",
+          "category": "Crypto",
+          "title": "Crypto Treasury Stocks Face a Reckoning. Why Boom Could Turn to Bust.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/crypto-treasury-stocks-strategy-bitcoin-80005ff0?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "fbb823724af4",
           "time": "05:44",
           "category": "Markets",
@@ -131,17 +153,6 @@
           "summary": "The Bank of England is worried that a rise in financiers' lending to data center lending may cause an AI bubble reminiscent of the dot-com crash in the early 2000s.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/bank-of-england-probes-data-mining-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "a5a19e796493",
-          "time": "03:01",
-          "category": "US Macro",
-          "title": "Looking For Yields: Comcast, HP, And MAA Are Consistent Moneymakers",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/looking-yields-comcast-hp-maa-020105281.html",
           "tags": [],
           "impact_score": 3
         },
@@ -255,6 +266,17 @@
           "impact_score": 2
         },
         {
+          "id": "8c2ab00b5bc3",
+          "time": "10:30",
+          "category": "Earnings",
+          "title": "Nexperia parent Wingtech warns of 'cash flow risk' despite 280% surge in quarterly profit",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/nexperia-parent-wingtech-warns-cash-093000510.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "b38af18ec460",
           "time": "07:46",
           "category": "Crypto",
@@ -276,19 +298,6 @@
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/jim-cramer-highlights-intuitive-surgical-044449478.html",
           "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "62ac7ecc4b93",
-          "time": "03:31",
-          "category": "Crypto",
-          "title": "Ethereum Taps $4,000 As Analyst Predicts 'Final Rally' Ahead Of 2026 Downturn",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ethereum-taps-4-000-analyst-023104967.html",
-          "tags": [
-            "ETH"
-          ],
           "impact_score": 2
         },
         {
@@ -438,6 +447,28 @@
           "impact_score": 1
         },
         {
+          "id": "df19cf6c6fe3",
+          "time": "07:00",
+          "category": "Markets",
+          "title": "This Couple Oversees Billions in Assets. We Caught Up With Them.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/amy-falls-hartley-rogers-interview-finance-markets-economy-87d2070f?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "60fbb7e28ce3",
+          "time": "06:24",
+          "category": "Crypto",
+          "title": "Ripple Grows Beyond Crypto—But Can XRP Keep Up?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ripple-grows-beyond-crypto-xrp-052442857.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "6a0f6a1c9d44",
           "time": "06:00",
           "category": "Markets",
@@ -456,6 +487,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/stock-market-bubble-ai-investments-68733125?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7a0a74cb476a",
+          "time": "05:59",
+          "category": "Markets",
+          "title": "The AES Corporation (AES) Price Target Updated at Barclays",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/aes-corporation-aes-price-target-045951806.html",
           "tags": [],
           "impact_score": 1
         },
@@ -819,50 +861,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/ai-takes-center-stage-payments-040000314.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b97dd3227c90",
-          "time": "04:31",
-          "category": "Markets",
-          "title": "Ford CEO Jim Farley Predicts EV Adoption In US Will Only Be About 5% As Company Pauses F-150 Lightning Production",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ford-ceo-jim-farley-predicts-033138695.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "fbf1fcddaaa2",
-          "time": "04:26",
-          "category": "US Macro",
-          "title": "Inflation accelerated in September, with prices up 3%",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/inflation-continued-accelerate-september-203200006.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "859108295e0c",
-          "time": "03:04",
-          "category": "Markets",
-          "title": "Delta, Aeromexico ask court to block Trump order forcing end to JV",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/delta-aeromexico-ask-court-block-020412211.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b8064c46d067",
-          "time": "03:00",
-          "category": "Markets",
-          "title": "Why Bubbles Can Keep Inflating in Plain Sight",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/stocks/why-bubbles-can-keep-inflating-in-plain-sight-a4af6aef?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -1324,17 +1322,6 @@
           "summary": "The stablecoin cross-border integration will only be for payments coming from and going to the United States, Zelle's parent company said.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/zelle-stablecoins-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "9aa2090e7b75",
-          "time": "17:13",
-          "category": "Crypto",
-          "title": "Polymarket: Token will come, but US launch comes first",
-          "summary": "Polymarket’s Matthew Modabber confirmed the platform will eventually launch a token, but said entering the US market takes priority.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/polymarket-token-us-launch-cmo-app?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
