@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T19:34+00:00",
+  "generated_at": "2025-10-26T19:44+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -257,6 +257,17 @@
           "impact_score": 1
         },
         {
+          "id": "42fe65691e01",
+          "time": "19:00",
+          "category": "Markets",
+          "title": "1 Dividend Stock Yielding Over 5% to Buy and 1 to Avoid",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/1-dividend-stock-yielding-over-190000366.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "c38404205af2",
           "time": "18:45",
           "category": "Markets",
@@ -473,17 +484,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/nearly-100-old-fast-food-170700987.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f7db10e738d2",
-          "time": "17:05",
-          "category": "Markets",
-          "title": "Prediction: This Artificial Intelligence (AI) Stock Will Join Nvidia, Microsoft, Apple, and Alphabet in the $3 Trillion Club by 2027",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/prediction-artificial-intelligence-ai-stock-170500063.html",
           "tags": [],
           "impact_score": 1
         },
