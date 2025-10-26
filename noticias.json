@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-26T15:39+00:00",
+  "generated_at": "2025-10-26T15:47+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-26",
       "attention_points": [
+        "Michigan woman resisting giving up 2.8% mortgage rate to move in with husband — Ramsey Show hosts say it’s a no-brainer",
         "Dow Jones Futures: 'Comprehensive' China Trade Deal Near For Trump-Xi; Huge Earnings, Fed Rate Cut Ahead",
-        "Bitcoin Bid, XRP Retakes 200-Day Average as Fed Rate Cut Looms; 'Mag 7' Earnings, Trump-Xi Summit Eyed",
-        "3 Dividend Stocks With Yields Over 5%. Should You Buy?"
+        "Bitcoin Bid, XRP Retakes 200-Day Average as Fed Rate Cut Looms; 'Mag 7' Earnings, Trump-Xi Summit Eyed"
       ],
       "items": [
+        {
+          "id": "e8d1ef305e38",
+          "time": "15:29",
+          "category": "Markets",
+          "title": "Michigan woman resisting giving up 2.8% mortgage rate to move in with husband — Ramsey Show hosts say it’s a no-brainer",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/michigan-woman-resisting-giving-2-152900576.html",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "1d6daef5b3f9",
           "time": "14:52",
@@ -1615,17 +1626,6 @@
           "summary": "Coins and tokens linked to crypto mogul Changpeng Zhao and President Trump jumped in price following news of the latest pardon.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345747/bnb-world-liberty-jump-trump-binance-founder",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0e804b5d37d7",
-          "time": "20:32",
-          "category": "US Macro",
-          "title": "How soaring national debt impacts mortgage rates and the housing market",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-national-debt-impacts-housing-market-and-mortgage-rates-193244911.html",
           "tags": [],
           "impact_score": 1
         },
