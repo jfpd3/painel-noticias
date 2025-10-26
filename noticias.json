@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-26T15:47+00:00",
+  "generated_at": "2025-10-26T16:01+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-26",
       "attention_points": [
-        "Michigan woman resisting giving up 2.8% mortgage rate to move in with husband — Ramsey Show hosts say it’s a no-brainer",
         "Dow Jones Futures: 'Comprehensive' China Trade Deal Near For Trump-Xi; Huge Earnings, Fed Rate Cut Ahead",
+        "Michigan woman resisting giving up 2.8% mortgage rate to move in with husband — Ramsey Show hosts say it’s a no-brainer",
         "Bitcoin Bid, XRP Retakes 200-Day Average as Fed Rate Cut Looms; 'Mag 7' Earnings, Trump-Xi Summit Eyed"
       ],
       "items": [
+        {
+          "id": "1d6daef5b3f9",
+          "time": "15:37",
+          "category": "US Macro",
+          "title": "Dow Jones Futures: 'Comprehensive' China Trade Deal Near For Trump-Xi; Huge Earnings, Fed Rate Cut Ahead",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-china-trade-deal-trump-xi-apple-earnings-fed-rate-cut/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "e8d1ef305e38",
           "time": "15:29",
@@ -18,17 +29,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/michigan-woman-resisting-giving-2-152900576.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "14:52",
-          "category": "US Macro",
-          "title": "Dow Jones Futures: 'Comprehensive' China Trade Deal Near For Trump-Xi; Huge Earnings, Fed Rate Cut Ahead",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-china-trade-deal-trump-xi-apple-earnings-fed-rate-cut/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 3
         },
@@ -211,6 +211,39 @@
           "impact_score": 2
         },
         {
+          "id": "5040e1141696",
+          "time": "15:50",
+          "category": "Crypto",
+          "title": "XRP Ledger Validator Sees NFT-to-NFT Trading Potential in Proposed 'Batch' Amendment",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/26/xrp-ledger-validator-sees-nft-to-nft-trading-potential-in-proposed-batch-amendment",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5beab6f91e94",
+          "time": "15:36",
+          "category": "Markets",
+          "title": "After $175 Million Scam, JPMorgan Battles $115M in Legal Fees: 'Patently Excessive and Egregious'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/175-million-scam-jpmorgan-battles-153637617.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3dcfb4bc8987",
+          "time": "15:21",
+          "category": "Markets",
+          "title": "Prediction: These Dividend Stocks Could Outperform Growth Stocks in the Next Decade",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/prediction-dividend-stocks-could-outperform-152100775.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "68eddbe70827",
           "time": "15:05",
           "category": "Markets",
@@ -273,28 +306,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/prediction-asml-stock-soar-over-141500939.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6a3a795e0d3e",
-          "time": "14:13",
-          "category": "Markets",
-          "title": "20 Best Hidden Gem Housing Markets in the South for 2025",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/20-best-hidden-gem-housing-141308090.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "dfc8bf3f6c2c",
-          "time": "14:11",
-          "category": "Markets",
-          "title": "Huge week and risks face stocks this week",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/huge-week-risks-face-stocks-141124877.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1325,17 +1336,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/24/polymarket-will-launch-token-and-airdrop-after-u-s-relaunch-cmo-says",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "594afbfa46b0",
-          "time": "17:08",
-          "category": "Crypto",
-          "title": "Stellar’s XLM Consolidates After Breakout as Volume Surge Hints at Institutional Activity",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/24/stellar-s-xlm-consolidates-after-breakout-as-volume-surge-hints-at-institutional-activity",
           "tags": [],
           "impact_score": 2
         },
