@@ -1,14 +1,26 @@
 {
-  "generated_at": "2025-10-26T07:04+00:00",
+  "generated_at": "2025-10-26T07:32+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-26",
       "attention_points": [
+        "Coinbase wants to bring the entire startup lifecycle onchain, CEO Armstrong says",
         "Coinbase’s x402 transactions explode over 10,000% in a month",
         "Kyrgyzstan launches stablecoin on BNB Chain, confirms future CBDC rollout"
       ],
       "items": [
+        {
+          "id": "c05cbc8755b4",
+          "time": "07:08",
+          "category": "Crypto",
+          "title": "Coinbase wants to bring the entire startup lifecycle onchain, CEO Armstrong says",
+          "summary": "Coinbase CEO Brian Armstrong said onchain fundraising could make capital formation “more efficient, fair, and transparent.”",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/coinbase-startup-lifecycle-onchain-armstrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
         {
           "id": "bc36900d9ad0",
           "time": "04:20",
@@ -101,6 +113,17 @@
           "impact_score": 3
         },
         {
+          "id": "fbb823724af4",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Netflix: “I Think This Sell-Off is an Overreaction”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-netflix-think-sell-044455150.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "4020d0f15b06",
           "time": "03:09",
           "category": "Crypto",
@@ -112,13 +135,13 @@
           "impact_score": 3
         },
         {
-          "id": "55ba1d4a6fd6",
-          "time": "01:01",
-          "category": "Markets",
-          "title": "Can The Growing ETF Market Lead To The Stock Market's Undoing?",
+          "id": "a5a19e796493",
+          "time": "03:01",
+          "category": "US Macro",
+          "title": "Looking For Yields: Comcast, HP, And MAA Are Consistent Moneymakers",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/growing-etf-market-lead-stock-000106115.html",
+          "url": "https://finance.yahoo.com/news/looking-yields-comcast-hp-maa-020105281.html",
           "tags": [],
           "impact_score": 3
         },
@@ -264,6 +287,20 @@
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/church-dwights-quarterly-earnings-preview-013649200.html",
           "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "18419afce86b",
+          "time": "02:31",
+          "category": "Crypto",
+          "title": "'Pet Rock' No More: JPMorgan To Accept Bitcoin, Ethereum As Collateral",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/pet-rock-no-more-jpmorgan-013104388.html",
+          "tags": [
+            "BTC",
+            "ETH"
+          ],
           "impact_score": 2
         },
         {
@@ -413,6 +450,160 @@
           "impact_score": 1
         },
         {
+          "id": "fe7de8c62f15",
+          "time": "05:45",
+          "category": "Markets",
+          "title": "Jim Cramer on Aurora Innovation: “Just Go Buy the Stock of Tesla in the Weakness”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-aurora-innovation-just-044503874.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a48b483ada32",
+          "time": "05:45",
+          "category": "Markets",
+          "title": "Jim Cramer on Tecogen: “I Kind of Like This One, but it’s Really Speculative”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-tecogen-kind-one-044502878.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "711d92c71dbb",
+          "time": "05:45",
+          "category": "Markets",
+          "title": "Jim Cramer on GRAIL: “Don’t Call Yourself Early if You’re Buying This One”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-grail-don-t-044500603.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2532e5283dda",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Trilogy Metals: “Has Been Losing Money Year After Year After Year’",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-trilogy-metals-losing-044458228.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5ee0dc0d673d",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer Says “No, Thank You” to AST SpaceMobile",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-no-thank-044457863.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "42da5c044231",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Thermo Fisher: “Maybe This Stock Can Finally Get its Groove Back”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-thermo-fisher-maybe-044454564.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8772cb0ff12f",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer Uses Capital One as an Example of Real Economy Stocks",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-uses-capital-one-044452971.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "62e97ec39238",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Texas Instruments: “I Don’t Expect Buyers to Take That Stock Up Anytime Soon”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-texas-instruments-don-044450779.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f44d2d6ac4cd",
+          "time": "05:44",
+          "category": "Earnings",
+          "title": "Jim Cramer Notes Vertiv’s Strong Results",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-notes-vertiv-strong-044447848.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "68c41639ec8d",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer Says “GE Vernova is a Very Important Company”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-ge-vernova-044446536.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "698c9c2edabb",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer Says He is “Going to Recommend Buying BILL Holdings”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-going-recommend-044444443.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1acc93a76145",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Uranium Energy: “Don’t Buy These Uranium Companies”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-uranium-energy-don-044443188.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "38475796c217",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer Says Constellation Energy is a Good Company but “It’s Up Too Much”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-constellation-energy-044440561.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0cb3b5a4b168",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on MNTN: “I’m Sticking By It”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-mntn-m-sticking-044438417.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "1273398ba575",
           "time": "05:33",
           "category": "US Macro",
@@ -446,13 +637,13 @@
           "impact_score": 1
         },
         {
-          "id": "2098b7f3d5b4",
-          "time": "01:25",
+          "id": "4156dbc361e3",
+          "time": "02:35",
           "category": "Markets",
-          "title": "IPO-rumored company beats every Wall Street giant with 99% profit margin",
+          "title": "Who Wants to be a CEO? Fewer and Fewer People are Interested in the Top Job.",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ipo-rumored-company-beats-every-002518444.html",
+          "url": "https://finance.yahoo.com/news/wants-ceo-fewer-fewer-people-013501274.html",
           "tags": [],
           "impact_score": 1
         },
@@ -464,17 +655,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/25/ripple-prime-is-the-fintech-firm-s-one-stop-institutional-trading-and-financing-desk",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "9464c6a8a549",
-          "time": "01:24",
-          "category": "Markets",
-          "title": "Ripple Prime Is the Fintech Firm’s One-Stop Institutional Trading and Financing Desk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ripple-prime-fintech-firm-one-002422009.html",
           "tags": [],
           "impact_score": 1
         },
@@ -632,39 +812,6 @@
           "impact_score": 3
         },
         {
-          "id": "189d662a304a",
-          "time": "22:07",
-          "category": "Crypto",
-          "title": "The Score: Netflix, Amazon.com, Six Flags and More Stocks That Defined the Week",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/stocks/netflix-amazon-six-flags-warner-mattel-and-more-stocks-that-defined-the-week-11effd7b?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "22:05",
-          "category": "US Macro",
-          "title": "Stock Market Today: Dow, S&P 500, Nasdaq Close At New Highs On Cool CPI Data",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-inflation-deckers-earnings-deck/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "a6e58e3dff74",
-          "time": "22:00",
-          "category": "Markets",
-          "title": "Daily ETF Flows: SOXL Picks Up Assets",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/daily-etf-flows-soxl-picks-210004960.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "afb06e517bab",
           "time": "21:17",
           "category": "Crypto",
@@ -722,17 +869,6 @@
           "summary": "If approved, the charter would allow the crypto exchange to offer federally regulated custody and trust services in the United States.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/crypto-com-federal-us-trust-bank-charter-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "73457bf126b5",
-          "time": "17:00",
-          "category": "Markets",
-          "title": "WazirX shutdown ends, UK watchdog targets HTX: Global Express",
-          "summary": "Indian exchange WazirX has ended its more than year-long shutdown, while the FCA is going after unregistered exchanges in the UK.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/wazirx-shutdown-ends-uk-targets-htx-global-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
         },
@@ -839,17 +975,6 @@
           "impact_score": 2
         },
         {
-          "id": "3cba92735ec6",
-          "time": "22:30",
-          "category": "US Macro",
-          "title": "Podcast: Inflation Report Sends U.S. Stocks to Records",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/podcast-inflation-report-sends-u-s-stocks-to-records-oRGXCxMaKKo1W3rWxian?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "6695329f70d0",
           "time": "22:22",
           "category": "Crypto",
@@ -857,17 +982,6 @@
           "summary": "JPMorgan sees Coinbase unlocking billions through its Base layer-2 network and USDC rewards overhaul, lifting its price target and fueling a sharp stock rally.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/jpmorgan-upgrades-coinbase-base-usdc-potential?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "b7c0be63145f",
-          "time": "22:10",
-          "category": "US Macro",
-          "title": "Review & Preview: Inflation Relief Rally",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/review-preview-inflation-relief-rally-3be0d301?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 2
         },
@@ -883,17 +997,6 @@
             "BTC",
             "ETH"
           ],
-          "impact_score": 2
-        },
-        {
-          "id": "5f6adac38924",
-          "time": "21:58",
-          "category": "Earnings",
-          "title": "S&P 500 Climbs to New Record on Strong Earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/stocks/s-p-500-climbs-to-new-record-on-strong-earnings-0be1c68f?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
           "impact_score": 2
         },
         {
@@ -1160,28 +1263,6 @@
           "impact_score": 1
         },
         {
-          "id": "945ad0613141",
-          "time": "22:36",
-          "category": "Markets",
-          "title": "Corrections & Amplifications",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/corrections-amplifications-68047815?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "22:32",
-          "category": "Markets",
-          "title": "Why Ford Stock Is Rising Even As EV Division Loses $1.4 Billion Amid 'Model T' Push",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/ford-stock-is-rising-stock-market-despite-profit-decline/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "fc21e581ac5c",
           "time": "22:31",
           "category": "Crypto",
@@ -1193,50 +1274,6 @@
           "impact_score": 1
         },
         {
-          "id": "f72a4d0257a7",
-          "time": "22:19",
-          "category": "Markets",
-          "title": "JPMorgan Accuses Charlie Javice of More Fraud. This Time Over Her Legal Bills.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/jpmorgan-accuses-charlie-javice-of-more-fraud-this-time-over-her-legal-bills-97245558?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "cc2691c04db5",
-          "time": "22:06",
-          "category": "Markets",
-          "title": "Stocks to Watch Friday: Intel, Ford, Booz Allen Hamilton",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/stocks-to-watch-friday-intel-deckers-saab-ud7bpMfhbzMqNCdWndQK?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c7d038c62e2a",
-          "time": "22:00",
-          "category": "Markets",
-          "title": "P&G latest to flag diverging consumer spending as profit tops on beauty demand",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/p-g-latest-flag-diverging-210034222.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3dce24f4ea53",
-          "time": "22:00",
-          "category": "Markets",
-          "title": "Financial Services Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-cb740a0d?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "bfe4bac5aad0",
           "time": "21:59",
           "category": "Crypto",
@@ -1244,28 +1281,6 @@
           "summary": "US President Donald Trump said Binance founder Changpeng Zhao had \"a lot of support\" from the crypto industry and was widely recommended for a pardon.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/binance-cz-pardon-us-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "d3f81eb9c385",
-          "time": "21:59",
-          "category": "Markets",
-          "title": "Health Care Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/health-care-roundup-market-talk-05a7ca90?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "77c150f9c20e",
-          "time": "21:58",
-          "category": "Markets",
-          "title": "Auto & Transport Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-cb93b220?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
