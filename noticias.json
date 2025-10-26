@@ -1,13 +1,25 @@
 {
-  "generated_at": "2025-10-26T04:03+00:00",
+  "generated_at": "2025-10-26T04:44+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-26",
       "attention_points": [
+        "Coinbase’s x402 transactions explode over 10,000% in a month",
         "Kyrgyzstan launches stablecoin on BNB Chain, confirms future CBDC rollout"
       ],
       "items": [
+        {
+          "id": "bc36900d9ad0",
+          "time": "04:20",
+          "category": "Crypto",
+          "title": "Coinbase’s x402 transactions explode over 10,000% in a month",
+          "summary": "Coinbase’s x402 protocol, which enables AI agents to transact autonomously over the internet, has seen a 10,000% rise in transaction activity over a month.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/coinbases-x402-transactions-rise-10000-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
         {
           "id": "9f45057bcd0f",
           "time": "01:38",
@@ -433,6 +445,30 @@
           "impact_score": 3
         },
         {
+          "id": "6379c081ec67",
+          "time": "22:28",
+          "category": "Markets",
+          "title": "Custodia, Vantage Expand Pilot Into Live Tokenized Deposit Network for US Banks",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/custodia-vantage-expand-pilot-live-212809514.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "61d179a5f047",
+          "time": "22:13",
+          "category": "Crypto",
+          "title": "Bitcoin mining stock prices fall for second week in a row",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bitcoin-mining-stock-prices-fall-211300425.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 3
+        },
+        {
           "id": "189d662a304a",
           "time": "22:07",
           "category": "Crypto",
@@ -440,6 +476,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/finance/stocks/netflix-amazon-six-flags-warner-mattel-and-more-stocks-that-defined-the-week-11effd7b?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "c0dc842aafd1",
+          "time": "22:07",
+          "category": "Markets",
+          "title": "Could Netflix Stock Join the Trillion-Dollar Club by 2030?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/could-netflix-stock-join-trillion-210700285.html",
           "tags": [],
           "impact_score": 3
         },
@@ -477,17 +524,6 @@
           "impact_score": 3
         },
         {
-          "id": "b15a34958e9b",
-          "time": "21:45",
-          "category": "US Macro",
-          "title": "Stocks Hit Highs as CPI Gives Fed All-Clear to Cut: Markets Wrap",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/asia-join-global-equity-rally-231917469.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "98b458dcaeed",
           "time": "21:39",
           "category": "US Macro",
@@ -495,17 +531,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/gold-slips-record-highs-traders-203901869.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "ea99930af64c",
-          "time": "21:36",
-          "category": "US Macro",
-          "title": "Fed Portfolio Unwind Gains Urgency as Markets Flash Warnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/fed-portfolio-unwind-gains-urgency-111500523.html",
           "tags": [],
           "impact_score": 3
         },
@@ -649,6 +674,17 @@
           "impact_score": 2
         },
         {
+          "id": "1d6daef5b3f9",
+          "time": "22:55",
+          "category": "Earnings",
+          "title": "HVAC Stock Soars Off Key Level As Earnings Trounce Expectations",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/stock-lists/sector-leaders/hvac-ac-comfort-systems-fix-stock/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "aa33d409acce",
           "time": "22:41",
           "category": "Crypto",
@@ -662,6 +698,28 @@
           "impact_score": 2
         },
         {
+          "id": "3cba92735ec6",
+          "time": "22:30",
+          "category": "US Macro",
+          "title": "Podcast: Inflation Report Sends U.S. Stocks to Records",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/podcast-inflation-report-sends-u-s-stocks-to-records-oRGXCxMaKKo1W3rWxian?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "5cf65ede80ba",
+          "time": "22:24",
+          "category": "Markets",
+          "title": "Gold Ends Record-Breaking Rally with First Weekly Loss in Ten",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/gold-snap-nine-week-winning-233436846.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "6695329f70d0",
           "time": "22:22",
           "category": "Crypto",
@@ -669,6 +727,28 @@
           "summary": "JPMorgan sees Coinbase unlocking billions through its Base layer-2 network and USDC rewards overhaul, lifting its price target and fueling a sharp stock rally.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/jpmorgan-upgrades-coinbase-base-usdc-potential?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "d7becb13c5c6",
+          "time": "22:14",
+          "category": "Markets",
+          "title": "S&P 500 Gains & Losses Today: Ford Leads Automakers Higher; Deckers Stock Drops",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/p-500-gains-losses-today-211449266.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "236408f82211",
+          "time": "22:13",
+          "category": "Markets",
+          "title": "Why Did NuScale Stock Drop 14.7% This Week?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-did-nuscale-stock-drop-211302904.html",
           "tags": [],
           "impact_score": 2
         },
@@ -691,6 +771,20 @@
           "summary": "Publicly traded video sharing and livestream platform Rumble is adding Bitcoin tipping for its creator base.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345945/youtube-rival-rumble-teams-tether-add-bitcoin-tipping",
+          "tags": [
+            "BTC",
+            "ETH"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "0a08ee474982",
+          "time": "22:02",
+          "category": "Crypto",
+          "title": "YouTube Rival Rumble Teams With Tether to Add Bitcoin Tipping for Creators",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/youtube-rival-rumble-teams-tether-210259375.html",
           "tags": [
             "BTC",
             "ETH"
@@ -740,39 +834,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/deckers-stock-drops-after-shoe-company-cuts-financial-guidance-IyGM1Y8CTAGptXxXQC17?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "83f2236a8dbd",
-          "time": "21:39",
-          "category": "Earnings",
-          "title": "WSFS Q3 2025 Earnings Call Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/wsfs-q3-2025-earnings-call-203913224.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "f2c196566a72",
-          "time": "21:36",
-          "category": "Earnings",
-          "title": "Southside Q3 2025 Earnings Call Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/southside-q3-2025-earnings-call-203641800.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "e2ce95791c2c",
-          "time": "21:33",
-          "category": "Earnings",
-          "title": "First Western Earnings Call Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/first-western-earnings-call-transcript-203316024.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1007,6 +1068,39 @@
           "impact_score": 2
         },
         {
+          "id": "ed7d17956d12",
+          "time": "22:57",
+          "category": "Markets",
+          "title": "The U.S. and China Are Piling Up Trouble for Companies. Xi-Trump Talks Might Not Help.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/us-china-trade-talks-leverage-38a58f11?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "945ad0613141",
+          "time": "22:36",
+          "category": "Markets",
+          "title": "Corrections & Amplifications",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/articles/corrections-amplifications-68047815?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "22:32",
+          "category": "Markets",
+          "title": "Why Ford Stock Is Rising Even As EV Division Loses $1.4 Billion Amid 'Model T' Push",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/ford-stock-is-rising-stock-market-despite-profit-decline/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "fc21e581ac5c",
           "time": "22:31",
           "category": "Crypto",
@@ -1025,6 +1119,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/finance/jpmorgan-accuses-charlie-javice-of-more-fraud-this-time-over-her-legal-bills-97245558?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4cb3fd87e7db",
+          "time": "22:14",
+          "category": "Markets",
+          "title": "Grégoire Martin Joins Executive Search Firm Ginger Finds as President",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/gr-goire-martin-joins-executive-211437439.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1161,28 +1266,6 @@
           "impact_score": 1
         },
         {
-          "id": "988c116d34e7",
-          "time": "21:31",
-          "category": "Markets",
-          "title": "Nvidia's New Partner And Rival: Intel, AMD Witness Improving Technical Indicators Amid Solid Momentum Gains",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nvidias-partner-rival-intel-amd-203123083.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "7387eea75451",
-          "time": "21:31",
-          "category": "Markets",
-          "title": "America: Land Of The Free And Home Of The Poor Millionaire",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/america-land-free-home-poor-203119048.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "c500fb1bec02",
           "time": "21:26",
           "category": "Markets",
@@ -1190,72 +1273,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/rivian-stock-price-job-cuts-ev-71680064?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "70b485e69165",
-          "time": "21:21",
-          "category": "Markets",
-          "title": "Top Universities Detail How Funding Cuts and Taxes Cloud Future",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/universities-funding-cuts-taxes-endowment-yale-harvard-mit-355f37f6?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8dbb67decd17",
-          "time": "21:20",
-          "category": "Markets",
-          "title": "Ford Stock Has Quintupled Tesla’s Gains. What’s Behind Its Meteoric Rise.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/ford-tesla-stock-tariffs-electric-vehicles-2dc8e62d?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "db81ba75c614",
-          "time": "21:16",
-          "category": "Markets",
-          "title": "Rare-Earth Stocks Gain. What to Watch for Next Week.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/rare-earths-stocks-mp-materials-aclara-919bd929?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1033310d803a",
-          "time": "21:13",
-          "category": "Crypto",
-          "title": "These Stocks Moved the Most Today: Intel, AMD, Ford, Deckers, Newmont, Nextracker, Booz Allen, Coinbase, and More",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/stock-movers-d7bea212?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "21:12",
-          "category": "Markets",
-          "title": "Sanofi Jumps As Dupixent Nears $5 Billion In Sales; Trump Drug Talks Continue",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/technology/sanofi-stock-sanofi-earnings-q3-2025/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "57f4ee3faa7c",
-          "time": "21:11",
-          "category": "Markets",
-          "title": "AMD Stock Just Hit a New All-Time High. Options Data Tells Us It Could Be Headed Here Next.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/amd-stock-just-hit-time-201129226.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1311,17 +1328,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/24/hbar-slides-1-7-to-usd0-170-as-channel-support-crumbles",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "747d37f842bc",
-          "time": "16:49",
-          "category": "Crypto",
-          "title": "Pump.fun expands with Padre acquisition as memecoin market cools",
-          "summary": "Pump.fun has acquired the Padre trading terminal to strengthen token liquidity as Solana’s memecoin market cools from its 2024 highs.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/pumpfun-acquires-padre-trading-terminal-solana-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
