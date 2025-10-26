@@ -1,20 +1,20 @@
 {
-  "generated_at": "2025-10-26T21:56+00:00",
+  "generated_at": "2025-10-26T22:38+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-26",
       "attention_points": [
-        "Dow Jones Futures: China Trade Deal Close Amid Flurry Of Trump Moves; Huge Earnings, Fed Rate Cut Ahead",
-        "49-year-old favorite pizza chain files for Chapter 11 bankruptcy",
-        "I was laid off at 60 with basically no retirement savings or real plan except for Social Security — how can I survive?"
+        "Dow Jones Futures Rise On China Trade Deal Hopes; Huge Earnings, Fed Rate Cut Ahead",
+        "‘The claim that L2s inherit ETH security is erroneous’ — Solana co-founder",
+        "Washington’s Oil Sanctions Rattle Asia’s Energy Security"
       ],
       "items": [
         {
           "id": "1d6daef5b3f9",
-          "time": "21:02",
+          "time": "22:15",
           "category": "US Macro",
-          "title": "Dow Jones Futures: China Trade Deal Close Amid Flurry Of Trump Moves; Huge Earnings, Fed Rate Cut Ahead",
+          "title": "Dow Jones Futures Rise On China Trade Deal Hopes; Huge Earnings, Fed Rate Cut Ahead",
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-china-trade-deal-trump-xi-apple-earnings-fed-rate-cut/?src=A00220&yptr=yahoo",
@@ -22,10 +22,34 @@
           "impact_score": 3
         },
         {
+          "id": "fcab025a5656",
+          "time": "21:52",
+          "category": "Crypto",
+          "title": "‘The claim that L2s inherit ETH security is erroneous’ — Solana co-founder",
+          "summary": "Ethereum layer-2 networks have glaring security and centralization issues, according to Anatoly Yakovenko, co-founder of the Solana blockchain.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/claim-l2s-inherit-eth-security-erroneous-solana-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 3
+        },
+        {
+          "id": "4eaa6b39222a",
+          "time": "21:00",
+          "category": "Regulation",
+          "title": "Washington’s Oil Sanctions Rattle Asia’s Energy Security",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/washington-oil-sanctions-rattle-asia-210000361.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "5c5130c43273",
           "time": "20:10",
           "category": "Markets",
-          "title": "49-year-old favorite pizza chain files for Chapter 11 bankruptcy",
+          "title": "Popular 49-year-old pizza chain files for Chapter 11 bankruptcy",
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/49-old-favorite-pizza-chain-201037011.html",
@@ -182,6 +206,30 @@
           "impact_score": 3
         },
         {
+          "id": "b431ea497743",
+          "time": "22:10",
+          "category": "Crypto",
+          "title": "Here’s what happened in crypto today",
+          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "5882b38bd7a7",
+          "time": "21:57",
+          "category": "Crypto",
+          "title": "Ethereum Whales Are Moving Quietly — Why the Market Should Pay Attention",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ethereum-whales-moving-quietly-why-215700227.html",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "5e2f1758abb7",
           "time": "20:16",
           "category": "Crypto",
@@ -268,17 +316,6 @@
           "impact_score": 2
         },
         {
-          "id": "b431ea497743",
-          "time": "12:26",
-          "category": "Crypto",
-          "title": "Here’s what happened in crypto today",
-          "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "fe210b4de5bf",
           "time": "12:00",
           "category": "Crypto",
@@ -301,6 +338,39 @@
           "url": "https://www.wsj.com/finance/stocks/u-s-stocks-are-breaking-records-the-rest-of-the-world-is-doing-better-8e1005be?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 2
+        },
+        {
+          "id": "1715691f03e4",
+          "time": "22:00",
+          "category": "Markets",
+          "title": "NC woman canceled her ‘health insurance’ — then $12K in charges hit her card. Why regulators say they’re powerless",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/nc-woman-canceled-her-health-220000762.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "deabf78ec329",
+          "time": "21:46",
+          "category": "Markets",
+          "title": "This Ohio-Based Company's Stock Is Up Over 850% in the Past 5 Years. Is Now the Best Time to Buy?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ohio-based-companys-stock-over-214600642.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "df604347c2fe",
+          "time": "21:21",
+          "category": "Markets",
+          "title": "Should You Buy XRP (Ripple) While It's Under $3?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/buy-xrp-ripple-while-under-212100411.html",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "b9a8ffc29e42",
@@ -457,17 +527,6 @@
           "impact_score": 1
         },
         {
-          "id": "8c0a78e30a28",
-          "time": "19:00",
-          "category": "Markets",
-          "title": "Western Union Embraces Stablecoins Amid Global Remittance Overhaul",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/western-union-embraces-stablecoins-amid-190000724.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "42fe65691e01",
           "time": "19:00",
           "category": "Markets",
@@ -475,6 +534,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/1-dividend-stock-yielding-over-190000366.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8c0a78e30a28",
+          "time": "19:00",
+          "category": "Markets",
+          "title": "Western Union Embraces Stablecoins Amid Global Remittance Overhaul",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/western-union-embraces-stablecoins-amid-190000724.html",
           "tags": [],
           "impact_score": 1
         },
@@ -523,28 +593,6 @@
           "impact_score": 1
         },
         {
-          "id": "1919641ace71",
-          "time": "18:00",
-          "category": "Markets",
-          "title": "Where Will Rigetti Computing Stock Be in 10 Years?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/where-rigetti-computing-stock-10-180000708.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b54ecba3a47f",
-          "time": "17:47",
-          "category": "Markets",
-          "title": "Really Want To Build Wealth? Stop Doing These 3 Things",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/really-want-build-wealth-stop-174705413.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "3cc3b1c6ad7b",
           "time": "17:45",
           "category": "Markets",
@@ -556,35 +604,13 @@
           "impact_score": 1
         },
         {
-          "id": "735636cf49cb",
-          "time": "17:45",
+          "id": "aa14de0121ee",
+          "time": "16:00",
           "category": "Markets",
-          "title": "Why Pegasystems Stock Skyrocketed This Week",
+          "title": "How Russia’s Sanctioned Arctic Gas Found a Chinese Loophole",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-pegasystems-stock-skyrocketed-week-174500580.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "d11e9fef6874",
-          "time": "17:43",
-          "category": "Markets",
-          "title": "1 Important Tailwind That Could Send Dogecoin Skyrocketing",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/1-important-tailwind-could-send-174300338.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "d80146cd41bb",
-          "time": "17:37",
-          "category": "Markets",
-          "title": "2 Incredible Growth Stocks I Can't Stop Buying",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/2-incredible-growth-stocks-cant-173700183.html",
+          "url": "https://www.wsj.com/world/russia/russia-arctic-gas-production-china-b6eb5f87?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -596,17 +622,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/tech/ai/its-not-just-rich-countries-techs-trillion-dollar-bet-on-ai-is-everywhere-1781a117?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "aa14de0121ee",
-          "time": "16:00",
-          "category": "Markets",
-          "title": "How Russia’s Sanctioned Arctic Gas Found a Chinese Loophole",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/world/russia/russia-arctic-gas-production-china-b6eb5f87?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -684,6 +699,17 @@
           "summary": "Coinbase CEO Brian Armstrong said onchain fundraising could make capital formation “more efficient, fair, and transparent.”",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/coinbase-startup-lifecycle-onchain-armstrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ded0fdf4c2ea",
+          "time": "06:00",
+          "category": "Markets",
+          "title": "Oracle Is Flying High in the AI Age. Top Executives Sold Shares.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/oracle-ai-stock-sale-4a0a112f?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -1340,20 +1366,6 @@
           "url": "https://decrypt.co/345888/bitcoin-options-record-31-billion-set-expire-halloween",
           "tags": [
             "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "298e7c2ef772",
-          "time": "19:32",
-          "category": "Crypto",
-          "title": "Price predictions 10/24: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE, LINK, XLM",
-          "summary": "Bitcoin bounced off the $107,000 support, but the recovery is expected to face significant resistance in the $112,000 to $116,000 zone. Do charts point to any altcoins taking the lead?",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/price-predictions-10-24-btc-eth-bnb-xrp-sol-doge-ada-hype-link-xlm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [
-            "BTC",
-            "ETH"
           ],
           "impact_score": 2
         },
