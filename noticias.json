@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T03:35+00:00",
+  "generated_at": "2025-10-26T04:03+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -433,6 +433,61 @@
           "impact_score": 3
         },
         {
+          "id": "189d662a304a",
+          "time": "22:07",
+          "category": "Crypto",
+          "title": "The Score: Netflix, Amazon.com, Six Flags and More Stocks That Defined the Week",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/finance/stocks/netflix-amazon-six-flags-warner-mattel-and-more-stocks-that-defined-the-week-11effd7b?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "22:05",
+          "category": "US Macro",
+          "title": "Stock Market Today: Dow, S&P 500, Nasdaq Close At New Highs On Cool CPI Data",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-inflation-deckers-earnings-deck/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "a6e58e3dff74",
+          "time": "22:00",
+          "category": "Markets",
+          "title": "Daily ETF Flows: SOXL Picks Up Assets",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/daily-etf-flows-soxl-picks-210004960.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "260559c311ac",
+          "time": "21:46",
+          "category": "US Macro",
+          "title": "Stocks Rally to Record Highs on Favorable US CPI Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/stocks-rally-record-highs-favorable-204620301.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "b15a34958e9b",
+          "time": "21:45",
+          "category": "US Macro",
+          "title": "Stocks Hit Highs as CPI Gives Fed All-Clear to Cut: Markets Wrap",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/asia-join-global-equity-rally-231917469.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "98b458dcaeed",
           "time": "21:39",
           "category": "US Macro",
@@ -440,6 +495,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/gold-slips-record-highs-traders-203901869.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "ea99930af64c",
+          "time": "21:36",
+          "category": "US Macro",
+          "title": "Fed Portfolio Unwind Gains Urgency as Markets Flash Warnings",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fed-portfolio-unwind-gains-urgency-111500523.html",
           "tags": [],
           "impact_score": 3
         },
@@ -457,17 +523,6 @@
           "impact_score": 3
         },
         {
-          "id": "bcd2fdc53e33",
-          "time": "21:07",
-          "category": "US Macro",
-          "title": "Why 10-year Treasury yield may hit 6% in next year or two on ‘problematic’ inflation",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-10-treasury-yield-may-200700784.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "ed7bf02aea5b",
           "time": "21:00",
           "category": "Crypto",
@@ -478,50 +533,6 @@
           "tags": [
             "BTC"
           ],
-          "impact_score": 3
-        },
-        {
-          "id": "73662ea9c7d9",
-          "time": "20:58",
-          "category": "US Macro",
-          "title": "Dollar Pressured by Weaker-Than-Expected US CPI Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/dollar-pressured-weaker-expected-us-195830135.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "ca849a9deef8",
-          "time": "20:51",
-          "category": "US Macro",
-          "title": "Treasury Yields Mixed, Dollar Stronger Ahead of Fed Week",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/asian-currencies-consolidate-ahead-of-u-s-cpi-data-eedcbd21?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "0378d0ae8192",
-          "time": "20:48",
-          "category": "Markets",
-          "title": "North Carolina’s Furniture Industry Scrambles as Tariffs Upend Day-to-Day Routines",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/north-carolinas-furniture-industry-scrambles-as-tariffs-upend-day-to-day-routines-82f3ab80?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "1cf2051db356",
-          "time": "20:43",
-          "category": "Earnings",
-          "title": "Jim Cramer Takes Contrarian View For Netflix (NFLX) After Earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-takes-contrarian-view-194344419.html",
-          "tags": [],
           "impact_score": 3
         },
         {
@@ -662,6 +673,17 @@
           "impact_score": 2
         },
         {
+          "id": "b7c0be63145f",
+          "time": "22:10",
+          "category": "US Macro",
+          "title": "Review & Preview: Inflation Relief Rally",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/review-preview-inflation-relief-rally-3be0d301?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "128fb227748f",
           "time": "22:02",
           "category": "Crypto",
@@ -673,6 +695,85 @@
             "BTC",
             "ETH"
           ],
+          "impact_score": 2
+        },
+        {
+          "id": "5f6adac38924",
+          "time": "21:58",
+          "category": "Earnings",
+          "title": "S&P 500 Climbs to New Record on Strong Earnings",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/finance/stocks/s-p-500-climbs-to-new-record-on-strong-earnings-0be1c68f?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "44029c35d600",
+          "time": "21:53",
+          "category": "Crypto",
+          "title": "Wall Street giant Jane Street bets big on Bitcoin mining stocks",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/wall-street-giant-jane-street-205358907.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "21:53",
+          "category": "Markets",
+          "title": "Vertiv Stock Notches Record High On Robust Data Center Business",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/vertiv-stock-record-high-data-center-business/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "ec36e99ee29f",
+          "time": "21:49",
+          "category": "Earnings",
+          "title": "Deckers Stock Drops After Shoe Company Cuts Financial Guidance",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/deckers-stock-drops-after-shoe-company-cuts-financial-guidance-IyGM1Y8CTAGptXxXQC17?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "83f2236a8dbd",
+          "time": "21:39",
+          "category": "Earnings",
+          "title": "WSFS Q3 2025 Earnings Call Transcript",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/wsfs-q3-2025-earnings-call-203913224.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "f2c196566a72",
+          "time": "21:36",
+          "category": "Earnings",
+          "title": "Southside Q3 2025 Earnings Call Transcript",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/southside-q3-2025-earnings-call-203641800.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "e2ce95791c2c",
+          "time": "21:33",
+          "category": "Earnings",
+          "title": "First Western Earnings Call Transcript",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/first-western-earnings-call-transcript-203316024.html",
+          "tags": [],
           "impact_score": 2
         },
         {
@@ -729,105 +830,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/general-dyamics-earnings-stock-price-066f30f2?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "59c80b23a0e0",
-          "time": "21:22",
-          "category": "Earnings",
-          "title": "HCA Healthcare Q3 2025 Earnings Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hca-healthcare-q3-2025-earnings-202215368.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "f07705fd3f7f",
-          "time": "21:18",
-          "category": "Earnings",
-          "title": "Phillips Edison Q3 2025 Earnings Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/phillips-edison-q3-2025-earnings-201836796.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "e448e00ea220",
-          "time": "21:15",
-          "category": "Earnings",
-          "title": "Baker Hughes Q3 2025 Earnings Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/baker-hughes-q3-2025-earnings-201536246.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "8265986095cf",
-          "time": "21:10",
-          "category": "Earnings",
-          "title": "Mohawk Q3 2025 Earnings Call Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/mohawk-q3-2025-earnings-call-201025240.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "41ef4e52a991",
-          "time": "21:09",
-          "category": "Markets",
-          "title": "PolyMarket Airdrop Confirmed – Here’s What You Need to Know Ahead",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/polymarket-airdrop-confirmed-know-ahead-200935521.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "144cb3bf5606",
-          "time": "21:07",
-          "category": "Markets",
-          "title": "Legendary analyst drops stunning take on stock market",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/legendary-analyst-drops-stunning-stock-200700530.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "31554bb0f3f1",
-          "time": "21:06",
-          "category": "Earnings",
-          "title": "Enova Q3 2025 Earnings Call Transcript",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/enova-q3-2025-earnings-call-200624027.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "21:06",
-          "category": "Earnings",
-          "title": "AI Data Center Play Roars 19% Higher As Earnings Double",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/ai-data-center-play-comfort-systems-earnings-double/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "28a299d5cad5",
-          "time": "20:44",
-          "category": "Markets",
-          "title": "Crude Oil Falls Back After Thursday's Rally on US and EU Sanctions on Russian Energy",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/crude-oil-falls-back-thursdays-194458834.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1016,6 +1018,50 @@
           "impact_score": 1
         },
         {
+          "id": "f72a4d0257a7",
+          "time": "22:19",
+          "category": "Markets",
+          "title": "JPMorgan Accuses Charlie Javice of More Fraud. This Time Over Her Legal Bills.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/finance/jpmorgan-accuses-charlie-javice-of-more-fraud-this-time-over-her-legal-bills-97245558?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "cc2691c04db5",
+          "time": "22:06",
+          "category": "Markets",
+          "title": "Stocks to Watch Friday: Intel, Ford, Booz Allen Hamilton",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/stocks-to-watch-friday-intel-deckers-saab-ud7bpMfhbzMqNCdWndQK?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c7d038c62e2a",
+          "time": "22:00",
+          "category": "Markets",
+          "title": "P&G latest to flag diverging consumer spending as profit tops on beauty demand",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/p-g-latest-flag-diverging-210034222.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3dce24f4ea53",
+          "time": "22:00",
+          "category": "Markets",
+          "title": "Financial Services Roundup: Market Talk",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-cb740a0d?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "bfe4bac5aad0",
           "time": "21:59",
           "category": "Crypto",
@@ -1023,6 +1069,61 @@
           "summary": "US President Donald Trump said Binance founder Changpeng Zhao had \"a lot of support\" from the crypto industry and was widely recommended for a pardon.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/binance-cz-pardon-us-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d3f81eb9c385",
+          "time": "21:59",
+          "category": "Markets",
+          "title": "Health Care Roundup: Market Talk",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/articles/health-care-roundup-market-talk-05a7ca90?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "77c150f9c20e",
+          "time": "21:58",
+          "category": "Markets",
+          "title": "Auto & Transport Roundup: Market Talk",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-cb93b220?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c9dfb51f8f96",
+          "time": "21:56",
+          "category": "Markets",
+          "title": "Energy & Utilities Roundup: Market Talk",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/articles/energy-utilities-roundup-market-talk-c42fb49e?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "06230ec57492",
+          "time": "21:55",
+          "category": "Markets",
+          "title": "Tech, Media & Telecom Roundup: Market Talk",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/finance/investing/tech-media-telecom-roundup-market-talk-4b81d2db?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "21:50",
+          "category": "Markets",
+          "title": "Broadcom, IBD Stock Of The Day, Gains Custom AI Chip Business",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/research/ibd-stock-of-the-day/broadcom-stock-avgo-custom-ai-chip-business-2/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -1056,6 +1157,28 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/heard-on-the-street-recap-keep-on-truckin--AtaMd4UJGlSjyvWwGWU8?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "988c116d34e7",
+          "time": "21:31",
+          "category": "Markets",
+          "title": "Nvidia's New Partner And Rival: Intel, AMD Witness Improving Technical Indicators Amid Solid Momentum Gains",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/nvidias-partner-rival-intel-amd-203123083.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7387eea75451",
+          "time": "21:31",
+          "category": "Markets",
+          "title": "America: Land Of The Free And Home Of The Poor Millionaire",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/america-land-free-home-poor-203119048.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1133,138 +1256,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/amd-stock-just-hit-time-201129226.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "9516765ea97e",
-          "time": "21:03",
-          "category": "Markets",
-          "title": "Why Did Oklo Stock Fall 16.2% This Week?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-did-oklo-stock-fall-200318171.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "868476aa6b91",
-          "time": "21:02",
-          "category": "US Macro",
-          "title": "Dow Cracks 47,000 After Cooler-than-Feared Inflation Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102425/card/dow-cracks-47-000-after-cooler-than-feared-inflation-report-kWBLmTDkG4TQUC47s66G?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f70e6c124366",
-          "time": "21:02",
-          "category": "Markets",
-          "title": "Comex Gold Ends the Week 1.71% Lower at $4118.40",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/gold-falls-on-likely-further-unwinding-of-long-positions-e4ac79f2?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "21:01",
-          "category": "Markets",
-          "title": "Breakout Watch: Why Nvidia, Apple, Meta And Others Use This AI Brain",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/research/ibd-stock-analysis/arm-stock-nvidia-apple-meta-license-ai-fueled-technology/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "caf49e802d86",
-          "time": "20:59",
-          "category": "Markets",
-          "title": "IRS Issued Fewer Tax Refunds This Year — But Bigger Ones",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/irs-issued-fewer-tax-refunds-this-year-but-bigger-ones-YNR2aGxf4HrkB3WVTdZD?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "20:58",
-          "category": "Markets",
-          "title": "Manage Market Risks By Using This Simple Indicator Twice",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/manage-market-risks-using-simple-indicator/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "7636a13ce4ee",
-          "time": "20:46",
-          "category": "Markets",
-          "title": "Nat-Gas Prices Continue to Retreat on Ample Inventories",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nat-gas-prices-continue-retreat-194625467.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "97b50034e494",
-          "time": "20:43",
-          "category": "Markets",
-          "title": "Jim Cramer Discusses Warner Bros. Discovery, Inc. (WBD) In Detail",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-discusses-warner-bros-194317512.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3500699a35db",
-          "time": "20:42",
-          "category": "Markets",
-          "title": "GE Vernova (GEV) Is The Only Nuclear Company Building Products, Says Jim Cramer",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ge-vernova-gev-only-nuclear-194259054.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "92bcbe0c005d",
-          "time": "20:42",
-          "category": "Markets",
-          "title": "Jim Cramer Says Oklo (OKLO) Getting “It Right” Might Not Be Enough",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-oklo-oklo-194239781.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "345403ec0c15",
-          "time": "20:42",
-          "category": "Markets",
-          "title": "Jim Cramer Shares Major Event For Nebius Group (NBIS) Stock",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-shares-major-event-194221289.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "974a1395cec2",
-          "time": "20:41",
-          "category": "Markets",
-          "title": "Jim Cramer Says People Are Trying To Figure Out What IonQ (IONQ) “Exactly Is”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-people-trying-194159464.html",
           "tags": [],
           "impact_score": 1
         },
