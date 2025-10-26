@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-26T13:10+00:00",
+  "generated_at": "2025-10-26T13:42+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-26",
       "attention_points": [
+        "Teucrium CEO: 'Enormous Interest' in XRP, 'Extraordinary’ Success for Firm's XRP ETF",
         "‘House is fine, but door is jammed’: AWS outage shows crypto’s weak spot",
-        "HELOC rates today, October 26, 2025: Lower, and with a Fed cut looming, rates may fall further",
-        "Bitcoin price starts $112K breakout as Fed rate-cut odds pass 98%"
+        "HELOC rates today, October 26, 2025: Lower, and with a Fed cut looming, rates may fall further"
       ],
       "items": [
+        {
+          "id": "0d4d2d97c984",
+          "time": "13:11",
+          "category": "Crypto",
+          "title": "Teucrium CEO: 'Enormous Interest' in XRP, 'Extraordinary’ Success for Firm's XRP ETF",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/26/teucrium-ceo-enormous-interest-in-xrp-extraordinary-success-for-firm-s-xrp-etf",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "a41c62a51f0a",
           "time": "11:53",
@@ -217,6 +228,17 @@
           "impact_score": 3
         },
         {
+          "id": "8dd3d69841bb",
+          "time": "13:15",
+          "category": "Markets",
+          "title": "Is the Vanguard Russell 2000 Index Fund ETF a Buy Now?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/vanguard-russell-2000-index-fund-121500038.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "a8f73b62190b",
           "time": "12:56",
           "category": "US Macro",
@@ -235,17 +257,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/smartest-vanguard-etf-buy-500-113000226.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "8aa0f1ce2a38",
-          "time": "12:02",
-          "category": "Crypto",
-          "title": "Digital Asset Treasuries Are the New Crypto ETFs? A Deep Dive",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/digital-asset-treasuries-crypto-etfs-110215058.html",
           "tags": [],
           "impact_score": 3
         },
@@ -281,17 +292,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/european-banks-six-stocks-to-consider-0e9d45c9?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "797a417b8419",
-          "time": "07:30",
-          "category": "Crypto",
-          "title": "Crypto Treasury Stocks Face a Reckoning. Why Boom Could Turn to Bust.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/crypto-treasury-stocks-strategy-bitcoin-80005ff0?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 3
         },
@@ -388,6 +388,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/france-credit-rating-downgrade-moodys-700510c5?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "15:42",
+          "category": "Earnings",
+          "title": "Apple Shines, Leads Parade Of Megacap Hyperscaler Earnings Reports",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/research/earnings-preview/apple-stock-shines-leads-parade-hyperscaler-earnings-reports/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 2
         },
@@ -656,6 +667,28 @@
           "impact_score": 1
         },
         {
+          "id": "089bf0d49c69",
+          "time": "13:30",
+          "category": "Regulation",
+          "title": "Stablecoin Use for Payments Jumps 70% Since US Regulation",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/stablecoin-payments-jumps-70-since-123000991.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8479f748f7a8",
+          "time": "13:18",
+          "category": "Markets",
+          "title": "5 Ways To Mitigate Risk as You Plan Financially for Retirement",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/5-ways-mitigate-risk-plan-121816053.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "8b0b62bb9720",
           "time": "13:05",
           "category": "Markets",
@@ -718,17 +751,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/down-62-nike-stock-millionaire-114500299.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "69c374e3e292",
-          "time": "12:12",
-          "category": "Markets",
-          "title": "4 Ways To Protect Retirement Savings When Your Grown Kids Move Back In",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/4-ways-protect-retirement-savings-111207051.html",
           "tags": [],
           "impact_score": 1
         },
@@ -810,17 +832,6 @@
           "impact_score": 1
         },
         {
-          "id": "0d3e75fa01bd",
-          "time": "10:30",
-          "category": "Crypto",
-          "title": "China's pause on stablecoin projects will not dampen Hong Kong's crypto push, experts say",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/chinas-pause-stablecoin-projects-not-093000232.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "d5649b167acd",
           "time": "10:30",
           "category": "Markets",
@@ -828,6 +839,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/finance/commodities-futures/sanctioned-russian-oil-will-find-new-ways-to-flow-652d0601?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0d3e75fa01bd",
+          "time": "10:30",
+          "category": "Crypto",
+          "title": "China's pause on stablecoin projects will not dampen Hong Kong's crypto push, experts say",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/chinas-pause-stablecoin-projects-not-093000232.html",
           "tags": [],
           "impact_score": 1
         },
@@ -850,17 +872,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/25/dogecoin-hits-usd0-20-as-breakout-volume-triples-average-confirms-bullish-setup",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "df19cf6c6fe3",
-          "time": "07:00",
-          "category": "Markets",
-          "title": "This Couple Oversees Billions in Assets. We Caught Up With Them.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/amy-falls-hartley-rogers-interview-finance-markets-economy-87d2070f?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -1207,19 +1218,6 @@
           "source": "Decrypt",
           "url": "https://decrypt.co/345854/polymarket-exec-confirms-token-airdrop-after-reenters-us-market",
           "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "e70aadf71f4c",
-          "time": "14:33",
-          "category": "Crypto",
-          "title": "CoinDesk 20 Performance Update: Bitcoin Cash (BCH) Gains 4%, Leading Index Higher",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/coindesk-indices/2025/10/24/coindesk-20-performance-update-bitcoin-cash-bch-gains-4-leading-index-higher",
-          "tags": [
-            "BTC"
-          ],
           "impact_score": 2
         },
         {
