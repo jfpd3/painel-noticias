@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T11:45+00:00",
+  "generated_at": "2025-10-26T11:56+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -110,6 +110,17 @@
           "tags": [
             "BTC"
           ],
+          "impact_score": 3
+        },
+        {
+          "id": "d775b40b9e04",
+          "time": "11:55",
+          "category": "Regulation",
+          "title": "Social Security Reform: What It Means for Your Retirement Savings Strategy",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/social-security-reform-means-retirement-105521709.html",
+          "tags": [],
           "impact_score": 3
         },
         {
@@ -310,6 +321,17 @@
           "impact_score": 2
         },
         {
+          "id": "1d6daef5b3f9",
+          "time": "13:30",
+          "category": "Earnings",
+          "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; AI Related Stocks Rally",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "d15dbcbb6cd8",
           "time": "11:45",
           "category": "Crypto",
@@ -368,6 +390,17 @@
           "tags": [
             "BTC"
           ],
+          "impact_score": 2
+        },
+        {
+          "id": "cc8c3aace36d",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer Highlights Intuitive Surgical Rally on Unexpected Procedure Growth",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-highlights-intuitive-surgical-044449478.html",
+          "tags": [],
           "impact_score": 2
         },
         {
@@ -623,17 +656,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-saturday-october-25-2025-100000897.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "53bc57f8c773",
-          "time": "10:45",
-          "category": "Markets",
-          "title": "2 Beaten-Down Stocks to Buy and Hold",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/2-beaten-down-stocks-buy-094500592.html",
           "tags": [],
           "impact_score": 1
         },
@@ -924,6 +946,17 @@
           "impact_score": 1
         },
         {
+          "id": "f44d2d6ac4cd",
+          "time": "05:44",
+          "category": "Earnings",
+          "title": "Jim Cramer Notes Vertiv’s Strong Results",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-notes-vertiv-strong-044447848.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "68c41639ec8d",
           "time": "05:44",
           "category": "Markets",
@@ -931,17 +964,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/jim-cramer-says-ge-vernova-044446536.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "698c9c2edabb",
-          "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer Says He is “Going to Recommend Buying BILL Holdings”",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-going-recommend-044444443.html",
           "tags": [],
           "impact_score": 1
         },
