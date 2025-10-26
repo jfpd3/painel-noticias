@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T13:53+00:00",
+  "generated_at": "2025-10-26T14:03+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -830,17 +830,6 @@
           "impact_score": 1
         },
         {
-          "id": "0d3e75fa01bd",
-          "time": "10:30",
-          "category": "Crypto",
-          "title": "China's pause on stablecoin projects will not dampen Hong Kong's crypto push, experts say",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/chinas-pause-stablecoin-projects-not-093000232.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "d5649b167acd",
           "time": "10:30",
           "category": "Markets",
@@ -848,6 +837,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/finance/commodities-futures/sanctioned-russian-oil-will-find-new-ways-to-flow-652d0601?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0d3e75fa01bd",
+          "time": "10:30",
+          "category": "Crypto",
+          "title": "China's pause on stablecoin projects will not dampen Hong Kong's crypto push, experts say",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/chinas-pause-stablecoin-projects-not-093000232.html",
           "tags": [],
           "impact_score": 1
         },
