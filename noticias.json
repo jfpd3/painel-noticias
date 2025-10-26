@@ -1,15 +1,37 @@
 {
-  "generated_at": "2025-10-26T16:01+00:00",
+  "generated_at": "2025-10-26T16:51+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-26",
       "attention_points": [
-        "Dow Jones Futures: 'Comprehensive' China Trade Deal Near For Trump-Xi; Huge Earnings, Fed Rate Cut Ahead",
-        "Michigan woman resisting giving up 2.8% mortgage rate to move in with husband — Ramsey Show hosts say it’s a no-brainer",
-        "Bitcoin Bid, XRP Retakes 200-Day Average as Fed Rate Cut Looms; 'Mag 7' Earnings, Trump-Xi Summit Eyed"
+        "Mark Cuban Warns Ending Billionaires Would Destroy Market and Erase Savings: 'Should We Get Rid of the Stock Market?'",
+        "Alibaba’s Qwen Deep Research Creates Live Webpages, Podcasts in Seconds",
+        "Dow Jones Futures: 'Comprehensive' China Trade Deal Near For Trump-Xi; Huge Earnings, Fed Rate Cut Ahead"
       ],
       "items": [
+        {
+          "id": "c3f3a483a9eb",
+          "time": "16:31",
+          "category": "Markets",
+          "title": "Mark Cuban Warns Ending Billionaires Would Destroy Market and Erase Savings: 'Should We Get Rid of the Stock Market?'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/mark-cuban-warns-ending-billionaires-163118038.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "751a13e0145f",
+          "time": "16:01",
+          "category": "Regulation",
+          "title": "Alibaba’s Qwen Deep Research Creates Live Webpages, Podcasts in Seconds",
+          "summary": "Alibaba's Qwen Deep Research now converts reports into live webpages and podcasts with one click. Here's how the free service compares to Gemini, ChatGPT, and Grok.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345517/alibabas-qwen-deep-research-live-webpages-podcasts-seconds",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "1d6daef5b3f9",
           "time": "15:37",
@@ -46,17 +68,6 @@
           "impact_score": 3
         },
         {
-          "id": "1f65e539ec8c",
-          "time": "14:17",
-          "category": "US Macro",
-          "title": "3 Dividend Stocks With Yields Over 5%. Should You Buy?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/3-dividend-stocks-yields-over-141719833.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "cfbddbfde5c3",
           "time": "14:00",
           "category": "Crypto",
@@ -87,7 +98,7 @@
           "title": "‘House is fine, but door is jammed’: AWS outage shows crypto’s weak spot",
           "summary": "The 15-hour Amazon Web Services outage that halted Coinbase, Robinhood and MetaMask revealed how much of Web3 still relies on centralized servers.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/aws-outage-shows-crypto-decentralization-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/aws-outage-shows-crypto-decentralization-weakness?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
         },
@@ -109,7 +120,7 @@
           "title": "Bitcoin price starts $112K breakout as Fed rate-cut odds pass 98%",
           "summary": "Bitcoin price action favored bulls as the weekly close neared, with BTC nearing $113,000 ahead of a key week for the Federal Reserve.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bitcoin-price-starts-112k-breakout-fed-rate-cut-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/bitcoin-price-starts-112k-breakout-fed-rate-cut-odds?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -122,9 +133,35 @@
           "title": "CZ’s pardon came after costly Binance lobbying push in Washington: Politico",
           "summary": "CZ’s pardon by Trump followed a lobbying push that included $450,000 to Trump-linked lobbyists and $290,000 to former SEC chair contender Teresa Goody Guillén.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/cz-pardon-binance-lobbying-trump-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/cz-pardon-binance-lobbying-trump-washington?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "7bb123798f41",
+          "time": "16:31",
+          "category": "Crypto",
+          "title": "'You Don't Need To Buy A Full Bitcoin': Coinbase CEO Brian Armstrong Slams Idea That It Is Too Late To Get Into Crypto",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/dont-buy-full-bitcoin-coinbase-163104426.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "d9314f19e65f",
+          "time": "15:46",
+          "category": "Crypto",
+          "title": "New Lawyer Debates Whether To Stay At $200K Job He Hates Or Take A Pay Cut To Do What He Loves. Dave Ramsey Says There's Never Just 2 Options.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/lawyer-debates-whether-stay-200k-154618450.html",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 2
         },
         {
           "id": "b228c08474b6",
@@ -146,18 +183,7 @@
           "title": "The next era of crypto belongs to decentralized markets",
           "summary": "DeFi trading volumes hit record ratios against CEXs as matured infrastructure and regulatory clarity shift power to transparent, code-driven platforms.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/crypto-belongs-to-decentralized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "3b971ef41d5e",
-          "time": "14:30",
-          "category": "Markets",
-          "title": "Prediction: Archer Stock Will Surge Over the Next 5 Years. Here's 1 Reason Why.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/prediction-archer-stock-surge-over-143000727.html",
+          "url": "https://cointelegraph.com/news/crypto-belongs-to-decentralized-markets?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 2
         },
@@ -193,7 +219,7 @@
           "title": "Here’s what happened in crypto today",
           "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 2
         },
@@ -209,6 +235,72 @@
             "BTC"
           ],
           "impact_score": 2
+        },
+        {
+          "id": "d981b94f479e",
+          "time": "16:09",
+          "category": "Markets",
+          "title": "5 Best Ways To Recover From a Major Money Mistake",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/5-best-ways-recover-major-160907894.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ddc2173fe461",
+          "time": "16:07",
+          "category": "Markets",
+          "title": "Is AppLovin Stock a Bad-News Buy?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/applovin-stock-bad-news-buy-160700484.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8df171baf663",
+          "time": "16:05",
+          "category": "Markets",
+          "title": "TechCrunch Mobility: The ‘robot army’ argument",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/techcrunch-mobility-robot-army-argument-160500541.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1ee889a00f6a",
+          "time": "16:05",
+          "category": "Markets",
+          "title": "Is Cameco Stock a Buy Now?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/cameco-stock-buy-now-160500478.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "85d6ea696e41",
+          "time": "16:01",
+          "category": "Markets",
+          "title": "'Protect Yourself From Me Entirely' — Pregnant Fiancée Says $800K-A-Year Partner's Prenup Makes Her 'Legally And Financially Easy To Discard'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/protect-yourself-entirely-pregnant-fianc-160108141.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8acd4319dba9",
+          "time": "15:53",
+          "category": "Markets",
+          "title": "Is AST SpaceMobile Stock Your Ticket to Becoming a Millionaire?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ast-spacemobile-stock-ticket-becoming-155300636.html",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "5040e1141696",
@@ -229,6 +321,28 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/175-million-scam-jpmorgan-battles-153637617.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6fd1eb9d3f01",
+          "time": "15:35",
+          "category": "Markets",
+          "title": "Is Freeport-McMoRan's Recent Stock Slide a Buying Opportunity for Wise Investors?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/freeport-mcmorans-recent-stock-slide-153500899.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3707c3aac3cb",
+          "time": "15:30",
+          "category": "Markets",
+          "title": "This Quantum Computing Stock Is Up 3,000% Over the Last Year, and the CEO Just Cashed Out. Are Retail Investors Fueling a Bubble?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/quantum-computing-stock-3-000-153000893.html",
           "tags": [],
           "impact_score": 1
         },
@@ -255,61 +369,6 @@
           "impact_score": 1
         },
         {
-          "id": "dc0659ca6ab9",
-          "time": "14:46",
-          "category": "Markets",
-          "title": "Financial Experts Say To Max Out Your 401(k) And Roth IRA Annually, But How Many People Can Actually Afford To Do It?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/financial-experts-max-401-k-144604144.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c234d3ec2e04",
-          "time": "14:30",
-          "category": "Markets",
-          "title": "3 AI Infrastructure Stocks Solving the Power Crisis",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/3-ai-infrastructure-stocks-solving-143000631.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c5a1b24ab622",
-          "time": "14:19",
-          "category": "Markets",
-          "title": "More Rate Cuts Are Coming: Grab 6% High-Yield S&P 500 Stocks Now",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/more-rate-cuts-coming-grab-141941677.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "83219c81214b",
-          "time": "14:16",
-          "category": "Markets",
-          "title": "Bill Cosby's NYC Townhouse Snatched Up In A Flash — Foreclosure Listing Finds Buyer In Under A Month",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bill-cosbys-nyc-townhouse-snatched-141603504.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "33fb6d856149",
-          "time": "14:15",
-          "category": "Markets",
-          "title": "Prediction: ASML Stock Will Soar Over the Next 5 Years. Here's 1 Reason Why.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/prediction-asml-stock-soar-over-141500939.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "81dcb4306eb3",
           "time": "14:01",
           "category": "Crypto",
@@ -317,6 +376,17 @@
           "summary": "Government regulators and legal experts warn that insider trading could proliferate in professional sports as wagers migrate to prediction markets.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345961/sports-betting-scandals-nba-prediction-markets",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b08222908ee3",
+          "time": "13:30",
+          "category": "Markets",
+          "title": "Tesla's Strong FCF Margins Could Imply TSLA Stock is Worth Over $500",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/teslas-strong-fcf-margins-could-133002586.html",
           "tags": [],
           "impact_score": 1
         },
@@ -371,7 +441,7 @@
           "title": "Coinbase wants to bring the entire startup lifecycle onchain, CEO Armstrong says",
           "summary": "Coinbase CEO Brian Armstrong said onchain fundraising could make capital formation “more efficient, fair, and transparent.”",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/coinbase-startup-lifecycle-onchain-armstrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/coinbase-startup-lifecycle-onchain-armstrong?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -382,7 +452,7 @@
           "title": "Coinbase’s x402 transactions explode over 10,000% in a month",
           "summary": "Coinbase’s x402 protocol, which enables AI agents to transact autonomously over the internet, has seen a 10,000% rise in transaction activity over a month.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/coinbases-x402-transactions-rise-10000-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/coinbases-x402-transactions-rise-10000-percent?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -393,7 +463,7 @@
           "title": "Kyrgyzstan launches stablecoin on BNB Chain, confirms future CBDC rollout",
           "summary": "A stablecoin is now live in Kyrgyzstan, which confirmed plans to launch a CBDC and explore a national crypto reserve after meeting with strategic adviser Changpeng Zhao.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/kyrgyzstan-rolls-out-stablecoin-and-confirms-future-cbdc-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/kyrgyzstan-rolls-out-stablecoin-and-confirms-future-cbdc-launch?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         }
@@ -482,7 +552,7 @@
           "title": "Spot Ether ETFs see outflows for second consecutive week amid ‘cooling demand’",
           "summary": "Spot Bitcoin ETFs attracted $446 million in weekly inflows, signaling renewed institutional confidence in BTC as Ether funds faced a second straight week of outflows.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/ethereum-etfs-outflows-bitcoin-inflows-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/ethereum-etfs-outflows-bitcoin-inflows-october-2025?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [
             "ETH"
           ],
@@ -495,7 +565,7 @@
           "title": "Bank of England probes data-mining lending strategies fueling AI bets",
           "summary": "The Bank of England is worried that a rise in financiers' lending to data center lending may cause an AI bubble reminiscent of the dot-com crash in the early 2000s.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bank-of-england-probes-data-mining-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/bank-of-england-probes-data-mining-lending?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
         },
@@ -506,7 +576,7 @@
           "title": "ISM Manufacturing PMI suggests Bitcoin cycle may extend beyond historical norm",
           "summary": "Bitcoin’s market cycles may stretch longer as ISM manufacturing data remains weak, hinting at extended macro headwinds and slower business recovery.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/ism-manufacturing-pmi-bitcoin-cycle-extended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/ism-manufacturing-pmi-bitcoin-cycle-extended?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -519,32 +589,10 @@
           "title": "Mid-tier Bitcoin miners gain ground, reshaping post-halving competition",
           "summary": "Smaller Bitcoin miners surge in hashrate and debt as competition intensifies post-halving, reshaping the industry’s balance of power.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bitcoin-miners-hashrate-debt-ai-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/bitcoin-miners-hashrate-debt-ai-expansion?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
-          "impact_score": 2
-        },
-        {
-          "id": "a13e131b9fd8",
-          "time": "17:46",
-          "category": "Earnings",
-          "title": "IREN Ltd. (IREN) Jumps 12.6% on Renewed AI Frenzy, Upcoming Earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/iren-ltd-iren-jumps-12-164614243.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "e57a5a37667a",
-          "time": "17:45",
-          "category": "Earnings",
-          "title": "Garrett Motion (GTX) Climbs to Fresh High on Impressive Earnings, Upbeat Outlook",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/garrett-motion-gtx-climbs-fresh-164555122.html",
-          "tags": [],
           "impact_score": 2
         },
         {
@@ -565,7 +613,7 @@
           "title": "Ledger’s new multisig interface sparks backlash over 'cash cow' fees",
           "summary": "Ledger’s new multisig app earns praise for tech upgrades but sparks backlash over added transaction fees.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/ledger-multisig-fees-user-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/ledger-multisig-fees-user-backlash?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 2
         },
@@ -602,7 +650,7 @@
           "title": "XRP price eyes rally to $3.45 after Ripple CEO tells investors to ‘lock in’",
           "summary": "XRP eyes a breakout toward $3–$3.45 as strong technical support and Ripple’s expanding institutional push fuel renewed bullish momentum.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/xrp-price-3-45-dollars-ripple-ceo-tells-investors-lock-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/xrp-price-3-45-dollars-ripple-ceo-tells-investors-lock-in?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 2
         },
@@ -653,17 +701,6 @@
           "impact_score": 2
         },
         {
-          "id": "1d6daef5b3f9",
-          "time": "13:30",
-          "category": "Earnings",
-          "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; AI Related Stocks Rally",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "6623fc7c663a",
           "time": "10:49",
           "category": "Crypto",
@@ -696,7 +733,7 @@
           "title": "Rumble partners with Tether to add Bitcoin tips for content creators",
           "summary": "Video sharing platform Rumble has teamed up with Tether to help it add Bitcoin tips to content creators, expected to launch in early to mid-December.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/tether-helps-rumble-add-bitcoin-tips-for-content-creators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/tether-helps-rumble-add-bitcoin-tips-for-content-creators?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC",
             "ETH"
@@ -726,39 +763,6 @@
           "impact_score": 1
         },
         {
-          "id": "b8c69e876e40",
-          "time": "17:46",
-          "category": "Markets",
-          "title": "Fluence Energy (FLNC) Soars 21.8% as Funds Flock to AI",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/fluence-energy-flnc-soars-21-164624790.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "420dc76efc83",
-          "time": "17:46",
-          "category": "Markets",
-          "title": "Opendoor (OPEN) Soars 13% on Rate Cut Prospects for Real Estate Market",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/opendoor-open-soars-13-rate-164604976.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "268dc0a8204c",
-          "time": "17:45",
-          "category": "Markets",
-          "title": "QuantumScape (QS) Soars 14.7% on Impressive Q3",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/quantumscape-qs-soars-14-7-164546036.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "9986eaa9fe6d",
           "time": "17:45",
           "category": "Markets",
@@ -766,28 +770,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/hut-8-hut-soars-17-164538645.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "50c355fc26e7",
-          "time": "17:45",
-          "category": "Markets",
-          "title": "Fermi (FRMI) Ends 5-Day Loss, Soars 18.6% as AI Boosts Anew",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/fermi-frmi-ends-5-day-164529028.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "beb950aced10",
-          "time": "17:45",
-          "category": "Markets",
-          "title": "Grindr (GRND) Soars 18.9% on Billion-Dollar Privatization Bid",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/grindr-grnd-soars-18-9-164510539.html",
           "tags": [],
           "impact_score": 1
         },
@@ -875,7 +857,7 @@
           "title": "Don’t just tokenize assets, build the institutions to back them",
           "summary": "RWA tokenization faces criticism, but regulatory clarity and institutional adoption prove it’s building the foundation for finance’s future.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/tokenization-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/tokenization-institutions?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -908,7 +890,7 @@
           "title": "Countries across Africa approve new crypto laws as adoption grows",
           "summary": "Crypto laws are popping up across Africa as countries race to offer favorable conditions to the crypto industry and balance consumer safety concerns.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/countries-africa-approve-crypto-laws-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/countries-africa-approve-crypto-laws-adoption?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -919,29 +901,7 @@
           "title": "No HMRC letter? UK crypto investors may still owe taxes, expert warns",
           "summary": "HMRC has issued 65,000 crypto tax warning letters, but experts say UK investors who haven’t been contacted could still owe taxes.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/uk-crypto-investors-tax-hmrc-warning-letters-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "fefe0dc9e646",
-          "time": "13:33",
-          "category": "Markets",
-          "title": "Californians keep finding leftover loot from the Gold Rush — 1 man even bought a home with his spoils. How to cash in",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/californians-keep-finding-leftover-loot-123300020.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "13:00",
-          "category": "Markets",
-          "title": "Tesla, AI Plays Lead Five Stocks Near Buy Points Without This Big Risk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/tesla-stock-ai-plays-stocks-buy-points/?src=A00220&yptr=yahoo",
+          "url": "https://cointelegraph.com/news/uk-crypto-investors-tax-hmrc-warning-letters-2025?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -957,24 +917,13 @@
           "impact_score": 1
         },
         {
-          "id": "a36405d0320d",
-          "time": "12:45",
-          "category": "Markets",
-          "title": "MTG admits prices under Trump ‘have not come down at all,’ says young Americans have ‘no hope’ of buying homes",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/mtg-admits-prices-under-trump-114500551.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "35b27860e229",
           "time": "11:33",
           "category": "Crypto",
           "title": "Ferrari to launch digital token to let fans bid on its Le Mans-winning race car",
           "summary": "Ferrari is deepening its crypto push with a new digital token for its top clients, letting them bid on the Le Mans-winning 499P as part of a limited auction set to launch in 2027.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/ferrari-digital-token-lets-fans-bid-on-le-mans-winning-car?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/ferrari-digital-token-lets-fans-bid-on-le-mans-winning-car?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -1062,7 +1011,7 @@
           "title": "Ripple now a one-stop fintech shop after closing Hidden Road acquisition",
           "summary": "Ripple has completed its acquisition of Hidden Road, a move that will expand its fintech services for institutional clients and boost the utility and reach of its RLUSD stablecoin.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/ripple-closes-fintech-hidden-road-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/ripple-closes-fintech-hidden-road-acquisition?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -1094,7 +1043,7 @@
           "title": "Trump to nominate SEC's 'pro-crypto' Michael Selig as CFTC chair: Report",
           "summary": "The rumored nomination of Michael Selig follows the CFTC nomination process hitting a snag in September when Brian Quintenz was withdrawn.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/trump-nominate-sec-michael-selig-cftc-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/trump-nominate-sec-michael-selig-cftc-chair?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
         },
@@ -1127,7 +1076,7 @@
           "title": "Sygnum Bank bets on Bitcoin lending with multisign custody model",
           "summary": "The new product is expected to launch in the first half of 2026 and will let clients borrow fiat against Bitcoin held in multisignature wallets.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/sygnum-bank-debifi-bitcoin-multisig-loan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/sygnum-bank-debifi-bitcoin-multisig-loan?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -1140,7 +1089,7 @@
           "title": "Crypto Biz: Bitcoin whales trade keys for comfort",
           "summary": "Early BTC whales shift to ETFs, giving up keys for TradFi perks, as BlackRock conversions rise and onchain self-custody breaks a 15-year uptrend.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-whales-trade-keys-for-comfort?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-whales-trade-keys-for-comfort?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -1153,7 +1102,7 @@
           "title": "$19B crypto crash opens door to $200K Bitcoin in 2025: Finance Redefined",
           "summary": "Bitcoin may still be on track to $200,000 before the end of the year despite the recent market crash, but a lack of ETF buying continues to limit upside potential.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/19b-crypto-crash-200k-bitcoin-2025-finance-redefined?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/19b-crypto-crash-200k-bitcoin-2025-finance-redefined?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -1218,7 +1167,7 @@
           "title": "Bitcoin miners build on gains after Jane Street discloses stakes",
           "summary": "Shares of leading Bitcoin mining companies rose after Jane Street disclosed new holdings on Thursday, extending a months-long rally across publicly traded mining stocks.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bitcoin-miners-rally-jane-street-bitfarms-cipher-hut-8?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/bitcoin-miners-rally-jane-street-bitfarms-cipher-hut-8?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -1231,7 +1180,7 @@
           "title": "Bitcoin price compression will spark expansion: Will BTC explode toward $120K?",
           "summary": "Bitcoin sellers put a cap on $112,000, but technical, onchain data and the end of October US macroeconomic calendar suggest that the price compression will trigger a violent expansion.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bitcoin-price-compression-will-spark-expansion-will-btc-explode-to-120k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/bitcoin-price-compression-will-spark-expansion-will-btc-explode-to-120k?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -1244,7 +1193,7 @@
           "title": "Coinbase stock surges after JPMorgan upgrade on Base, USDC potential",
           "summary": "JPMorgan sees Coinbase unlocking billions through its Base layer-2 network and USDC rewards overhaul, lifting its price target and fueling a sharp stock rally.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/jpmorgan-upgrades-coinbase-base-usdc-potential?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/jpmorgan-upgrades-coinbase-base-usdc-potential?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 2
         },
@@ -1295,7 +1244,7 @@
           "title": "Price predictions 10/24: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE, LINK, XLM",
           "summary": "Bitcoin bounced off the $107,000 support, but the recovery is expected to face significant resistance in the $112,000 to $116,000 zone. Do charts point to any altcoins taking the lead?",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/price-predictions-10-24-btc-eth-bnb-xrp-sol-doge-ada-hype-link-xlm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/price-predictions-10-24-btc-eth-bnb-xrp-sol-doge-ada-hype-link-xlm?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC",
             "ETH"
@@ -1309,7 +1258,7 @@
           "title": "Bitcoin’s bull market is intact, but key levels signal risk, says Galaxy Digital analyst",
           "summary": "In an interview with Cointelegraph, Galaxy Digital’s head of research explains why Bitcoin is at a pivotal moment, and what could define its next downturn.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/alex-thorn-the-bull-market-is-structurally-intact-but-it-s-at-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/alex-thorn-the-bull-market-is-structurally-intact-but-it-s-at-risk?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -1418,7 +1367,7 @@
           "title": "Binance comeback? CZ’s pardon reignites talk of a US return",
           "summary": "US President Donald Trump said Binance founder Changpeng Zhao had \"a lot of support\" from the crypto industry and was widely recommended for a pardon.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/binance-cz-pardon-us-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/binance-cz-pardon-us-return?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Dlod9cz%26__%3D1761496944046&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -1489,6 +1438,17 @@
           "impact_score": 1
         },
         {
+          "id": "920765aa0145",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Best CD rates today, October 24, 2025 (up to 4.1% APY return)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-october-24-2025-100017058.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "5b843506bddc",
           "time": "06:03",
           "category": "Crypto",
@@ -1505,8 +1465,8 @@
       "date": "2025-10-23",
       "attention_points": [
         "OpenAI's ChatGPT Atlas Browser Has a Big Problem—How Crypto Users Can Protect Themselves",
-        "Revolut Secures MiCA License in Cyprus—Is a Stablecoin Next?",
-        "The MegaETH interview (w/ Bread)"
+        "The MegaETH interview (w/ Bread)",
+        "RAND Warns of AI-Driven Cyber Chaos in New ‘Robot Insurgency’ Report"
       ],
       "items": [
         {
@@ -1517,17 +1477,6 @@
           "summary": "OpenAI's AI web browser faces prompt injection attacks that security experts call an unsolved problem—but there are some things you can do to be safe.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345733/openai-chatgpt-atlas-browser-big-problem-how-crypto-users-protect-themselves",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "e6a4c44afc39",
-          "time": "17:01",
-          "category": "Regulation",
-          "title": "Revolut Secures MiCA License in Cyprus—Is a Stablecoin Next?",
-          "summary": "An EU lawyer said the European banking giant is now ‘positioned to legally issue its own stablecoin,’ with a 2026 launch ‘plausible.’",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345674/revolut-secures-mica-license-in-cyprus-is-a-stablecoin-next",
           "tags": [],
           "impact_score": 3
         },
@@ -1626,6 +1575,17 @@
           "summary": "Coins and tokens linked to crypto mogul Changpeng Zhao and President Trump jumped in price following news of the latest pardon.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345747/bnb-world-liberty-jump-trump-binance-founder",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0e804b5d37d7",
+          "time": "20:32",
+          "category": "US Macro",
+          "title": "How soaring national debt impacts mortgage rates and the housing market",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-national-debt-impacts-housing-market-and-mortgage-rates-193244911.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1924,6 +1884,17 @@
           "summary": "Singapore, Singapore, 20th October 2025, Chainwire",
           "source": "Analysis RSS | CCN.com",
           "url": "https://www.ccn.com/jupiter-launches-ultra-v3-the-ultimate-trading-engine-for-solana/",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "feeeacdad05b",
+          "time": "13:53",
+          "category": "Markets",
+          "title": "Gold price today, Friday, October 24: Gold opens at $4,144 after Trump ends trade talks with Canada",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-october-24-gold-opens-at-4144-after-trump-ends-trade-talks-with-canada-125354307.html",
           "tags": [],
           "impact_score": 1
         },
