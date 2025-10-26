@@ -1,23 +1,34 @@
 {
-  "generated_at": "2025-10-26T18:03+00:00",
+  "generated_at": "2025-10-26T18:52+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-26",
       "attention_points": [
         "Dow Jones Futures: China Trade Deal Close Amid Flurry Of Trump Moves; Huge Earnings, Fed Rate Cut Ahead",
-        "US Treasury chief Bessent says 'substantial' trade framework with China reached",
-        "Alibaba’s Qwen Deep Research Creates Live Webpages, Podcasts in Seconds"
+        "Fed Rate Decision; UnitedHealth, Apple, Microsoft, Visa Earnings; and Many More Stocks to Watch This Week",
+        "US Treasury chief Bessent says 'substantial' trade framework with China reached"
       ],
       "items": [
         {
           "id": "1d6daef5b3f9",
-          "time": "17:31",
+          "time": "18:19",
           "category": "US Macro",
           "title": "Dow Jones Futures: China Trade Deal Close Amid Flurry Of Trump Moves; Huge Earnings, Fed Rate Cut Ahead",
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-china-trade-deal-trump-xi-apple-earnings-fed-rate-cut/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "efbf6c89edea",
+          "time": "18:00",
+          "category": "US Macro",
+          "title": "Fed Rate Decision; UnitedHealth, Apple, Microsoft, Visa Earnings; and Many More Stocks to Watch This Week",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/fed-rate-decision-unitedhealth-apple-microsoft-visa-earnings-fe0b3864?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 3
         },
@@ -224,6 +235,39 @@
           "impact_score": 2
         },
         {
+          "id": "c1f6c237dfb0",
+          "time": "18:09",
+          "category": "Markets",
+          "title": "4 Low-Cost Ways To Start Investing If You Feel Priced Out of Stocks",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/4-low-cost-ways-start-180907579.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "460fb6f1e3e8",
+          "time": "18:01",
+          "category": "Crypto",
+          "title": "'Moments of the Unknown': Justin Aversano Shares Globetrotting Love Letter to Humanity",
+          "summary": "From New York to Antarctica, Justin Aversano's latest work is a journey across continents, cultures, and the human heartbeat.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345942/moments-unknown-justin-aversano-debuts-globetrotting-love-letter-humanity",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1919641ace71",
+          "time": "18:00",
+          "category": "Markets",
+          "title": "Where Will Rigetti Computing Stock Be in 10 Years?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/where-rigetti-computing-stock-10-180000708.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "b54ecba3a47f",
           "time": "17:47",
           "category": "Markets",
@@ -242,6 +286,61 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/single-women-30-more-likely-174500565.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "735636cf49cb",
+          "time": "17:45",
+          "category": "Markets",
+          "title": "Why Pegasystems Stock Skyrocketed This Week",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-pegasystems-stock-skyrocketed-week-174500580.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d11e9fef6874",
+          "time": "17:43",
+          "category": "Markets",
+          "title": "1 Important Tailwind That Could Send Dogecoin Skyrocketing",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/1-important-tailwind-could-send-174300338.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d80146cd41bb",
+          "time": "17:37",
+          "category": "Markets",
+          "title": "2 Incredible Growth Stocks I Can't Stop Buying",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/2-incredible-growth-stocks-cant-173700183.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e293ab3f9b00",
+          "time": "17:33",
+          "category": "Markets",
+          "title": "XRP Is Trailing Badly in This 1 Area. Should You Sell It?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/xrp-trailing-badly-1-area-173300761.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1dd2a926cbff",
+          "time": "17:30",
+          "category": "Markets",
+          "title": "Why AST SpaceMobile Stock Sank This Week",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-ast-spacemobile-stock-sank-173000945.html",
           "tags": [],
           "impact_score": 1
         },
@@ -275,61 +374,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/where-dominos-pizza-5-years-171800950.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "bb4fe063b2d6",
-          "time": "17:15",
-          "category": "Markets",
-          "title": "The state of the meme stock: One person with a thesis is all it takes",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/state-meme-stock-one-person-171501630.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "33f6744fdf34",
-          "time": "17:11",
-          "category": "Markets",
-          "title": "People Believe Writing Off Expenses Saves Them Money, But Dave Ramsey Says Otherwise. 'It's Dumb, Dumb, Dumb. Don't Do It'",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/people-believe-writing-off-expenses-171147600.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "07ea71c35483",
-          "time": "17:10",
-          "category": "US Macro",
-          "title": "North America Set to Cut Rates as Rest of G-7 Looks On",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/north-america-set-cut-rates-200000572.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "542dcabb6a2f",
-          "time": "17:07",
-          "category": "Markets",
-          "title": "Nearly-100-year-old fast food chain closes final restaurants",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nearly-100-old-fast-food-170700987.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f7db10e738d2",
-          "time": "17:05",
-          "category": "Markets",
-          "title": "Prediction: This Artificial Intelligence (AI) Stock Will Join Nvidia, Microsoft, Apple, and Alphabet in the $3 Trillion Club by 2027",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/prediction-artificial-intelligence-ai-stock-170500063.html",
           "tags": [],
           "impact_score": 1
         },
@@ -509,28 +553,6 @@
           "impact_score": 3
         },
         {
-          "id": "4d96178d6ae9",
-          "time": "18:00",
-          "category": "Markets",
-          "title": "My husband wants to buy a $60K truck — but we’re $30K in debt and saving for a house. How do we get on the same page?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/husband-wants-buy-60k-truck-170000787.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "f912f64344c8",
-          "time": "17:17",
-          "category": "Markets",
-          "title": "I have $12K in my checking account and I was told by my bank that's too much",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/12k-checking-account-told-bank-161700554.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "a5ed7065ec27",
           "time": "17:00",
           "category": "Crypto",
@@ -577,6 +599,17 @@
           "url": "https://cointelegraph.com/news/bank-of-england-probes-data-mining-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "9d422180e13e",
+          "time": "22:58",
+          "category": "Earnings",
+          "title": "What You Need to Know Ahead of Waters Corporation's Earnings Release",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/know-ahead-waters-corporations-earnings-215801417.html",
+          "tags": [],
+          "impact_score": 2
         },
         {
           "id": "fe39dafcc00b",
@@ -686,17 +719,6 @@
           "impact_score": 2
         },
         {
-          "id": "a899f29aa9b3",
-          "time": "15:55",
-          "category": "Markets",
-          "title": "Moody’s Puts France on Watch for a Credit Downgrade. Why It’s Become a ‘Hot Mess.’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/france-credit-rating-downgrade-moodys-700510c5?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "8ed67cf8dd22",
           "time": "14:05",
           "category": "Crypto",
@@ -746,6 +768,28 @@
             "ETH"
           ],
           "impact_score": 2
+        },
+        {
+          "id": "9202e38026f5",
+          "time": "23:05",
+          "category": "Markets",
+          "title": "Exxon sues California over climate disclosure laws",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/exxon-sues-california-over-climate-220521266.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d5bf76830c8f",
+          "time": "22:44",
+          "category": "Markets",
+          "title": "ExxonMobil sues California over climate disclosure laws",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/exxonmobil-sues-california-over-climate-214436516.html",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "6f23bed4705d",
@@ -854,28 +898,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/clover-health-clov-jumps-19-164442772.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "d7dc3d990bbc",
-          "time": "16:00",
-          "category": "Markets",
-          "title": "After a Massive 207.5% Run-Up, Is This AI Stock Still a Buy?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/massive-207-5-run-ai-150002788.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "26f7f7f12ab2",
-          "time": "16:00",
-          "category": "Markets",
-          "title": "A new 401(k) rule is coming in 2026 for millions of high-earning Americans — what to know if you’re in this group",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/401-k-rule-coming-2026-150000299.html",
           "tags": [],
           "impact_score": 1
         },
