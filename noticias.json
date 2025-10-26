@@ -1,15 +1,41 @@
 {
-  "generated_at": "2025-10-26T14:03+00:00",
+  "generated_at": "2025-10-26T15:02+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-26",
       "attention_points": [
-        "Teucrium CEO: 'Enormous Interest' in XRP, 'Extraordinary’ Success for Firm's XRP ETF",
-        "‘House is fine, but door is jammed’: AWS outage shows crypto’s weak spot",
-        "HELOC rates today, October 26, 2025: Lower, and with a Fed cut looming, rates may fall further"
+        "Bitcoin Bid, XRP Retakes 200-Day Average as Fed Rate Cut Looms; 'Mag 7' Earnings, Trump-Xi Summit Eyed",
+        "Gold’s Pause is Bitcoin’s Pulse as Risk Appetite Returns Ahead of the Fed Week",
+        "Teucrium CEO: 'Enormous Interest' in XRP, 'Extraordinary’ Success for Firm's XRP ETF"
       ],
       "items": [
+        {
+          "id": "90bedf2f0a79",
+          "time": "14:38",
+          "category": "Crypto",
+          "title": "Bitcoin Bid, XRP Retakes 200-Day Average as Fed Rate Cut Looms; 'Mag 7' Earnings, Trump-Xi Summit Eyed",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/26/bitcoin-bid-xrp-tops-200-day-average-as-fed-rate-cut-looms-mag-7-earnings-trump-xi-summit-eyed",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 3
+        },
+        {
+          "id": "cfbddbfde5c3",
+          "time": "14:00",
+          "category": "Crypto",
+          "title": "Gold’s Pause is Bitcoin’s Pulse as Risk Appetite Returns Ahead of the Fed Week",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/26/gold-s-pause-is-bitcoin-s-pulse-as-risk-appetite-returns-ahead-of-the-fed-week",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 3
+        },
         {
           "id": "0d4d2d97c984",
           "time": "13:11",
@@ -68,6 +94,28 @@
           "impact_score": 3
         },
         {
+          "id": "4fc9f6d8c566",
+          "time": "14:30",
+          "category": "Crypto",
+          "title": "The next era of crypto belongs to decentralized markets",
+          "summary": "DeFi trading volumes hit record ratios against CEXs as matured infrastructure and regulatory clarity shift power to transparent, code-driven platforms.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/crypto-belongs-to-decentralized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "b9b8c786603d",
+          "time": "14:00",
+          "category": "Crypto",
+          "title": "Solana's Marinade Labs CEO Eyes Lower Barrier to Entry for Validators After 'Alpenglow' Upgrade",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/tech/2025/10/26/solana-s-marinade-labs-ceo-eyes-lower-barrier-to-entry-for-validators-after-alpenglow-upgrade",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "49c527967aef",
           "time": "12:55",
           "category": "Crypto",
@@ -104,6 +152,17 @@
             "BTC"
           ],
           "impact_score": 2
+        },
+        {
+          "id": "81dcb4306eb3",
+          "time": "14:01",
+          "category": "Crypto",
+          "title": "Betting Scandals Are Rocking Sports. Will Prediction Markets Help or Hurt?",
+          "summary": "Government regulators and legal experts warn that insider trading could proliferate in professional sports as wagers migrate to prediction markets.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/345961/sports-betting-scandals-nba-prediction-markets",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "5cc306d3c276",
@@ -239,28 +298,6 @@
           "impact_score": 3
         },
         {
-          "id": "8dd3d69841bb",
-          "time": "13:15",
-          "category": "Markets",
-          "title": "Is the Vanguard Russell 2000 Index Fund ETF a Buy Now?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/vanguard-russell-2000-index-fund-121500038.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "a8f73b62190b",
-          "time": "12:56",
-          "category": "US Macro",
-          "title": "Why Warren Buffett Now Holds More Cash Than the Fed — What That Signals About the Market",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-warren-buffett-now-holds-115608866.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "f6b153e9079c",
           "time": "10:10",
           "category": "Crypto",
@@ -319,6 +356,28 @@
           "tags": [
             "BTC"
           ],
+          "impact_score": 2
+        },
+        {
+          "id": "e57a5a37667a",
+          "time": "17:45",
+          "category": "Earnings",
+          "title": "Garrett Motion (GTX) Climbs to Fresh High on Impressive Earnings, Upbeat Outlook",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/garrett-motion-gtx-climbs-fresh-164555122.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "a6e68089a032",
+          "time": "17:44",
+          "category": "Markets",
+          "title": "Cipher Mining (CIFR) Surges 19.7% on AI Boom",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/cipher-mining-cifr-surges-19-164432867.html",
+          "tags": [],
           "impact_score": 2
         },
         {
@@ -403,6 +462,17 @@
           "impact_score": 2
         },
         {
+          "id": "bd71df9ef3af",
+          "time": "14:05",
+          "category": "Crypto",
+          "title": "Bitmine’s Tom Lee Sees Crypto Rally Into Year-End, Says S&P 500 Could Climb Another 10%",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bitmine-tom-lee-sees-crypto-130514049.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "698b5af9877b",
           "time": "14:00",
           "category": "Crypto",
@@ -427,17 +497,6 @@
           "impact_score": 2
         },
         {
-          "id": "a226f7303205",
-          "time": "13:00",
-          "category": "Markets",
-          "title": "Is Applied Materials Stock a Buy as AI Chip Manufacturing Surges?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/applied-materials-stock-buy-ai-120000046.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "6623fc7c663a",
           "time": "10:49",
           "category": "Crypto",
@@ -448,17 +507,6 @@
           "tags": [
             "BTC"
           ],
-          "impact_score": 2
-        },
-        {
-          "id": "8c2ab00b5bc3",
-          "time": "10:30",
-          "category": "Earnings",
-          "title": "Nexperia parent Wingtech warns of 'cash flow risk' despite 280% surge in quarterly profit",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nexperia-parent-wingtech-warns-cash-093000510.html",
-          "tags": [],
           "impact_score": 2
         },
         {
@@ -507,6 +555,72 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/25/sol-now-on-fidelity-s-retail-platform-as-price-tests-usd195-while-usd188-support-draws-focus",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b8c69e876e40",
+          "time": "17:46",
+          "category": "Markets",
+          "title": "Fluence Energy (FLNC) Soars 21.8% as Funds Flock to AI",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fluence-energy-flnc-soars-21-164624790.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "268dc0a8204c",
+          "time": "17:45",
+          "category": "Markets",
+          "title": "QuantumScape (QS) Soars 14.7% on Impressive Q3",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/quantumscape-qs-soars-14-7-164546036.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9986eaa9fe6d",
+          "time": "17:45",
+          "category": "Markets",
+          "title": "Hut 8 (HUT) Soars 17% as Funds Flock to HPC",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/hut-8-hut-soars-17-164538645.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "50c355fc26e7",
+          "time": "17:45",
+          "category": "Markets",
+          "title": "Fermi (FRMI) Ends 5-Day Loss, Soars 18.6% as AI Boosts Anew",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/fermi-frmi-ends-5-day-164529028.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "beb950aced10",
+          "time": "17:45",
+          "category": "Markets",
+          "title": "Grindr (GRND) Soars 18.9% on Billion-Dollar Privatization Bid",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/grindr-grnd-soars-18-9-164510539.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "047b1fd9b923",
+          "time": "17:44",
+          "category": "Markets",
+          "title": "Clover Health (CLOV) Jumps 19.4% on “Buy” Reco",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/clover-health-clov-jumps-19-164442772.html",
           "tags": [],
           "impact_score": 1
         },
@@ -566,6 +680,39 @@
           "impact_score": 1
         },
         {
+          "id": "a4f2d39871d1",
+          "time": "14:51",
+          "category": "Crypto",
+          "title": "Bitwise CEO Reacts as LinkedIn Founder Buys a CryptoPunk",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bitwise-ceo-reacts-linkedin-founder-135106441.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ad191936d241",
+          "time": "14:46",
+          "category": "Markets",
+          "title": "A Study Says San Francisco's Housing Costs Have Returned To 'Normal' Levels – So Why Is It Still So Unaffordable?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/study-says-san-franciscos-housing-134606886.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5a76690169cd",
+          "time": "14:45",
+          "category": "Markets",
+          "title": "Insiders Are Scooping Up Shares of a Miner, a Driller, and a Biotech",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/insiders-scooping-shares-miner-driller-134503731.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "fa65fb73121f",
           "time": "14:35",
           "category": "Crypto",
@@ -588,6 +735,17 @@
           "impact_score": 1
         },
         {
+          "id": "285fa55898ab",
+          "time": "14:16",
+          "category": "Markets",
+          "title": "'There Are A Million Ways' To Replace Rental Income: Suze Orman Shares Advice For Retirees Selling Property",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/million-ways-replace-rental-income-131645287.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "f61ba559286c",
           "time": "14:13",
           "category": "Markets",
@@ -595,6 +753,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/self-made-millionaires-dish-5-131300366.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "51626a235cd3",
+          "time": "14:07",
+          "category": "Markets",
+          "title": "5 Financial Pitfalls To Avoid in 2026, According to Economists",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/5-financial-pitfalls-avoid-2026-130703951.html",
           "tags": [],
           "impact_score": 1
         },
@@ -617,6 +786,17 @@
           "summary": "Crypto laws are popping up across Africa as countries race to offer favorable conditions to the crypto industry and balance consumer safety concerns.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/countries-africa-approve-crypto-laws-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3466b7266b25",
+          "time": "13:59",
+          "category": "Crypto",
+          "title": "Crypto Mergers and Acquisitions Reach an All-Time High at $10 Billion",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/crypto-mergers-acquisitions-reach-time-125913304.html",
           "tags": [],
           "impact_score": 1
         },
@@ -654,68 +834,24 @@
           "impact_score": 1
         },
         {
-          "id": "280549d5688d",
+          "id": "8926be13d1b9",
           "time": "13:30",
           "category": "Markets",
-          "title": "Cineverse price target lowered to $9 from $10 at Benchmark",
+          "title": "Boise Cascade price target lowered to $95 from $100 at DA Davidson",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cineverse-price-target-lowered-9-123031453.html",
+          "url": "https://finance.yahoo.com/news/boise-cascade-price-target-lowered-123054849.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "d5302d48c3bc",
+          "id": "3dddd16089c0",
           "time": "13:30",
           "category": "Markets",
-          "title": "Winnebago price target raised to $38 from $32 at DA Davidson",
+          "title": "Integer price target lowered to $95 from $143 at Raymond James",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/winnebago-price-target-raised-38-123019710.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "089bf0d49c69",
-          "time": "13:30",
-          "category": "Regulation",
-          "title": "Stablecoin Use for Payments Jumps 70% Since US Regulation",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stablecoin-payments-jumps-70-since-123000991.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8479f748f7a8",
-          "time": "13:18",
-          "category": "Markets",
-          "title": "5 Ways To Mitigate Risk as You Plan Financially for Retirement",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/5-ways-mitigate-risk-plan-121816053.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8b0b62bb9720",
-          "time": "13:05",
-          "category": "Markets",
-          "title": "3 Warren Buffett Tips That Could Help the Upper Class Become Richer",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/3-warren-buffett-tips-could-120514104.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ee840af5faa6",
-          "time": "13:01",
-          "category": "Markets",
-          "title": "How Much Would It Take To Earn $100 A Month From SL Green Realty Stock",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/much-earn-100-month-sl-120146516.html",
+          "url": "https://finance.yahoo.com/news/integer-price-target-lowered-95-123048302.html",
           "tags": [],
           "impact_score": 1
         },
@@ -826,28 +962,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-saturday-october-25-2025-100000897.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "d5649b167acd",
-          "time": "10:30",
-          "category": "Markets",
-          "title": "Sanctioned Russian Oil Will Find New Ways to Flow",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/commodities-futures/sanctioned-russian-oil-will-find-new-ways-to-flow-652d0601?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0d3e75fa01bd",
-          "time": "10:30",
-          "category": "Crypto",
-          "title": "China's pause on stablecoin projects will not dampen Hong Kong's crypto push, experts say",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/chinas-pause-stablecoin-projects-not-093000232.html",
           "tags": [],
           "impact_score": 1
         },
@@ -965,19 +1079,6 @@
           "impact_score": 3
         },
         {
-          "id": "7b4c768f59df",
-          "time": "19:00",
-          "category": "Crypto",
-          "title": "$19B crypto crash opens door to $200K Bitcoin in 2025: Finance Redefined",
-          "summary": "Bitcoin may still be on track to $200,000 before the end of the year despite the recent market crash, but a lack of ETF buying continues to limit upside potential.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/19b-crypto-crash-200k-bitcoin-2025-finance-redefined?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 3
-        },
-        {
           "id": "d2df926e8906",
           "time": "16:54",
           "category": "Crypto",
@@ -986,19 +1087,6 @@
           "source": "Decrypt",
           "url": "https://decrypt.co/345863/crypto-com-files-national-bank-charter-following-circle-stripe-coinbase",
           "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "c73eef6c6777",
-          "time": "15:17",
-          "category": "Crypto",
-          "title": "Crypto Markets Today: BTC Reclaims $110K as Softer CPI Boosts Market Sentiment, Altcoins Lag",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/24/crypto-markets-today-btc-reclaims-usd110k-as-softer-cpi-boosts-market-sentiment-altcoins-lag",
-          "tags": [
-            "BTC"
-          ],
           "impact_score": 3
         },
         {
@@ -1276,17 +1364,6 @@
           "impact_score": 1
         },
         {
-          "id": "4a86f770e07a",
-          "time": "19:15",
-          "category": "Markets",
-          "title": "Wall Street is wary of being burned by the ‘Milei trade’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/wall-street-wary-being-burned-181551498.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "d0c33bc00224",
           "time": "19:10",
           "category": "Crypto",
@@ -1298,17 +1375,6 @@
           "impact_score": 1
         },
         {
-          "id": "4d6f48198449",
-          "time": "16:54",
-          "category": "Crypto",
-          "title": "HBAR Slides 1.7% to $0.170 as Channel Support Crumbles",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/24/hbar-slides-1-7-to-usd0-170-as-channel-support-crumbles",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "1e9174fdb41d",
           "time": "15:40",
           "category": "Crypto",
@@ -1316,17 +1382,6 @@
           "summary": "The gaming firms behind FIFA and PUBG are betting on AI to transform their workflows, saying it’ll enable more creativity from humans.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345847/gaming-giants-electronic-arts-krafton-going-big-generative-ai",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5a04200dd4ce",
-          "time": "15:31",
-          "category": "Crypto",
-          "title": "Crypto Exchange Gemini Gets Price Target Cut at Citi, While Bullish Earns Hike",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/24/crypto-exchange-gemini-gets-price-target-cut-at-citi-while-bullish-earns-hike",
           "tags": [],
           "impact_score": 1
         },
@@ -1364,39 +1419,6 @@
           "impact_score": 1
         },
         {
-          "id": "ec67a8de4742",
-          "time": "11:00",
-          "category": "US Macro",
-          "title": "Best high-yield savings interest rates today, October 24, 2025 (up to 4.25% APY return)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-october-24-2025-100049791.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "a4daa522f15d",
-          "time": "11:00",
-          "category": "US Macro",
-          "title": "Best money market account rates today, October 24, 2025 (up to 4.26% APY return)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-friday-october-24-2025-100033189.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "204e5f48ae61",
-          "time": "11:00",
-          "category": "US Macro",
-          "title": "HELOC rates today, October 24, 2025: Primed for another move lower",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-friday-october-24-2025-100029756.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "920765aa0145",
           "time": "11:00",
           "category": "US Macro",
@@ -1404,17 +1426,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-october-24-2025-100017058.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "118e802ffa98",
-          "time": "11:00",
-          "category": "US Macro",
-          "title": "Mortgage and refinance interest rates today, October 24, 2025: Now at a more than a one-year low",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-october-24-2025-100009224.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1604,13 +1615,13 @@
           "impact_score": 1
         },
         {
-          "id": "e2b9d72bce33",
-          "time": "16:27",
-          "category": "Crypto",
-          "title": "Trump Pardons Binance Founder Changpeng Zhao After Biden's 'War on Crypto'",
-          "summary": "U.S. President Donald Trump has pardoned Binance founder Changpeng \"CZ\" Zhao, the White House confirmed to Decrypt.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345681/trump-pardons-binance-founder-changpeng-zhao",
+          "id": "800cd904ac6e",
+          "time": "17:23",
+          "category": "Markets",
+          "title": "Elon Musk presses for $1 trillion pay plan because he needs to influence Tesla's future 'robot army'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/elon-musk-presses-for-1-trillion-pay-plan-because-he-needs-to-influence-teslas-future-robot-army-162353294.html",
           "tags": [],
           "impact_score": 1
         }
@@ -1865,17 +1876,6 @@
           "summary": "Singapore, Singapore, 20th October 2025, Chainwire",
           "source": "Analysis RSS | CCN.com",
           "url": "https://www.ccn.com/jupiter-launches-ultra-v3-the-ultimate-trading-engine-for-solana/",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "feeeacdad05b",
-          "time": "13:53",
-          "category": "Markets",
-          "title": "Gold price today, Friday, October 24: Gold opens at $4,144 after Trump ends trade talks with Canada",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-october-24-gold-opens-at-4144-after-trump-ends-trade-talks-with-canada-125354307.html",
           "tags": [],
           "impact_score": 1
         },
