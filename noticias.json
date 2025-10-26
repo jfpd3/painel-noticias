@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T07:56+00:00",
+  "generated_at": "2025-10-26T08:44+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -142,28 +142,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/looking-yields-comcast-hp-maa-020105281.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "55ba1d4a6fd6",
-          "time": "01:01",
-          "category": "Markets",
-          "title": "Can The Growing ETF Market Lead To The Stock Market's Undoing?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/growing-etf-market-lead-stock-000106115.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "6a51d5f257e4",
-          "time": "00:02",
-          "category": "Markets",
-          "title": "69-year-old furniture chain goes out of business, no bankruptcy",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/69-old-furniture-store-chain-230229334.html",
           "tags": [],
           "impact_score": 3
         },
@@ -314,31 +292,6 @@
           "impact_score": 2
         },
         {
-          "id": "5063e029fd2f",
-          "time": "02:36",
-          "category": "Earnings",
-          "title": "Church & Dwight's Quarterly Earnings Preview: What You Need to Know",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/church-dwights-quarterly-earnings-preview-013649200.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "18419afce86b",
-          "time": "02:31",
-          "category": "Crypto",
-          "title": "'Pet Rock' No More: JPMorgan To Accept Bitcoin, Ethereum As Collateral",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/pet-rock-no-more-jpmorgan-013104388.html",
-          "tags": [
-            "BTC",
-            "ETH"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "b5154c4d546f",
           "time": "01:16",
           "category": "Crypto",
@@ -481,6 +434,160 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/25/dogecoin-hits-usd0-20-as-breakout-volume-triples-average-confirms-bullish-setup",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6a0f6a1c9d44",
+          "time": "06:00",
+          "category": "Markets",
+          "title": "Very Group loses £500m on loan to Barclay family",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/very-group-loses-500m-loan-050000225.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d3c98f4fc567",
+          "time": "06:00",
+          "category": "Markets",
+          "title": "Worried About the AI Bubble? How to Stay Invested in Stocks Without Getting Burned.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/stock-market-bubble-ai-investments-68733125?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9aecac4074ce",
+          "time": "05:59",
+          "category": "Markets",
+          "title": "The Southern Company (SO) Receives a Price Target Update",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/southern-company-receives-price-target-045939941.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0271fce25a25",
+          "time": "05:59",
+          "category": "Markets",
+          "title": "Jeffries Raises Price Target for Eversource Energy (ES)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jeffries-raises-price-target-eversource-045927275.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "36ca0f966969",
+          "time": "05:59",
+          "category": "Earnings",
+          "title": "FirstEnergy (FE) Reports its Q3 Results",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/firstenergy-fe-reports-q3-results-045915347.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e061cc20c8cd",
+          "time": "05:59",
+          "category": "Markets",
+          "title": "Exelon Corporation (EXC) Price Target Raised by $4 at Morgan Stanley",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/exelon-corporation-exc-price-target-045903881.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "acc69a7d7538",
+          "time": "05:58",
+          "category": "Markets",
+          "title": "Duke Energy Corporation (DUK) Price Target Raised by $9 at Morgan Stanley",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/duke-energy-corporation-duk-price-045843356.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2d83010a04db",
+          "time": "05:57",
+          "category": "Markets",
+          "title": "Public Service Enterprise Group (PEG) – Price Target Raised at Morgan Stanley",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/public-enterprise-group-peg-price-045740758.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "38be369dd989",
+          "time": "05:57",
+          "category": "Markets",
+          "title": "Evergy (EVRG) – One of the Best Utility Stocks to Buy for Dividends",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/evergy-evrg-one-best-utility-045723750.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e9da153fa8ae",
+          "time": "05:57",
+          "category": "Markets",
+          "title": "Clearway Energy (CWEN) Receives an Updated Price Target from CIBC",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/clearway-energy-cwen-receives-updated-045709865.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a9625fa49aba",
+          "time": "05:56",
+          "category": "Markets",
+          "title": "Jeffries Raises its Price Target on OGE Energy (OGE)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jeffries-raises-price-target-oge-045635328.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "16e7e6bbc09d",
+          "time": "05:56",
+          "category": "Markets",
+          "title": "Is Dominion Energy (D) One of the Best Utility Stocks to Buy for Dividends?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/dominion-energy-d-one-best-045615647.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "daaca0b81b0c",
+          "time": "05:55",
+          "category": "Markets",
+          "title": "Brookfield Renewable Corporation (BEPC) – Among the Best Utility Dividend Stocks to Buy Now",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/brookfield-renewable-corporation-bepc-among-045553393.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "287b3213a382",
+          "time": "05:49",
+          "category": "Markets",
+          "title": "Zelle Expands Abroad With Stablecoins, But Details Remain Elusive",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/zelle-expands-abroad-stablecoins-details-044957656.html",
           "tags": [],
           "impact_score": 1
         },
@@ -694,6 +801,50 @@
           "impact_score": 1
         },
         {
+          "id": "c83dc73d2c9e",
+          "time": "05:06",
+          "category": "US Macro",
+          "title": "The latest inflation data was exactly the fuel stocks needed to close at fresh all-time highs",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/latest-inflation-data-exactly-fuel-223121715.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b1e8195ae358",
+          "time": "05:00",
+          "category": "Markets",
+          "title": "AI takes center stage in payments as Money20/20 explores finance’s next frontier",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ai-takes-center-stage-payments-040000314.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b97dd3227c90",
+          "time": "04:31",
+          "category": "Markets",
+          "title": "Ford CEO Jim Farley Predicts EV Adoption In US Will Only Be About 5% As Company Pauses F-150 Lightning Production",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ford-ceo-jim-farley-predicts-033138695.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "fbf1fcddaaa2",
+          "time": "04:26",
+          "category": "US Macro",
+          "title": "Inflation accelerated in September, with prices up 3%",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/inflation-continued-accelerate-september-203200006.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "859108295e0c",
           "time": "03:04",
           "category": "Markets",
@@ -716,17 +867,6 @@
           "impact_score": 1
         },
         {
-          "id": "4156dbc361e3",
-          "time": "02:35",
-          "category": "Markets",
-          "title": "Who Wants to be a CEO? Fewer and Fewer People are Interested in the Top Job.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/wants-ceo-fewer-fewer-people-013501274.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "efa648e3d0e6",
           "time": "01:24",
           "category": "Crypto",
@@ -736,105 +876,17 @@
           "url": "https://www.coindesk.com/markets/2025/10/25/ripple-prime-is-the-fintech-firm-s-one-stop-institutional-trading-and-financing-desk",
           "tags": [],
           "impact_score": 1
-        },
-        {
-          "id": "bea0c9194014",
-          "time": "01:02",
-          "category": "Markets",
-          "title": "GM Stock Gets a Buy Rating—With Caveats. Plus, Lithia Motors, Vertiv Holdings, and More.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/gm-stock-gets-a-buy-ratingwith-caveats-plus-lithia-motors-vertiv-holdings-and-more-96cdc00a?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3e464170b5ab",
-          "time": "01:00",
-          "category": "Markets",
-          "title": "The Cracker Barrel Mess Isn’t Over Yet",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/the-cracker-barrel-logo-mess-c57d23e8?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "13c7b3388261",
-          "time": "00:45",
-          "category": "Crypto",
-          "title": "AI Chatbots Were Told to Trade Crypto. The Returns Were Ugly.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/ai-chatbots-were-told-to-trade-crypto-the-returns-were-ugly-5c6467d3?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "123896135662",
-          "time": "00:31",
-          "category": "US Macro",
-          "title": "Tesla Operates In Five Continents, A Sixth Could Be On The Way With This Country",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/tesla-operates-five-continents-sixth-233116358.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "a0f769e7354d",
-          "time": "00:30",
-          "category": "Markets",
-          "title": "Undervalued and Profitable: This Magnificent Artificial Intelligence (AI) Stock Can Soar Higher After Skyrocketing 140% in 2025",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/undervalued-profitable-magnificent-artificial-intelligence-233000574.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8d4a0805f27b",
-          "time": "00:01",
-          "category": "Markets",
-          "title": "'Am I Losing Out?' — 30-Year-Old Woman Hesitates to Fund Retirement While Saving for a Home",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/am-losing-30-old-woman-230116555.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "cb6d929d6dd9",
-          "time": "00:00",
-          "category": "Markets",
-          "title": "The 5 Highest-Yielding ‘Strong Buy’ Dividend Stocks To Own for Generations",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/5-highest-yielding-strong-buy-230002115.html",
-          "tags": [],
-          "impact_score": 1
         }
       ]
     },
     {
       "date": "2025-10-24",
       "attention_points": [
-        "The Fed Will Soon End QT to Avoid a Financial ‘Plumbing’ Problem",
         "Trump to nominate SEC's 'pro-crypto' Michael Selig as CFTC chair: Report",
-        "Trump Picks SEC Crypto Task Force’s Mike Selig to Run CFTC: Report"
+        "Trump Picks SEC Crypto Task Force’s Mike Selig to Run CFTC: Report",
+        "Custodia, Vantage Expand Pilot Into Live Tokenized Deposit Network for US Banks"
       ],
       "items": [
-        {
-          "id": "4a08235c9dd7",
-          "time": "23:53",
-          "category": "US Macro",
-          "title": "The Fed Will Soon End QT to Avoid a Financial ‘Plumbing’ Problem",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/federal-reserve-end-balance-sheet-reduction-fomc-qt-e5b340f4?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
         {
           "id": "031f0ba1f35b",
           "time": "23:03",
@@ -879,17 +931,6 @@
           "tags": [
             "BTC"
           ],
-          "impact_score": 3
-        },
-        {
-          "id": "30bc894a095b",
-          "time": "21:00",
-          "category": "US Macro",
-          "title": "Stock market today: Dow, S&P 500, Nasdaq surge to records as tame inflation cements Fed rate cut bets",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-surge-to-records-as-tame-inflation-cements-fed-rate-cut-bets-200014567.html",
-          "tags": [],
           "impact_score": 3
         },
         {
@@ -1230,50 +1271,6 @@
           "url": "https://decrypt.co/345780/woman-warned-canadian-exchange-crypto-scammed-anyway",
           "tags": [],
           "impact_score": 2
-        },
-        {
-          "id": "d6ba3678171f",
-          "time": "23:43",
-          "category": "Earnings",
-          "title": "Alaska Airlines Outage Results in Hundreds of Canceled Flights",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/airlines/alaska-airlines-grounds-flights-due-to-tech-outage-844dc044?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b11879642938",
-          "time": "23:19",
-          "category": "Markets",
-          "title": "JPMorgan Chase wants out of paying $115M legal tab for convicted fraudsters",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jpmorgan-chase-wants-paying-115m-221931178.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "cbfc1a0bf61e",
-          "time": "23:16",
-          "category": "Markets",
-          "title": "Novavax, Core Scientific, and More Stocks See Action From Activist Investors",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/novavax-core-scientific-and-more-stocks-see-action-from-activist-investors-41bc6124?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "203f353c1fc7",
-          "time": "23:15",
-          "category": "Markets",
-          "title": "Aeromexico asks US court to block Trump order forcing end to Delta joint venture",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/aeromexico-asks-us-court-block-221510280.html",
-          "tags": [],
-          "impact_score": 1
         },
         {
           "id": "fc21e581ac5c",
