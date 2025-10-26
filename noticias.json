@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T04:44+00:00",
+  "generated_at": "2025-10-26T04:55+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -778,20 +778,6 @@
           "impact_score": 2
         },
         {
-          "id": "0a08ee474982",
-          "time": "22:02",
-          "category": "Crypto",
-          "title": "YouTube Rival Rumble Teams With Tether to Add Bitcoin Tipping for Creators",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/youtube-rival-rumble-teams-tether-210259375.html",
-          "tags": [
-            "BTC",
-            "ETH"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "5f6adac38924",
           "time": "21:58",
           "category": "Earnings",
@@ -800,19 +786,6 @@
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/finance/stocks/s-p-500-climbs-to-new-record-on-strong-earnings-0be1c68f?siteid=yhoof2&yptr=yahoo",
           "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "44029c35d600",
-          "time": "21:53",
-          "category": "Crypto",
-          "title": "Wall Street giant Jane Street bets big on Bitcoin mining stocks",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/wall-street-giant-jane-street-205358907.html",
-          "tags": [
-            "BTC"
-          ],
           "impact_score": 2
         },
         {
@@ -848,50 +821,6 @@
           "tags": [
             "ETH"
           ],
-          "impact_score": 2
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "21:30",
-          "category": "Earnings",
-          "title": "American Airlines Hikes Outlook, Southwest Posts Record Q3 Revenue",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/american-airlines-earnings-q3-2025-aal-stock-southwest-luv-travel-demand-outlook/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "0af64e2c1f3b",
-          "time": "21:27",
-          "category": "Earnings",
-          "title": "Ford Stock Jumps as It Grinds Out an Earnings Beat in a Quarter of Setbacks",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/ford-earnings-stock-price-3186b9b4?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "b1bea1635d9f",
-          "time": "21:26",
-          "category": "Markets",
-          "title": "Booz Allen Stock Drops. This Is the Problem.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/booz-allen-stock-earnings-a9dd7f78?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "d01abbe4f2b6",
-          "time": "21:24",
-          "category": "Earnings",
-          "title": "General Dyamics Stock Rises on Earnings. Aerospace Was a Standout.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/general-dyamics-earnings-stock-price-066f30f2?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
           "impact_score": 2
         },
         {
@@ -1068,6 +997,61 @@
           "impact_score": 2
         },
         {
+          "id": "b11879642938",
+          "time": "23:19",
+          "category": "Markets",
+          "title": "JPMorgan Chase wants out of paying $115M legal tab for convicted fraudsters",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jpmorgan-chase-wants-paying-115m-221931178.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "cbfc1a0bf61e",
+          "time": "23:16",
+          "category": "Markets",
+          "title": "Novavax, Core Scientific, and More Stocks See Action From Activist Investors",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/novavax-core-scientific-and-more-stocks-see-action-from-activist-investors-41bc6124?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "203f353c1fc7",
+          "time": "23:15",
+          "category": "Markets",
+          "title": "Aeromexico asks US court to block Trump order forcing end to Delta joint venture",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/aeromexico-asks-us-court-block-221510280.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e819c29c2ab1",
+          "time": "23:13",
+          "category": "Markets",
+          "title": "Soybeans Correct Back Lower Ahead of the Weekend",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/soybeans-correct-back-lower-ahead-221316025.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6e8d06671feb",
+          "time": "23:13",
+          "category": "Markets",
+          "title": "Corn Heads Lower into the Weekend",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/corn-heads-lower-weekend-221316169.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "ed7d17956d12",
           "time": "22:57",
           "category": "Markets",
@@ -1108,6 +1092,28 @@
           "summary": "DraftKings buys Railbird, Canaan rebounds from near-delisting, and Zelle embraces stablecoins in this week's Public Keys.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345947/public-keys-draftkings-canaan-zelle-stablecoins",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "571db18ac9f3",
+          "time": "22:31",
+          "category": "Markets",
+          "title": "Public Keys: DraftKings Gets Predictable, Canaan Turns Around and Zelle Likes Stables",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/public-keys-draftkings-gets-predictable-213122964.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a1aa6673bf58",
+          "time": "22:31",
+          "category": "Markets",
+          "title": "Scott Bessent Says Things Are Looking Up For The US Economy: 2026, 2027 Are Going To Be 'Great Years' Thanks To Trump's Tax Reforms",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/scott-bessent-says-things-looking-213108726.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1262,17 +1268,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/heard-on-the-street-recap-keep-on-truckin--AtaMd4UJGlSjyvWwGWU8?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c500fb1bec02",
-          "time": "21:26",
-          "category": "Markets",
-          "title": "Rivian Is Cutting Jobs. The Stock Fell.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/rivian-stock-price-job-cuts-ev-71680064?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
