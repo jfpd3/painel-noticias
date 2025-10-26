@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T06:01+00:00",
+  "generated_at": "2025-10-26T06:54+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -37,7 +37,7 @@
       "date": "2025-10-25",
       "attention_points": [
         "Trump Names SEC Crypto Task Force Head Selig as Next Nominee to Run U.S. CFTC",
-        "First U.S. Spot XRP ETF Surpasses $100M in Assets Under Management",
+        "REX-Osprey XRP ETF (XRPR) Surpasses $100M in Assets Under Management",
         "Bitcoin Treasury Firms Now Valued at Less Than Their BTC Holdings Amid Crumbled Sentiment"
       ],
       "items": [
@@ -56,7 +56,7 @@
           "id": "42d1ca54040d",
           "time": "21:00",
           "category": "Crypto",
-          "title": "First U.S. Spot XRP ETF Surpasses $100M in Assets Under Management",
+          "title": "REX-Osprey XRP ETF (XRPR) Surpasses $100M in Assets Under Management",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/25/first-u-s-spot-xrp-etf-surpasses-usd100m-in-assets-under-management",
@@ -108,6 +108,28 @@
           "summary": "The Bank of England is worried that a rise in financiers' lending to data center lending may cause an AI bubble reminiscent of the dot-com crash in the early 2000s.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/bank-of-england-probes-data-mining-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "55ba1d4a6fd6",
+          "time": "01:01",
+          "category": "Markets",
+          "title": "Can The Growing ETF Market Lead To The Stock Market's Undoing?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/growing-etf-market-lead-stock-000106115.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "6a51d5f257e4",
+          "time": "00:02",
+          "category": "Markets",
+          "title": "69-year-old furniture chain goes out of business, no bankruptcy",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/69-old-furniture-store-chain-230229334.html",
           "tags": [],
           "impact_score": 3
         },
@@ -231,6 +253,17 @@
           "tags": [
             "BTC"
           ],
+          "impact_score": 2
+        },
+        {
+          "id": "5063e029fd2f",
+          "time": "02:36",
+          "category": "Earnings",
+          "title": "Church & Dwight's Quarterly Earnings Preview: What You Need to Know",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/church-dwights-quarterly-earnings-preview-013649200.html",
+          "tags": [],
           "impact_score": 2
         },
         {
@@ -391,6 +424,39 @@
           "impact_score": 1
         },
         {
+          "id": "859108295e0c",
+          "time": "03:04",
+          "category": "Markets",
+          "title": "Delta, Aeromexico ask court to block Trump order forcing end to JV",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/delta-aeromexico-ask-court-block-020412211.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b8064c46d067",
+          "time": "03:00",
+          "category": "Markets",
+          "title": "Why Bubbles Can Keep Inflating in Plain Sight",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/finance/stocks/why-bubbles-can-keep-inflating-in-plain-sight-a4af6aef?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2098b7f3d5b4",
+          "time": "01:25",
+          "category": "Markets",
+          "title": "IPO-rumored company beats every Wall Street giant with 99% profit margin",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ipo-rumored-company-beats-every-002518444.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "efa648e3d0e6",
           "time": "01:24",
           "category": "Crypto",
@@ -398,6 +464,17 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/25/ripple-prime-is-the-fintech-firm-s-one-stop-institutional-trading-and-financing-desk",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9464c6a8a549",
+          "time": "01:24",
+          "category": "Markets",
+          "title": "Ripple Prime Is the Fintech Firm’s One-Stop Institutional Trading and Financing Desk",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ripple-prime-fintech-firm-one-002422009.html",
           "tags": [],
           "impact_score": 1
         },
@@ -431,6 +508,39 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/ai-chatbots-were-told-to-trade-crypto-the-returns-were-ugly-5c6467d3?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "123896135662",
+          "time": "00:31",
+          "category": "US Macro",
+          "title": "Tesla Operates In Five Continents, A Sixth Could Be On The Way With This Country",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/tesla-operates-five-continents-sixth-233116358.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a0f769e7354d",
+          "time": "00:30",
+          "category": "Markets",
+          "title": "Undervalued and Profitable: This Magnificent Artificial Intelligence (AI) Stock Can Soar Higher After Skyrocketing 140% in 2025",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/undervalued-profitable-magnificent-artificial-intelligence-233000574.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8d4a0805f27b",
+          "time": "00:01",
+          "category": "Markets",
+          "title": "'Am I Losing Out?' — 30-Year-Old Woman Hesitates to Fund Retirement While Saving for a Home",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/am-losing-30-old-woman-230116555.html",
           "tags": [],
           "impact_score": 1
         },
@@ -518,17 +628,6 @@
           "summary": "The two banks have moved from pilot to production with a platform that lets U.S. lenders issue interoperable tokenized deposits compliant with the GENIUS Act.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345909/custodia-vantage-pilot-live-tokenized-deposit-network-us-banks",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "6379c081ec67",
-          "time": "22:28",
-          "category": "Markets",
-          "title": "Custodia, Vantage Expand Pilot Into Live Tokenized Deposit Network for US Banks",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/custodia-vantage-expand-pilot-live-212809514.html",
           "tags": [],
           "impact_score": 3
         },
@@ -716,17 +815,6 @@
           "impact_score": 2
         },
         {
-          "id": "472b63b87a01",
-          "time": "23:00",
-          "category": "Earnings",
-          "title": "Core Scientific releases Q3 2025 earnings, reports 45% boost to AI revenue",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/core-scientific-releases-q3-2025-220028813.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "1d6daef5b3f9",
           "time": "22:55",
           "category": "Earnings",
@@ -758,17 +846,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-10-24-2025/card/podcast-inflation-report-sends-u-s-stocks-to-records-oRGXCxMaKKo1W3rWxian?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "5cf65ede80ba",
-          "time": "22:24",
-          "category": "Markets",
-          "title": "Gold Ends Record-Breaking Rally with First Weekly Loss in Ten",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/gold-snap-nine-week-winning-233436846.html",
           "tags": [],
           "impact_score": 2
         },
@@ -816,17 +893,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/finance/stocks/s-p-500-climbs-to-new-record-on-strong-earnings-0be1c68f?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "21:53",
-          "category": "Markets",
-          "title": "Vertiv Stock Notches Record High On Robust Data Center Business",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/technology/vertiv-stock-record-high-data-center-business/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 2
         },
@@ -1094,17 +1160,6 @@
           "impact_score": 1
         },
         {
-          "id": "2886ceaf50a2",
-          "time": "22:45",
-          "category": "Markets",
-          "title": "Why Coursera Stock Plummeted Today",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-coursera-stock-plummeted-today-214549451.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "945ad0613141",
           "time": "22:36",
           "category": "Markets",
@@ -1134,28 +1189,6 @@
           "summary": "DraftKings buys Railbird, Canaan rebounds from near-delisting, and Zelle embraces stablecoins in this week's Public Keys.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345947/public-keys-draftkings-canaan-zelle-stablecoins",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "571db18ac9f3",
-          "time": "22:31",
-          "category": "Markets",
-          "title": "Public Keys: DraftKings Gets Predictable, Canaan Turns Around and Zelle Likes Stables",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/public-keys-draftkings-gets-predictable-213122964.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "a1aa6673bf58",
-          "time": "22:31",
-          "category": "Markets",
-          "title": "Scott Bessent Says Things Are Looking Up For The US Economy: 2026, 2027 Are Going To Be 'Great Years' Thanks To Trump's Tax Reforms",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/scott-bessent-says-things-looking-213108726.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1233,39 +1266,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-cb93b220?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c9dfb51f8f96",
-          "time": "21:56",
-          "category": "Markets",
-          "title": "Energy & Utilities Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/energy-utilities-roundup-market-talk-c42fb49e?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "06230ec57492",
-          "time": "21:55",
-          "category": "Markets",
-          "title": "Tech, Media & Telecom Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/investing/tech-media-telecom-roundup-market-talk-4b81d2db?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "21:50",
-          "category": "Markets",
-          "title": "Broadcom, IBD Stock Of The Day, Gains Custom AI Chip Business",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/research/ibd-stock-of-the-day/broadcom-stock-avgo-custom-ai-chip-business-2/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
