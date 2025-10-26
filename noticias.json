@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T23:47+00:00",
+  "generated_at": "2025-10-26T23:58+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -130,17 +130,6 @@
           "summary": "Alibaba's Qwen Deep Research now converts reports into live webpages and podcasts with one click. Here's how the free service compares to Gemini, ChatGPT, and Grok.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345517/alibabas-qwen-deep-research-live-webpages-podcasts-seconds",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "e8d1ef305e38",
-          "time": "15:29",
-          "category": "Markets",
-          "title": "Michigan woman resisting giving up 2.8% mortgage rate to move in with husband — Ramsey Show hosts say it’s a no-brainer",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/michigan-woman-resisting-giving-2-152900576.html",
           "tags": [],
           "impact_score": 3
         },
@@ -373,6 +362,17 @@
           "impact_score": 2
         },
         {
+          "id": "4f451054be8e",
+          "time": "23:15",
+          "category": "Markets",
+          "title": "One of Wall Street's Largest Stock Splits in History Could Be Announced on October 29",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/one-wall-streets-largest-stock-231500275.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "dd5a19daf9ae",
           "time": "23:08",
           "category": "Markets",
@@ -380,6 +380,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/suze-orman-2m-retirement-savings-230858068.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4edb873317ec",
+          "time": "23:07",
+          "category": "Markets",
+          "title": "How to Become a Dividend Millionaire",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/become-dividend-millionaire-230700480.html",
           "tags": [],
           "impact_score": 1
         },
@@ -556,17 +567,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/warren-buffetts-wealth-building-tips-205228814.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6904f8925f17",
-          "time": "20:34",
-          "category": "Markets",
-          "title": "Gold Surpasses US Treasuries for the First Time in 30 Years",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/gold-surpasses-us-treasuries-first-203442334.html",
           "tags": [],
           "impact_score": 1
         },
