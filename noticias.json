@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T10:39+00:00",
+  "generated_at": "2025-10-26T10:50+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -181,6 +181,17 @@
           "impact_score": 3
         },
         {
+          "id": "fbb823724af4",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Netflix: “I Think This Sell-Off is an Overreaction”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-netflix-think-sell-044455150.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "4020d0f15b06",
           "time": "03:09",
           "category": "Crypto",
@@ -335,17 +346,6 @@
           "tags": [
             "BTC"
           ],
-          "impact_score": 2
-        },
-        {
-          "id": "cc8c3aace36d",
-          "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer Highlights Intuitive Surgical Rally on Unexpected Procedure Growth",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-highlights-intuitive-surgical-044449478.html",
-          "tags": [],
           "impact_score": 2
         },
         {
@@ -550,6 +550,17 @@
           "impact_score": 1
         },
         {
+          "id": "c06fd62558a6",
+          "time": "09:50",
+          "category": "Markets",
+          "title": "Prediction: 2 Stocks That'll Be Worth More Than Apple 5 Years From Now",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/prediction-2-stocks-thatll-worth-085000506.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "645fc008fa23",
           "time": "09:46",
           "category": "Markets",
@@ -601,17 +612,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/2-ai-stocks-partnered-nvidia-075700987.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e91ce35766af",
-          "time": "08:45",
-          "category": "Markets",
-          "title": "Got $5,000? 2 Tech Stocks to Buy and Hold for the Long Term",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/got-5-000-2-tech-074500313.html",
           "tags": [],
           "impact_score": 1
         },
@@ -803,13 +803,13 @@
           "impact_score": 1
         },
         {
-          "id": "2532e5283dda",
-          "time": "05:44",
+          "id": "a48b483ada32",
+          "time": "05:45",
           "category": "Markets",
-          "title": "Jim Cramer on Trilogy Metals: “Has Been Losing Money Year After Year After Year’",
+          "title": "Jim Cramer on Tecogen: “I Kind of Like This One, but it’s Really Speculative”",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-trilogy-metals-losing-044458228.html",
+          "url": "https://finance.yahoo.com/news/jim-cramer-tecogen-kind-one-044502878.html",
           "tags": [],
           "impact_score": 1
         },
@@ -825,17 +825,6 @@
           "impact_score": 1
         },
         {
-          "id": "8772cb0ff12f",
-          "time": "05:44",
-          "category": "Markets",
-          "title": "Jim Cramer Uses Capital One as an Example of Real Economy Stocks",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-uses-capital-one-044452971.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "62e97ec39238",
           "time": "05:44",
           "category": "Markets",
@@ -843,17 +832,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/jim-cramer-texas-instruments-don-044450779.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f44d2d6ac4cd",
-          "time": "05:44",
-          "category": "Earnings",
-          "title": "Jim Cramer Notes Vertiv’s Strong Results",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-notes-vertiv-strong-044447848.html",
           "tags": [],
           "impact_score": 1
         },
@@ -876,6 +854,39 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/jim-cramer-says-going-recommend-044444443.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1acc93a76145",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Uranium Energy: “Don’t Buy These Uranium Companies”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-uranium-energy-don-044443188.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "45e7853dabfa",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer on Microvast: “I Liked it a Year Ago, and I Continue to Like it Now”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-microvast-liked-ago-044441075.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "38475796c217",
+          "time": "05:44",
+          "category": "Markets",
+          "title": "Jim Cramer Says Constellation Energy is a Good Company but “It’s Up Too Much”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-constellation-energy-044440561.html",
           "tags": [],
           "impact_score": 1
         },
