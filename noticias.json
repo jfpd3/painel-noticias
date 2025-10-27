@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-27T04:53+00:00",
+  "generated_at": "2025-10-27T05:03+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -135,6 +135,17 @@
             "BTC"
           ],
           "impact_score": 2
+        },
+        {
+          "id": "8f565c91656d",
+          "time": "04:48",
+          "category": "Crypto",
+          "title": "XRP’s Clean Technical Break Repositions Bulls for $2.80 Push",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/27/xrp-s-clean-technical-break-repositions-bulls-for-usd2-80-push",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "8795b9e3130d",
@@ -287,6 +298,28 @@
           "impact_score": 3
         },
         {
+          "id": "3e6ff59ac1df",
+          "time": "08:29",
+          "category": "Regulation",
+          "title": "The Boeing Company (NYSE:BA) Secures US Army Orders For 9 Chinook Helicopters Worth $461 Million",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/boeing-company-nyse-ba-secures-082930731.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "639442d2d30d",
+          "time": "08:26",
+          "category": "Regulation",
+          "title": "General Dynamics (GD) Secures $3.5 Billion Contract from Germany for Next-Gen Reconnaissance Vehicle",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/general-dynamics-gd-secures-3-082658587.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "6df5fc3b566d",
           "time": "08:06",
           "category": "Regulation",
@@ -371,6 +404,17 @@
           "impact_score": 2
         },
         {
+          "id": "3a1b2d6e2c42",
+          "time": "08:29",
+          "category": "Earnings",
+          "title": "Several Analysts Lift RTX Corporation (RTX)’s Price Targets Following Q3 Earnings Beat",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/several-analysts-lift-rtx-corporation-082928918.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "ae7d72c78fd2",
           "time": "08:05",
           "category": "Crypto",
@@ -435,6 +479,83 @@
           "summary": "Government regulators and legal experts warn that insider trading could proliferate in professional sports as wagers migrate to prediction markets.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345961/sports-betting-scandals-nba-prediction-markets",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f06af49e7ee2",
+          "time": "10:00",
+          "category": "US Macro",
+          "title": "Best money market account rates today, October 26, 2025 (best account provides 4.26% APY)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-october-26-2025-100008934.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "537f2dae7b9e",
+          "time": "09:05",
+          "category": "Markets",
+          "title": "Dave Ramsey explained why teachers become millionaires so often. Here's what we can learn from them",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/dave-ramsey-explained-why-teachers-090500325.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "63a027507dff",
+          "time": "08:29",
+          "category": "Markets",
+          "title": "The Republic of Korea Selects L3Harris Technologies, Inc. (LHX) for Airborne Early Warning and Control Aircraft Program",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/republic-korea-selects-l3harris-technologies-082936443.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5908b0c94bff",
+          "time": "08:29",
+          "category": "Markets",
+          "title": "Is TransDigm Group Incorporated (TDG) Among the 10 Largest Defense Stocks in 2025?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/transdigm-group-incorporated-tdg-among-082934992.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "38c5be285a6b",
+          "time": "08:29",
+          "category": "Markets",
+          "title": "Northrop Grumman Corporation (NOC) Eyes More Air Force Contracts For B-21 By Year End",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/northrop-grumman-corporation-noc-eyes-082933281.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1db539619cc2",
+          "time": "08:29",
+          "category": "Earnings",
+          "title": "Bernstein Lifts Lockheed Martin Corporation (LMT)’s Price Target, Citing Strong Top-line Growth Outlook",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bernstein-lifts-lockheed-martin-corporation-082931480.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e374ba7f9733",
+          "time": "08:29",
+          "category": "Markets",
+          "title": "UBS Raises GE Aerospace (GE)’s Price Target to $366, Maintains Buy Rating",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ubs-raises-ge-aerospace-ge-082926454.html",
           "tags": [],
           "impact_score": 1
         },
@@ -809,39 +930,6 @@
           "impact_score": 2
         },
         {
-          "id": "a13e131b9fd8",
-          "time": "17:46",
-          "category": "Earnings",
-          "title": "IREN Ltd. (IREN) Jumps 12.6% on Renewed AI Frenzy, Upcoming Earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/iren-ltd-iren-jumps-12-164614243.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "e57a5a37667a",
-          "time": "17:45",
-          "category": "Earnings",
-          "title": "Garrett Motion (GTX) Climbs to Fresh High on Impressive Earnings, Upbeat Outlook",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/garrett-motion-gtx-climbs-fresh-164555122.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "a6e68089a032",
-          "time": "17:44",
-          "category": "Markets",
-          "title": "Cipher Mining (CIFR) Surges 19.7% on AI Boom",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cipher-mining-cifr-surges-19-164432867.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "3e76ec9eb46c",
           "time": "17:34",
           "category": "Crypto",
@@ -1007,6 +1095,17 @@
           "impact_score": 1
         },
         {
+          "id": "1ed3384c27e2",
+          "time": "19:12",
+          "category": "Markets",
+          "title": "How one Wall Street Rising Star went from tech investing to building a tire shop business",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/one-wall-street-rising-star-181202514.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "946dc1194a43",
           "time": "19:03",
           "category": "Markets",
@@ -1069,94 +1168,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/asked-chatgpt-much-d-pay-172508796.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "228e60652a42",
-          "time": "18:06",
-          "category": "Markets",
-          "title": "After a Couple of Deep Cuts in Recent Years, This 6.2%-Yielding Dividend Is Getting Healthier and Could Start Heading Higher in 2026 and Beyond",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/couple-deep-cuts-recent-years-170600006.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b8c69e876e40",
-          "time": "17:46",
-          "category": "Markets",
-          "title": "Fluence Energy (FLNC) Soars 21.8% as Funds Flock to AI",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/fluence-energy-flnc-soars-21-164624790.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "420dc76efc83",
-          "time": "17:46",
-          "category": "Markets",
-          "title": "Opendoor (OPEN) Soars 13% on Rate Cut Prospects for Real Estate Market",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/opendoor-open-soars-13-rate-164604976.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "268dc0a8204c",
-          "time": "17:45",
-          "category": "Markets",
-          "title": "QuantumScape (QS) Soars 14.7% on Impressive Q3",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/quantumscape-qs-soars-14-7-164546036.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "9986eaa9fe6d",
-          "time": "17:45",
-          "category": "Markets",
-          "title": "Hut 8 (HUT) Soars 17% as Funds Flock to HPC",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hut-8-hut-soars-17-164538645.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "50c355fc26e7",
-          "time": "17:45",
-          "category": "Markets",
-          "title": "Fermi (FRMI) Ends 5-Day Loss, Soars 18.6% as AI Boosts Anew",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/fermi-frmi-ends-5-day-164529028.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "beb950aced10",
-          "time": "17:45",
-          "category": "Markets",
-          "title": "Grindr (GRND) Soars 18.9% on Billion-Dollar Privatization Bid",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/grindr-grnd-soars-18-9-164510539.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "047b1fd9b923",
-          "time": "17:44",
-          "category": "Markets",
-          "title": "Clover Health (CLOV) Jumps 19.4% on “Buy” Reco",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/clover-health-clov-jumps-19-164442772.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1300,17 +1311,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-saturday-october-25-2025-100000897.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6fb5555453c4",
-          "time": "07:34",
-          "category": "Crypto",
-          "title": "Inverse Head-and-Shoulders Breakout Puts XRP on Track for $2.80 Test",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/25/inverse-head-and-shoulders-breakout-puts-xrp-on-track-for-usd2-80-test",
           "tags": [],
           "impact_score": 1
         },
