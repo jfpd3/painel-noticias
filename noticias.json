@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-27T11:34+00:00",
+  "generated_at": "2025-10-27T11:48+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -53,17 +53,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/dat-execs-two-forums-discuss-110000291.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "3a91dd758efd",
-          "time": "10:54",
-          "category": "Crypto",
-          "title": "The Crypto Market Is Exploding — and One Man Is Betting on Its Collapse",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/crypto-market-exploding-one-man-105427238.html",
           "tags": [],
           "impact_score": 3
         },
@@ -387,6 +376,50 @@
           "impact_score": 2
         },
         {
+          "id": "4a0c30e2a0c5",
+          "time": "11:29",
+          "category": "Markets",
+          "title": "Wright Flood to acquire Poulton Associates",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/wright-flood-acquire-poulton-associates-112954898.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8d1d5bc68a6b",
+          "time": "11:25",
+          "category": "Markets",
+          "title": "Great Northern Minerals acquires Catalyst Ridge project in California",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/great-northern-minerals-acquires-catalyst-112502750.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f61f0b21b10f",
+          "time": "11:24",
+          "category": "Markets",
+          "title": "UBS Group restructures executive board",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ubs-group-restructures-executive-board-112405715.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "09c3d8079fc9",
+          "time": "11:21",
+          "category": "Markets",
+          "title": "Oil prices fall after US and China reach trade deal framework",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/oil-prices-fall-us-china-112114344.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "e22a5a5cf066",
           "time": "11:15",
           "category": "Markets",
@@ -497,6 +530,17 @@
           "impact_score": 1
         },
         {
+          "id": "c773e51892ba",
+          "time": "11:06",
+          "category": "Markets",
+          "title": "1 Incredible Reason to Buy Palantir (PLTR) Stock in November",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/1-incredible-reason-buy-palantir-110600300.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "60f4f7283698",
           "time": "11:02",
           "category": "Markets",
@@ -530,17 +574,6 @@
           "impact_score": 1
         },
         {
-          "id": "55813381fb75",
-          "time": "11:00",
-          "category": "US Macro",
-          "title": "Treasuries Are Falling Across Curve as Trade Optimism Takes Hold",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/treasuries-falling-across-curve-trade-073029935.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "68988d4d4483",
           "time": "11:00",
           "category": "Markets",
@@ -548,28 +581,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/tech/ai/the-ai-startup-fueling-chatgpts-expertise-is-now-valued-at-10-billion-f1281e56?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8b51d8c38714",
-          "time": "10:55",
-          "category": "Markets",
-          "title": "Oil prices fall after US and China reach trade deal framework",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/oil-prices-fall-us-china-105512148.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "03373f301db1",
-          "time": "10:55",
-          "category": "Markets",
-          "title": "Boomers Should Always Buy These 10 Things in Retirement",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/10-things-boomers-always-buy-120020570.html",
           "tags": [],
           "impact_score": 1
         },
@@ -746,17 +757,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/articles/auto-transport-roundup-0a19aca0?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f52fb53e3c4c",
-          "time": "09:50",
-          "category": "Markets",
-          "title": "Financial Services Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-26593b7a?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
