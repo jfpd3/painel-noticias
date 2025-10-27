@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-27T07:02+00:00",
+  "generated_at": "2025-10-27T07:37+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -606,6 +606,17 @@
           "impact_score": 1
         },
         {
+          "id": "f06af49e7ee2",
+          "time": "10:00",
+          "category": "US Macro",
+          "title": "Best money market account rates today, October 26, 2025 (best account provides 4.26% APY)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-october-26-2025-100008934.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "266b8a30c763",
           "time": "09:46",
           "category": "Markets",
@@ -879,6 +890,17 @@
           "url": "https://www.wsj.com/personal-finance/taxes/salt-cap-tax-deduction-guide-05756b47?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
+        },
+        {
+          "id": "295eb181ccf6",
+          "time": "00:03",
+          "category": "Markets",
+          "title": "5 Frugal Habits Suze Orman Still Follows, Even as a Millionaire",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/5-frugal-habits-suze-orman-140128491.html",
+          "tags": [],
+          "impact_score": 1
         }
       ]
     },
@@ -935,17 +957,6 @@
           "impact_score": 3
         },
         {
-          "id": "0bad03b8e912",
-          "time": "20:00",
-          "category": "Earnings",
-          "title": "Georgia woman’s husband keeps her in the dark about their finances — Dave Ramsey says to act now or ‘shut up about it’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/georgia-woman-husband-keeps-her-190000980.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "a5ed7065ec27",
           "time": "17:00",
           "category": "Crypto",
@@ -992,32 +1003,6 @@
           "url": "https://cointelegraph.com/news/ism-manufacturing-pmi-bitcoin-cycle-extended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "7bd2db46b406",
-          "time": "20:16",
-          "category": "Crypto",
-          "title": "Elon Musk's SpaceX Shakes Up Bitcoin Market With $133 Million Transfer",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/elon-musks-spacex-shakes-bitcoin-191617879.html",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "e66e9cd6a2e4",
-          "time": "20:00",
-          "category": "Crypto",
-          "title": "I Asked ChatGPT Whether Downsizing Saves Money in Retirement: Here’s What It Said",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/asked-chatgpt-whether-downsizing-saves-090101547.html",
-          "tags": [
-            "ETH"
           ],
           "impact_score": 2
         },
@@ -1092,6 +1077,39 @@
           "url": "https://www.coindesk.com/markets/2025/10/25/bitmine-s-tom-lee-sees-crypto-rally-into-year-end-says-s-and-p-500-could-climb-another-10",
           "tags": [],
           "impact_score": 2
+        },
+        {
+          "id": "a9e3b572ab14",
+          "time": "23:31",
+          "category": "Markets",
+          "title": "A Dave Ramsey Caller Asked If Buying A Classic Muscle Car Beats Buying A Home. Here's The Rare Case Where That Decision Might Pay Off",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/dave-ramsey-caller-asked-buying-223114039.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7f9c3f2fa748",
+          "time": "23:20",
+          "category": "Markets",
+          "title": "1 Magnificent Oil Stock Down 18% to Buy and Hold Forever",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/1-magnificent-oil-stock-down-222000590.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "925085bb6a33",
+          "time": "23:12",
+          "category": "Markets",
+          "title": "Every American Express (AXP) Investor Should Keep an Eye on This Number",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/every-american-express-axp-investor-221200772.html",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "d1d16bb87027",
@@ -1178,28 +1196,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/exxon-sues-california-over-climate-195659671.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f1c6247dafaa",
-          "time": "20:18",
-          "category": "Markets",
-          "title": "Trump Refilling Strategic Petroleum Reserve – Big Oil Could Benefit",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/trump-refilling-strategic-petroleum-big-191857738.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4bb130b475b5",
-          "time": "20:13",
-          "category": "Markets",
-          "title": "Goldman Sachs revisits gold price target for 2026",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/goldman-sachs-revisits-gold-price-191300756.html",
           "tags": [],
           "impact_score": 1
         },
