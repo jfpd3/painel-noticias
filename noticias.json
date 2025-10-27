@@ -1,23 +1,34 @@
 {
-  "generated_at": "2025-10-27T09:57+00:00",
+  "generated_at": "2025-10-27T10:49+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-27",
       "attention_points": [
-        "Blackstone’s affiliate to invest $705m in India’s Federal Bank for 9.99% stake",
-        "Dollar mixed as investors eye central bank decisions, trade talks",
-        "Trump-Xi Meeting, Fed Rate Decision, Apple Earnings: What to Watch This Week"
+        "Bank of Canada poised to cut rates to 2.25% amid economic slowdown",
+        "ClearBank to Join Circle Payments Network, Expanding Access to MiCA-Compliant Stablecoins",
+        "Dollar mixed as investors eye central bank decisions, trade talks"
       ],
       "items": [
         {
-          "id": "03217b49c41a",
-          "time": "09:38",
+          "id": "43db0a6b12bf",
+          "time": "10:13",
           "category": "US Macro",
-          "title": "Blackstone’s affiliate to invest $705m in India’s Federal Bank for 9.99% stake",
+          "title": "Bank of Canada poised to cut rates to 2.25% amid economic slowdown",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/blackstone-affiliate-invest-705m-india-093849482.html",
+          "url": "https://finance.yahoo.com/news/bank-canada-poised-cut-rates-101329321.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "d2ab046ba95e",
+          "time": "10:08",
+          "category": "Crypto",
+          "title": "ClearBank to Join Circle Payments Network, Expanding Access to MiCA-Compliant Stablecoins",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/business/2025/10/27/clearbank-to-join-circle-payments-network-expanding-access-to-mica-compliant-stablecoins",
           "tags": [],
           "impact_score": 3
         },
@@ -88,28 +99,6 @@
           "impact_score": 3
         },
         {
-          "id": "0a634cb3c3d5",
-          "time": "09:10",
-          "category": "US Macro",
-          "title": "Euro Zone to Get Hard Data on Tariff Damage as ECB Sets Rates",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/euro-zone-hard-data-tariff-050000376.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "24e3423401a6",
-          "time": "09:05",
-          "category": "Regulation",
-          "title": "Prediction: This Dividend-Paying Dow Jones Growth Stock Will Beat the S&P 500 For the 6th Consecutive Year in 2026",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/prediction-dividend-paying-dow-jones-090500405.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "4615db93a3bd",
           "time": "09:00",
           "category": "Crypto",
@@ -132,17 +121,6 @@
           "impact_score": 3
         },
         {
-          "id": "cbd7a0f6d958",
-          "time": "07:31",
-          "category": "US Macro",
-          "title": "French Bond Yields Edge Up in Line With Market After Moody’s Lowers Outlook",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/jgbs-mixed-ahead-of-president-trumps-visit-to-japan-ecc916c9?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "660900268ac6",
           "time": "06:53",
           "category": "Regulation",
@@ -150,17 +128,6 @@
           "summary": "The lawsuit claims Microsoft hid cheaper subscription plans from 2.7 million users after bundling AI tools and raising prices by up to 45%.",
           "source": "Decrypt",
           "url": "https://decrypt.co/346035/microsoft-sued-australia-365-price-hikes-tied-ai-copilot-rollout",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "81d4ba51b566",
-          "time": "06:35",
-          "category": "US Macro",
-          "title": "Dollar hits two-week high against yen as trade talks, Fed meeting loom",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/dollar-hits-two-week-high-063544889.html",
           "tags": [],
           "impact_score": 3
         },
@@ -186,28 +153,6 @@
           "tags": [
             "BTC"
           ],
-          "impact_score": 3
-        },
-        {
-          "id": "78551c694bd9",
-          "time": "05:28",
-          "category": "Markets",
-          "title": "Softbank-Backed Lenskart Solutions Seeks to Raise Up to $829 Million in India IPO",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/retail/softbank-backed-lenskart-solutions-seeks-to-raise-up-to-829m-in-india-ipo-301ffcbe?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "972450f48b32",
-          "time": "05:00",
-          "category": "US Macro",
-          "title": "The Fed May Lower Rates Slower Than Markets Are Expecting in 2026",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/fed-interest-rates-markets-2026-20217763?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
           "impact_score": 3
         },
         {
@@ -259,6 +204,54 @@
           "impact_score": 3
         },
         {
+          "id": "3f33e2af736a",
+          "time": "10:35",
+          "category": "Crypto",
+          "title": "BTC price eyes record monthly close: 5 things to know in Bitcoin this week",
+          "summary": "Bitcoin rebounded to $116,000, but traders stay nervous about the bull market while stocks soar on news of a likely US-China trade deal.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/btc-price-eyes-record-monthly-close-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "279663e64071",
+          "time": "10:27",
+          "category": "Crypto",
+          "title": "From outflows to inflows: Bitcoin ETPs rally amid surprising economic update",
+          "summary": "Bitcoin, which had been the main driver of crypto ETP outflows a week earlier, almost fully recovered its losses with $931 million in inflows last week.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/crypto-funds-921-million-inflows-cpi-data-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "b061a3562461",
+          "time": "10:13",
+          "category": "Markets",
+          "title": "Gold Extends Drop as US-China Trade Progress Erodes Haven Demand",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/gold-extends-drop-us-china-232041519.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "8feedc59fc36",
+          "time": "10:04",
+          "category": "Earnings",
+          "title": "Big Tech to report earnings under specter of AI bubble",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/big-tech-report-earnings-under-100429438.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "b9817f2b8199",
           "time": "08:47",
           "category": "US Macro",
@@ -266,83 +259,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/stocks-rally-safe-havens-retreat-084744444.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "35441f52fb21",
-          "time": "08:00",
-          "category": "Earnings",
-          "title": "🎧 Markets Last Week: Earnings Movers, Warner Plans, AWS Outage",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-27-2025/card/markets-last-week-earnings-movers-warner-plans-aws-outage-OkQtqWKdt3cJpIq9QSCy?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "c82c5e0faa89",
-          "time": "07:54",
-          "category": "Earnings",
-          "title": "Galp Expects to Exceed Full-Year Guidance After Earnings Rise",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/earnings/galp-expects-to-exceed-full-year-guidance-after-earnings-rise-1b508bae?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "b4a707a1f8b4",
-          "time": "06:08",
-          "category": "Earnings",
-          "title": "NVIDIA's Quarterly Earnings Preview: What You Need to Know",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nvidias-quarterly-earnings-preview-know-060814117.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "f361dc2e3f93",
-          "time": "06:02",
-          "category": "Earnings",
-          "title": "What You Need To Know Ahead of Walmart's Earnings Release",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/know-ahead-walmarts-earnings-release-060230921.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "13846c19fe5c",
-          "time": "05:57",
-          "category": "Earnings",
-          "title": "Here's What to Expect From Target's Next Earnings Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/heres-expect-targets-next-earnings-055732602.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "7607139e3323",
-          "time": "05:52",
-          "category": "Earnings",
-          "title": "Ross Stores Earnings Preview: What to Expect",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ross-stores-earnings-preview-expect-055214171.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "83add8f1b9e0",
-          "time": "05:48",
-          "category": "Earnings",
-          "title": "What to Expect From TJX Companies’ Q3 2025 Earnings Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/expect-tjx-companies-q3-2025-054847218.html",
           "tags": [],
           "impact_score": 2
         },
@@ -425,13 +341,233 @@
           "impact_score": 2
         },
         {
-          "id": "d216a0270da1",
-          "time": "09:36",
-          "category": "Earnings",
-          "title": "Nilörn reports growth in third quarter 2025 profit",
+          "id": "7936c5758674",
+          "time": "10:33",
+          "category": "Markets",
+          "title": "Novartis shares slip, Avidity soars after $12 billion biotech deal",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nil-rn-reports-growth-third-093655940.html",
+          "url": "https://finance.yahoo.com/news/novartis-shares-slip-avidity-soars-103310165.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "16155fc5733c",
+          "time": "10:30",
+          "category": "Markets",
+          "title": "Baker Hughes expands UBCTD operations in Saudi Arabia",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/baker-hughes-expands-ubctd-operations-103020660.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6fec4a8f48c8",
+          "time": "10:25",
+          "category": "Crypto",
+          "title": "Binance Eyes US Return After Trump Pardon for CZ: Report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/binance-eyes-us-return-trump-102549334.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "bfb4b10c8de2",
+          "time": "10:18",
+          "category": "Markets",
+          "title": "Zambrero appoints Daryl McCormack as CEO",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/zambrero-appoints-daryl-mccormack-ceo-101838695.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "810203e446b1",
+          "time": "10:17",
+          "category": "Crypto",
+          "title": "Mt. Gox pushes repayments to 2026 as decade-long saga drags on",
+          "summary": "Defunct crypto exchange Mt. Gox postponed some long-awaited customer repayments by another year to Oct. 31, 2026, citing incomplete creditor procedures.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/mt-gox-pushes-repayments-to-2026-as-decade-long-saga-drags-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7feaf04554e2",
+          "time": "10:12",
+          "category": "Markets",
+          "title": "3 Reasons to Buy Berkshire Hathaway Stock Like There's No Tomorrow",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/3-reasons-buy-berkshire-hathaway-101200244.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "844b9d103c67",
+          "time": "10:10",
+          "category": "Crypto",
+          "title": "Crypto Inflows Near $1 Billion as Rate Cut Hopes Fuel Market Momentum",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/crypto-inflows-near-1-billion-101055106.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6e09edae70b5",
+          "time": "10:09",
+          "category": "Markets",
+          "title": "UnitedHealth investors pin turnaround hopes on new CEO",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/unitedhealth-investors-pin-turnaround-hopes-100924395.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "65e83e3b4c26",
+          "time": "10:08",
+          "category": "Crypto",
+          "title": "Where Will the Cryptocurrency XRP Be in 10 Years?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/where-cryptocurrency-xrp-10-years-100800642.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d68da85d526",
+          "time": "10:05",
+          "category": "US Macro",
+          "title": "UK supermarkets ask chancellor for exclusion from business rates surtax",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/uk-supermarkets-ask-chancellor-exclusion-100538503.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "808f3eb39d3e",
+          "time": "10:05",
+          "category": "US Macro",
+          "title": "Financial Expert: Why 3% Inflation Still Hurts Your Savings",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/financial-expert-why-3-inflation-100506552.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "39f186cedc57",
+          "time": "10:00",
+          "category": "US Macro",
+          "title": "Best money market account rates today, October 27, 2025 (Earn up to 4.26% APY)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-october-27-2025-100049721.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8bcf719ad49f",
+          "time": "10:00",
+          "category": "US Macro",
+          "title": "HELOC rates today, October 27, 2025: Moving steadily lower",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-monday-october-27-2025-100038701.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "028966efa2a2",
+          "time": "10:00",
+          "category": "US Macro",
+          "title": "Mortgage and refinance interest rates today for October 27, 2025: Still lowest in more than a year",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-monday-october-27-2025-100036206.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5882e1329675",
+          "time": "10:00",
+          "category": "US Macro",
+          "title": "Best high-yield savings interest rates today, October 27, 2025 (Earn up to 4.25% APY)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-monday-october-27-2025-100022657.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1f97f4b39b16",
+          "time": "10:00",
+          "category": "US Macro",
+          "title": "Best CD rates today, October 27, 2025 (Lock in up to 4.1% APY)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-october-27-2025-100003546.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3e1e05cf17e2",
+          "time": "10:00",
+          "category": "Markets",
+          "title": "7 AI Infrastructure Stocks Beyond the Chips",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/7-ai-infrastructure-stocks-beyond-100000150.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "44df65e74fb5",
+          "time": "09:55",
+          "category": "Markets",
+          "title": "India's LTIMindtree betting big on new AI unit, CEO says",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/indias-ltimindtree-betting-big-ai-095506074.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c4526b006840",
+          "time": "09:54",
+          "category": "Markets",
+          "title": "HSBC to take $1.1 billion hit after Luxembourg court ruling in Madoff case",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/hsbc-1-1-billion-hit-095436169.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5bd1e978b3b5",
+          "time": "09:48",
+          "category": "Markets",
+          "title": "These Stocks Are Moving the Most Today: Avidity Biosciences, AMD, GameStop, Newmont, Microsoft, and More",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/stock-movers-1d56d32f?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2b37118ce05d",
+          "time": "09:47",
+          "category": "Markets",
+          "title": "Exxon sues California over climate disclosure laws",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/exxon-sues-california-over-climate-094734592.html",
           "tags": [],
           "impact_score": 1
         },
@@ -469,17 +605,6 @@
           "impact_score": 1
         },
         {
-          "id": "3ceea7e62d41",
-          "time": "09:26",
-          "category": "Markets",
-          "title": "Exxon sues California over climate disclosure laws",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/exxon-sues-california-over-climate-092629272.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "123ee05914b1",
           "time": "09:18",
           "category": "Markets",
@@ -487,17 +612,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/articles/european-gas-prices-fall-on-signs-of-comfortable-supply-6918adbd?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c59c2dbd2dc4",
-          "time": "09:17",
-          "category": "Markets",
-          "title": "The Smartest Growth Stock to Buy With $2,000 Right Now",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/smartest-growth-stock-buy-2-091700698.html",
           "tags": [],
           "impact_score": 1
         },
@@ -513,17 +627,6 @@
           "impact_score": 1
         },
         {
-          "id": "505d2b223cd1",
-          "time": "09:16",
-          "category": "Crypto",
-          "title": "Chinese Tech Giant Ant Group Registers Hong Kong Trademarks Tied to Crypto, Stablecoins",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/chinese-tech-giant-ant-group-091603654.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "1649dc7e0be8",
           "time": "09:15",
           "category": "Markets",
@@ -531,17 +634,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/articles/yen-weakens-amid-risk-on-sentiment-bdfe7556?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "67edc7a5b5c4",
-          "time": "09:15",
-          "category": "Markets",
-          "title": "Warren Buffett's Investing Playbook -- Simplified for First-Time Stock Buyers",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/warren-buffetts-investing-playbook-simplified-091500509.html",
           "tags": [],
           "impact_score": 1
         },
@@ -564,28 +656,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/finance/global-markets-rise-ahead-of-trump-xi-talks-61ad03df?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0e6c4c25c28a",
-          "time": "09:10",
-          "category": "Markets",
-          "title": "UK accountancy firms lobby against anticipated tax changes",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/uk-accountancy-firms-lobby-against-091059048.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5a5dc8b72d40",
-          "time": "09:09",
-          "category": "Markets",
-          "title": "The Nasdaq-100 vs. the \"Magnificent Seven\": What's the Better Investment Today?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nasdaq-100-vs-magnificent-seven-090900803.html",
           "tags": [],
           "impact_score": 1
         },
@@ -623,6 +693,17 @@
           "impact_score": 1
         },
         {
+          "id": "c2cdbfb3e1f7",
+          "time": "08:39",
+          "category": "Markets",
+          "title": "Novartis Deal Values Avidity Biosciences At $12 Billion",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/novartis-deal-avidity-biosciences-acquisition-efa3ef51?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "edc962270e07",
           "time": "08:30",
           "category": "US Macro",
@@ -641,50 +722,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/27/mt-gox-delays-creditor-repayment-to-october-2026",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f05837060a5b",
-          "time": "08:16",
-          "category": "Markets",
-          "title": "HSBC to take $1.1 billion hit after Luxembourg court ruling in Madoff case",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hsbc-1-1-billion-hit-081625641.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "2ae73f405932",
-          "time": "08:00",
-          "category": "Markets",
-          "title": "Heard on the Street Friday Recap: Keep on Truckin’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-27-2025/card/heard-on-the-street-friday-recap-keep-on-truckin--lwgftPYySeQwNHHlcD19?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5f41fa7376d2",
-          "time": "07:56",
-          "category": "Markets",
-          "title": "Stock Futures Jump as U.S.-China Talks Boost Sentiment",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102725/card/stock-futures-jump-as-u-s-china-talks-boost-sentiment-v3vO7gw6y8WAL5UrrvcR?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "d416266a73da",
-          "time": "07:01",
-          "category": "Markets",
-          "title": "Saudi startup Humain to launch new AI-based operating system",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/saudi-ai-firm-humain-unveils-070124246.html",
           "tags": [],
           "impact_score": 1
         },
@@ -722,17 +759,6 @@
           "impact_score": 1
         },
         {
-          "id": "b28c18eb8ca8",
-          "time": "06:30",
-          "category": "Markets",
-          "title": "Berkshire’s Last Chemicals Deal Was a Bust. The OxyChem Purchase Looks Better.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/berkshire-chemicals-lubrizol-oxychem-d91eb977?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "216d09835ff4",
           "time": "06:23",
           "category": "Crypto",
@@ -740,17 +766,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/27/restoring-privacy-to-zec-on-solana-via-encifher",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6b2a1d78fef1",
-          "time": "06:12",
-          "category": "Markets",
-          "title": "Amazon to invest $1.6 billion in Dutch operation",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/amazon-invest-1-6-billion-061243050.html",
           "tags": [],
           "impact_score": 1
         },
@@ -788,28 +803,6 @@
           "impact_score": 1
         },
         {
-          "id": "744a0aa35644",
-          "time": "05:30",
-          "category": "Markets",
-          "title": "The Hollowness of the Halloween Indicator",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/halloween-indicator-dont-use-this-year-5f27440b?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4fa63d5fcbc1",
-          "time": "05:17",
-          "category": "Markets",
-          "title": "Asian shares gain as Trump says he expects a trade deal with China",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/asian-shares-gain-japans-nikkei-051759625.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "660ad5289244",
           "time": "05:00",
           "category": "Crypto",
@@ -817,17 +810,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/27/dogecoin-breaks-multi-month-range-as-usd0-21-resistance-flips-to-support",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1cb5055e2ac6",
-          "time": "04:59",
-          "category": "Earnings",
-          "title": "Eni Lifts Buyback and Outlook After Strong Q3 Driven by Upstream Growth",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/eni-lifts-buyback-outlook-strong-045900335.html",
           "tags": [],
           "impact_score": 1
         },
@@ -965,6 +947,28 @@
           "summary": "The 15-hour Amazon Web Services outage that halted Coinbase, Robinhood and MetaMask revealed how much of Web3 still relies on centralized servers.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/aws-outage-shows-crypto-decentralization-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "a5da3071b64c",
+          "time": "11:43",
+          "category": "US Macro",
+          "title": "Big Tech earnings, a crucial Fed meeting, and a Trump-Xi sit-down: What to watch this week",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/big-tech-earnings-a-crucial-fed-meeting-and-a-trump-xi-sit-down-what-to-watch-this-week-114354660.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "78841bc94a6a",
+          "time": "10:00",
+          "category": "US Macro",
+          "title": "HELOC rates today, October 26, 2025: Lower, and with a Fed cut looming, rates may fall further",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-sunday-october-26-2025-100049967.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1121,6 +1125,39 @@
           "impact_score": 1
         },
         {
+          "id": "80be59138e90",
+          "time": "10:00",
+          "category": "US Macro",
+          "title": "Best high-yield savings interest rates today, October 26, 2025 (Earn up to 4.25% APY)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-sunday-october-26-2025-100051136.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "fda273b73195",
+          "time": "10:00",
+          "category": "US Macro",
+          "title": "Mortgage and refinance interest rates today, October 26, 2025: So close to sparking a wave of refinancing",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-sunday-october-26-2025-100038753.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f06af49e7ee2",
+          "time": "10:00",
+          "category": "US Macro",
+          "title": "Best money market account rates today, October 26, 2025 (best account provides 4.26% APY)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-october-26-2025-100008934.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "c05cbc8755b4",
           "time": "07:08",
           "category": "Crypto",
@@ -1249,19 +1286,6 @@
           "impact_score": 2
         },
         {
-          "id": "770fdc4e1112",
-          "time": "16:02",
-          "category": "Crypto",
-          "title": "ETH $10K Path Projected by Analyst as Ether Whales and Sharks Show ‘Signs of Confidence’",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/25/eth-usd10k-path-projected-by-analyst-as-ether-whales-and-sharks-show-signs-of-confidence",
-          "tags": [
-            "ETH"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "603ad7f47252",
           "time": "15:57",
           "category": "Crypto",
@@ -1324,39 +1348,6 @@
           "summary": "Beyond Meat bull Dimitri \"Capybara Stocks\" Semenikhin helped pump the latest meme stock, but said he'll feel relieved once the chaos cools.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345895/meet-roaring-kitty-beyond-meat-would-feel-guilty-selling",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "cc6efff663ad",
-          "time": "14:00",
-          "category": "Crypto",
-          "title": "Countries across Africa approve new crypto laws as adoption grows",
-          "summary": "Crypto laws are popping up across Africa as countries race to offer favorable conditions to the crypto industry and balance consumer safety concerns.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/countries-africa-approve-crypto-laws-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "efa70a2c7af5",
-          "time": "13:45",
-          "category": "Crypto",
-          "title": "No HMRC letter? UK crypto investors may still owe taxes, expert warns",
-          "summary": "HMRC has issued 65,000 crypto tax warning letters, but experts say UK investors who haven’t been contacted could still owe taxes.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/uk-crypto-investors-tax-hmrc-warning-letters-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "35b27860e229",
-          "time": "11:33",
-          "category": "Crypto",
-          "title": "Ferrari to launch digital token to let fans bid on its Le Mans-winning race car",
-          "summary": "Ferrari is deepening its crypto push with a new digital token for its top clients, letting them bid on the Le Mans-winning 499P as part of a limited auction set to launch in 2027.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/ferrari-digital-token-lets-fans-bid-on-le-mans-winning-car?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         }
@@ -1677,17 +1668,6 @@
           "url": "https://decrypt.co/345768/wallets-melania-trump-meme-coin-airdropped-1-2-million-meteora-tokens",
           "tags": [],
           "impact_score": 2
-        },
-        {
-          "id": "6962a4fab514",
-          "time": "22:28",
-          "category": "Crypto",
-          "title": "BNB, World Liberty, Meme Coins Jump After Trump Pardons Binance Founder",
-          "summary": "Coins and tokens linked to crypto mogul Changpeng Zhao and President Trump jumped in price following news of the latest pardon.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345747/bnb-world-liberty-jump-trump-binance-founder",
-          "tags": [],
-          "impact_score": 1
         }
       ]
     },
