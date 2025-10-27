@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-27T16:02+00:00",
+  "generated_at": "2025-10-27T16:56+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -7,7 +7,7 @@
       "attention_points": [
         "Canada weighs stablecoin rules ahead of federal budget: Report",
         "Tom Lee’s BitMine Rises as Ethereum Rebounds, Firm Adds $321 Million in ETH",
-        "Regional Bank Leader Prods Consolidation With $7.4 Billion Deal"
+        "How Changpeng Zhao regained power between prison and pardon"
       ],
       "items": [
         {
@@ -26,45 +26,12 @@
           "time": "15:44",
           "category": "Crypto",
           "title": "Tom Lee’s BitMine Rises as Ethereum Rebounds, Firm Adds $321 Million in ETH",
-          "summary": "BitMine Immersion Technologies now holds over $13.7 billion worth of Ethereum, widening its ETH treasury lead over SharpLink Gaming.",
+          "summary": "BitMine Immersion Technologies now holds over $13.8 billion worth of Ethereum, widening its ETH treasury lead over SharpLink Gaming.",
           "source": "Decrypt",
           "url": "https://decrypt.co/346076/tom-lees-bitmine-rises-ethereum-rebounds-firm-adds-321-million-eth",
           "tags": [
             "ETH"
           ],
-          "impact_score": 3
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "15:38",
-          "category": "Markets",
-          "title": "Regional Bank Leader Prods Consolidation With $7.4 Billion Deal",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/huntington-bancshares-hban-stock-cadence-regional-bank-deal-7-4-billion/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "bb5362e0966d",
-          "time": "15:33",
-          "category": "Markets",
-          "title": "Major candy company files Chapter 11 bankruptcy in Halloween week",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/major-candy-company-files-chapter-153300721.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "5eb6837b598a",
-          "time": "15:28",
-          "category": "Markets",
-          "title": "Berkshire cut to 'underperform' by KBW, which cites Geico, tariffs, Buffett",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/berkshire-cut-underperform-kbw-cites-152807886.html",
-          "tags": [],
           "impact_score": 3
         },
         {
@@ -79,17 +46,6 @@
           "impact_score": 3
         },
         {
-          "id": "6d0825c9b419",
-          "time": "14:45",
-          "category": "Markets",
-          "title": "New father, overwhelmed by $53K in student loan, car debt, fears bankruptcy — how Dave Ramsey says he can avoid it",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/father-overwhelmed-53k-student-loan-144500015.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "3d0f97dcdf4d",
           "time": "14:42",
           "category": "Crypto",
@@ -100,28 +56,6 @@
           "tags": [
             "BTC"
           ],
-          "impact_score": 3
-        },
-        {
-          "id": "d647f2cae49c",
-          "time": "14:34",
-          "category": "US Macro",
-          "title": "Gold Falls 3% on Easing U.S.-China Trade Tensions, Fed Rate Cut Hopes",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102725/card/gold-falls-3-on-easing-u-s-china-trade-tensions-fed-rate-cut-hopes-a8jiiAEyUEWrJZ1HCIxj?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "a6789805df06",
-          "time": "14:00",
-          "category": "Markets",
-          "title": "UBS Applies for U.S. National Bank Charter. Why It Matters.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/advisor/articles/ubs-bank-charter-223573dc?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
           "impact_score": 3
         },
         {
@@ -317,24 +251,37 @@
           "impact_score": 3
         },
         {
-          "id": "c5efea96ac74",
-          "time": "15:43",
-          "category": "Markets",
-          "title": "Stock Market Today: U.S. Equities Jump After Fresh Records, China Trade Framework Teased",
+          "id": "9c2461405e7d",
+          "time": "16:31",
+          "category": "Crypto",
+          "title": "The 'Debasement Trade' Just Hit A Wall—And The Bond Market Knows Something Gold Bugs Don't",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stock-market-today-u-equities-154323732.html",
+          "url": "https://finance.yahoo.com/news/debasement-trade-just-hit-wall-163103160.html",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "8e7fe27d86b3",
+          "time": "16:04",
+          "category": "Earnings",
+          "title": "Jim Cramer On Starbucks Earnings: “I Don’t Expect A Lot of Great Commentary”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-starbucks-earnings-don-160406549.html",
           "tags": [],
           "impact_score": 2
         },
         {
-          "id": "972d08205af6",
-          "time": "15:39",
-          "category": "Markets",
-          "title": "Trump-backed stock surges after new announcement",
+          "id": "1d6daef5b3f9",
+          "time": "15:58",
+          "category": "Earnings",
+          "title": "Meta Stock On Winning Streak With Earnings Due. This Number Takes 'Center Stage.'",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/trump-backed-stock-surges-announcement-153902435.html",
+          "url": "https://www.investors.com/news/technology/meta-stock-q3-2025-earnings-preview-zuckerberg-ai-facebook/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 2
         },
@@ -349,28 +296,6 @@
           "tags": [
             "BTC"
           ],
-          "impact_score": 2
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "15:27",
-          "category": "Earnings",
-          "title": "Morgan Stanley 'Callin' It' On Tesla's Big Gamble Post Earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/tesla-stock-morgan-stanley-callin-it-tesla-big-gamble-autonomous/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "8ee18c98af0c",
-          "time": "15:02",
-          "category": "Markets",
-          "title": "Microsoft Stock Rises. Every Analyst Now Says Buy After Latest Upgrade.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/microsoft-stock-upgrade-buy-7fb9167b?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
           "impact_score": 2
         },
         {
@@ -411,63 +336,6 @@
           "impact_score": 2
         },
         {
-          "id": "6d2c112a7980",
-          "time": "14:20",
-          "category": "US Macro",
-          "title": "Trade Optimism Is Sending Stocks to Records Across the Globe",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-27-2025/card/trade-optimism-is-sending-stocks-to-records-across-the-globe-Cq87r18OSQ0hCRc2JpVD?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "6261bf218fca",
-          "time": "14:13",
-          "category": "Crypto",
-          "title": "Bitcoin and Crypto Stocks Rise. The 2 Key Things Driving Today’s Rally.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/bitcoin-ethereum-price-crypto-stock-today-a38115d5?siteid=yhoof2&yptr=yahoo",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "f6d71a94aa7d",
-          "time": "14:08",
-          "category": "Earnings",
-          "title": "Nvidia Stock Nears All-Time High. How Earnings Could Push Shares Even Higher.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/nvidia-stock-price-tech-earnings-f3522c2e?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "f2a6114ff3ef",
-          "time": "14:06",
-          "category": "Markets",
-          "title": "Argentine assets cheer Milei's election victory with massive rally",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/argentine-assets-cheer-mileis-election-140625915.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "27b42baa4d6a",
-          "time": "14:03",
-          "category": "Markets",
-          "title": "Argentine Peso and Stocks Surge After Milei's Election Win",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-27-2025/card/argentinian-stocks-surge-in-u-s-after-milei-s-election-win-9LoxKfFyTzLL3aLHSgh1?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "0500c50dea32",
           "time": "14:01",
           "category": "Crypto",
@@ -478,17 +346,6 @@
           "tags": [
             "BTC"
           ],
-          "impact_score": 2
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "14:00",
-          "category": "Earnings",
-          "title": "Palantir Stock Hits Record High Ahead Of Earnings Report. Is Palantir Stock A Buy?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/technology/palantir-stock-pltr-stock-buy-sell-october-2025/?src=A00220&yptr=yahoo",
-          "tags": [],
           "impact_score": 2
         },
         {
@@ -618,6 +475,468 @@
           "impact_score": 2
         },
         {
+          "id": "db5710b993ac",
+          "time": "16:37",
+          "category": "Markets",
+          "title": "Robinhood stock pops 5% as analyst raises price target, citing explosive growth in prediction markets",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/robinhood-stock-pops-5-as-analyst-raises-price-target-citing-explosive-growth-in-prediction-markets-163728385.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f6268f4da24e",
+          "time": "16:24",
+          "category": "Crypto",
+          "title": "Senators Warren, Schiff Push Resolution Denouncing Trump Pardon of Binance Founder",
+          "summary": "The senators took issue both with the Binance founder’s failure to implement anti-money laundering measures at the crypto exchange, and Binance’s ties to the Trump family.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/346089/senators-warren-schiff-resolution-denouncing-trump-pardon-binance-founder",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4a9d46866d76",
+          "time": "16:24",
+          "category": "Crypto",
+          "title": "Citi Taps Coinbase to Enhance Crypto Payments for Institutions",
+          "summary": "Citi partners with Coinbase to boost crypto payment options for institutional clients, bridging traditional finance and digital assets.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/346090/citi-coinbase-crypto-payments-institutions",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "659c3b8924cb",
+          "time": "16:23",
+          "category": "Markets",
+          "title": "Keurig Dr Pepper Stock Jumped Today. Here's Why",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/keurig-dr-pepper-stock-jumped-162338725.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4420aa2effdb",
+          "time": "16:23",
+          "category": "Markets",
+          "title": "GKL Leasing acquires Total Motion for undisclosed amount",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/gkl-leasing-acquires-total-motion-162320390.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "16:21",
+          "category": "Markets",
+          "title": "Stock Market Today: Dow Up On U.S.-China Trade Hopes; These Stocks Clear Entries (Live Coverage)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-china-trade-optimism-nvda-tsla-stock/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "aa178113e95e",
+          "time": "16:17",
+          "category": "Markets",
+          "title": "INNIO, VoltaGrid Partner on 2.3-GW Data Center Project",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/innio-voltagrid-partner-2-3-161716100.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f207f4879a46",
+          "time": "16:16",
+          "category": "Markets",
+          "title": "5 Key Signs You Should Stop Buying Stocks",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/5-key-signs-stop-buying-161607461.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "53ad7d4846f3",
+          "time": "16:15",
+          "category": "Markets",
+          "title": "'Get used to Arabic coffee': What it's like to fundraise and invest in the Middle East",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/used-arabic-coffee-fundraise-invest-161501588.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3f5c6ca123d0",
+          "time": "16:14",
+          "category": "Crypto",
+          "title": "ICP Faces Downward Pressure but Traders Eye Relief Bounce Near $3.15",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/27/icp-faces-downard-pressurer-but-traders-eye-relief-bounce-near-usd3-15",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "662764b2a8e8",
+          "time": "16:13",
+          "category": "Markets",
+          "title": "I’m a Self-Made Millionaire: These Are the Savings Hacks I Used When I Was Just Starting Out",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/m-self-made-millionaire-savings-161320578.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "cd12a36b01fa",
+          "time": "16:08",
+          "category": "Markets",
+          "title": "Exxon Mobil Sues California Over Looming Climate Disclosure Rules",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/articles/exxon-mobil-sues-california-over-looming-climate-disclosure-rules-048929f0?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "16:07",
+          "category": "Markets",
+          "title": "Trump Jr.-Linked Firm Rallies On Pentagon Wins, Unmanned Carrier Efforts",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/unusual-machines-drones-donald-trump-jr-red-cat-unmanned-carriers-umac-stock-kratos/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b8772ae0f151",
+          "time": "16:07",
+          "category": "Markets",
+          "title": "Why Avidity Biosciences And Dyne Therapeutics Stocks Soared 40% Monday",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-avidity-biosciences-dyne-therapeutics-160736274.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "cee3e9b99a49",
+          "time": "16:05",
+          "category": "Markets",
+          "title": "Oil steadies as US-China trade deal hope, Russian sanctions counter demand concerns",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/oil-steadies-us-china-trade-160540957.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0d4d12b0586d",
+          "time": "16:04",
+          "category": "Markets",
+          "title": "Exxon sues California over climate laws, alleging free speech violations",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/exxon-sues-california-over-climate-160451891.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "16:04",
+          "category": "Markets",
+          "title": "Nvidia Rises While AI Rival Soars On New Data Center Chip; Is Nvidia A Buy Now?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/research/nvidia-nvda-stock-magnificent-seven-earnings/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "75a92f52e8c3",
+          "time": "16:04",
+          "category": "Earnings",
+          "title": "Jim Cramer Expects a Great Quarter From Microsoft",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-expects-great-quarter-160409307.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ea4f93c55623",
+          "time": "16:04",
+          "category": "Markets",
+          "title": "Jim Cramer on Alphabet: “There’s A Lot to Like Here”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-alphabet-lot-160408901.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6822cd80cf73",
+          "time": "16:04",
+          "category": "Markets",
+          "title": "Jim Cramer Highlights Boeing as a Beneficiary of Trade War",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-highlights-boeing-beneficiary-160405297.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e2c5a72ddcbd",
+          "time": "16:04",
+          "category": "Markets",
+          "title": "Jim Cramer on Caterpillar: “I Think It’s Due for Some Profit-Taking”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-caterpillar-think-due-160403598.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2a0605fcc2e5",
+          "time": "16:04",
+          "category": "Markets",
+          "title": "Jim Cramer on CVS: “I’m Betting It’s Much Better Now”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-cvs-m-betting-160402446.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9a783e92ab91",
+          "time": "16:04",
+          "category": "Markets",
+          "title": "Jim Cramer on Seagate: “That’s a Great Thing to Be in This Environment”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-seagate-great-thing-160400265.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4b1229b02dce",
+          "time": "16:03",
+          "category": "Markets",
+          "title": "Jim Cramer on Visa: “This is a Company That Never Misses”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-visa-company-never-160359424.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7cae7ad450d7",
+          "time": "16:03",
+          "category": "Earnings",
+          "title": "Jim Cramer Nominates ServiceNow “For the Best Quarter This Whole Entire Week”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-nominates-servicenow-best-160357772.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "eaeacb1a8379",
+          "time": "16:03",
+          "category": "Markets",
+          "title": "Jim Cramer on V.F. Corporation CEO: “The Man is Putting His Money Where His Mouth Is”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-v-f-corporation-160356852.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "aa1ff53dc446",
+          "time": "16:03",
+          "category": "Markets",
+          "title": "Jim Cramer Says Royal Caribbean Has “Been a Winner Ever Since COVID Ended”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-royal-caribbean-160354208.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0fc110e2527e",
+          "time": "16:03",
+          "category": "Markets",
+          "title": "Jim Cramer on United Parcel: “Seems Like a Decent Risk Reward”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-united-parcel-seems-160353030.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7fc461aa25a7",
+          "time": "16:03",
+          "category": "Markets",
+          "title": "Jim Cramer on Celestica: “Some Stocks Have No Quit Them”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-celestica-stocks-no-160351493.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "338fb13cc6fd",
+          "time": "16:03",
+          "category": "Markets",
+          "title": "Jim Cramer Says He is “Concerned About Profit Taking” in SoFi Stock",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-concerned-profit-160350279.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "cb8ab3a52dea",
+          "time": "16:03",
+          "category": "Markets",
+          "title": "Jim Cramer on UNH: “Stock Might Start Climbing Like it Did in the Old Days”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-unh-stock-might-160348184.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f88be2ba2fce",
+          "time": "16:03",
+          "category": "Markets",
+          "title": "Jim Cramer Says “Nucor’s the Best Steel Maker in the World”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-nucor-best-160347193.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2860d3cce58c",
+          "time": "15:58",
+          "category": "Crypto",
+          "title": "BONK Battles Back After Breaking Support; Traders Eye $0.000015 Rebound",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/27/bonk-battles-back-after-breaking-support-traders-eye-usd0-000015-rebound",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "48c44773d72d",
+          "time": "15:54",
+          "category": "Markets",
+          "title": "Jim Cramer Says Its Hard for Exxon to “Get Any Traction”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-hard-exxon-155443310.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "49dd27abe036",
+          "time": "15:54",
+          "category": "Markets",
+          "title": "Jim Cramer Highlights Chevron as One of the “Laggards” Linked to the Price of Crude",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-highlights-chevron-one-155442773.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b3a151ae71ae",
+          "time": "15:54",
+          "category": "Markets",
+          "title": "Jim Cramer Says “Apple Should Have a Good Multi-Year Story to Tell”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-apple-good-155440694.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3f7d327c5362",
+          "time": "15:54",
+          "category": "Markets",
+          "title": "Jim Cramer Believes Amazon Needs to See AWS “Grow From High Teens to the Low Twenties”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-believes-amazon-needs-155439620.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "68061274392c",
+          "time": "15:54",
+          "category": "Markets",
+          "title": "Jim Cramer on Eli Lilly: “It’s Become Luckless”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-eli-lilly-become-155437415.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4604e7deb497",
+          "time": "15:54",
+          "category": "Markets",
+          "title": "Jim Cramer on Mastercard: “You Can Put This One on Auto”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-mastercard-put-one-155436949.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0c1afac56d3d",
+          "time": "15:54",
+          "category": "Markets",
+          "title": "Jim Cramer Suggests Owning Agnico Eagle",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-suggests-owning-agnico-155434079.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4c84cb6e17da",
+          "time": "15:54",
+          "category": "Markets",
+          "title": "Jim Cramer Says “Carvana Will Blow the Doors off When It Reports”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-carvana-blow-155433183.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "74588ce1cc9d",
+          "time": "15:54",
+          "category": "Markets",
+          "title": "Jim Cramer Highlights “Chipotle Can’t Seem to Deliver”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-highlights-chipotle-t-155431269.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "e576ffd421d1",
           "time": "15:48",
           "category": "Crypto",
@@ -625,61 +944,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/business/2025/10/27/south-korean-crypto-exchanges-see-1-400x-jump-in-flows-linked-to-sanctioned-cambodian-entities",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8b92951a026e",
-          "time": "15:42",
-          "category": "Markets",
-          "title": "Wall Street is Pounding the Table Over HON, GOOG, AAPL, MSFT, BKNG, and TSLA",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/wall-street-pounding-table-over-154201993.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b5a6b773e9e1",
-          "time": "15:34",
-          "category": "Markets",
-          "title": "Canada opens anti‑dumping probe into truck body imports from China",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/canada-opens-anti-dumping-probe-153447580.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "270fb5118233",
-          "time": "15:34",
-          "category": "Markets",
-          "title": "Chinese EV maker Seres targets $1.7bn in Hong Kong listing",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/chinese-ev-maker-seres-targets-153402962.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "2a40d3850986",
-          "time": "15:30",
-          "category": "Markets",
-          "title": "Florida woman makes $5.6K/month but $3.1K goes toward housing — and The Ramsey hosts say she’s running out of options",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/florida-woman-makes-5-6k-153000838.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5aae4f99f847",
-          "time": "15:27",
-          "category": "Markets",
-          "title": "Sodexo posts rise in Q3 2025",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/sodexo-posts-rise-q3-2025-152706304.html",
           "tags": [],
           "impact_score": 1
         },
@@ -695,28 +959,6 @@
           "impact_score": 1
         },
         {
-          "id": "056e9fa70d4d",
-          "time": "15:26",
-          "category": "Markets",
-          "title": "IBM Debuts 'Digital Asset Haven' Platform for Governments and Institutions",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ibm-debuts-digital-asset-haven-152610543.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "2575b46b457b",
-          "time": "15:21",
-          "category": "Markets",
-          "title": "Why Trilogy Metals Stock Crashed Today",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-trilogy-metals-stock-crashed-152108099.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "7a52a66ad8d1",
           "time": "15:14",
           "category": "Crypto",
@@ -724,105 +966,6 @@
           "summary": "Strategy hasn’t issued common shares in nearly a month.",
           "source": "Decrypt",
           "url": "https://decrypt.co/346070/strategy-shares-rise-43-million-purchase-largest-four-weeks",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "73d0b0d6c3c6",
-          "time": "15:09",
-          "category": "Markets",
-          "title": "Exxon-backed carbon accounting group to appoint independent panel, CEO says",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/exxon-backed-carbon-accounting-group-150900874.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3593c8cd0368",
-          "time": "15:06",
-          "category": "Markets",
-          "title": "Janus Henderson Stock Soars on Proposed Acquisition by Peltz’s Trian, General Catalyst",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/janus-henderson-stock-price-acquisition-89e4a93d?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "14:58",
-          "category": "Markets",
-          "title": "Stock Market Today: Dow Up On U.S.-China Trade Hopes; These Rare Earth Stocks Plummet (Live Coverage)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-china-trade-optimism-nvda-tsla-stock/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3865482b8806",
-          "time": "14:50",
-          "category": "Markets",
-          "title": "Sell Harley Stock, Analyst Says. 2 Factors ‘Overwhelming’ the Motorcycle Industry.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/harley-davidson-stock-sell-rating-downgrade-def6e190?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5bd1e978b3b5",
-          "time": "14:42",
-          "category": "Markets",
-          "title": "These Stocks Are Moving the Most Today: Qualcomm, MP Materials, USA Rare Earth, Avidity, Newmont, Microsoft, GameStop, and More",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/stock-movers-1d56d32f?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e6b77b19e030",
-          "time": "14:39",
-          "category": "US Macro",
-          "title": "US dollar slips as trade optimism boosts risk appetite",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/us-dollar-slips-trade-optimism-143925447.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8164c127740c",
-          "time": "14:35",
-          "category": "Markets",
-          "title": "A Paramount-Warner Deal Will Sour. I Won’t Be Surprised.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/paramount-warner-bid-deal-zaslov-will-sour-76c1cbcc?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "14:28",
-          "category": "Markets",
-          "title": "AI Stocks Face 'Show Me' Moment On Capital Spending Amid Talk Of AI Bubble",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/technology/artificial-intelligence-stocks/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "14:19",
-          "category": "Markets",
-          "title": "Qualcomm Enters AI Data Center Market, Signs Humain As First Customer",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/technology/qualcomm-stock-chipmaker-enters-ai-data-center-market/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -838,28 +981,6 @@
           "impact_score": 1
         },
         {
-          "id": "df480753d67f",
-          "time": "14:11",
-          "category": "Markets",
-          "title": "American Water Works, Essential Utilities to merge",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/american-water-works-essential-utilities-141118202.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "59e76a5b6016",
-          "time": "14:09",
-          "category": "Markets",
-          "title": "The 3 Things That Will Stand Out in Wall Street’s Blockbuster Week",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/fed-trade-ai-stocks-cb32ba2c?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "48fb3b7d5771",
           "time": "14:06",
           "category": "Crypto",
@@ -867,39 +988,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/27/how-october-was-the-most-destructive-month-in-recent-memory-for-crypto-traders",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0580e794b139",
-          "time": "14:04",
-          "category": "Markets",
-          "title": "Gold Prices and Miner Stocks Keep Falling. That’s a Surprise.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/gold-price-mining-stock-newmont-24feb137?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e829c3c70f7d",
-          "time": "14:00",
-          "category": "US Macro",
-          "title": "Qualcomm accelerates data center push with new AI chips launching next year",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/qualcomm-accelerates-data-center-push-140036225.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5e1baf4a2f8c",
-          "time": "14:00",
-          "category": "Markets",
-          "title": "Qualcomm stock spikes more than 20% as company enters AI chip race, taking on Nvidia, AMD",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/qualcomm-stock-spikes-more-than-20-as-company-enters-ai-chip-race-taking-on-nvidia-amd-140024616.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1091,28 +1179,6 @@
           "impact_score": 1
         },
         {
-          "id": "fc5e778e5260",
-          "time": "05:31",
-          "category": "Crypto",
-          "title": "Japan's New Yen Stablecoin is Asia’s Only Truly Global Fiat-Pegged Token",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/27/japan-s-new-yen-pegged-stablecoin-is-asia-s-only-truly-global-token",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "660ad5289244",
-          "time": "05:00",
-          "category": "Crypto",
-          "title": "Dogecoin Breaks Multi-Month Range as $0.21 Resistance Flips to Support",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/27/dogecoin-breaks-multi-month-range-as-usd0-21-resistance-flips-to-support",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "8795b9e3130d",
           "time": "04:39",
           "category": "Crypto",
@@ -1202,6 +1268,17 @@
           "impact_score": 3
         },
         {
+          "id": "10eb471571bd",
+          "time": "22:50",
+          "category": "Markets",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq head toward records as Trump stokes hopes US-China trade deal is near",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-head-toward-records-as-trump-stokes-hopes-us-china-trade-deal-is-near-225050682.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "5e2f1758abb7",
           "time": "20:16",
           "category": "Crypto",
@@ -1224,17 +1301,6 @@
           "url": "https://cointelegraph.com/news/crypto-belongs-to-decentralized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 2
-        },
-        {
-          "id": "c981f2637417",
-          "time": "22:50",
-          "category": "Markets",
-          "title": "Stock market today: Dow, S&P 500, Nasdaq climb as Trump stokes hopes a US-China trade deal is near",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-as-trump-stokes-hopes-a-us-china-trade-deal-is-near-225050085.html",
-          "tags": [],
-          "impact_score": 1
         },
         {
           "id": "0ff8b3269c83",
@@ -1351,20 +1417,6 @@
           "summary": "Bitcoin rises 2% as U.S. inflation cools to 3% in September, slightly below economists' 3.1% forecast, boosting crypto markets ahead of Fed meeting.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345837/bitcoin-ethereum-rise-september-inflation",
-          "tags": [
-            "BTC",
-            "ETH"
-          ],
-          "impact_score": 3
-        },
-        {
-          "id": "6f661c49b3cd",
-          "time": "12:29",
-          "category": "Crypto",
-          "title": "JPMorgan to Let Clients Use Bitcoin and Ethereum as Collateral for Loans: Report",
-          "summary": "The bank’s new framework could let institutional clients post crypto as loan collateral under a third-party custody model.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345831/jpmorgan-to-let-clients-use-bitcoin-and-ether-as-collateral-for-loans-report",
           "tags": [
             "BTC",
             "ETH"
@@ -1524,17 +1576,6 @@
           "summary": "FireBunnyUSA operated for three years, shipping over 10,000 packages of illicit drugs while using crypto to obscure millions in proceeds.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345833/five-plead-guilty-over-7-9m-dark-web-crypto-drug-operation",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "7bd7d833df91",
-          "time": "12:12",
-          "category": "Crypto",
-          "title": "83 Arrests in ‘Landmark’ Interpol Operation Hitting Crypto Terrorist Financing, Cybercrime in Africa",
-          "summary": "$260 million in fiat and crypto was flagged as part of Operation Catalyst, of which some $600,000 has been seized to date.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345822/interpol-arrests-83-in-landmark-african-operation-hitting-crypto-terrorist-financing-cybercrime",
           "tags": [],
           "impact_score": 1
         }
@@ -1756,25 +1797,6 @@
           "summary": "Sanae Takaichi becomes Japan’s first female prime minister, the 104th in history. A conservative protégé of Shinzo Abe, she supports tech innovation and lower taxes. ...",
           "source": "Crypto News RSS | CCN.com",
           "url": "https://www.ccn.com/news/crypto/sanae-takaichi-japans-prime-minister-her-views-crypto/",
-          "tags": [],
-          "impact_score": 1
-        }
-      ]
-    },
-    {
-      "date": "2025-10-20",
-      "attention_points": [
-        "15 Years Strong, $35K Stronger – XM Celebrates Big"
-      ],
-      "items": [
-        {
-          "id": "4c3e5d70ad5d",
-          "time": "16:58",
-          "category": "US Macro",
-          "title": "15 Years Strong, $35K Stronger – XM Celebrates Big",
-          "summary": "XM is taking its 15-year celebrations to the next level with its most generous promotion ever, offering traders the chance to receive up to $35,000 ...",
-          "source": "Analysis RSS | CCN.com",
-          "url": "https://www.ccn.com/15-years-strong-35k-stronger-xm-celebrates-big/",
           "tags": [],
           "impact_score": 1
         }
