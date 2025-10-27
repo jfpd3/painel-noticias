@@ -1,21 +1,34 @@
 {
-  "generated_at": "2025-10-27T05:03+00:00",
+  "generated_at": "2025-10-27T05:46+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-27",
       "attention_points": [
+        "Bitcoin finally escapes ‘fear’ as confidence tiptoes back into crypto",
         "Mt. Gox’s security flaws cost millions. Could AI have spotted them?",
-        "Bitcoin Set for Massive Surge as Bank Reserves Near 'Danger Zone,' Says Adam Livingston",
-        "Korean Public Company Bitplanet Kicks Off Treasury Plan, Buys Bitcoin as Market Rebounds"
+        "Bitcoin Set for Massive Surge as Bank Reserves Near 'Danger Zone,' Says Adam Livingston"
       ],
       "items": [
+        {
+          "id": "fb08b5d24c47",
+          "time": "05:37",
+          "category": "Crypto",
+          "title": "Bitcoin finally escapes ‘fear’ as confidence tiptoes back into crypto",
+          "summary": "The Bitcoin Fear & Greed Index has flipped to neutral, leaving “fear” behind for the first time since the mid-October market crash sparked by Trump’s China tariffs.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/bitcoin-fear-and-greed-out-of-fear-first-time-since-crypto-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 3
+        },
         {
           "id": "856223b43b50",
           "time": "04:08",
           "category": "Regulation",
           "title": "Mt. Gox’s security flaws cost millions. Could AI have spotted them?",
-          "summary": "Could AI have prevented the collapse of Mt. Gox had it been around then? Mt. Gox’s former CEO's AI-powered post-mortem raises an interesting ‘what if.’",
+          "summary": "Could AI have prevented the collapse of Mt. Gox had it been around then? Mt. Gox’s former CEO's AI-powered post-mortem raises an interesting “what if.”",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/mt-gox-s-security-flaws-cost-millions-could-ai-have-spotted-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
@@ -135,6 +148,28 @@
             "BTC"
           ],
           "impact_score": 2
+        },
+        {
+          "id": "fc5e778e5260",
+          "time": "05:31",
+          "category": "Crypto",
+          "title": "Japan's New Yen Stablecoin is Asia’s Only Truly Global Fiat-Pegged Token",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/27/japan-s-new-yen-pegged-stablecoin-is-asia-s-only-truly-global-token",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "660ad5289244",
+          "time": "05:00",
+          "category": "Crypto",
+          "title": "Dogecoin Breaks Multi-Month Range as $0.21 Resistance Flips to Support",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/27/dogecoin-breaks-multi-month-range-as-usd0-21-resistance-flips-to-support",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "8f565c91656d",
@@ -483,13 +518,24 @@
           "impact_score": 1
         },
         {
-          "id": "f06af49e7ee2",
-          "time": "10:00",
-          "category": "US Macro",
-          "title": "Best money market account rates today, October 26, 2025 (best account provides 4.26% APY)",
+          "id": "266b8a30c763",
+          "time": "09:46",
+          "category": "Markets",
+          "title": "Dell Technologies (DELL) Could Benefit From 2026 Data Center Refresh, Says Piper Sandler",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-october-26-2025-100008934.html",
+          "url": "https://finance.yahoo.com/news/dell-technologies-dell-could-benefit-094644376.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b6cae9128a83",
+          "time": "09:30",
+          "category": "Markets",
+          "title": "OpenAI’s Less-Flashy Rival Might Have a Better Business Model",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/tech/ai/anthropic-business-model-ai-9e26b4ef?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -790,6 +836,17 @@
           "impact_score": 3
         },
         {
+          "id": "f02639ff09d0",
+          "time": "21:00",
+          "category": "Markets",
+          "title": "REX-Osprey XRP ETF (XRPR) Surpasses $100M in Assets Under Management",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/first-u-spot-xrp-etf-200003320.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "0bad03b8e912",
           "time": "20:00",
           "category": "Earnings",
@@ -797,39 +854,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/georgia-woman-husband-keeps-her-190000980.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "28bb9aeb2504",
-          "time": "18:31",
-          "category": "Markets",
-          "title": "Kevin O'Leary Says 'Tariffs And Trade Pain Are Temporary.' That's Why Businesses Are 'Quietly Eating Costs, Trimming Waste And Using AI'",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/kevin-oleary-says-tariffs-trade-173106025.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "ab1d969a23b4",
-          "time": "18:17",
-          "category": "US Macro",
-          "title": "New CPI data resets December Fed interest rate cut",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cpi-data-resets-december-fed-171700628.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "4d96178d6ae9",
-          "time": "18:00",
-          "category": "Markets",
-          "title": "My husband wants to buy a $60K truck — but we’re $30K in debt and saving for a house. How do we get on the same page?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/husband-wants-buy-60k-truck-170000787.html",
           "tags": [],
           "impact_score": 3
         },
@@ -844,17 +868,6 @@
           "tags": [
             "BTC"
           ],
-          "impact_score": 3
-        },
-        {
-          "id": "f6b153e9079c",
-          "time": "10:10",
-          "category": "Crypto",
-          "title": "Crypto.com Applies for OCC National Trust Bank Charter to Expand U.S. Institutional Custody",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/policy/2025/10/25/crypto-com-applies-for-occ-national-trust-bank-charter-to-expand-u-s-institutional-custody",
-          "tags": [],
           "impact_score": 3
         },
         {
@@ -906,14 +919,29 @@
           "impact_score": 2
         },
         {
-          "id": "5594842c6141",
-          "time": "18:30",
-          "category": "Markets",
-          "title": "The business school dropout who kicked off the Beyond Meat rally wants you to know he's not Roaring Kitty 2.0",
+          "id": "7bd2db46b406",
+          "time": "20:16",
+          "category": "Crypto",
+          "title": "Elon Musk's SpaceX Shakes Up Bitcoin Market With $133 Million Transfer",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/business-school-dropout-kicked-off-173001714.html",
-          "tags": [],
+          "url": "https://finance.yahoo.com/news/elon-musks-spacex-shakes-bitcoin-191617879.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "e66e9cd6a2e4",
+          "time": "20:00",
+          "category": "Crypto",
+          "title": "I Asked ChatGPT Whether Downsizing Saves Money in Retirement: Here’s What It Said",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/asked-chatgpt-whether-downsizing-saves-090101547.html",
+          "tags": [
+            "ETH"
+          ],
           "impact_score": 2
         },
         {
@@ -1002,33 +1030,6 @@
           "impact_score": 2
         },
         {
-          "id": "b38af18ec460",
-          "time": "07:46",
-          "category": "Crypto",
-          "title": "XRP Leads Gains on Ripple Moves, Bitcoin Holds $111K as ‘Uptober’ Dud Heads for Last Week",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/25/xrp-leads-gains-on-ripple-moves-bitcoin-holds-usd111k-as-uptober-dud-heads-for-last-week",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "b5154c4d546f",
-          "time": "01:16",
-          "category": "Crypto",
-          "title": "Rumble partners with Tether to add Bitcoin tips for content creators",
-          "summary": "Video sharing platform Rumble has teamed up with Tether to help it add Bitcoin tips to content creators, expected to launch in early to mid-December.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/tether-helps-rumble-add-bitcoin-tips-for-content-creators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [
-            "BTC",
-            "ETH"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "d5bf76830c8f",
           "time": "22:44",
           "category": "Markets",
@@ -1073,6 +1074,28 @@
           "impact_score": 1
         },
         {
+          "id": "f1c6247dafaa",
+          "time": "20:18",
+          "category": "Markets",
+          "title": "Trump Refilling Strategic Petroleum Reserve – Big Oil Could Benefit",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/trump-refilling-strategic-petroleum-big-191857738.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4bb130b475b5",
+          "time": "20:13",
+          "category": "Markets",
+          "title": "Goldman Sachs revisits gold price target for 2026",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/goldman-sachs-revisits-gold-price-191300756.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "b78b3e0a95cd",
           "time": "19:35",
           "category": "Crypto",
@@ -1091,6 +1114,17 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/25/sol-now-on-fidelity-s-retail-platform-as-price-tests-usd195-while-usd188-support-draws-focus",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3d674f3b5605",
+          "time": "19:26",
+          "category": "Markets",
+          "title": "ExxonMobil Sues California, Claims New Green Laws Violate Speech",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/exxonmobil-sues-california-claims-green-182613325.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1135,39 +1169,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/why-southwest-stock-down-while-174700241.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "7cf9ae82ca5a",
-          "time": "18:33",
-          "category": "Markets",
-          "title": "T-Mobile restricts a beloved discount, angering customers",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/t-mobile-restricts-beloved-discount-173300852.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "57d709577863",
-          "time": "18:30",
-          "category": "Markets",
-          "title": "5 Things to Know About Amazon Stock Before You Buy",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/5-things-know-amazon-stock-173000195.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "77b790319e73",
-          "time": "18:25",
-          "category": "Markets",
-          "title": "I Asked ChatGPT How Much I’d Pay in Taxes If I Retired in Arizona",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/asked-chatgpt-much-d-pay-172508796.html",
           "tags": [],
           "impact_score": 1
         },
