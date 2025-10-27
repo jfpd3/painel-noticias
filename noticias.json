@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-27T10:49+00:00",
+  "generated_at": "2025-10-27T11:02+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-27",
       "attention_points": [
+        "Western Union Follows Banks Into Stablecoin Integration",
         "Bank of Canada poised to cut rates to 2.25% amid economic slowdown",
-        "ClearBank to Join Circle Payments Network, Expanding Access to MiCA-Compliant Stablecoins",
-        "Dollar mixed as investors eye central bank decisions, trade talks"
+        "ClearBank to Join Circle Payments Network, Expanding Access to MiCA-Compliant Stablecoins"
       ],
       "items": [
+        {
+          "id": "35976c4005f8",
+          "time": "10:37",
+          "category": "Markets",
+          "title": "Western Union Follows Banks Into Stablecoin Integration",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/western-union-follows-banks-stablecoin-103715368.html",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "43db0a6b12bf",
           "time": "10:13",
@@ -230,13 +241,13 @@
           "impact_score": 2
         },
         {
-          "id": "b061a3562461",
-          "time": "10:13",
+          "id": "17d461ee9c44",
+          "time": "10:19",
           "category": "Markets",
-          "title": "Gold Extends Drop as US-China Trade Progress Erodes Haven Demand",
+          "title": "Argentina Bonds Surge After Milei Landslide Win",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/gold-extends-drop-us-china-232041519.html",
+          "url": "https://finance.yahoo.com/news/argentina-investors-poised-rally-milei-021714477.html",
           "tags": [],
           "impact_score": 2
         },
@@ -341,6 +352,50 @@
           "impact_score": 2
         },
         {
+          "id": "9f5b836897fb",
+          "time": "10:49",
+          "category": "Markets",
+          "title": "Xali Gold signs SPA to acquire Pico Machay gold project",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/xali-gold-signs-spa-acquire-104942749.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "bb43756fad40",
+          "time": "10:46",
+          "category": "Crypto",
+          "title": "Days After Pardon, CZ Says Crypto Will 'Make a Lot of Money for the Country'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/days-pardon-cz-says-crypto-104610720.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "68ca28d0030e",
+          "time": "10:44",
+          "category": "Markets",
+          "title": "Energean Israel signs transmission deal with INGL to expand gas exports",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/energean-israel-signs-transmission-deal-104415592.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "15a5c67fb4bc",
+          "time": "10:43",
+          "category": "Markets",
+          "title": "Newmont’s Ahafo North mine reaches commercial production in Ghana",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/newmont-ahafo-north-mine-reaches-104304249.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "7936c5758674",
           "time": "10:33",
           "category": "Markets",
@@ -348,6 +403,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/novartis-shares-slip-avidity-soars-103310165.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4849cf0fe9f3",
+          "time": "10:31",
+          "category": "Markets",
+          "title": "Tsingtao calls off planned purchase of Jimo Yellow Wine",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/tsingtao-calls-off-planned-purchase-103105227.html",
           "tags": [],
           "impact_score": 1
         },
@@ -374,13 +440,13 @@
           "impact_score": 1
         },
         {
-          "id": "bfb4b10c8de2",
-          "time": "10:18",
+          "id": "fb40669fe6d2",
+          "time": "10:24",
           "category": "Markets",
-          "title": "Zambrero appoints Daryl McCormack as CEO",
+          "title": "Google Parent Alphabet Has $754 Million Invested in These 3 Hot Growth Stocks. Here's the 1 Wall Street Likes the Most.",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/zambrero-appoints-daryl-mccormack-ceo-101838695.html",
+          "url": "https://finance.yahoo.com/news/google-parent-alphabet-754-million-102400423.html",
           "tags": [],
           "impact_score": 1
         },
@@ -396,28 +462,6 @@
           "impact_score": 1
         },
         {
-          "id": "7feaf04554e2",
-          "time": "10:12",
-          "category": "Markets",
-          "title": "3 Reasons to Buy Berkshire Hathaway Stock Like There's No Tomorrow",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/3-reasons-buy-berkshire-hathaway-101200244.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "844b9d103c67",
-          "time": "10:10",
-          "category": "Crypto",
-          "title": "Crypto Inflows Near $1 Billion as Rate Cut Hopes Fuel Market Momentum",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/crypto-inflows-near-1-billion-101055106.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "6e09edae70b5",
           "time": "10:09",
           "category": "Markets",
@@ -425,39 +469,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/unitedhealth-investors-pin-turnaround-hopes-100924395.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "65e83e3b4c26",
-          "time": "10:08",
-          "category": "Crypto",
-          "title": "Where Will the Cryptocurrency XRP Be in 10 Years?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/where-cryptocurrency-xrp-10-years-100800642.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1d68da85d526",
-          "time": "10:05",
-          "category": "US Macro",
-          "title": "UK supermarkets ask chancellor for exclusion from business rates surtax",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/uk-supermarkets-ask-chancellor-exclusion-100538503.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "808f3eb39d3e",
-          "time": "10:05",
-          "category": "US Macro",
-          "title": "Financial Expert: Why 3% Inflation Still Hurts Your Savings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/financial-expert-why-3-inflation-100506552.html",
           "tags": [],
           "impact_score": 1
         },
@@ -517,17 +528,6 @@
           "impact_score": 1
         },
         {
-          "id": "3e1e05cf17e2",
-          "time": "10:00",
-          "category": "Markets",
-          "title": "7 AI Infrastructure Stocks Beyond the Chips",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/7-ai-infrastructure-stocks-beyond-100000150.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "44df65e74fb5",
           "time": "09:55",
           "category": "Markets",
@@ -583,17 +583,6 @@
           "impact_score": 1
         },
         {
-          "id": "d83816be6216",
-          "time": "09:30",
-          "category": "Markets",
-          "title": "America’s Hottest New Investment: Rare-Earth Companies",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/rare-earth-companies-funding-231d1c85?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "3f3ccffad0f4",
           "time": "09:30",
           "category": "Markets",
@@ -601,6 +590,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/tech/ai/microsoft-needs-to-open-up-more-about-its-openai-dealings-59102de8?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d83816be6216",
+          "time": "09:30",
+          "category": "Markets",
+          "title": "America’s Hottest New Investment: Rare-Earth Companies",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/rare-earth-companies-funding-231d1c85?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -660,17 +660,6 @@
           "impact_score": 1
         },
         {
-          "id": "b9b6e13eef52",
-          "time": "08:57",
-          "category": "Markets",
-          "title": "Gold Falls on Easing U.S.-China Trade Tensions",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/gold-falls-u-s-china-trade-deal-optimism-overcomes-signs-of-cooler-u-s-inflation-9d618871?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "2879ef71606d",
           "time": "08:57",
           "category": "Markets",
@@ -678,6 +667,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/business/earnings/porsche-shares-rise-as-investors-look-beyond-tough-2025-96b853b2?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b9b6e13eef52",
+          "time": "08:57",
+          "category": "Markets",
+          "title": "Gold Falls on Easing U.S.-China Trade Tensions",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/articles/gold-falls-u-s-china-trade-deal-optimism-overcomes-signs-of-cooler-u-s-inflation-9d618871?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -958,17 +958,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/big-tech-earnings-a-crucial-fed-meeting-and-a-trump-xi-sit-down-what-to-watch-this-week-114354660.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "78841bc94a6a",
-          "time": "10:00",
-          "category": "US Macro",
-          "title": "HELOC rates today, October 26, 2025: Lower, and with a Fed cut looming, rates may fall further",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-sunday-october-26-2025-100049967.html",
           "tags": [],
           "impact_score": 3
         },
