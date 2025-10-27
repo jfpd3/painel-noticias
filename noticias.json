@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-27T07:59+00:00",
+  "generated_at": "2025-10-27T08:55+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -170,6 +170,17 @@
             "BTC"
           ],
           "impact_score": 2
+        },
+        {
+          "id": "957bc5065b8c",
+          "time": "08:16",
+          "category": "Crypto",
+          "title": "Mt. Gox Delays Creditor Repayment to October 2026",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/27/mt-gox-delays-creditor-repayment-to-october-2026",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "b2bd7d27253f",
@@ -454,6 +465,17 @@
           "impact_score": 3
         },
         {
+          "id": "0c4a33e27fd3",
+          "time": "00:32",
+          "category": "Markets",
+          "title": "Another regional airline files for Chapter 11 bankruptcy",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/one-more-regional-airline-files-233200652.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "b431ea497743",
           "time": "22:10",
           "category": "Crypto",
@@ -602,6 +624,17 @@
           "summary": "Government regulators and legal experts warn that insider trading could proliferate in professional sports as wagers migrate to prediction markets.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345961/sports-betting-scandals-nba-prediction-markets",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ab78e1c06669",
+          "time": "10:00",
+          "category": "Markets",
+          "title": "Nike’s (NKE) Road to Recovery: Innovation, Competition, and Steady Dividend Growth",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/nike-nke-road-recovery-innovation-182632324.html",
           "tags": [],
           "impact_score": 1
         },
@@ -859,6 +892,17 @@
           "impact_score": 1
         },
         {
+          "id": "3de2d265a3a9",
+          "time": "01:57",
+          "category": "Markets",
+          "title": "Cathie Wood buys $17.2 million of tumbling tech stock",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/cathie-wood-buys-17-2-005756072.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "9f45057bcd0f",
           "time": "01:38",
           "category": "Crypto",
@@ -877,6 +921,28 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/truckload-capacity-falling-faster-demand-003000764.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0d168bfc1bd0",
+          "time": "01:27",
+          "category": "Markets",
+          "title": "Weekly Market Wrap: IBM, Grindr, and Ford",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/weekly-market-wrap-ibm-grindr-002731831.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "091d9179438c",
+          "time": "01:08",
+          "category": "Markets",
+          "title": "Plynk Launches $1 Minimum Investment App Feature For Veterans Seeking Financial Confidence Beyond Military Service",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/plynk-launches-1-minimum-investment-000854106.html",
           "tags": [],
           "impact_score": 1
         },
@@ -946,17 +1012,6 @@
           "impact_score": 3
         },
         {
-          "id": "f02639ff09d0",
-          "time": "21:00",
-          "category": "Markets",
-          "title": "REX-Osprey XRP ETF (XRPR) Surpasses $100M in Assets Under Management",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/first-u-spot-xrp-etf-200003320.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "a5ed7065ec27",
           "time": "17:00",
           "category": "Crypto",
@@ -978,19 +1033,6 @@
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/know-ahead-waters-corporations-earnings-215801417.html",
           "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "5b15a42ecb36",
-          "time": "21:09",
-          "category": "Crypto",
-          "title": "Ethereum Whales are Quietly Splashing Cash – Is Confidence Returning in ETH?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ethereum-whales-quietly-splashing-cash-200909745.html",
-          "tags": [
-            "ETH"
-          ],
           "impact_score": 2
         },
         {
@@ -1068,17 +1110,6 @@
           "impact_score": 2
         },
         {
-          "id": "8ed67cf8dd22",
-          "time": "14:05",
-          "category": "Crypto",
-          "title": "Bitmine’s Tom Lee Sees Crypto Rally Into Year-End, Says S&P 500 Could Climb Another 10%",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/25/bitmine-s-tom-lee-sees-crypto-rally-into-year-end-says-s-and-p-500-could-climb-another-10",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "a9e3b572ab14",
           "time": "23:31",
           "category": "Markets",
@@ -1108,6 +1139,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/every-american-express-axp-investor-221200772.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9202e38026f5",
+          "time": "23:05",
+          "category": "Markets",
+          "title": "Exxon sues California over climate disclosure laws",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/exxon-sues-california-over-climate-220521266.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1152,50 +1194,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/amazon-amzn-announces-expansion-amazon-205719363.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "be212de3eb44",
-          "time": "21:36",
-          "category": "Markets",
-          "title": "Scale AI Veteran Bilal Abu-Ghazaleh Launches 1001 With $9 Million To Rebuild The Physical World Through Artificial Intelligence",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/scale-ai-veteran-bilal-abu-203635437.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "117cd2213c8e",
-          "time": "21:17",
-          "category": "Markets",
-          "title": "History of Apple: Company timeline and facts",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/history-apple-company-timeline-facts-201700463.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f5f50c802534",
-          "time": "21:00",
-          "category": "Markets",
-          "title": "Jennifer Garner's baby food company is going public on the NYSE — should investors be putting their eggs in this basket?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jennifer-garners-baby-food-company-200000842.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "56d4736de61f",
-          "time": "20:56",
-          "category": "Markets",
-          "title": "Exxon sues California over climate disclosure laws",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/exxon-sues-california-over-climate-195659671.html",
           "tags": [],
           "impact_score": 1
         },
