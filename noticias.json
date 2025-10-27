@@ -1,21 +1,43 @@
 {
-  "generated_at": "2025-10-27T05:57+00:00",
+  "generated_at": "2025-10-27T07:02+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-27",
       "attention_points": [
-        "Bitcoin finally escapes ‘fear’ as confidence tiptoes back into crypto",
-        "Mt. Gox’s security flaws cost millions. Could AI have spotted them?",
-        "Bitcoin Set for Massive Surge as Bank Reserves Near 'Danger Zone,' Says Adam Livingston"
+        "Microsoft Sued in Australia Over 365 Price Hikes Tied to AI Copilot Rollout",
+        "Australian crypto firms back draft laws, but ‘critical questions’ remain",
+        "Bitcoin finally escapes ‘fear’ as confidence tiptoes back into crypto"
       ],
       "items": [
+        {
+          "id": "660900268ac6",
+          "time": "06:53",
+          "category": "Regulation",
+          "title": "Microsoft Sued in Australia Over 365 Price Hikes Tied to AI Copilot Rollout",
+          "summary": "The lawsuit claims Microsoft hid cheaper subscription plans from 2.7 million users after bundling AI tools and raising prices by up to 45%.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/346035/microsoft-sued-australia-365-price-hikes-tied-ai-copilot-rollout",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "d8b42a280396",
+          "time": "05:52",
+          "category": "Crypto",
+          "title": "Australian crypto firms back draft laws, but ‘critical questions’ remain",
+          "summary": "Australia’s crypto exchanges have been largely positive about the government’s proposed crypto laws, but have told the Treasury that further clarity is needed.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/australia-crypto-industry-backs-draft-laws-critical-questions-remain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "fb08b5d24c47",
           "time": "05:37",
           "category": "Crypto",
           "title": "Bitcoin finally escapes ‘fear’ as confidence tiptoes back into crypto",
-          "summary": "The Bitcoin Fear & Greed Index has flipped to neutral, leaving “fear” behind for the first time since the mid-October market crash sparked by Trump’s China tariffs.",
+          "summary": "The Crypto Fear & Greed Index has flipped to neutral, leaving “fear” behind for the first time since the mid-October market crash sparked by Trump’s China tariffs.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/bitcoin-fear-and-greed-out-of-fear-first-time-since-crypto-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
@@ -28,7 +50,7 @@
           "time": "04:08",
           "category": "Regulation",
           "title": "Mt. Gox’s security flaws cost millions. Could AI have spotted them?",
-          "summary": "Could AI have prevented the collapse of Mt. Gox had it been around then? Mt. Gox’s former CEO's AI-powered post-mortem raises an interesting “what if.”",
+          "summary": "Could AI have prevented the collapse of Mt. Gox if it had existed back then? An AI-powered post-mortem by the exchange’s former CEO raises an intriguing “what if.”",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/mt-gox-s-security-flaws-cost-millions-could-ai-have-spotted-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
@@ -150,6 +172,72 @@
           "impact_score": 2
         },
         {
+          "id": "b2bd7d27253f",
+          "time": "06:37",
+          "category": "Crypto",
+          "title": "What happens if you don’t pay taxes on your crypto holdings?",
+          "summary": "Skipping crypto taxes can trigger hefty fines and legal issues. Find out what really happens if you fail to report or pay taxes on your holdings.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/what-happens-if-you-don-t-pay-taxes-on-your-crypto-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b8b9368bf8b4",
+          "time": "06:36",
+          "category": "Crypto",
+          "title": "Alibaba Affiliate Ant Group Files ‘AntCoin’ Trademark in Hong Kong, Hinting at Crypto Ambitions",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/27/alibaba-s-ant-group-files-antcoin-trademark-in-hong-kong-hinting-at-crypto-ambitions",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4109fd5c7b3c",
+          "time": "06:33",
+          "category": "Crypto",
+          "title": "Zcash Surpasses 2021 Peak as Traders Bet on Privacy Revival",
+          "summary": "Zcash has returned to prominence as traders position ahead of its halving and a renewed appetite for privacy-focused assets.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/346032/zcash-2021-peak-traders-bet-privacy-revival",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "216d09835ff4",
+          "time": "06:23",
+          "category": "Crypto",
+          "title": "Restoring Privacy to ZEC on Solana via Encifher",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/27/restoring-privacy-to-zec-on-solana-via-encifher",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "ecdcf54ad24b",
+          "time": "06:03",
+          "category": "Crypto",
+          "title": "Japan sees launch of its first yen-backed stablecoin, JPYC",
+          "summary": "JPYC President Noriyoshi Okabe said that the stablecoin has already garnered interest from seven companies that are looking to incorporate it into their services.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/yen-backed-stablecoin-launches-in-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a3a7d7da9dec",
+          "time": "06:02",
+          "category": "Crypto",
+          "title": "WazirX Barred from Redistributing XRP as Indian Court Affirms Crypto as Property",
+          "summary": "The ruling defines crypto as property with fiduciary protections, preventing WazirX from diluting user holdings after a $234 million hack.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/346030/wazirx-barred-redistributing-xrp-indian-court-affirms-crypto-property",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "fc5e778e5260",
           "time": "05:31",
           "category": "Crypto",
@@ -198,7 +286,7 @@
           "time": "01:31",
           "category": "Crypto",
           "title": "Zcash pumps 30% after Arthur Hayes’ ‘vibe check’ tips $10K target",
-          "summary": "Zcash rallied 490% in the last 30 days and also crossed the $5 billion market capitalization threshold for the first time on Sunday.",
+          "summary": "Zcash rallied over 490% in the last 30 days and also crossed the $5 billion market capitalization threshold for the first time on Sunday.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/zcash-surges-arthur-hayes-prediction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
@@ -221,7 +309,7 @@
       "date": "2025-10-26",
       "attention_points": [
         "‘The claim that L2s inherit ETH security is erroneous’ — Solana co-founder",
-        "US Treasury chief Bessent says 'substantial' trade framework with China reached",
+        "US Treasury chief Bessent says ‘substantial’ trade framework with China reached",
         "Alibaba’s Qwen Deep Research Creates Live Webpages, Podcasts in Seconds"
       ],
       "items": [
@@ -242,7 +330,7 @@
           "id": "9188b06b6155",
           "time": "17:28",
           "category": "US Macro",
-          "title": "US Treasury chief Bessent says 'substantial' trade framework with China reached",
+          "title": "US Treasury chief Bessent says ‘substantial’ trade framework with China reached",
           "summary": "Secretary Scott Bessent said the negotiations alleviate the need for the 100% additional tariffs announced by US president Trump in October.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/bessent-substantial-trade-framework-china?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -719,7 +807,7 @@
           "id": "c05cbc8755b4",
           "time": "07:08",
           "category": "Crypto",
-          "title": "Coinbase wants to bring the entire startup lifecycle onchain, CEO Armstrong says",
+          "title": "Coinbase wants to bring entire startup lifecycle onchain, CEO Armstrong says",
           "summary": "Coinbase CEO Brian Armstrong said onchain fundraising could make capital formation “more efficient, fair, and transparent.”",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/coinbase-startup-lifecycle-onchain-armstrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -871,30 +959,6 @@
           "impact_score": 3
         },
         {
-          "id": "540be7805477",
-          "time": "08:33",
-          "category": "Crypto",
-          "title": "Spot Ether ETFs see outflows for second consecutive week amid ‘cooling demand’",
-          "summary": "Spot Bitcoin ETFs attracted $446 million in weekly inflows, signaling renewed institutional confidence in BTC as Ether funds faced a second straight week of outflows.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/ethereum-etfs-outflows-bitcoin-inflows-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [
-            "ETH"
-          ],
-          "impact_score": 3
-        },
-        {
-          "id": "4020d0f15b06",
-          "time": "03:09",
-          "category": "Crypto",
-          "title": "Bank of England probes data-mining lending strategies fueling AI bets",
-          "summary": "The Bank of England is worried that a rise in financiers' lending to data center lending may cause an AI bubble reminiscent of the dot-com crash in the early 2000s.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bank-of-england-probes-data-mining-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "9d422180e13e",
           "time": "22:58",
           "category": "Earnings",
@@ -903,6 +967,19 @@
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/know-ahead-waters-corporations-earnings-215801417.html",
           "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "5b15a42ecb36",
+          "time": "21:09",
+          "category": "Crypto",
+          "title": "Ethereum Whales are Quietly Splashing Cash – Is Confidence Returning in ETH?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/ethereum-whales-quietly-splashing-cash-200909745.html",
+          "tags": [
+            "ETH"
+          ],
           "impact_score": 2
         },
         {
@@ -1017,17 +1094,15 @@
           "impact_score": 2
         },
         {
-          "id": "6623fc7c663a",
-          "time": "10:49",
-          "category": "Crypto",
-          "title": "Bitcoin Consolidates Above $111,000 as Breakout Awaits Fresh Catalyst",
+          "id": "d1d16bb87027",
+          "time": "23:02",
+          "category": "Markets",
+          "title": "Predition: This Supercharged Growth Stock Will Soar to $10 Trillion By 2030",
           "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/25/bitcoin-consolidates-as-breakout-awaits-fresh-catalyst",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/predition-supercharged-growth-stock-soar-220200751.html",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "d5bf76830c8f",
@@ -1041,6 +1116,17 @@
           "impact_score": 1
         },
         {
+          "id": "fc631d719662",
+          "time": "22:14",
+          "category": "Markets",
+          "title": "4 Ways Everybody Should Be Using AI To Grow Their Wealth in Late 2025",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/4-ways-everybody-using-ai-211407597.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "6f23bed4705d",
           "time": "21:57",
           "category": "US Macro",
@@ -1048,6 +1134,28 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/amazon-amzn-announces-expansion-amazon-205719363.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "be212de3eb44",
+          "time": "21:36",
+          "category": "Markets",
+          "title": "Scale AI Veteran Bilal Abu-Ghazaleh Launches 1001 With $9 Million To Rebuild The Physical World Through Artificial Intelligence",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/scale-ai-veteran-bilal-abu-203635437.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "117cd2213c8e",
+          "time": "21:17",
+          "category": "Markets",
+          "title": "History of Apple: Company timeline and facts",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/history-apple-company-timeline-facts-201700463.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1118,61 +1226,6 @@
           "impact_score": 1
         },
         {
-          "id": "3d674f3b5605",
-          "time": "19:26",
-          "category": "Markets",
-          "title": "ExxonMobil Sues California, Claims New Green Laws Violate Speech",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/exxonmobil-sues-california-claims-green-182613325.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1ed3384c27e2",
-          "time": "19:12",
-          "category": "Markets",
-          "title": "How one Wall Street Rising Star went from tech investing to building a tire shop business",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/one-wall-street-rising-star-181202514.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "946dc1194a43",
-          "time": "19:03",
-          "category": "Markets",
-          "title": "Target announces a major change affecting its entire business",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/target-announces-major-change-affecting-180300190.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "70b43a263e6b",
-          "time": "19:00",
-          "category": "Crypto",
-          "title": "Is XRP the Best Cryptocurrency to Buy With $1,000 Right Now?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/xrp-best-cryptocurrency-buy-1-180000572.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "46a1a3d06885",
-          "time": "18:47",
-          "category": "Markets",
-          "title": "Why Southwest stock is down while American Airlines is soaring",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-southwest-stock-down-while-174700241.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "13122985c8d7",
           "time": "15:00",
           "category": "Crypto",
@@ -1239,17 +1292,6 @@
           "impact_score": 1
         },
         {
-          "id": "774cc4c1f499",
-          "time": "13:00",
-          "category": "Crypto",
-          "title": "North Korea’s AI-Powered Hackers Are Redefining Crypto Crime",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/business/2025/10/25/north-korea-s-ai-powered-hackers-are-redefining-crypto-crime",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "35b27860e229",
           "time": "11:33",
           "category": "Crypto",
@@ -1312,17 +1354,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-saturday-october-25-2025-100000897.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1273398ba575",
-          "time": "05:33",
-          "category": "US Macro",
-          "title": "Ripple now a one-stop fintech shop after closing Hidden Road acquisition",
-          "summary": "Ripple has completed its acquisition of Hidden Road, a move that will expand its fintech services for institutional clients and boost the utility and reach of its RLUSD stablecoin.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/ripple-closes-fintech-hidden-road-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         }
@@ -1656,32 +1687,6 @@
           "impact_score": 2
         },
         {
-          "id": "48b9f998c184",
-          "time": "21:07",
-          "category": "Crypto",
-          "title": "Alleged 'Trump Insider Whale' Closes $200 Million Bitcoin Short",
-          "summary": "A wallet alleged to have connections to President Trump's family closed a major Bitcoin short ahead of Thursday's price jump.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345734/alleged-trump-insider-whale-closes-200-million-bitcoin-short",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "a892dc07bd5c",
-          "time": "20:30",
-          "category": "Crypto",
-          "title": "Benchmark Boosts Bitcoin Miner Maker Canaan's Stock Target, Praising 'Turnaround Story'",
-          "summary": "The firm's stock rose Thursday, and has traded solidly above $1 during October.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345720/benchmark-boosts-bitcoin-maker-canaans-stock-target-turnaround",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "6962a4fab514",
           "time": "22:28",
           "category": "Crypto",
@@ -1689,17 +1694,6 @@
           "summary": "Coins and tokens linked to crypto mogul Changpeng Zhao and President Trump jumped in price following news of the latest pardon.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345747/bnb-world-liberty-jump-trump-binance-founder",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "a06484d1a949",
-          "time": "20:23",
-          "category": "Crypto",
-          "title": "Canada Hits Crypto Firm With $126 Million Fine",
-          "summary": "Cryptomus has been fined $126 million for failing to report thousands of high-risk transactions tied to child abuse, ransomware, and Iran-linked transfers.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345719/canada-hits-crypto-firm-with-126-million-fine",
           "tags": [],
           "impact_score": 1
         }
