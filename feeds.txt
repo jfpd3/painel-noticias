@@ -1,0 +1,4 @@
+https://www.coindesk.com/arc/outboundfeeds/rss/
+https://decrypt.co/feed
+https://cointelegraph.com/rss
+# adiciona aqui todas as outras fontes que já usas no site…
