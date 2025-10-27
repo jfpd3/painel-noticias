@@ -1,15 +1,37 @@
 {
-  "generated_at": "2025-10-27T11:48+00:00",
+  "generated_at": "2025-10-27T11:58+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-27",
       "attention_points": [
-        "Fed Rate Cut Bets Lift BTC, TradFi Frets Over Margin Debt: Crypto Daybook Americas",
-        "General Motors (GM) Jumps 19% on Minimal Dent from Tariffs",
-        "Trump says tariff checks are ‘probably’ coming to millions of Americans — and soon"
+        "Cybersecurity Stocks: With Earnings On The Way, Focus Shifts To 2026 Outlooks",
+        "Mark Cuban Warns Ending Billionaires Would Destroy Market and Erase Savings: 'Should We Get Rid of the Stock Market?'",
+        "Fed Rate Cut Bets Lift BTC, TradFi Frets Over Margin Debt: Crypto Daybook Americas"
       ],
       "items": [
+        {
+          "id": "1d6daef5b3f9",
+          "time": "11:33",
+          "category": "Regulation",
+          "title": "Cybersecurity Stocks: With Earnings On The Way, Focus Shifts To 2026 Outlooks",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/technology/cybersecurity-stocks-earnings-2026-outlooks/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "1530b067ccdb",
+          "time": "11:31",
+          "category": "Markets",
+          "title": "Mark Cuban Warns Ending Billionaires Would Destroy Market and Erase Savings: 'Should We Get Rid of the Stock Market?'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/mark-cuban-warns-ending-billionaires-113109896.html",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "f1a5b7f82a4d",
           "time": "11:15",
@@ -376,6 +398,17 @@
           "impact_score": 2
         },
         {
+          "id": "0b2d15cf3021",
+          "time": "11:32",
+          "category": "Markets",
+          "title": "Dave Ramsey Says He Took Advantage Of The 2008 Real Estate Crash. With Cash On Hand, He Bought 'A Lot Of Really Nice Properties For Nothing'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/dave-ramsey-says-took-advantage-113229287.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "4a0c30e2a0c5",
           "time": "11:29",
           "category": "Markets",
@@ -383,6 +416,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/wright-flood-acquire-poulton-associates-112954898.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f78efc99e0b9",
+          "time": "11:27",
+          "category": "US Macro",
+          "title": "Stocks gain, gold sags on trade deal optimism",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/stocks-gain-gold-sags-trade-112711975.html",
           "tags": [],
           "impact_score": 1
         },
@@ -453,6 +497,17 @@
           "impact_score": 1
         },
         {
+          "id": "95914861daf7",
+          "time": "11:14",
+          "category": "Markets",
+          "title": "Billionaire Investors Appear to Have a Favorite Artificial Intelligence (AI) Stock Right Now -- and It's Not Nvidia",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/billionaire-investors-appear-favorite-artificial-111400489.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "7a7f420c6a95",
           "time": "11:13",
           "category": "Markets",
@@ -471,6 +526,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/popeyes-franchisee-enters-receivership-amid-111351860.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8421cae27af3",
+          "time": "11:13",
+          "category": "Earnings",
+          "title": "Keurig Dr Pepper Rises After Boosting Annual Sales Outlook",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/keurig-dr-pepper-rises-boosting-111340778.html",
           "tags": [],
           "impact_score": 1
         },
@@ -519,39 +585,6 @@
           "impact_score": 1
         },
         {
-          "id": "f89b32979215",
-          "time": "11:06",
-          "category": "Markets",
-          "title": "Phoenix seeks partnership with asset manager – report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/phoenix-seeks-partnership-asset-manager-110633997.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c773e51892ba",
-          "time": "11:06",
-          "category": "Markets",
-          "title": "1 Incredible Reason to Buy Palantir (PLTR) Stock in November",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/1-incredible-reason-buy-palantir-110600300.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "60f4f7283698",
-          "time": "11:02",
-          "category": "Markets",
-          "title": "Sri Lankan apparel exports post modest growth despite US and UK declines",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/sri-lankan-apparel-exports-post-110214669.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "18f1cb54b981",
           "time": "11:01",
           "category": "Markets",
@@ -559,17 +592,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/business/deals/american-water-works-essential-utilities-merge-in-63-billion-stock-deal-18b03305?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "599d10fcae15",
-          "time": "11:00",
-          "category": "Markets",
-          "title": "Jeff Bezos Says All Decisions Are ‘Type 1’ or ‘Type 2’: Here’s How To Apply This to Your Finances",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jeff-bezos-says-decisions-type-110012328.html",
           "tags": [],
           "impact_score": 1
         },
@@ -724,39 +746,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/articles/health-care-roundup-market-talk-e37a0995?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "44df65e74fb5",
-          "time": "09:55",
-          "category": "Markets",
-          "title": "India's LTIMindtree betting big on new AI unit, CEO says",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/indias-ltimindtree-betting-big-ai-095506074.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c4526b006840",
-          "time": "09:54",
-          "category": "Markets",
-          "title": "HSBC to take $1.1 billion hit after Luxembourg court ruling in Madoff case",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hsbc-1-1-billion-hit-095436169.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "bd6ac9e8c7f0",
-          "time": "09:54",
-          "category": "Markets",
-          "title": "Auto & Transport Roundup: Market Talk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/auto-transport-roundup-0a19aca0?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
