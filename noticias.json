@@ -1,15 +1,41 @@
 {
-  "generated_at": "2025-10-27T20:38+00:00",
+  "generated_at": "2025-10-27T20:50+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-27",
       "attention_points": [
-        "Citi eyes stablecoin payments through new partnership with Coinbase",
-        "NYSE Lists Solana, Hedera, Litecoin Spot Crypto ETFs for Trading This Week",
-        "China Maintains Scrutiny of Crypto While Asia Embraces Stablecoins"
+        "This Ethereum Treasury Stock Is Rising Following Beyond Meat Investor’s Backing",
+        "Ether Treasury Firm ETHZilla Sold $40M ETH to Fund Share Buyback Amid Discount to NAV",
+        "Citi eyes stablecoin payments through new partnership with Coinbase"
       ],
       "items": [
+        {
+          "id": "6d4e097fcd80",
+          "time": "20:44",
+          "category": "Crypto",
+          "title": "This Ethereum Treasury Stock Is Rising Following Beyond Meat Investor’s Backing",
+          "summary": "ETHZilla continued climbing Monday, with the Ethereum treasury firm selling ETH to buy back shares—just like a prominent investor asked.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/346171/ethereum-treasury-stock-rising-following-beyond-meat-investors-backing",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 3
+        },
+        {
+          "id": "993ecc57eab0",
+          "time": "20:38",
+          "category": "Crypto",
+          "title": "Ether Treasury Firm ETHZilla Sold $40M ETH to Fund Share Buyback Amid Discount to NAV",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/business/2025/10/27/ether-treasury-firm-ethzilla-sold-usd40m-eth-to-fund-share-buyback-amid-discount-to-nav",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 3
+        },
         {
           "id": "a1641b6da4f2",
           "time": "20:10",
@@ -247,17 +273,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/business/2025/10/27/clearbank-to-join-circle-payments-network-expanding-access-to-mica-compliant-stablecoins",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "4615db93a3bd",
-          "time": "09:00",
-          "category": "Crypto",
-          "title": "Fed Interest Rate Decision and a Potential Merger: Crypto Week Ahead",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/24/fed-interest-rate-decision-and-a-potential-merger-crypto-week-ahead",
           "tags": [],
           "impact_score": 3
         },
@@ -989,6 +1004,30 @@
           "impact_score": 3
         },
         {
+          "id": "962f4e271039",
+          "time": "10:43",
+          "category": "Regulation",
+          "title": "TD Cowen Initiates Allot Ltd. (ALLT) with Buy Rating, $13 PT on Cybersecurity Market Tailwinds",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/td-cowen-initiates-allot-ltd-104304660.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "0b24eff44e77",
+          "time": "11:49",
+          "category": "Crypto",
+          "title": "The Stock Market Is Doing Something It Does Every 5 Years, but History Says It Signals a Big Move in 2026",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/stock-market-doing-something-does-114900450.html",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "8212adce422a",
           "time": "11:45",
           "category": "Crypto",
@@ -1046,6 +1085,17 @@
           "impact_score": 1
         },
         {
+          "id": "c122e1da7361",
+          "time": "12:30",
+          "category": "Markets",
+          "title": "Americans are paying up to $10K to install home saunas — but are they just sweating away their savings?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/americans-paying-10k-install-home-123000882.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "ddfdf076e371",
           "time": "12:00",
           "category": "Markets",
@@ -1097,6 +1147,28 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/robert-kiyosaki-reveals-bought-4-115500073.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "4aaaeeec2f4d",
+          "time": "11:53",
+          "category": "Markets",
+          "title": "3 Leading Tech Stocks to Buy in 2025",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/3-leading-tech-stocks-buy-115300532.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3848ca7e65b3",
+          "time": "11:48",
+          "category": "Crypto",
+          "title": "Why Is The Crypto Market Up Today?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-crypto-market-today-035345690.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1354,28 +1426,6 @@
           "impact_score": 1
         },
         {
-          "id": "0fc54b06c38e",
-          "time": "10:43",
-          "category": "Markets",
-          "title": "Taboola, Paramount Partner to Launch ‘Performance Multiplier’ for SMB CTV Advertising",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/taboola-paramount-partner-launch-performance-104316995.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ae411f5dc7fd",
-          "time": "10:43",
-          "category": "Markets",
-          "title": "Ventyx Biosciences Reports Positive Phase 2 Data for Oral NLRP3 Inhibitor VTX3232 in Obesity and Cardiovascular Risk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ventyx-biosciences-reports-positive-phase-104315456.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "a3f5b523ac98",
           "time": "10:43",
           "category": "Markets",
@@ -1383,17 +1433,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/marqeta-mq-gets-neutral-initiation-104313688.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "149b67881970",
-          "time": "10:43",
-          "category": "Markets",
-          "title": "Taysha Gene Therapies Regains Full Global Rights to Lead Rett Syndrome Program TSHA-102",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/taysha-gene-therapies-regains-full-104312052.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1409,46 +1448,24 @@
           "impact_score": 1
         },
         {
-          "id": "634523a67f23",
+          "id": "cce6b47e91ca",
           "time": "10:43",
-          "category": "Markets",
-          "title": "B. Riley Boosts Bitdeer (BTDR) PT to $32 on Strong AI-Driven HPC and Data Center Demand",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/b-riley-boosts-bitdeer-btdr-104301445.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "2ea01f392119",
-          "time": "10:43",
-          "category": "Markets",
-          "title": "Is Ondas Holdings (ONDS) One of the Hot Tech Stocks to Buy According to Wall Street Analysts?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ondas-holdings-onds-one-hot-104300329.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "44b68e4e1386",
-          "time": "10:42",
           "category": "Earnings",
-          "title": "Craig-Hallum Initiates Kopin (KOPN) with Buy Rating, $6 PT on Defense Program Revenue Potential",
+          "title": "Sabre Corporation Launches AI-Driven SabreMosaic Continuous Revenue Optimizer for Airlines",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/craig-hallum-initiates-kopin-kopn-104258916.html",
+          "url": "https://finance.yahoo.com/news/sabre-corporation-launches-ai-driven-104309395.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "cad336f401c7",
-          "time": "10:42",
+          "id": "37824413aa8d",
+          "time": "10:43",
           "category": "Markets",
-          "title": "H.C. Wainwright Raises Veritone (VERI) PT to $9 on Strong VDR Bookings Growth",
+          "title": "NetScout Systems Launches Omnis KlearSight Sensor to Provide Observability for Kubernetes",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/h-c-wainwright-raises-veritone-104257804.html",
+          "url": "https://finance.yahoo.com/news/netscout-systems-launches-omnis-klearsight-104306674.html",
           "tags": [],
           "impact_score": 1
         }
@@ -1490,7 +1507,7 @@
       "attention_points": [
         "Trump Picks SEC Crypto Task Force’s Mike Selig to Run CFTC: Report",
         "Custodia, Vantage Expand Pilot Into Live Tokenized Deposit Network for US Banks",
-        "Crypto.com Files for National Bank Charter Following Circle, Stripe and Coinbase"
+        "Elon Musk's SpaceX Moves $133 Million Worth of Bitcoin"
       ],
       "items": [
         {
@@ -1512,17 +1529,6 @@
           "summary": "The two banks have moved from pilot to production with a platform that lets U.S. lenders issue interoperable tokenized deposits compliant with the GENIUS Act.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345909/custodia-vantage-pilot-live-tokenized-deposit-network-us-banks",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "d2df926e8906",
-          "time": "16:54",
-          "category": "Crypto",
-          "title": "Crypto.com Files for National Bank Charter Following Circle, Stripe and Coinbase",
-          "summary": "Crypto exchange Crypto.com is the latest firm to apply for a national bank trust charter, joining a list that includes Coinbase and Circle.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345863/crypto-com-files-national-bank-charter-following-circle-stripe-coinbase",
           "tags": [],
           "impact_score": 3
         },
