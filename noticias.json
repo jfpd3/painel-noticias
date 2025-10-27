@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-27T03:49+00:00",
+  "generated_at": "2025-10-27T04:53+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-27",
       "attention_points": [
+        "Mt. Gox’s security flaws cost millions. Could AI have spotted them?",
         "Bitcoin Set for Massive Surge as Bank Reserves Near 'Danger Zone,' Says Adam Livingston",
-        "Korean Public Company Bitplanet Kicks Off Treasury Plan, Buys Bitcoin as Market Rebounds",
-        "Major Iranian private bank goes bankrupt, roiling 42M customers"
+        "Korean Public Company Bitplanet Kicks Off Treasury Plan, Buys Bitcoin as Market Rebounds"
       ],
       "items": [
+        {
+          "id": "856223b43b50",
+          "time": "04:08",
+          "category": "Regulation",
+          "title": "Mt. Gox’s security flaws cost millions. Could AI have spotted them?",
+          "summary": "Could AI have prevented the collapse of Mt. Gox had it been around then? Mt. Gox’s former CEO's AI-powered post-mortem raises an interesting ‘what if.’",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/mt-gox-s-security-flaws-cost-millions-could-ai-have-spotted-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "7d5f7136178b",
           "time": "03:03",
@@ -46,6 +57,45 @@
           "url": "https://cointelegraph.com/news/iranian-bank-bankruptcy-affecting-42-million-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "8fcd580bab1c",
+          "time": "04:37",
+          "category": "Crypto",
+          "title": "‘Attack on Bitcoin’ — Bitcoiners slam ‘legal threats’ in soft fork proposal",
+          "summary": "A new Bitcoin improvement proposal calls for a one-year soft fork for Bitcoin while developers resolve the transaction filtering debate, but the language within it has sparked controversy.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/bitcoin-soft-fork-luke-dashjr-legal-threat-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "d3c270fd1561",
+          "time": "04:17",
+          "category": "Crypto",
+          "title": "Bitcoin Surpasses 50-Day Average, but CoinDesk BTC Trend Indicator Remains Bearish",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/27/bitcoin-surpasses-50-day-average-but-coindesk-btc-trend-indicator-remains-bearish",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "0a992c94f059",
+          "time": "03:45",
+          "category": "Crypto",
+          "title": "Bitcoin Reclaims $115,000 as US–China Trade Hopes Lift Markets",
+          "summary": "Bitcoin climbed over the weekend as signs of progress in U.S.–China trade talks lifted risk appetite across global markets.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/346027/bitcoin-reclaims-115000-as-us-china-trade-hopes-lift-markets",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
         },
         {
           "id": "8d815667a740",
@@ -85,6 +135,17 @@
             "BTC"
           ],
           "impact_score": 2
+        },
+        {
+          "id": "8795b9e3130d",
+          "time": "04:39",
+          "category": "Crypto",
+          "title": "Javier Milei’s crypto-friendly party wins Argentine midterm",
+          "summary": "Argentina’s La Libertad Avanza party, led by President Javier Milei, has won the midterms, positioning Milei as the frontrunner for the 2027 elections.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/javier-mileis-party-wins-argentinas-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "0eadd1c2c14a",
@@ -226,6 +287,17 @@
           "impact_score": 3
         },
         {
+          "id": "6df5fc3b566d",
+          "time": "08:06",
+          "category": "Regulation",
+          "title": "Lucid Capital Highlights Sector Growth Potential Amid Rising Power Demand, Sets Bullish Stance on Cipher Mining (CIFR)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/lucid-capital-highlights-sector-growth-080604321.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "b431ea497743",
           "time": "22:10",
           "category": "Crypto",
@@ -363,6 +435,17 @@
           "summary": "Government regulators and legal experts warn that insider trading could proliferate in professional sports as wagers migrate to prediction markets.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345961/sports-betting-scandals-nba-prediction-markets",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "911285505296",
+          "time": "08:06",
+          "category": "Earnings",
+          "title": "Piper Sandler Remains Bullish on Hut 8 Corp. (HUT) as Expanding Power Strengthens Growth Outlook",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/piper-sandler-remains-bullish-hut-080605813.html",
           "tags": [],
           "impact_score": 1
         },
@@ -597,6 +680,28 @@
           "impact_score": 3
         },
         {
+          "id": "28bb9aeb2504",
+          "time": "18:31",
+          "category": "Markets",
+          "title": "Kevin O'Leary Says 'Tariffs And Trade Pain Are Temporary.' That's Why Businesses Are 'Quietly Eating Costs, Trimming Waste And Using AI'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/kevin-oleary-says-tariffs-trade-173106025.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "ab1d969a23b4",
+          "time": "18:17",
+          "category": "US Macro",
+          "title": "New CPI data resets December Fed interest rate cut",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/cpi-data-resets-december-fed-171700628.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
           "id": "4d96178d6ae9",
           "time": "18:00",
           "category": "Markets",
@@ -608,28 +713,6 @@
           "impact_score": 3
         },
         {
-          "id": "f912f64344c8",
-          "time": "17:17",
-          "category": "Markets",
-          "title": "I have $12K in my checking account and I was told by my bank that's too much",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/12k-checking-account-told-bank-161700554.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "1f59e1cbbef7",
-          "time": "17:01",
-          "category": "Markets",
-          "title": "Mark Cuban Says Picking the Right Stock Is 'Really Hard' But Buying Toilet Paper in Bulk and Sticking It Under Your Bed Is 'Sometimes the Best Investment'",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/mark-cuban-says-picking-stock-160127711.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
           "id": "a5ed7065ec27",
           "time": "17:00",
           "category": "Crypto",
@@ -637,19 +720,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/23/collapse-of-bitcoin-treasury-bubble-leaves-nearly-all-trading-below-value-of-their-btc-holdings",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 3
-        },
-        {
-          "id": "bbdbfe223b41",
-          "time": "17:00",
-          "category": "Crypto",
-          "title": "Bitcoin Treasury Firms Now Valued at Less Than Their BTC Holdings Amid Crumbled Sentiment",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bitcoin-treasury-firms-now-valued-160000569.html",
           "tags": [
             "BTC"
           ],
@@ -715,6 +785,17 @@
           "impact_score": 2
         },
         {
+          "id": "5594842c6141",
+          "time": "18:30",
+          "category": "Markets",
+          "title": "The business school dropout who kicked off the Beyond Meat rally wants you to know he's not Roaring Kitty 2.0",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/business-school-dropout-kicked-off-173001714.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "d9d9abb815d5",
           "time": "18:20",
           "category": "Crypto",
@@ -722,19 +803,6 @@
           "summary": "Smaller Bitcoin miners surge in hashrate and debt as competition intensifies post-halving, reshaping the industry’s balance of power.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/bitcoin-miners-hashrate-debt-ai-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "ecde6daa80d2",
-          "time": "17:53",
-          "category": "Crypto",
-          "title": "Rumble Launches Bitcoin Tipping at Lugano PlanB Event in Switzerland",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/rumble-launches-bitcoin-tipping-lugano-165346208.html",
           "tags": [
             "BTC"
           ],
@@ -939,35 +1007,79 @@
           "impact_score": 1
         },
         {
-          "id": "a3175b7dbb6a",
-          "time": "18:02",
+          "id": "946dc1194a43",
+          "time": "19:03",
           "category": "Markets",
-          "title": "Is Broadcom Stock the Next Nvidia?",
+          "title": "Target announces a major change affecting its entire business",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/broadcom-stock-next-nvidia-170200692.html",
+          "url": "https://finance.yahoo.com/news/target-announces-major-change-affecting-180300190.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "751c450dcf55",
-          "time": "18:01",
-          "category": "Markets",
-          "title": "Is ESG Investing Losing Its Shine? ESG Stocks Continue To Underperform The S&P 500",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/esg-investing-losing-shine-esg-170114071.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c5314c7fc1ef",
-          "time": "17:51",
+          "id": "70b43a263e6b",
+          "time": "19:00",
           "category": "Crypto",
-          "title": "JPMorgan: $34bn Base token, waning DEX threat, could boost Coinbase stock",
+          "title": "Is XRP the Best Cryptocurrency to Buy With $1,000 Right Now?",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jpmorgan-34bn-token-waning-dex-165154749.html",
+          "url": "https://finance.yahoo.com/news/xrp-best-cryptocurrency-buy-1-180000572.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "46a1a3d06885",
+          "time": "18:47",
+          "category": "Markets",
+          "title": "Why Southwest stock is down while American Airlines is soaring",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-southwest-stock-down-while-174700241.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7cf9ae82ca5a",
+          "time": "18:33",
+          "category": "Markets",
+          "title": "T-Mobile restricts a beloved discount, angering customers",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/t-mobile-restricts-beloved-discount-173300852.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "57d709577863",
+          "time": "18:30",
+          "category": "Markets",
+          "title": "5 Things to Know About Amazon Stock Before You Buy",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/5-things-know-amazon-stock-173000195.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "77b790319e73",
+          "time": "18:25",
+          "category": "Markets",
+          "title": "I Asked ChatGPT How Much I’d Pay in Taxes If I Retired in Arizona",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/asked-chatgpt-much-d-pay-172508796.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "228e60652a42",
+          "time": "18:06",
+          "category": "Markets",
+          "title": "After a Couple of Deep Cuts in Recent Years, This 6.2%-Yielding Dividend Is Getting Healthier and Could Start Heading Higher in 2026 and Beyond",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/couple-deep-cuts-recent-years-170600006.html",
           "tags": [],
           "impact_score": 1
         },
@@ -990,17 +1102,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/opendoor-open-soars-13-rate-164604976.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e09b513976b4",
-          "time": "17:46",
-          "category": "Markets",
-          "title": "Welcome to the 'Great Freeze': Why companies aren't firing, workers can't grow, and the unemployed can't get jobs",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/welcome-great-freeze-why-companies-164601656.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1056,39 +1157,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/clover-health-clov-jumps-19-164442772.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c8e56560789b",
-          "time": "17:32",
-          "category": "Markets",
-          "title": "Less Than Half Of Americans Are On Track To Maintain Their Current Lifestyles In Retirement, Vanguard Says",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/less-half-americans-track-maintain-163237205.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "7b0772f428b8",
-          "time": "17:19",
-          "category": "Markets",
-          "title": "Ovo Energy handed founder £27m despite doubts over future",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ovo-energy-handed-founder-27m-161911067.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "9f651ae2a359",
-          "time": "17:03",
-          "category": "Markets",
-          "title": "Popular discount retailer announces closure amid financial struggles",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/popular-discount-retailer-announces-closure-160300118.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1247,17 +1315,6 @@
           "impact_score": 1
         },
         {
-          "id": "3dfdef0197b8",
-          "time": "07:00",
-          "category": "Crypto",
-          "title": "Dogecoin Hits $0.20 as Breakout Volume Triples Average, Confirms Bullish Setup",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/25/dogecoin-hits-usd0-20-as-breakout-volume-triples-average-confirms-bullish-setup",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "1273398ba575",
           "time": "05:33",
           "category": "US Macro",
@@ -1273,22 +1330,11 @@
     {
       "date": "2025-10-24",
       "attention_points": [
-        "Trump to nominate SEC's 'pro-crypto' Michael Selig as CFTC chair: Report",
         "Trump Picks SEC Crypto Task Force’s Mike Selig to Run CFTC: Report",
-        "Custodia, Vantage Expand Pilot Into Live Tokenized Deposit Network for US Banks"
+        "Custodia, Vantage Expand Pilot Into Live Tokenized Deposit Network for US Banks",
+        "Crypto.com Files for National Bank Charter Following Circle, Stripe and Coinbase"
       ],
       "items": [
-        {
-          "id": "031f0ba1f35b",
-          "time": "23:03",
-          "category": "Crypto",
-          "title": "Trump to nominate SEC's 'pro-crypto' Michael Selig as CFTC chair: Report",
-          "summary": "The rumored nomination of Michael Selig follows the CFTC nomination process hitting a snag in September when Brian Quintenz was withdrawn.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/trump-nominate-sec-michael-selig-cftc-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 3
-        },
         {
           "id": "d127cf5a447c",
           "time": "22:47",
@@ -1358,32 +1404,6 @@
           "summary": "Elon Musk's space exploration firm, SpaceX, moved $133 million worth of Bitcoin on Friday after transferring funds earlier this week.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345904/elon-musk-spacex-moves-133-million-worth-bitcoin",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "ce41591b047d",
-          "time": "23:06",
-          "category": "Crypto",
-          "title": "Bitcoin miners build on gains after Jane Street discloses stakes",
-          "summary": "Shares of leading Bitcoin mining companies rose after Jane Street disclosed new holdings on Thursday, extending a months-long rally across publicly traded mining stocks.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bitcoin-miners-rally-jane-street-bitfarms-cipher-hut-8?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "aa33d409acce",
-          "time": "22:41",
-          "category": "Crypto",
-          "title": "Bitcoin price compression will spark expansion: Will BTC explode toward $120K?",
-          "summary": "Bitcoin sellers put a cap on $112,000, but technical, onchain data and the end of October US macroeconomic calendar suggest that the price compression will trigger a violent expansion.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bitcoin-price-compression-will-spark-expansion-will-btc-explode-to-120k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -1679,17 +1699,6 @@
           "summary": "Cryptomus has been fined $126 million for failing to report thousands of high-risk transactions tied to child abuse, ransomware, and Iran-linked transfers.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345719/canada-hits-crypto-firm-with-126-million-fine",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6fdf90f34003",
-          "time": "19:42",
-          "category": "Markets",
-          "title": "Can Beyond Meat Match the GameStop Meme Stock Craze?",
-          "summary": "Beyond Meat is facing its first test since becoming a meme stock sensation, with its stock down more than half since the peak. Can it rebound?",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345722/can-beyond-meat-match-gamestop-meme-stock-craze",
           "tags": [],
           "impact_score": 1
         }
