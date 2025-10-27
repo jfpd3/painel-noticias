@@ -1,15 +1,37 @@
 {
-  "generated_at": "2025-10-27T19:56+00:00",
+  "generated_at": "2025-10-27T20:38+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-27",
       "attention_points": [
-        "China Maintains Scrutiny of Crypto While Asia Embraces Stablecoins",
-        "Wall Street Bank Citi, Coinbase Partner to Expand Digital Asset Payments",
-        "Michael Selig confirms CFTC nomination as agency faces leadership void"
+        "Citi eyes stablecoin payments through new partnership with Coinbase",
+        "NYSE Lists Solana, Hedera, Litecoin Spot Crypto ETFs for Trading This Week",
+        "China Maintains Scrutiny of Crypto While Asia Embraces Stablecoins"
       ],
       "items": [
+        {
+          "id": "a1641b6da4f2",
+          "time": "20:10",
+          "category": "Crypto",
+          "title": "Citi eyes stablecoin payments through new partnership with Coinbase",
+          "summary": "Citi partners with Coinbase to pilot stablecoin payments as the bank forecasts a $4 trillion market by 2030, signaling Wall Street’s growing crypto embrace.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/citi-coinbase-stablecoin-payments-forecast-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "b0d13fb8ecd3",
+          "time": "19:56",
+          "category": "Crypto",
+          "title": "NYSE Lists Solana, Hedera, Litecoin Spot Crypto ETFs for Trading This Week",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/27/nyse-lists-solana-hedera-litecoin-spot-crypto-etfs-for-trading-this-week",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "3eab52ad9707",
           "time": "19:09",
@@ -236,17 +258,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/24/fed-interest-rate-decision-and-a-potential-merger-crypto-week-ahead",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "04ef2991ed52",
-          "time": "08:54",
-          "category": "Crypto",
-          "title": "Indian Judge Halts WazirX’s XRP Reallocation Plan Linked to 2024 Hack",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/27/indian-judge-halts-wazirx-s-xrp-reallocation-plan-linked-to-2024-hack",
           "tags": [],
           "impact_score": 3
         },
@@ -583,6 +594,17 @@
           "impact_score": 2
         },
         {
+          "id": "daf8a426acb8",
+          "time": "19:59",
+          "category": "Earnings",
+          "title": "Indian court steps in over WazirX XRP distribution tied to 2024 hack",
+          "summary": "Just a few weeks after a Singaporean court approved WazirX's parent company's restructuring plan, a decision out of one of India's courts could impact users.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/india-court-wazirx-xrp-distribution-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "72aaa394f5bf",
           "time": "19:34",
           "category": "Crypto",
@@ -911,28 +933,6 @@
           "url": "https://cointelegraph.com/news/javier-mileis-party-wins-argentinas-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
-        },
-        {
-          "id": "0eadd1c2c14a",
-          "time": "01:31",
-          "category": "Crypto",
-          "title": "Zcash pumps 30% after Arthur Hayes’ ‘vibe check’ tips $10K target",
-          "summary": "Zcash rallied over 490% in the last 30 days and also crossed the $5 billion market capitalization threshold for the first time on Sunday.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/zcash-surges-arthur-hayes-prediction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "dea49fc047f4",
-          "time": "00:10",
-          "category": "Crypto",
-          "title": "Money giant Western Union to pilot stablecoin-powered transfers",
-          "summary": "Western Union CEO said there are “significant opportunities” to utilize stablecoins for sending and receiving money across borders.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/western-union-piloting-stablecoin-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
         }
       ]
     },
@@ -940,8 +940,8 @@
       "date": "2025-10-26",
       "attention_points": [
         "Alibaba’s Qwen Deep Research Creates Live Webpages, Podcasts in Seconds",
-        "The Smartest High-Yield Dividend ETF to Buy With $100 Right Now",
-        "TD Cowen Initiates Allot Ltd. (ALLT) with Buy Rating, $13 PT on Cybersecurity Market Tailwinds"
+        "Phillip Securities Maintains a Buy Rating on Wells Fargo & Company (WFC)",
+        "Phillip Securities Raises the PT on Bank of America Corporation (BAC), Keeps a Buy"
       ],
       "items": [
         {
@@ -956,114 +956,59 @@
           "impact_score": 3
         },
         {
-          "id": "b18f32b8c0ee",
-          "time": "10:45",
-          "category": "Markets",
-          "title": "The Smartest High-Yield Dividend ETF to Buy With $100 Right Now",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/smartest-high-yield-dividend-etf-104500388.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "962f4e271039",
-          "time": "10:43",
+          "id": "22e5dde442b7",
+          "time": "11:25",
           "category": "Regulation",
-          "title": "TD Cowen Initiates Allot Ltd. (ALLT) with Buy Rating, $13 PT on Cybersecurity Market Tailwinds",
+          "title": "Phillip Securities Maintains a Buy Rating on Wells Fargo & Company (WFC)",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/td-cowen-initiates-allot-ltd-104304660.html",
+          "url": "https://finance.yahoo.com/news/phillip-securities-maintains-buy-rating-112511865.html",
           "tags": [],
           "impact_score": 3
         },
         {
-          "id": "b9bf7716deff",
-          "time": "10:43",
-          "category": "Crypto",
-          "title": "Nebius Group Launches Nebius AI Cloud 3.0 Aether, Focused on Enterprise Security and Control for Critical AI Workloads",
+          "id": "aee73b0e9175",
+          "time": "11:25",
+          "category": "Regulation",
+          "title": "Phillip Securities Raises the PT on Bank of America Corporation (BAC), Keeps a Buy",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nebius-group-launches-nebius-ai-104302348.html",
+          "url": "https://finance.yahoo.com/news/phillip-securities-raises-pt-bank-112505455.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "bbed6e8f5530",
+          "time": "11:25",
+          "category": "Regulation",
+          "title": "Phillip Securities Maintains a Hold on JPMorgan Chase & Co (JPM)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/phillip-securities-maintains-hold-jpmorgan-112503467.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "8212adce422a",
+          "time": "11:45",
+          "category": "Crypto",
+          "title": "1 Important Tailwind That Could Send Ethereum (ETH) Skyrocketing",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/1-important-tailwind-could-send-114500216.html",
           "tags": [
             "ETH"
           ],
-          "impact_score": 3
-        },
-        {
-          "id": "3650d04a1977",
-          "time": "10:16",
-          "category": "Markets",
-          "title": "Is ArcelorMittal S.A. (MT) One of the Top Steel Stocks to Buy Amid US Tariffs?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/arcelormittal-mt-one-top-steel-101622833.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "18b3907f3ca0",
-          "time": "10:16",
-          "category": "Regulation",
-          "title": "ADC Therapeutics (ADCT) Secures PIPE Financing, Price Target Adjusted",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/adc-therapeutics-adct-secures-pipe-101616567.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "90a00d2409cd",
-          "time": "10:16",
-          "category": "Regulation",
-          "title": "BofA Securities Lifts Amylyx Pharmaceuticals Inc. (AMLX) Price Target Amid Bolstered Balance Sheet",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bofa-securities-lifts-amylyx-pharmaceuticals-101613820.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "1054d21339b5",
-          "time": "10:15",
-          "category": "Markets",
-          "title": "Personal bankruptcy filings are soaring this year due to ‘mounting financial pressure’ — what it really means to file",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/personal-bankruptcy-filings-soaring-due-101500945.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "6639a6de2de2",
-          "time": "10:30",
-          "category": "Markets",
-          "title": "Is This AI Rally Sustainable or Just Another Bubble in Disguise?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ai-rally-sustainable-just-another-103000211.html",
-          "tags": [],
           "impact_score": 2
         },
         {
-          "id": "8e54005b79b5",
-          "time": "10:16",
-          "category": "Earnings",
-          "title": "Commercial Metals Company (CMC) Board Approves Cash Dividend as Earnings Grow",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/commercial-metals-company-cmc-board-101621713.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "aed1356fe1b4",
-          "time": "10:16",
+          "id": "be2a80fca449",
+          "time": "11:25",
           "category": "Markets",
-          "title": "Dave & Buster’s Entertainment Inc. (PLAY) Moves to Address Sales Decline amid S&P Downgrade",
+          "title": "BNP Paribas Exane Downgrades Verizon Communications (VZ) to Neutral",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/dave-buster-entertainment-inc-play-101618158.html",
+          "url": "https://finance.yahoo.com/news/bnp-paribas-exane-downgrades-verizon-112514154.html",
           "tags": [],
           "impact_score": 2
         },
@@ -1101,6 +1046,292 @@
           "impact_score": 1
         },
         {
+          "id": "ddfdf076e371",
+          "time": "12:00",
+          "category": "Markets",
+          "title": "This Dividend Stock Alternative Can Turn $92,000 Into $10,000 a Year for 15 Years",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/dividend-stock-alternative-turn-92-120002104.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e3eb9bfc6a2a",
+          "time": "12:00",
+          "category": "Markets",
+          "title": "Vanguard reveals what could be coming for US stocks — here’s why it’s raising alarm bells for retirees",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/vanguard-reveals-could-coming-us-120000114.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5a7d19ec6fd5",
+          "time": "12:00",
+          "category": "Markets",
+          "title": "As scammers hijack the rental market, landlords are left paying the price — 5 safer ways to invest in real estate",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/scammers-hijack-rental-market-landlords-120000507.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c80c8e1244e8",
+          "time": "12:00",
+          "category": "Markets",
+          "title": "Advisors Are Piling Into the RIA Channel. That May Not Be a Good Thing",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/advisors-piling-ria-channel-may-120000377.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "359df771c8a4",
+          "time": "11:55",
+          "category": "Markets",
+          "title": "Robert Kiyosaki reveals how he bought a $4.5M house with a $450K asset — there’s no catch. Here’s how to copy the move",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/robert-kiyosaki-reveals-bought-4-115500073.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "84d714a1312a",
+          "time": "11:35",
+          "category": "Markets",
+          "title": "Prediction: This Will Be Wall Street's First $5 Trillion Stock",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/prediction-wall-streets-first-5-113500777.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "c610c896319e",
+          "time": "11:30",
+          "category": "Markets",
+          "title": "I just found out my new wife has been hiding $65K in credit card debt from me — what can I do to protect myself?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/just-found-wife-hiding-65k-113000052.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "69aab6964527",
+          "time": "11:25",
+          "category": "Earnings",
+          "title": "Morgan Stanley Maintains a Buy on Diamondback Energy (FANG), Keeps the PT",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/morgan-stanley-maintains-buy-diamondback-112520103.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "97e0b982845e",
+          "time": "11:25",
+          "category": "US Macro",
+          "title": "Citizens Reiterates a Market Perform Rating on Chubb Limited (CB), Keeps the PT",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/citizens-reiterates-market-perform-rating-112519367.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6ad251005c6e",
+          "time": "11:25",
+          "category": "Earnings",
+          "title": "Wells Fargo Maintains a Buy Rating on D.R. Horton, Inc. (DHI), Keeps the PT",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/wells-fargo-maintains-buy-rating-112517624.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5fd0dc940eb7",
+          "time": "11:25",
+          "category": "US Macro",
+          "title": "Cantor Fitzgerald Reiterates a Buy Rating on Elevance Health (ELV), Keeps the PT",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/cantor-fitzgerald-reiterates-buy-rating-112516669.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d01c4e76e20b",
+          "time": "11:25",
+          "category": "Markets",
+          "title": "European Medicines Agency Adopts a Positive Opinion on ​Regeneron’s (REGN) Libtayo",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/european-medicines-agency-adopts-positive-112512327.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d8e77427a020",
+          "time": "11:25",
+          "category": "Earnings",
+          "title": "Pfizer Inc. (PFE) and Astellas Pharma Announce Survival Results from Phase 3 EMBARK Study",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/pfizer-inc-pfe-astellas-pharma-112509464.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b524b6b2f4f2",
+          "time": "11:25",
+          "category": "Markets",
+          "title": "Wells Fargo Initiates PayPal Holding (PYPL) With an Equal Weight",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/wells-fargo-initiates-paypal-holding-112508188.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1efc976c2bac",
+          "time": "11:25",
+          "category": "Earnings",
+          "title": "Barclays Lowers PT on The Progressive Corporation (PGR), Keeps an Equal Weight",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/barclays-lowers-pt-progressive-corporation-112506181.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "29b4ba0b3043",
+          "time": "11:25",
+          "category": "Markets",
+          "title": "Jim Cramer on Tesla CEO: “He Makes an Incredibly Compelling Case to Buy the Stock”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-tesla-ceo-makes-112502696.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "566a26d3e31b",
+          "time": "11:25",
+          "category": "Markets",
+          "title": "Jim Cramer on GSI Technology: “That Thing is a Rocket Ship”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-gsi-technology-thing-112500694.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b3b23a619aea",
+          "time": "11:24",
+          "category": "Markets",
+          "title": "Jim Cramer on Kratos Defense: “It’s Time to Pull the Trigger”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-kratos-defense-time-112459606.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f567fa1fbbec",
+          "time": "11:24",
+          "category": "Markets",
+          "title": "Jim Cramer on Qfin: “China Financials, Not for Me”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-qfin-china-financials-112457376.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d178f74beb19",
+          "time": "11:24",
+          "category": "Markets",
+          "title": "Jim Cramer Says IonQ is a “Trading Vehicle”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-ionq-trading-112456541.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "669c535d36ac",
+          "time": "11:24",
+          "category": "Markets",
+          "title": "Jim Cramer Says He is a “Buyer of Novartis”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-buyer-novartis-112454953.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "360de8a98fd0",
+          "time": "11:24",
+          "category": "Earnings",
+          "title": "Jim Cramer Says “We Got a Very Good Quarter From Dover”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-got-very-112453071.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7d799cb72777",
+          "time": "11:24",
+          "category": "Markets",
+          "title": "Jim Cramer on Palantir: “It’s One of the Speculative Stocks That I Truly Like”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jim-cramer-palantir-one-speculative-112451664.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "52ba851c2cf9",
+          "time": "11:20",
+          "category": "Markets",
+          "title": "Intel Just Delivered for Investors. Here Are 6 Key Things to Know.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/intel-just-delivered-investors-6-112000231.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8a4718c1d025",
+          "time": "11:15",
+          "category": "Markets",
+          "title": "Should You Buy Lucid Stock While It's Below $23?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/buy-lucid-stock-while-below-111500979.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "96f7db9442bd",
+          "time": "11:13",
+          "category": "Crypto",
+          "title": "Kyrgyzstan Launches Stablecoin on BNB Chain, Eyes National Digital Currency and Crypto Reserve",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/kyrgyzstan-launches-stablecoin-bnb-chain-111300290.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "19d45f00d5e0",
           "time": "11:00",
           "category": "Regulation",
@@ -1108,28 +1339,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/borderlands-mexico-customs-regulation-could-110000969.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6b001750522e",
-          "time": "10:53",
-          "category": "Markets",
-          "title": "Is Broadcom Stock the Smartest Way to Invest in AI Infrastructure?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/broadcom-stock-smartest-way-invest-105300265.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f9dc2dc3e1ca",
-          "time": "10:45",
-          "category": "Markets",
-          "title": "Nvidia Stock vs. Tesla Stock: Certain Wall Street Analysts Say Buy One and Sell the Other",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nvidia-stock-vs-tesla-stock-104500212.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1200,39 +1409,6 @@
           "impact_score": 1
         },
         {
-          "id": "cce6b47e91ca",
-          "time": "10:43",
-          "category": "Earnings",
-          "title": "Sabre Corporation Launches AI-Driven SabreMosaic Continuous Revenue Optimizer for Airlines",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/sabre-corporation-launches-ai-driven-104309395.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "36e2e22f59d1",
-          "time": "10:43",
-          "category": "Markets",
-          "title": "Cantor Fitzgerald Raises Core Scientific (CORZ) PT to $26 on Potential CoreWeave Deal Rejection and Standalone HPC Value",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cantor-fitzgerald-raises-core-scientific-104307799.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "37824413aa8d",
-          "time": "10:43",
-          "category": "Markets",
-          "title": "NetScout Systems Launches Omnis KlearSight Sensor to Provide Observability for Kubernetes",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/netscout-systems-launches-omnis-klearsight-104306674.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "634523a67f23",
           "time": "10:43",
           "category": "Markets",
@@ -1273,182 +1449,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/h-c-wainwright-raises-veritone-104257804.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b1433db610e3",
-          "time": "10:42",
-          "category": "Markets",
-          "title": "Christian Schwab from Craig-Hallum Maintains a Buy Rating on Vuzix (VUZI)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/christian-schwab-craig-hallum-maintains-104255337.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "40204a7bc5c7",
-          "time": "10:42",
-          "category": "Markets",
-          "title": "Benchmark Boosts Canaan (CAN) PT to $4, Cites a Visible Slate of Shipments",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/benchmark-boosts-canaan-pt-4-104254482.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c09928292348",
-          "time": "10:42",
-          "category": "Markets",
-          "title": "MultiSensor AI (MSAI) Assumed with Buy Rating, $3 PT by Jason Kolbert of Boral Capital",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/multisensor-ai-msai-assumed-buy-104252004.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "906a677bda52",
-          "time": "10:42",
-          "category": "Markets",
-          "title": "Lake Street Initiates Franklin Wireless (FKWL) with Buy Rating $6 PT on Mobile Hotspot Growth",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/lake-street-initiates-franklin-wireless-104250815.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1e64e54a2866",
-          "time": "10:30",
-          "category": "Markets",
-          "title": "2 Growth Stocks That Could Be Multibaggers in 5 Years",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/2-growth-stocks-could-multibaggers-103000803.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6a3de14730d0",
-          "time": "10:16",
-          "category": "Markets",
-          "title": "Is Amplitude (AMPL) one of Billionaire Steve Cohen’s Small-Cap Stock Picks with Huge Upside Potential?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/amplitude-ampl-one-billionaire-steve-101625465.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1a9745d69190",
-          "time": "10:16",
-          "category": "Markets",
-          "title": "Raymond James Initiates Strong Buy on Taysha (TSHA) Amid Rett Syndrome Trial Momentum",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/raymond-james-initiates-strong-buy-101624877.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c4b7aca2d1a1",
-          "time": "10:16",
-          "category": "Earnings",
-          "title": "Wells Fargo Begins Coverage on Cracker Barrel (CBRL) with Cautious Outlook",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/wells-fargo-begins-coverage-cracker-101622975.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c53f0a7eabe5",
-          "time": "10:16",
-          "category": "Markets",
-          "title": "H.C. Wainwright Reaffirms Buy Rating on AngioDynamics (ANGO) After Strong Q1 Performance",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/h-c-wainwright-reaffirms-buy-101620006.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "26b5326846f6",
-          "time": "10:16",
-          "category": "Markets",
-          "title": "JPMorgan Cuts Reliance (RS) Price Target But Maintains ‘Overweight’ Stance",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jpmorgan-cuts-reliance-rs-price-101619723.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "579dd7221190",
-          "time": "10:16",
-          "category": "Markets",
-          "title": "Cleveland-Cliffs Inc. (CLF) Moves To Bolster Balance Sheet to Manage Debt",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/cleveland-cliffs-inc-clf-moves-101617648.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6f56b48a6c82",
-          "time": "10:16",
-          "category": "Markets",
-          "title": "Needham Lowers ACV Auctions (ACVA) Price Target to $14, Maintains Buy Rating",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/needham-lowers-acv-auctions-acva-101615226.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ed15fc9714ec",
-          "time": "10:16",
-          "category": "Markets",
-          "title": "Steel Dynamics (STLD) Delivers Strong Q3, Eyes Aluminum Ramp and Biocarbon Growth",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/steel-dynamics-stld-delivers-strong-101615474.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "261b05cdd830",
-          "time": "10:16",
-          "category": "Earnings",
-          "title": "JPMorgan Analyst Lifts Nucor Corp (NUE) Price Target on Strong Market Position and Outlook",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jpmorgan-analyst-lifts-nucor-corp-101613330.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3b87cc40abc0",
-          "time": "10:16",
-          "category": "Markets",
-          "title": "Nurix Therapeutics, Inc. (NRIX) Price Target Trimmed After Q3 Miss, Buy Rating Reaffirmed",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/nurix-therapeutics-inc-nrix-price-101611555.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4401f03fe9ff",
-          "time": "10:16",
-          "category": "Earnings",
-          "title": "Arcus Biosciences Inc. (RCUS) Posts Positive Results on Kidney Cancer Drug Trials",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/arcus-biosciences-inc-rcus-posts-101610093.html",
           "tags": [],
           "impact_score": 1
         }
