@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-10-27T15:52+00:00",
+  "generated_at": "2025-10-27T16:02+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-27",
       "attention_points": [
+        "Canada weighs stablecoin rules ahead of federal budget: Report",
         "Tom Lee’s BitMine Rises as Ethereum Rebounds, Firm Adds $321 Million in ETH",
-        "Major candy company files Chapter 11 bankruptcy in Halloween week",
-        "Berkshire cut to 'underperform' by KBW, which cites Geico, tariffs, Buffett"
+        "Regional Bank Leader Prods Consolidation With $7.4 Billion Deal"
       ],
       "items": [
+        {
+          "id": "a48e53f6121a",
+          "time": "15:48",
+          "category": "US Macro",
+          "title": "Canada weighs stablecoin rules ahead of federal budget: Report",
+          "summary": "Canada eyes new stablecoin rules in upcoming budget, aiming to modernize payments and follow the US GENIUS Act’s regulatory example.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/canada-stablecoin-rules-federal-budget-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "aa2468b83e0a",
           "time": "15:44",
@@ -21,6 +32,17 @@
           "tags": [
             "ETH"
           ],
+          "impact_score": 3
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "15:38",
+          "category": "Markets",
+          "title": "Regional Bank Leader Prods Consolidation With $7.4 Billion Deal",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/huntington-bancshares-hban-stock-cadence-regional-bank-deal-7-4-billion/?src=A00220&yptr=yahoo",
+          "tags": [],
           "impact_score": 3
         },
         {
@@ -295,6 +317,28 @@
           "impact_score": 3
         },
         {
+          "id": "c5efea96ac74",
+          "time": "15:43",
+          "category": "Markets",
+          "title": "Stock Market Today: U.S. Equities Jump After Fresh Records, China Trade Framework Teased",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/stock-market-today-u-equities-154323732.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "972d08205af6",
+          "time": "15:39",
+          "category": "Markets",
+          "title": "Trump-backed stock surges after new announcement",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/trump-backed-stock-surges-announcement-153902435.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "a768aef50247",
           "time": "15:34",
           "category": "Crypto",
@@ -315,28 +359,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/news/tesla-stock-morgan-stanley-callin-it-tesla-big-gamble-autonomous/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "17d461ee9c44",
-          "time": "15:10",
-          "category": "Markets",
-          "title": "Argentina’s Markets Surge as Milei Win Eases Fear of a Crisis",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/argentina-investors-poised-rally-milei-021714477.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "b061a3562461",
-          "time": "15:07",
-          "category": "Markets",
-          "title": "Gold Plunges Below $4,000 as US-China Truce Erodes Haven Demand",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/gold-extends-drop-us-china-232041519.html",
           "tags": [],
           "impact_score": 2
         },
@@ -596,6 +618,39 @@
           "impact_score": 2
         },
         {
+          "id": "e576ffd421d1",
+          "time": "15:48",
+          "category": "Crypto",
+          "title": "South Korean Crypto Exchanges See 1,400x Jump in Flows Linked to Sanctioned Cambodian Entities",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/business/2025/10/27/south-korean-crypto-exchanges-see-1-400x-jump-in-flows-linked-to-sanctioned-cambodian-entities",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8b92951a026e",
+          "time": "15:42",
+          "category": "Markets",
+          "title": "Wall Street is Pounding the Table Over HON, GOOG, AAPL, MSFT, BKNG, and TSLA",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/wall-street-pounding-table-over-154201993.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b5a6b773e9e1",
+          "time": "15:34",
+          "category": "Markets",
+          "title": "Canada opens anti‑dumping probe into truck body imports from China",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/canada-opens-anti-dumping-probe-153447580.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "270fb5118233",
           "time": "15:34",
           "category": "Markets",
@@ -651,6 +706,17 @@
           "impact_score": 1
         },
         {
+          "id": "2575b46b457b",
+          "time": "15:21",
+          "category": "Markets",
+          "title": "Why Trilogy Metals Stock Crashed Today",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-trilogy-metals-stock-crashed-152108099.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "7a52a66ad8d1",
           "time": "15:14",
           "category": "Crypto",
@@ -662,28 +728,6 @@
           "impact_score": 1
         },
         {
-          "id": "8686270b8b7a",
-          "time": "15:14",
-          "category": "Markets",
-          "title": "Strategy Shares Rise on $43 Million Purchase—Its Largest in Four Weeks",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/strategy-shares-rise-43-million-151419687.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b60f8b66f8b0",
-          "time": "15:09",
-          "category": "Markets",
-          "title": "Greencore-Bakkavor merger: CMA raises concerns in chilled sauces but not ready meals",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/greencore-bakkavor-merger-cma-raises-114729833.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "73d0b0d6c3c6",
           "time": "15:09",
           "category": "Markets",
@@ -691,17 +735,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/exxon-backed-carbon-accounting-group-150900874.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b0c65494060f",
-          "time": "15:07",
-          "category": "Markets",
-          "title": "Google takes another piece of Nvidia, Amazon AI cake",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/google-takes-another-piece-nvidia-150700993.html",
           "tags": [],
           "impact_score": 1
         },
@@ -867,17 +900,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/qualcomm-stock-spikes-more-than-20-as-company-enters-ai-chip-race-taking-on-nvidia-amd-140024616.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ea247dcb74db",
-          "time": "13:59",
-          "category": "Markets",
-          "title": "2 Reasons Tesla Stock Is Up Today",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/tesla-stock-price-today-china-trade-4d8f74f9?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -1091,17 +1113,6 @@
           "impact_score": 1
         },
         {
-          "id": "8f565c91656d",
-          "time": "04:48",
-          "category": "Crypto",
-          "title": "XRP’s Clean Technical Break Repositions Bulls for $2.80 Push",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/27/xrp-s-clean-technical-break-repositions-bulls-for-usd2-80-push",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "8795b9e3130d",
           "time": "04:39",
           "category": "Crypto",
@@ -1188,19 +1199,6 @@
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/aws-outage-shows-crypto-decentralization-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "d265201cf0dd",
-          "time": "09:38",
-          "category": "Crypto",
-          "title": "Bitcoin price starts $112K breakout as Fed rate-cut odds pass 98%",
-          "summary": "Bitcoin price action favored bulls as the weekly close neared, with BTC nearing $113,000 ahead of a key week for the Federal Reserve.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bitcoin-price-starts-112k-breakout-fed-rate-cut-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [
-            "BTC"
-          ],
           "impact_score": 3
         },
         {
