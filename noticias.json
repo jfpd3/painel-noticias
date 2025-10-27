@@ -1,23 +1,91 @@
 {
-  "generated_at": "2025-10-27T11:02+00:00",
+  "generated_at": "2025-10-27T11:34+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-27",
       "attention_points": [
-        "Western Union Follows Banks Into Stablecoin Integration",
-        "Bank of Canada poised to cut rates to 2.25% amid economic slowdown",
-        "ClearBank to Join Circle Payments Network, Expanding Access to MiCA-Compliant Stablecoins"
+        "Fed Rate Cut Bets Lift BTC, TradFi Frets Over Margin Debt: Crypto Daybook Americas",
+        "General Motors (GM) Jumps 19% on Minimal Dent from Tariffs",
+        "Trump says tariff checks are ‘probably’ coming to millions of Americans — and soon"
       ],
       "items": [
         {
-          "id": "35976c4005f8",
-          "time": "10:37",
+          "id": "f1a5b7f82a4d",
+          "time": "11:15",
+          "category": "Crypto",
+          "title": "Fed Rate Cut Bets Lift BTC, TradFi Frets Over Margin Debt: Crypto Daybook Americas",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/daybook-us/2025/10/27/fed-rate-cut-lifts-btc-as-tradfi-worries-about-margin-debt-crypto-daybook-americas",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 3
+        },
+        {
+          "id": "053eaedfdf46",
+          "time": "11:13",
           "category": "Markets",
-          "title": "Western Union Follows Banks Into Stablecoin Integration",
+          "title": "General Motors (GM) Jumps 19% on Minimal Dent from Tariffs",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/western-union-follows-banks-stablecoin-103715368.html",
+          "url": "https://finance.yahoo.com/news/general-motors-gm-jumps-19-111328795.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "4e433532aa5a",
+          "time": "11:13",
+          "category": "Markets",
+          "title": "Trump says tariff checks are ‘probably’ coming to millions of Americans — and soon",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/trump-says-tariff-checks-probably-111300408.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "1728d6e312bf",
+          "time": "11:00",
+          "category": "Regulation",
+          "title": "DAT execs in two forums discuss how it seeks to reshape the freight sector",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/dat-execs-two-forums-discuss-110000291.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "3a91dd758efd",
+          "time": "10:54",
+          "category": "Crypto",
+          "title": "The Crypto Market Is Exploding — and One Man Is Betting on Its Collapse",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/crypto-market-exploding-one-man-105427238.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "cbd7a0f6d958",
+          "time": "10:52",
+          "category": "US Macro",
+          "title": "U.S. Treasury Yields Rise but Pace Is Limited as Market Awaits Fed Rate Cut",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/articles/jgbs-mixed-ahead-of-president-trumps-visit-to-japan-ecc916c9?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "1009f69bfb62",
+          "time": "10:45",
+          "category": "Markets",
+          "title": "Huntington Reaches $7.4 Billion Deal to Buy Cadence Bank",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/finance/banking/huntington-reaches-7-4-billion-deal-to-buy-cadence-bank-2419cd35?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 3
         },
@@ -40,72 +108,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/business/2025/10/27/clearbank-to-join-circle-payments-network-expanding-access-to-mica-compliant-stablecoins",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "850b75e3a5f0",
-          "time": "09:33",
-          "category": "Markets",
-          "title": "Dollar mixed as investors eye central bank decisions, trade talks",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/dollar-mixed-investors-eye-central-093321321.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "a7e59aa9354f",
-          "time": "09:30",
-          "category": "US Macro",
-          "title": "Trump-Xi Meeting, Fed Rate Decision, Apple Earnings: What to Watch This Week",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-27-2025/card/trump-xi-meeting-fed-rate-decision-apple-earnings-what-to-watch-this-week-F33sMHBGLL0CUQ3iwtKe?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "499f8463c743",
-          "time": "09:30",
-          "category": "Regulation",
-          "title": "HSBC to set aside US$1.1 billion for potential payouts in Madoff fraud lawsuits",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/hsbc-set-aside-us-1-093000471.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "46ba070e7769",
-          "time": "09:30",
-          "category": "Markets",
-          "title": "Property credit quality issues manageable for Hong Kong banks, HKMA's Eddie Yue says",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/property-credit-quality-issues-manageable-093000607.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "d0958b04cf50",
-          "time": "09:30",
-          "category": "Markets",
-          "title": "From boardrooms to hiking trails: HKMA courts top bankers with business and leisure",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/boardrooms-hiking-trails-hkma-courts-093000383.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "8d388deec662",
-          "time": "09:21",
-          "category": "Markets",
-          "title": "Amazon says India's e-commerce exports top $20 billion, despite US tariffs",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/amazon-says-indias-e-commerce-092142204.html",
           "tags": [],
           "impact_score": 3
         },
@@ -215,11 +217,66 @@
           "impact_score": 3
         },
         {
+          "id": "a3f139d0e56e",
+          "time": "11:13",
+          "category": "Markets",
+          "title": "Las Vegas (LVS) Sands Climbs 18.7%, Sets New Record High on Bullish Rating, StellarQ3",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/las-vegas-lvs-sands-climbs-111347737.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "a084f528a6ea",
+          "time": "11:13",
+          "category": "Earnings",
+          "title": "Patterson-UTI (PTEN) Jumps 20% on Earnings Blowout, Higher Oil Prices",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/patterson-uti-pten-jumps-20-111308071.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "e749e28544e8",
+          "time": "11:12",
+          "category": "Earnings",
+          "title": "Sandisk (SNDK) Soars 32.8% Ahead of Q1 ’26 Earnings",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/sandisk-sndk-soars-32-8-111258026.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "7debdc99967a",
+          "time": "11:12",
+          "category": "Earnings",
+          "title": "Garrett Motion (GTX) Gets 33% Boost from Stellar Earnings",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/garrett-motion-gtx-gets-33-111250323.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "69e474513161",
+          "time": "11:12",
+          "category": "Markets",
+          "title": "Analysts raise 2026 price forecasts for platinum, palladium after 2025 rally",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/analysts-raise-2026-price-forecasts-111221751.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
           "id": "3f33e2af736a",
           "time": "10:35",
           "category": "Crypto",
           "title": "BTC price eyes record monthly close: 5 things to know in Bitcoin this week",
-          "summary": "Bitcoin rebounded to $116,000, but traders stay nervous about the bull market while stocks soar on news of a likely US-China trade deal.",
+          "summary": "Bitcoin rebounded to $116,000, but traders were nervous about the bull market even while stocks soared on news of a likely US-China trade deal.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/btc-price-eyes-record-monthly-close-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
@@ -241,17 +298,6 @@
           "impact_score": 2
         },
         {
-          "id": "17d461ee9c44",
-          "time": "10:19",
-          "category": "Markets",
-          "title": "Argentina Bonds Surge After Milei Landslide Win",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/argentina-investors-poised-rally-milei-021714477.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "8feedc59fc36",
           "time": "10:04",
           "category": "Earnings",
@@ -259,17 +305,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/big-tech-report-earnings-under-100429438.html",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "b9817f2b8199",
-          "time": "08:47",
-          "category": "US Macro",
-          "title": "Stocks rally, safe-havens retreat on trade deal optimism",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stocks-rally-safe-havens-retreat-084744444.html",
           "tags": [],
           "impact_score": 2
         },
@@ -352,46 +387,189 @@
           "impact_score": 2
         },
         {
-          "id": "9f5b836897fb",
-          "time": "10:49",
+          "id": "e22a5a5cf066",
+          "time": "11:15",
           "category": "Markets",
-          "title": "Xali Gold signs SPA to acquire Pico Machay gold project",
+          "title": "Toyota considers importing US-built vehicles to Japan – report",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/xali-gold-signs-spa-acquire-104942749.html",
+          "url": "https://finance.yahoo.com/news/toyota-considers-importing-us-built-111516966.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "bb43756fad40",
-          "time": "10:46",
-          "category": "Crypto",
-          "title": "Days After Pardon, CZ Says Crypto Will 'Make a Lot of Money for the Country'",
+          "id": "d9d13a9ac532",
+          "time": "11:15",
+          "category": "Markets",
+          "title": "German Business Sentiment Rebounds on Brighter Hopes for Economy",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/days-pardon-cz-says-crypto-104610720.html",
+          "url": "https://www.wsj.com/economy/central-banking/german-business-sentiment-rebounds-on-brighter-hopes-for-economy-60aee196?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "68ca28d0030e",
-          "time": "10:44",
+          "id": "9241afb20f47",
+          "time": "11:14",
           "category": "Markets",
-          "title": "Energean Israel signs transmission deal with INGL to expand gas exports",
+          "title": "Warner Bros. (WBD) Jumps 16.3%, Hits New High on More Acquisition Bids",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/energean-israel-signs-transmission-deal-104415592.html",
+          "url": "https://finance.yahoo.com/news/warner-bros-wbd-jumps-16-111409394.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "15a5c67fb4bc",
-          "time": "10:43",
+          "id": "7a7f420c6a95",
+          "time": "11:13",
           "category": "Markets",
-          "title": "Newmont’s Ahafo North mine reaches commercial production in Ghana",
+          "title": "Lumen Technologies (LUMN) Soars 17% on Multi-Million Dollar Palantir Deal",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/newmont-ahafo-north-mine-reaches-104304249.html",
+          "url": "https://finance.yahoo.com/news/lumen-technologies-lumn-soars-17-111357749.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "446f2517e4ef",
+          "time": "11:13",
+          "category": "Markets",
+          "title": "Popeyes franchisee enters receivership amid debt and wage allegations",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/popeyes-franchisee-enters-receivership-amid-111351860.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "928c396e500d",
+          "time": "11:13",
+          "category": "Earnings",
+          "title": "Halliburton (HAL) Rockets 19% on Upbeat International Outlook",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/halliburton-hal-rockets-19-upbeat-111337597.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1dc66f0ee742",
+          "time": "11:13",
+          "category": "Markets",
+          "title": "Transocean (RIG) Soars 19.6% on Energy Boom",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/transocean-rig-soars-19-6-111319765.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5e57665db522",
+          "time": "11:12",
+          "category": "Markets",
+          "title": "Clover Health (CLOV) Soars 41% as Analyst Goes “Buy”",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/clover-health-clov-soars-41-111236525.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "abd159ad24c3",
+          "time": "11:08",
+          "category": "Markets",
+          "title": "ACCC clears Cuscal’s acquisition of Indue",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/accc-clears-cuscal-acquisition-indue-110819599.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f89b32979215",
+          "time": "11:06",
+          "category": "Markets",
+          "title": "Phoenix seeks partnership with asset manager – report",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/phoenix-seeks-partnership-asset-manager-110633997.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "60f4f7283698",
+          "time": "11:02",
+          "category": "Markets",
+          "title": "Sri Lankan apparel exports post modest growth despite US and UK declines",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/sri-lankan-apparel-exports-post-110214669.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "18f1cb54b981",
+          "time": "11:01",
+          "category": "Markets",
+          "title": "American Water Works, Essential Utilities to Combine to Create $40 Billion Utility",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/business/deals/american-water-works-essential-utilities-merge-in-63-billion-stock-deal-18b03305?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "599d10fcae15",
+          "time": "11:00",
+          "category": "Markets",
+          "title": "Jeff Bezos Says All Decisions Are ‘Type 1’ or ‘Type 2’: Here’s How To Apply This to Your Finances",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/jeff-bezos-says-decisions-type-110012328.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "55813381fb75",
+          "time": "11:00",
+          "category": "US Macro",
+          "title": "Treasuries Are Falling Across Curve as Trade Optimism Takes Hold",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/treasuries-falling-across-curve-trade-073029935.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "68988d4d4483",
+          "time": "11:00",
+          "category": "Markets",
+          "title": "The AI Startup Fueling ChatGPT’s Expertise Is Now Valued at $10 Billion",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/tech/ai/the-ai-startup-fueling-chatgpts-expertise-is-now-valued-at-10-billion-f1281e56?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8b51d8c38714",
+          "time": "10:55",
+          "category": "Markets",
+          "title": "Oil prices fall after US and China reach trade deal framework",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/oil-prices-fall-us-china-105512148.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "03373f301db1",
+          "time": "10:55",
+          "category": "Markets",
+          "title": "Boomers Should Always Buy These 10 Things in Retirement",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/10-things-boomers-always-buy-120020570.html",
           "tags": [],
           "impact_score": 1
         },
@@ -407,46 +585,13 @@
           "impact_score": 1
         },
         {
-          "id": "4849cf0fe9f3",
-          "time": "10:31",
+          "id": "5094ce55a740",
+          "time": "10:19",
           "category": "Markets",
-          "title": "Tsingtao calls off planned purchase of Jimo Yellow Wine",
+          "title": "Stocks to Watch Monday: Nvidia, MP Materials, Avidity",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/tsingtao-calls-off-planned-purchase-103105227.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "16155fc5733c",
-          "time": "10:30",
-          "category": "Markets",
-          "title": "Baker Hughes expands UBCTD operations in Saudi Arabia",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/baker-hughes-expands-ubctd-operations-103020660.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6fec4a8f48c8",
-          "time": "10:25",
-          "category": "Crypto",
-          "title": "Binance Eyes US Return After Trump Pardon for CZ: Report",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/binance-eyes-us-return-trump-102549334.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "fb40669fe6d2",
-          "time": "10:24",
-          "category": "Markets",
-          "title": "Google Parent Alphabet Has $754 Million Invested in These 3 Hot Growth Stocks. Here's the 1 Wall Street Likes the Most.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/google-parent-alphabet-754-million-102400423.html",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-27-2025/card/stocks-to-watch-monday-nvidia-mp-materials-avidity-1BPaH6lZOoDHQcNJ9zhJ?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -469,6 +614,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/unitedhealth-investors-pin-turnaround-hopes-100924395.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "36ce266483f1",
+          "time": "10:03",
+          "category": "Markets",
+          "title": "Basic Materials Roundup: Market Talk",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/articles/basic-materials-roundup-market-talk-1dd915d3?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -528,6 +684,39 @@
           "impact_score": 1
         },
         {
+          "id": "928a2dd1d519",
+          "time": "10:00",
+          "category": "Markets",
+          "title": "🎧 Why This Analyst Says Robinhood Is More Than a Meme Stock",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-27-2025/card/-why-this-analyst-says-robinhood-is-more-than-a-meme-stock-lES6rCtZ21VKEN9z2uPw?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5a730effa0d4",
+          "time": "10:00",
+          "category": "Markets",
+          "title": "Energy & Utilities Roundup: Market Talk",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/articles/energy-utilities-roundup-market-talk-8a0bcc5b?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "9b4dfe7d1a6f",
+          "time": "09:57",
+          "category": "Markets",
+          "title": "Health Care Roundup: Market Talk",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.wsj.com/articles/health-care-roundup-market-talk-e37a0995?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "44df65e74fb5",
           "time": "09:55",
           "category": "Markets",
@@ -550,68 +739,24 @@
           "impact_score": 1
         },
         {
-          "id": "5bd1e978b3b5",
-          "time": "09:48",
+          "id": "bd6ac9e8c7f0",
+          "time": "09:54",
           "category": "Markets",
-          "title": "These Stocks Are Moving the Most Today: Avidity Biosciences, AMD, GameStop, Newmont, Microsoft, and More",
+          "title": "Auto & Transport Roundup: Market Talk",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/stock-movers-1d56d32f?siteid=yhoof2&yptr=yahoo",
+          "url": "https://www.wsj.com/articles/auto-transport-roundup-0a19aca0?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "2b37118ce05d",
-          "time": "09:47",
+          "id": "f52fb53e3c4c",
+          "time": "09:50",
           "category": "Markets",
-          "title": "Exxon sues California over climate disclosure laws",
+          "title": "Financial Services Roundup: Market Talk",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/exxon-sues-california-over-climate-094734592.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e99afdd83a53",
-          "time": "09:30",
-          "category": "Markets",
-          "title": "Huawei-powered Chinese EV maker Seres seeks US$1.7 billion in Hong Kong listing",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/huawei-powered-chinese-ev-maker-093000966.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3f3ccffad0f4",
-          "time": "09:30",
-          "category": "Markets",
-          "title": "Microsoft Needs to Open Up More About Its OpenAI Dealings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/tech/ai/microsoft-needs-to-open-up-more-about-its-openai-dealings-59102de8?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "d83816be6216",
-          "time": "09:30",
-          "category": "Markets",
-          "title": "America’s Hottest New Investment: Rare-Earth Companies",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/rare-earth-companies-funding-231d1c85?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "123ee05914b1",
-          "time": "09:18",
-          "category": "Markets",
-          "title": "European Gas Prices Fall on Signs of Comfortable Supply",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/european-gas-prices-fall-on-signs-of-comfortable-supply-6918adbd?siteid=yhoof2&yptr=yahoo",
+          "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-26593b7a?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -623,94 +768,6 @@
           "summary": "The group had been discreetly registering blockchain and stablecoin-related trademarks despite increasingly tightened scrutiny in Hong Kong.",
           "source": "Decrypt",
           "url": "https://decrypt.co/346039/chinese-tech-giant-ant-group-registers-hong-kong-trademarks-tied-to-crypto-stablecoins",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1649dc7e0be8",
-          "time": "09:15",
-          "category": "Markets",
-          "title": "China’s Move to Lift Yuan Could Weigh on Dollar",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/yen-weakens-amid-risk-on-sentiment-bdfe7556?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0d916e72f9c5",
-          "time": "09:13",
-          "category": "Markets",
-          "title": "Novartis to acquire Avidity Biosciences for about $12 billion",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/novartis-acquire-avidity-biosciences-12-091356820.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "0308c5b56cec",
-          "time": "09:11",
-          "category": "Markets",
-          "title": "Global Markets Rise Ahead of Trump, Xi Talks",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/global-markets-rise-ahead-of-trump-xi-talks-61ad03df?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "2879ef71606d",
-          "time": "08:57",
-          "category": "Markets",
-          "title": "Porsche Shares Rise as Investors Look Beyond Tough 2025",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/business/earnings/porsche-shares-rise-as-investors-look-beyond-tough-2025-96b853b2?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "b9b6e13eef52",
-          "time": "08:57",
-          "category": "Markets",
-          "title": "Gold Falls on Easing U.S.-China Trade Tensions",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/gold-falls-u-s-china-trade-deal-optimism-overcomes-signs-of-cooler-u-s-inflation-9d618871?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "97476a477ad1",
-          "time": "08:44",
-          "category": "Markets",
-          "title": "Oil Little Changed With Focus on U.S.-China Trade Progress",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/oil-rises-amid-ongoing-supply-concerns-31d4c77d?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c2cdbfb3e1f7",
-          "time": "08:39",
-          "category": "Markets",
-          "title": "Novartis Deal Values Avidity Biosciences At $12 Billion",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/novartis-deal-avidity-biosciences-acquisition-efa3ef51?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "edc962270e07",
-          "time": "08:30",
-          "category": "US Macro",
-          "title": "ECB to Keep Interest Rates on Hold Amid Hope for Extended Stay in ‘Good Place’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/ecb-to-keep-interest-rates-on-hold-amid-hope-for-extended-stay-in-good-place-4a67e831?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -1114,39 +1171,6 @@
           "impact_score": 1
         },
         {
-          "id": "80be59138e90",
-          "time": "10:00",
-          "category": "US Macro",
-          "title": "Best high-yield savings interest rates today, October 26, 2025 (Earn up to 4.25% APY)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-sunday-october-26-2025-100051136.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "fda273b73195",
-          "time": "10:00",
-          "category": "US Macro",
-          "title": "Mortgage and refinance interest rates today, October 26, 2025: So close to sparking a wave of refinancing",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-sunday-october-26-2025-100038753.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f06af49e7ee2",
-          "time": "10:00",
-          "category": "US Macro",
-          "title": "Best money market account rates today, October 26, 2025 (best account provides 4.26% APY)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-october-26-2025-100008934.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "c05cbc8755b4",
           "time": "07:08",
           "category": "Crypto",
@@ -1262,19 +1286,6 @@
           "impact_score": 2
         },
         {
-          "id": "96743db731b1",
-          "time": "16:06",
-          "category": "Crypto",
-          "title": "Rumble to Roll Out Bitcoin Tipping for 51 Million Users in December",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/business/2025/10/25/rumble-to-roll-out-bitcoin-tipping-for-51m-users-in-december",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "603ad7f47252",
           "time": "15:57",
           "category": "Crypto",
@@ -1304,17 +1315,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/25/sol-now-on-fidelity-s-retail-platform-as-price-tests-usd195-while-usd188-support-draws-focus",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "52fe18ecee4e",
-          "time": "15:36",
-          "category": "Markets",
-          "title": "'This fight is far from over': Intel’s key business is nowhere near a turnaround",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/this-fight-is-far-from-over-intels-key-business-is-nowhere-near-a-turnaround-143041684.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1909,17 +1909,6 @@
           "summary": "Singapore, Singapore, 20th October 2025, Chainwire",
           "source": "Analysis RSS | CCN.com",
           "url": "https://www.ccn.com/jupiter-launches-ultra-v3-the-ultimate-trading-engine-for-solana/",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "d3329578e37f",
-          "time": "12:06",
-          "category": "Markets",
-          "title": "Billionaire Tim Draper Leads $3.2M Seed Round for Ryder to Replace Seed Phrases With TapSafe Recovery",
-          "summary": "Singapore, Singapore, 18th October 2025, Chainwire",
-          "source": "Analysis RSS | CCN.com",
-          "url": "https://www.ccn.com/billionaire-tim-draper-leads-3-2m-seed-round-for-ryder-to-replace-seed-phrases-with-tapsafe-recovery/",
           "tags": [],
           "impact_score": 1
         }
