@@ -1,15 +1,48 @@
 {
-  "generated_at": "2025-10-27T14:55+00:00",
+  "generated_at": "2025-10-27T15:38+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-27",
       "attention_points": [
-        "Why Traders Should Watch the Bitcoin to Gold Ratio",
-        "Gold Falls 3% on Easing U.S.-China Trade Tensions, Fed Rate Cut Hopes",
-        "Automation reshaping offices and factories across sectors—analysis"
+        "How Changpeng Zhao regained power between prison and pardon",
+        "Berkshire cut to 'underperform' by KBW, which cites Geico, tariffs, Buffett",
+        "New father, overwhelmed by $53K in student loan, car debt, fears bankruptcy — how Dave Ramsey says he can avoid it"
       ],
       "items": [
+        {
+          "id": "e2070da499e2",
+          "time": "15:06",
+          "category": "Crypto",
+          "title": "How Changpeng Zhao regained power between prison and pardon",
+          "summary": "With his Binance executive ban in place, Zhao found new channels to shape markets and policy across the crypto world.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/changpeng-zhao-regained-power-between-prison-pardon?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "ccf709db5217",
+          "time": "14:59",
+          "category": "Markets",
+          "title": "Berkshire cut to 'underperform' by KBW, which cites Geico, tariffs, Buffett",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/berkshire-cut-underperform-kbw-cites-145930027.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "6d0825c9b419",
+          "time": "14:45",
+          "category": "Markets",
+          "title": "New father, overwhelmed by $53K in student loan, car debt, fears bankruptcy — how Dave Ramsey says he can avoid it",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/father-overwhelmed-53k-student-loan-144500015.html",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "3d0f97dcdf4d",
           "time": "14:42",
@@ -24,24 +57,24 @@
           "impact_score": 3
         },
         {
-          "id": "b9b6e13eef52",
-          "time": "14:27",
+          "id": "d647f2cae49c",
+          "time": "14:34",
           "category": "US Macro",
           "title": "Gold Falls 3% on Easing U.S.-China Trade Tensions, Fed Rate Cut Hopes",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/gold-falls-u-s-china-trade-deal-optimism-overcomes-signs-of-cooler-u-s-inflation-9d618871?siteid=yhoof2&yptr=yahoo",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102725/card/gold-falls-3-on-easing-u-s-china-trade-tensions-fed-rate-cut-hopes-a8jiiAEyUEWrJZ1HCIxj?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 3
         },
         {
-          "id": "de379a7a2379",
-          "time": "14:17",
-          "category": "Regulation",
-          "title": "Automation reshaping offices and factories across sectors—analysis",
+          "id": "a6789805df06",
+          "time": "14:00",
+          "category": "Markets",
+          "title": "UBS Applies for U.S. National Bank Charter. Why It Matters.",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/automation-reshaping-offices-factories-across-141744080.html",
+          "url": "https://www.barrons.com/advisor/articles/ubs-bank-charter-223573dc?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 3
         },
@@ -52,7 +85,7 @@
           "title": "Trump-linked American Bitcoin adds $163M in BTC, boosting treasury above $445M",
           "summary": "Trump-linked Bitcoin miner and treasury company American Bitcoin added 1,414 BTC to its holdings, bringing its total stash to 3,865 BTC.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/trump-linked-american-bitcoin-adds-163m-in-btc-lifting-treasury-above-445m?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/trump-linked-american-bitcoin-adds-163m-in-btc-lifting-treasury-above-445m?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -91,7 +124,7 @@
           "title": "ClearBank to become one of first EU banks to join Circle Payments Network",
           "summary": "ClearBank and Circle’s partnership involves scaling USDC and EURC operations through Circle Mint, which enables the minting and redemption of the tokens.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/clearbank-circle-partnership-usdc-stablecoin-europe?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/clearbank-circle-partnership-usdc-stablecoin-europe?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
         },
@@ -115,7 +148,7 @@
           "title": "Bitcoin finds its footing as expected US-China tariff truce cools market panic",
           "summary": "Growing optimism surrounding a potential trade deal is the main catalyst for a recovery in investor sentiment ahead of Thursday’s tariff meeting, industry watchers told Cointelegraph.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/crypto-market-recovery-19b-correction-trump-tariff?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/crypto-market-recovery-19b-correction-trump-tariff?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -185,7 +218,7 @@
           "title": "Australian crypto firms back draft laws, but ‘critical questions’ remain",
           "summary": "Australia’s crypto exchanges have been largely positive about the government’s proposed crypto laws, but have told the Treasury that further clarity is needed.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/australia-crypto-industry-backs-draft-laws-critical-questions-remain?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/australia-crypto-industry-backs-draft-laws-critical-questions-remain?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
         },
@@ -196,7 +229,7 @@
           "title": "Bitcoin finally escapes ‘fear’ as confidence tiptoes back into crypto",
           "summary": "The Crypto Fear & Greed Index has flipped to neutral, leaving “fear” behind for the first time since the mid-October market crash sparked by Trump’s China tariffs.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bitcoin-fear-and-greed-out-of-fear-first-time-since-crypto-crash?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/bitcoin-fear-and-greed-out-of-fear-first-time-since-crypto-crash?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -209,7 +242,7 @@
           "title": "Mt. Gox’s security flaws cost millions. Could AI have spotted them?",
           "summary": "Could AI have prevented the collapse of Mt. Gox if it had existed back then? An AI-powered post-mortem by the exchange’s former CEO raises an intriguing “what if.”",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/mt-gox-s-security-flaws-cost-millions-could-ai-have-spotted-them?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/mt-gox-s-security-flaws-cost-millions-could-ai-have-spotted-them?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
         },
@@ -233,9 +266,31 @@
           "title": "Major Iranian private bank goes bankrupt, roiling 42M customers",
           "summary": "After accumulating around $8 billion worth of losses and debt, Iran’s Ayandeh Bank has been dissolved, with customer assets absorbed by the state-owned Bank Melli.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/iranian-bank-bankruptcy-affecting-42-million-customers?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/iranian-bank-bankruptcy-affecting-42-million-customers?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "b061a3562461",
+          "time": "15:07",
+          "category": "Markets",
+          "title": "Gold Plunges Below $4,000 as US-China Truce Erodes Haven Demand",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/gold-extends-drop-us-china-232041519.html",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "8ee18c98af0c",
+          "time": "15:02",
+          "category": "Markets",
+          "title": "Microsoft Stock Rises. Every Analyst Now Says Buy After Latest Upgrade.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/microsoft-stock-upgrade-buy-7fb9167b?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
         },
         {
           "id": "5da2f6211a1e",
@@ -286,6 +341,19 @@
           "impact_score": 2
         },
         {
+          "id": "6261bf218fca",
+          "time": "14:13",
+          "category": "Crypto",
+          "title": "Bitcoin and Crypto Stocks Rise. The 2 Key Things Driving Today’s Rally.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/bitcoin-ethereum-price-crypto-stock-today-a38115d5?siteid=yhoof2&yptr=yahoo",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "1d6daef5b3f9",
           "time": "14:10",
           "category": "Earnings",
@@ -293,6 +361,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/news/tesla-stock-morgan-stanley-callin-it-tesla-big-gamble-autonomous/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "f6d71a94aa7d",
+          "time": "14:08",
+          "category": "Earnings",
+          "title": "Nvidia Stock Nears All-Time High. How Earnings Could Push Shares Even Higher.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/nvidia-stock-price-tech-earnings-f3522c2e?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 2
         },
@@ -325,7 +404,7 @@
           "title": "Uptober? Strategy logs slowest monthly Bitcoin buys of the year at 778 BTC",
           "summary": "Strategy posted one of its slowest months for buying BTC, with a total of 778 BTC purchased in October, down 78% from 3,526 BTC in September.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/strategy-buys-778-bitcoin-october-buying-activity-slowdown?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/strategy-buys-778-bitcoin-october-buying-activity-slowdown?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -339,28 +418,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.investors.com/news/technology/palantir-stock-pltr-stock-buy-sell-october-2025/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "1d6daef5b3f9",
-          "time": "13:54",
-          "category": "US Macro",
-          "title": "Stock Market Today: Dow Rises On Trade Deal Optimism; Nvidia, Palantir, Tesla Rally (Live Coverage)",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-china-trade-optimism-nvda-tsla-stock/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "8cfbb50f0905",
-          "time": "13:51",
-          "category": "Markets",
-          "title": "Argentina’s Bonds Rally After Milei Victory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/investing/argentinas-bonds-rally-after-milei-victory-738e1966?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 2
         },
@@ -389,24 +446,13 @@
           "impact_score": 2
         },
         {
-          "id": "8ee18c98af0c",
-          "time": "13:18",
-          "category": "Markets",
-          "title": "Microsoft Stock Rises. Every Analyst Now Says Buy After Latest Upgrade.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/microsoft-stock-upgrade-buy-7fb9167b?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "54a0b70407cf",
           "time": "13:14",
           "category": "Crypto",
           "title": "How an all-time-high gold sell-off could push Bitcoin to $200K",
           "summary": "As investors exit gold for digital assets, Bitcoin could be the next big winner — possibly crossing the $200,000 barrier.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/explained/how-an-all-time-high-gold-sell-off-could-push-bitcoin-to-200k?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/explained/how-an-all-time-high-gold-sell-off-could-push-bitcoin-to-200k?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -419,7 +465,7 @@
           "title": "Here’s what happened in crypto today",
           "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 2
         },
@@ -443,7 +489,7 @@
           "title": "BTC price eyes record monthly close: 5 things to know in Bitcoin this week",
           "summary": "Bitcoin rebounded to $116,000, but traders were nervous about the bull market even while stocks soared on news of a likely US-China trade deal.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/btc-price-eyes-record-monthly-close-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/btc-price-eyes-record-monthly-close-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -456,7 +502,7 @@
           "title": "From outflows to inflows: Bitcoin ETPs rally amid surprising economic update",
           "summary": "Bitcoin, which had been the main driver of crypto ETP outflows a week earlier, almost fully recovered its losses with $931 million in inflows last week.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/crypto-funds-921-million-inflows-cpi-data-coinshares?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/crypto-funds-921-million-inflows-cpi-data-coinshares?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -469,7 +515,7 @@
           "title": "‘Attack on Bitcoin’ — Bitcoiners slam ‘legal threats’ in soft fork proposal",
           "summary": "A new Bitcoin improvement proposal calls for a one-year soft fork for Bitcoin while developers resolve the transaction filtering debate, but the language within it has sparked controversy.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bitcoin-soft-fork-luke-dashjr-legal-threat-debate?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/bitcoin-soft-fork-luke-dashjr-legal-threat-debate?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -508,31 +554,196 @@
           "title": "Bitcoin is no inflation hedge but thrives when the dollar wobbles: NYDIG",
           "summary": "Bitcoin doesn’t consistently act as a hedge against inflation, but it has instead “evolved into a liquidity barometer,” says NYDIG’s Greg Cipolaro.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bitcoin-no-inflation-hedge-but-weak-dollar-pushes-it-up-nydig?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/bitcoin-no-inflation-hedge-but-weak-dollar-pushes-it-up-nydig?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
           "impact_score": 2
         },
         {
-          "id": "1d5f45456943",
-          "time": "14:37",
+          "id": "5aae4f99f847",
+          "time": "15:27",
           "category": "Markets",
-          "title": "Uber is paying drivers to train their potential replacement",
+          "title": "Sodexo posts rise in Q3 2025",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/uber-paying-drivers-train-potential-143700213.html",
+          "url": "https://finance.yahoo.com/news/sodexo-posts-rise-q3-2025-152706304.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "b34ae9b4c7ef",
-          "time": "14:32",
+          "id": "2322110c9ef7",
+          "time": "15:26",
+          "category": "Crypto",
+          "title": "IBM Debuts 'Digital Asset Haven' Platform for Governments and Institutions",
+          "summary": "Publicly traded computing firm IBM is rolling out a digital assets management platform targeted at governments and institutions.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/346071/ibm-debuts-digital-asset-haven-platform-governments-institutions",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "056e9fa70d4d",
+          "time": "15:26",
           "category": "Markets",
-          "title": "Rail Unit signs lease agreement with European Loc Pool for EuroDual",
+          "title": "IBM Debuts 'Digital Asset Haven' Platform for Governments and Institutions",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/rail-unit-signs-lease-agreement-143238851.html",
+          "url": "https://finance.yahoo.com/news/ibm-debuts-digital-asset-haven-152610543.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7a52a66ad8d1",
+          "time": "15:14",
+          "category": "Crypto",
+          "title": "Strategy Shares Rise on $43 Million Purchase—Its Largest in Four Weeks",
+          "summary": "Strategy hasn’t issued common shares in nearly a month.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/346070/strategy-shares-rise-43-million-purchase-largest-four-weeks",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8686270b8b7a",
+          "time": "15:14",
+          "category": "Markets",
+          "title": "Strategy Shares Rise on $43 Million Purchase—Its Largest in Four Weeks",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/strategy-shares-rise-43-million-151419687.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b60f8b66f8b0",
+          "time": "15:09",
+          "category": "Markets",
+          "title": "Greencore-Bakkavor merger: CMA raises concerns in chilled sauces but not ready meals",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/greencore-bakkavor-merger-cma-raises-114729833.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "73d0b0d6c3c6",
+          "time": "15:09",
+          "category": "Markets",
+          "title": "Exxon-backed carbon accounting group to appoint independent panel, CEO says",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/exxon-backed-carbon-accounting-group-150900874.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b0c65494060f",
+          "time": "15:07",
+          "category": "Markets",
+          "title": "Google takes another piece of Nvidia, Amazon AI cake",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/google-takes-another-piece-nvidia-150700993.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3593c8cd0368",
+          "time": "15:06",
+          "category": "Markets",
+          "title": "Janus Henderson Stock Soars on Proposed Acquisition by Peltz’s Trian, General Catalyst",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/janus-henderson-stock-price-acquisition-89e4a93d?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "7aeb10ed8477",
+          "time": "15:05",
+          "category": "Markets",
+          "title": "Metsä swings to loss in Q3 2025",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/mets-swings-loss-q3-2025-150501115.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "499928a41cd5",
+          "time": "15:03",
+          "category": "Markets",
+          "title": "Equitable Buys Stifel’s $9B Independent Advisor Unit",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/equitable-buys-stifel-9b-independent-150328349.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "027f1ea35b0f",
+          "time": "15:02",
+          "category": "Markets",
+          "title": "The stock market may be in an AI bubble. Is it time to hoard cash?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/stock-market-may-ai-bubble-150221178.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "14:58",
+          "category": "Markets",
+          "title": "Stock Market Today: Dow Up On U.S.-China Trade Hopes; These Rare Earth Stocks Plummet (Live Coverage)",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-china-trade-optimism-nvda-tsla-stock/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "3865482b8806",
+          "time": "14:50",
+          "category": "Markets",
+          "title": "Sell Harley Stock, Analyst Says. 2 Factors ‘Overwhelming’ the Motorcycle Industry.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/harley-davidson-stock-sell-rating-downgrade-def6e190?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5bd1e978b3b5",
+          "time": "14:42",
+          "category": "Markets",
+          "title": "These Stocks Are Moving the Most Today: Qualcomm, MP Materials, USA Rare Earth, Avidity, Newmont, Microsoft, GameStop, and More",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/stock-movers-1d56d32f?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "e6b77b19e030",
+          "time": "14:39",
+          "category": "US Macro",
+          "title": "US dollar slips as trade optimism boosts risk appetite",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/us-dollar-slips-trade-optimism-143925447.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "8164c127740c",
+          "time": "14:35",
+          "category": "Markets",
+          "title": "A Paramount-Warner Deal Will Sour. I Won’t Be Surprised.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/paramount-warner-bid-deal-zaslov-will-sour-76c1cbcc?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -559,68 +770,13 @@
           "impact_score": 1
         },
         {
-          "id": "8b6cb5df1c53",
-          "time": "14:17",
-          "category": "Markets",
-          "title": "Mt. Gox Delays Creditor Repayments Again, Pushes Deadline to 2026",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/mt-gox-delays-creditor-repayments-141716511.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "504c7a0f25e0",
-          "time": "14:15",
-          "category": "Markets",
-          "title": "iPhone 17 Is a Big Win for Apple",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/iphone-17-big-win-apple-141530598.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e099e5603d09",
-          "time": "14:13",
-          "category": "Markets",
-          "title": "Strive shares soar 33% on Monday after Mike Alfred announced stake of over 1 million shares",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/strive-shares-soar-33-monday-141309699.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "67a758570b1d",
-          "time": "14:12",
-          "category": "Markets",
-          "title": "7 Factors That Make Your Retirement More Financially Stable",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/7-factors-retirement-more-financially-141259411.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1574a47628c6",
-          "time": "14:12",
-          "category": "Markets",
-          "title": "Retirement Spending: 9 Things Even Spendthrifts Don’t Waste Money On",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/retirement-spending-9-things-even-120056663.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "283f687bb41d",
           "time": "14:12",
           "category": "Crypto",
           "title": "Ant Group files ‘Antcoin’ trademark as China tightens crypto crackdown",
           "summary": "Ant Group has filed to trademark “Antcoin” in Hong Kong through a Cayman Islands subsidiary while Beijing intensifies its crypto crackdown.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/ant-group-files-antcoin-trademark-as-china-tightens-crypto-crackdown?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/ant-group-files-antcoin-trademark-as-china-tightens-crypto-crackdown?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -636,13 +792,13 @@
           "impact_score": 1
         },
         {
-          "id": "9a98b72e7f25",
-          "time": "14:11",
+          "id": "59e76a5b6016",
+          "time": "14:09",
           "category": "Markets",
-          "title": "This \"Boring\" Financial Stock Could Crush Tech Returns",
+          "title": "The 3 Things That Will Stand Out in Wall Street’s Blockbuster Week",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/boring-financial-stock-could-crush-141100311.html",
+          "url": "https://www.barrons.com/articles/fed-trade-ai-stocks-cb32ba2c?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -654,6 +810,17 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/markets/2025/10/27/how-october-was-the-most-destructive-month-in-recent-memory-for-crypto-traders",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0580e794b139",
+          "time": "14:04",
+          "category": "Markets",
+          "title": "Gold Prices and Miner Stocks Keep Falling. That’s a Surprise.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/gold-price-mining-stock-newmont-24feb137?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -680,6 +847,17 @@
           "impact_score": 1
         },
         {
+          "id": "ea247dcb74db",
+          "time": "13:59",
+          "category": "Markets",
+          "title": "2 Reasons Tesla Stock Is Up Today",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.barrons.com/articles/tesla-stock-price-today-china-trade-4d8f74f9?siteid=yhoof2&yptr=yahoo",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "8792fbc04abc",
           "time": "13:56",
           "category": "Markets",
@@ -687,72 +865,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-27-2025/card/yoga-pants-oil-and-pickup-trucks-these-companies-count-on-canada-U9YvLnhZX6iipZqY8Vuv?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1f5235e9f232",
-          "time": "13:51",
-          "category": "US Macro",
-          "title": "Stocks gain, gold sags on trade deal optimism",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stocks-gain-gold-sags-trade-135109872.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "123ee05914b1",
-          "time": "13:50",
-          "category": "Markets",
-          "title": "Weather Forecasts Help Lift U.S. Natural Gas",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/european-gas-prices-fall-on-signs-of-comfortable-supply-6918adbd?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "1649dc7e0be8",
-          "time": "13:50",
-          "category": "Markets",
-          "title": "Argentine Peso Weakens Despite Bullishness Around Milei’s Victory",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/yen-weakens-amid-risk-on-sentiment-bdfe7556?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "97476a477ad1",
-          "time": "13:46",
-          "category": "Markets",
-          "title": "Oil Futures Steady in Early U.S. Trade",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/articles/oil-rises-amid-ongoing-supply-concerns-31d4c77d?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "74d20262f50f",
-          "time": "13:37",
-          "category": "Markets",
-          "title": "Oil steadies as US-China trade deal hopes counter demand concerns",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/oil-steadies-us-china-trade-133752303.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "33c3e657fe2c",
-          "time": "13:33",
-          "category": "Markets",
-          "title": "Janus Henderson Gets $46-Per-Share Offer From Trian, General Catalyst",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/finance/investing/janus-henderson-gets-46-per-share-offer-from-trian-general-catalyst-d8569273?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -774,7 +886,7 @@
           "title": "IBM’s ‘Digital Asset Haven’ aims to turn crypto into corporate infrastructure",
           "summary": "A growing demand for stablecoin payments and tokenized real-world assets is creating more institutional interest in blockchain-based services, according to IBM.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/ibm-crypto-platform-for-governments-tradfi-adoption?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/ibm-crypto-platform-for-governments-tradfi-adoption?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -785,40 +897,7 @@
           "title": "Retail must partner with fintechs or prepare to fail",
           "summary": "Corporate scale has become an innovation liability as bureaucracy stalls retail payment evolution. Fintech partnerships offer the only escape from irrelevance.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/retail-partner-fintechs-or-prepare-to-fail?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ea247dcb74db",
-          "time": "13:21",
-          "category": "Markets",
-          "title": "2 Reasons Tesla Stock Is Up Today",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/tesla-stock-price-today-china-trade-4d8f74f9?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "50943f56136c",
-          "time": "13:20",
-          "category": "Markets",
-          "title": "UnitedHealth investors pin turnaround hopes on new CEO",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/unitedhealth-investors-pin-turnaround-hopes-132008849.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "376d7a1387c7",
-          "time": "13:19",
-          "category": "Markets",
-          "title": "Buy General Dynamics Stock. But Not for Defense, Says This Wall Street Analyst.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/general-dynamics-stock-upgrade-47ffb02a?siteid=yhoof2&yptr=yahoo",
+          "url": "https://cointelegraph.com/news/retail-partner-fintechs-or-prepare-to-fail?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -834,17 +913,6 @@
           "impact_score": 1
         },
         {
-          "id": "e0f176f54279",
-          "time": "13:12",
-          "category": "Markets",
-          "title": "GameStop Stock Jumps as Retailer, White House Trade Halo Memes",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/gamestop-stock-price-meme-halo-whitehouse-45dd62b6?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "795f31a6a564",
           "time": "13:10",
           "category": "Crypto",
@@ -852,28 +920,6 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/coindesk-indices/2025/10/27/coindesk-20-performance-update-index-jumps-4-5-as-all-constituents-climb-higher",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "e0c16d7d4281",
-          "time": "13:06",
-          "category": "Markets",
-          "title": "Jim Cramer Recommends This ‘Very Low Multiple’ AI Stock",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/jim-cramer-recommends-very-low-130621165.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ef69b764ab76",
-          "time": "13:06",
-          "category": "Markets",
-          "title": "Analyst is Bullish on IBM (IBM) Amid a Quantum Computing Catalyst",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/analyst-bullish-ibm-ibm-amid-130619620.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1005,7 +1051,7 @@
           "title": "Mt. Gox pushes repayments to 2026 as decade-long saga drags on",
           "summary": "Defunct crypto exchange Mt. Gox postponed some long-awaited customer repayments by another year to Oct. 31, 2026, citing incomplete creditor procedures.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/mt-gox-pushes-repayments-to-2026-as-decade-long-saga-drags-on?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/mt-gox-pushes-repayments-to-2026-as-decade-long-saga-drags-on?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -1038,7 +1084,7 @@
           "title": "What happens if you don’t pay taxes on your crypto holdings?",
           "summary": "Skipping crypto taxes can trigger hefty fines and legal issues. Find out what really happens if you fail to report or pay taxes on your holdings.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/what-happens-if-you-don-t-pay-taxes-on-your-crypto-holdings?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/what-happens-if-you-don-t-pay-taxes-on-your-crypto-holdings?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -1082,7 +1128,7 @@
           "title": "Japan sees launch of its first yen-backed stablecoin, JPYC",
           "summary": "JPYC President Noriyoshi Okabe said that the stablecoin has already garnered interest from seven companies that are looking to incorporate it into their services.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/yen-backed-stablecoin-launches-in-japan?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/yen-backed-stablecoin-launches-in-japan?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -1137,7 +1183,7 @@
           "title": "Javier Milei’s crypto-friendly party wins Argentine midterm",
           "summary": "Argentina’s La Libertad Avanza party, led by President Javier Milei, has won the midterms, positioning Milei as the frontrunner for the 2027 elections.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/javier-mileis-party-wins-argentinas-midterms?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/javier-mileis-party-wins-argentinas-midterms?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -1148,7 +1194,7 @@
           "title": "Zcash pumps 30% after Arthur Hayes’ ‘vibe check’ tips $10K target",
           "summary": "Zcash rallied over 490% in the last 30 days and also crossed the $5 billion market capitalization threshold for the first time on Sunday.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/zcash-surges-arthur-hayes-prediction?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/zcash-surges-arthur-hayes-prediction?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -1159,7 +1205,7 @@
           "title": "Money giant Western Union to pilot stablecoin-powered transfers",
           "summary": "Western Union CEO said there are “significant opportunities” to utilize stablecoins for sending and receiving money across borders.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/western-union-piloting-stablecoin-settlements?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/western-union-piloting-stablecoin-settlements?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         }
@@ -1180,7 +1226,7 @@
           "title": "‘The claim that L2s inherit ETH security is erroneous’ — Solana co-founder",
           "summary": "Ethereum layer-2 networks have glaring security and centralization issues, according to Anatoly Yakovenko, co-founder of the Solana blockchain.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/claim-l2s-inherit-eth-security-erroneous-solana-founder?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/claim-l2s-inherit-eth-security-erroneous-solana-founder?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [
             "ETH"
           ],
@@ -1193,7 +1239,7 @@
           "title": "US Treasury chief Bessent says ‘substantial’ trade framework with China reached",
           "summary": "Secretary Scott Bessent said the negotiations alleviate the need for the 100% additional tariffs announced by US president Trump in October.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bessent-substantial-trade-framework-china?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/bessent-substantial-trade-framework-china?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
         },
@@ -1215,7 +1261,7 @@
           "title": "‘House is fine, but door is jammed’: AWS outage shows crypto’s weak spot",
           "summary": "The 15-hour Amazon Web Services outage that halted Coinbase, Robinhood and MetaMask revealed how much of Web3 still relies on centralized servers.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/aws-outage-shows-crypto-decentralization-weakness?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/aws-outage-shows-crypto-decentralization-weakness?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
         },
@@ -1226,21 +1272,10 @@
           "title": "Bitcoin price starts $112K breakout as Fed rate-cut odds pass 98%",
           "summary": "Bitcoin price action favored bulls as the weekly close neared, with BTC nearing $113,000 ahead of a key week for the Federal Reserve.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bitcoin-price-starts-112k-breakout-fed-rate-cut-odds?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/bitcoin-price-starts-112k-breakout-fed-rate-cut-odds?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
-          "impact_score": 3
-        },
-        {
-          "id": "7ebecd374946",
-          "time": "09:37",
-          "category": "Crypto",
-          "title": "CZ’s pardon came after costly Binance lobbying push in Washington: Politico",
-          "summary": "CZ’s pardon by Trump followed a lobbying push that included $450,000 to Trump-linked lobbyists and $290,000 to former SEC chair contender Teresa Goody Guillén.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/cz-pardon-binance-lobbying-trump-washington?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
-          "tags": [],
           "impact_score": 3
         },
         {
@@ -1250,7 +1285,7 @@
           "title": "Investors should be 'cautious' when using BTC stock-to-flow model: Analyst",
           "summary": "The stock-to-flow model may not be the best framework to forecast Bitcoin prices, Bitwise investment analyst André Dragosch said.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/investors-cautious-using-btc-stock-to-flow?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/investors-cautious-using-btc-stock-to-flow?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -1263,7 +1298,7 @@
           "title": "The next era of crypto belongs to decentralized markets",
           "summary": "DeFi trading volumes hit record ratios against CEXs as matured infrastructure and regulatory clarity shift power to transparent, code-driven platforms.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/crypto-belongs-to-decentralized-markets?utm_source=rss_feed&utm_medium=rss%3Fvfff%3D1761576389%26ttl%3D0%26_%3D1761576389188&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/crypto-belongs-to-decentralized-markets?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 2
         },
@@ -1504,19 +1539,6 @@
           "impact_score": 2
         },
         {
-          "id": "51f3f6dd5f23",
-          "time": "05:07",
-          "category": "Crypto",
-          "title": "Bitcoin's Large Bag Holders Remain Net Buyers as Leverage Unwinds",
-          "summary": "Some see possibility for a renewed bullish setup for Bitcoin as key holders continue accumulating following the market's historic wipeout.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345810/bitcoins-large-bag-holders-remain-net-buyers-leverage-unwinds",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
           "id": "fc21e581ac5c",
           "time": "22:31",
           "category": "Crypto",
@@ -1590,17 +1612,6 @@
           "summary": "$260 million in fiat and crypto was flagged as part of Operation Catalyst, of which some $600,000 has been seized to date.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345822/interpol-arrests-83-in-landmark-african-operation-hitting-crypto-terrorist-financing-cybercrime",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "5b843506bddc",
-          "time": "06:03",
-          "category": "Crypto",
-          "title": "Rep. Maxine Waters Blasts Trump Pardon of Binance Founder",
-          "summary": "Trump’s pardon of Binance founder Changpeng Zhao has ignited political outrage and renewed scrutiny of his ties to the crypto industry.",
-          "source": "Decrypt",
-          "url": "https://decrypt.co/345812/rep-maxine-waters-blasts-trump-pardon-of-binance-founder",
           "tags": [],
           "impact_score": 1
         }
