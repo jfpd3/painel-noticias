@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-27T19:45+00:00",
+  "generated_at": "2025-10-27T19:56+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -1101,6 +1101,28 @@
           "impact_score": 1
         },
         {
+          "id": "19d45f00d5e0",
+          "time": "11:00",
+          "category": "Regulation",
+          "title": "Borderlands Mexico: New customs regulation could slow cross-border trade",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/borderlands-mexico-customs-regulation-could-110000969.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "6b001750522e",
+          "time": "10:53",
+          "category": "Markets",
+          "title": "Is Broadcom Stock the Smartest Way to Invest in AI Infrastructure?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/broadcom-stock-smartest-way-invest-105300265.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "f9dc2dc3e1ca",
           "time": "10:45",
           "category": "Markets",
@@ -1310,17 +1332,6 @@
           "impact_score": 1
         },
         {
-          "id": "d0131d5ad27c",
-          "time": "10:27",
-          "category": "Markets",
-          "title": "My 3 Favorite Stocks to Buy Right Now",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/3-favorite-stocks-buy-now-102700762.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "6a3de14730d0",
           "time": "10:16",
           "category": "Markets",
@@ -1438,17 +1449,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/arcus-biosciences-inc-rcus-posts-101610093.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "135b3f2d923e",
-          "time": "10:15",
-          "category": "Markets",
-          "title": "The Smartest Dividend Stocks to Buy With $1,000 Right Now",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/smartest-dividend-stocks-buy-1-101500359.html",
           "tags": [],
           "impact_score": 1
         }
