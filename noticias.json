@@ -1,15 +1,28 @@
 {
-  "generated_at": "2025-10-27T13:47+00:00",
+  "generated_at": "2025-10-27T14:02+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-27",
       "attention_points": [
+        "Trump-linked American Bitcoin adds $163M in BTC, boosting treasury above $445M",
         "David Beckham-Backed Prenetics Raises $46.8M to Advance Bitcoin Treasury",
-        "Bitcoin Treasury Company Strive Surges Additional 30%, Nearly Doubling in Two Sessions",
-        "QQQ vs. VTI: Which ETF Should Be the Bedrock of Your Portfolio?"
+        "Bitcoin Treasury Company Strive Surges Additional 30%, Nearly Doubling in Two Sessions"
       ],
       "items": [
+        {
+          "id": "8682e253352a",
+          "time": "13:45",
+          "category": "Crypto",
+          "title": "Trump-linked American Bitcoin adds $163M in BTC, boosting treasury above $445M",
+          "summary": "Trump-linked Bitcoin miner and treasury company American Bitcoin added 1,414 BTC to its holdings, bringing its total stash to 3,865 BTC.",
+          "source": "Cointelegraph.com News",
+          "url": "https://cointelegraph.com/news/trump-linked-american-bitcoin-adds-163m-in-btc-lifting-treasury-above-445m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 3
+        },
         {
           "id": "0600b8164589",
           "time": "13:28",
@@ -48,13 +61,13 @@
           "impact_score": 3
         },
         {
-          "id": "4ef22c348a28",
-          "time": "13:06",
-          "category": "Regulation",
-          "title": "Warren Buffett Bought This Stock in Secret Last Year To Avoid a Price Hike: Should You Invest?",
+          "id": "1b0c6fee2447",
+          "time": "13:12",
+          "category": "US Macro",
+          "title": "Digital asset funds draw $921 million as CPI cools rate-cut fear: CoinShares",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/warren-buffett-bought-stock-secret-130607153.html",
+          "url": "https://finance.yahoo.com/news/digital-asset-funds-draw-921-131212925.html",
           "tags": [],
           "impact_score": 3
         },
@@ -66,17 +79,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/fed-expected-to-cut-rates-again-even-as-officials-fly-blind-without-data-130059938.html",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "59be3965cca5",
-          "time": "12:56",
-          "category": "Markets",
-          "title": "Financial choice hubs: A possible path for banking and telecommunications convergence",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/financial-choice-hubs-possible-path-125644628.html",
           "tags": [],
           "impact_score": 3
         },
@@ -302,16 +304,40 @@
           "impact_score": 3
         },
         {
+          "id": "ddc4f4a54b01",
+          "time": "13:42",
+          "category": "Crypto",
+          "title": "American Bitcoin boosts strategic reserve to 3,865 Bitcoin",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/american-bitcoin-boosts-strategic-3-134226565.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "9fd1361cba79",
           "time": "13:38",
           "category": "Crypto",
-          "title": "Tom Lee's BitMine Imersion Added Another $320M in Ether, Bringing Overall Holdings Above $14B",
+          "title": "Tom Lee's BitMine Immersion Added Another $320M in Ether, Bringing Overall Holdings Above $14B",
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/business/2025/10/27/tom-lee-s-bitmine-imersion-added-another-usd320m-in-ether-bringing-overall-holdings-above-usd14b",
           "tags": [
             "ETH"
           ],
+          "impact_score": 2
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "13:33",
+          "category": "Earnings",
+          "title": "Morgan Stanley 'Callin It' On Tesla's Big Gamble Post Earnings",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/tesla-stock-morgan-stanley-callin-it-tesla-big-gamble-autonomous/?src=A00220&yptr=yahoo",
+          "tags": [],
           "impact_score": 2
         },
         {
@@ -369,19 +395,6 @@
           "source": "Yahoo Finance",
           "url": "https://www.barrons.com/articles/nvidia-stock-price-tech-earnings-f3522c2e?siteid=yhoof2&yptr=yahoo",
           "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "473532f6ee5d",
-          "time": "12:53",
-          "category": "Crypto",
-          "title": "Strategy acquires 390 Bitcoin as it skips MSTR issuance for the fourth week in a row",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/strategy-acquires-390-bitcoin-skips-125356175.html",
-          "tags": [
-            "BTC"
-          ],
           "impact_score": 2
         },
         {
@@ -524,6 +537,17 @@
           "impact_score": 2
         },
         {
+          "id": "74d20262f50f",
+          "time": "13:37",
+          "category": "Markets",
+          "title": "Oil steadies as US-China trade deal hopes counter demand concerns",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/oil-steadies-us-china-trade-133752303.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "8d2999909a61",
           "time": "13:31",
           "category": "Crypto",
@@ -542,6 +566,17 @@
           "summary": "A growing demand for stablecoin payments and tokenized real-world assets is creating more institutional interest in blockchain-based services, according to IBM.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/ibm-crypto-platform-for-governments-tradfi-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "fcb19b75a749",
+          "time": "13:31",
+          "category": "Crypto",
+          "title": "Morning Minute: Crypto Rips On US China Trade Deal Hopes",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/morning-minute-crypto-rips-us-133102246.html",
           "tags": [],
           "impact_score": 1
         },
@@ -590,6 +625,17 @@
           "impact_score": 1
         },
         {
+          "id": "949ada83f29e",
+          "time": "13:19",
+          "category": "Markets",
+          "title": "1 Incredible Reason to Buy Advanced Micro Devices (AMD) Stock in November",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/1-incredible-reason-buy-advanced-131900263.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "120fe64b7c30",
           "time": "13:17",
           "category": "Crypto",
@@ -597,6 +643,39 @@
           "summary": "",
           "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
           "url": "https://www.coindesk.com/business/2025/10/27/tzero-plans-public-listing-as-tokenization-push-gains-steam",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "55e034f2c896",
+          "time": "13:15",
+          "category": "Markets",
+          "title": "Where Will Energy Transfer Stock Be in 1 Year?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/where-energy-transfer-stock-1-131500870.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "291ac6e89dd8",
+          "time": "13:15",
+          "category": "Markets",
+          "title": "My 2 Favorite Stocks to Buy Right Now",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/2-favorite-stocks-buy-now-131500313.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "d53393abe920",
+          "time": "13:13",
+          "category": "Markets",
+          "title": "Israeli intelligence vets raise $20M to track developer buying signals",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/israeli-intelligence-vets-raise-20m-131346873.html",
           "tags": [],
           "impact_score": 1
         },
@@ -652,39 +731,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/analyst-bullish-ibm-ibm-amid-130619620.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ae22869f64f2",
-          "time": "13:05",
-          "category": "Markets",
-          "title": "GE Aerospace Raises Forecast. Time to Buy the Stock?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ge-aerospace-raises-forecast-time-130500642.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4f3a4eb2665d",
-          "time": "13:00",
-          "category": "Markets",
-          "title": "3 High-Yield Dividend Stocks Down 33% to 65% to Buy Right Now",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/3-high-yield-dividend-stocks-130000446.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f0771ec3967a",
-          "time": "12:55",
-          "category": "Markets",
-          "title": "2 Key Signs You’ll Move From Middle Class to Upper Middle Class in 2026 — and 3 Ways To Prepare Now",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/2-key-signs-ll-move-125506019.html",
           "tags": [],
           "impact_score": 1
         },
@@ -839,39 +885,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/analyst-says-sit-tight-buy-121327491.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "acab72427ae1",
-          "time": "12:11",
-          "category": "Markets",
-          "title": "Analyst Says Dell (DELL) is a Cheap AI Stock Amid Major ‘Disruption’ – ‘I’m Not Kidding’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/analyst-says-dell-dell-cheap-121111388.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "6cc6427d47a6",
-          "time": "12:10",
-          "category": "Markets",
-          "title": "Josh Brown Explains Why He Remains Bullish on Joby Aviation (JOBY)- ‘This Reminds Me of Tesla’",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/josh-brown-explains-why-remains-121003801.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "884fbce310bd",
-          "time": "12:10",
-          "category": "Markets",
-          "title": "American Water Works to Merge With Essential Utilities in All-Stock Deal",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.barrons.com/articles/american-water-works-essential-utilities-merger-1c5faf4b?siteid=yhoof2&yptr=yahoo",
           "tags": [],
           "impact_score": 1
         },
@@ -1306,17 +1319,6 @@
           "summary": "Coinbase’s x402 protocol, which enables AI agents to transact autonomously over the internet, has seen a 10,000% rise in transaction activity over a month.",
           "source": "Cointelegraph.com News",
           "url": "https://cointelegraph.com/news/coinbases-x402-transactions-rise-10000-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "9f45057bcd0f",
-          "time": "01:38",
-          "category": "Crypto",
-          "title": "Kyrgyzstan launches stablecoin on BNB Chain, confirms future CBDC rollout",
-          "summary": "A stablecoin is now live in Kyrgyzstan, which confirmed plans to launch a CBDC and explore a national crypto reserve after meeting with strategic adviser Changpeng Zhao.",
-          "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/kyrgyzstan-rolls-out-stablecoin-and-confirms-future-cbdc-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         }
