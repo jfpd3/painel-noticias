@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-27T21:01+00:00",
+  "generated_at": "2025-10-27T21:34+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -955,8 +955,8 @@
       "date": "2025-10-26",
       "attention_points": [
         "Alibaba’s Qwen Deep Research Creates Live Webpages, Podcasts in Seconds",
-        "Apple, Google, Meta, Amazon, Microsoft Earnings Due; Fed Rate Cut, Trump-Xi Ahead",
-        "Phillip Securities Maintains a Buy Rating on Wells Fargo & Company (WFC)"
+        "Inside the $22 trillion world of private capital, an asset class so big it would be the world’s second-largest economy",
+        "Worried About an AI Bubble? These 2 Vanguard ETFs Can Help Keep Your Portfolio Safe."
       ],
       "items": [
         {
@@ -967,6 +967,28 @@
           "summary": "Alibaba's Qwen Deep Research now converts reports into live webpages and podcasts with one click. Here's how the free service compares to Gemini, ChatGPT, and Grok.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345517/alibabas-qwen-deep-research-live-webpages-podcasts-seconds",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "ce4eb7aea7a2",
+          "time": "13:00",
+          "category": "Regulation",
+          "title": "Inside the $22 trillion world of private capital, an asset class so big it would be the world’s second-largest economy",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/inside-22-trillion-world-private-130000731.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "085795b52223",
+          "time": "12:47",
+          "category": "Markets",
+          "title": "Worried About an AI Bubble? These 2 Vanguard ETFs Can Help Keep Your Portfolio Safe.",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/worried-ai-bubble-2-vanguard-124700417.html",
           "tags": [],
           "impact_score": 3
         },
@@ -1015,6 +1037,20 @@
           "impact_score": 3
         },
         {
+          "id": "b488ad776833",
+          "time": "12:55",
+          "category": "Crypto",
+          "title": "Bitcoin Tops $113K, SOL, ADA, ETH Jump as US–China Trade Progress Lifts Risk Appetite",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bitcoin-tops-113k-sol-ada-125522914.html",
+          "tags": [
+            "BTC",
+            "ETH"
+          ],
+          "impact_score": 2
+        },
+        {
           "id": "23101fae6693",
           "time": "12:30",
           "category": "Earnings",
@@ -1023,45 +1059,6 @@
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/earnings-season-off-to-an-impressive-start-123001295.html",
           "tags": [],
-          "impact_score": 2
-        },
-        {
-          "id": "c07294d6dc48",
-          "time": "12:00",
-          "category": "Crypto",
-          "title": "Bitcoin Shines as a 'Liquidity Barometer,' Not an Inflation Hedge, NYDIG Says",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/bitcoin-shines-liquidity-barometer-not-120000959.html",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "0b24eff44e77",
-          "time": "11:49",
-          "category": "Crypto",
-          "title": "The Stock Market Is Doing Something It Does Every 5 Years, but History Says It Signals a Big Move in 2026",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stock-market-doing-something-does-114900450.html",
-          "tags": [
-            "ETH"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "8212adce422a",
-          "time": "11:45",
-          "category": "Crypto",
-          "title": "1 Important Tailwind That Could Send Ethereum (ETH) Skyrocketing",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/1-important-tailwind-could-send-114500216.html",
-          "tags": [
-            "ETH"
-          ],
           "impact_score": 2
         },
         {
@@ -1109,6 +1106,28 @@
           "impact_score": 1
         },
         {
+          "id": "b08222908ee3",
+          "time": "13:30",
+          "category": "Markets",
+          "title": "Tesla's Strong FCF Margins Could Imply TSLA Stock is Worth Over $500",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/teslas-strong-fcf-margins-could-133002586.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f3eb53c7f3f3",
+          "time": "13:30",
+          "category": "Markets",
+          "title": "The ‘Everything App’: How Robinhood Grew From Trading Platform to Financial Ecosystem",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/everything-app-robinhood-grew-trading-133000465.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "c122e1da7361",
           "time": "12:30",
           "category": "Markets",
@@ -1120,24 +1139,68 @@
           "impact_score": 1
         },
         {
-          "id": "bb7f8639c147",
-          "time": "12:04",
+          "id": "fe0375bfcec5",
+          "time": "12:30",
           "category": "Markets",
-          "title": "I Asked ChatGPT What Would Happen if We Taxed Wealth Instead of Income — Here’s What It Said",
+          "title": "Is Elon Musk \"Superhuman\"? Here's Why Nvidia's Jensen Huang Thinks So After the Tesla Chief's $7 Billion Feat",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/asked-chatgpt-happen-taxed-wealth-120421991.html",
+          "url": "https://finance.yahoo.com/news/elon-musk-superhuman-heres-why-123000957.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "1c5f70d9562b",
-          "time": "12:01",
-          "category": "Markets",
-          "title": "If You Invested $10K In CareTrust REIT Stock 10 Years Ago, How Much Would You Have Now?",
+          "id": "6591963b6906",
+          "time": "12:23",
+          "category": "Crypto",
+          "title": "Coinbase CEO Wants Every Startup to Launch, Fund, and IPO Onchain",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/invested-10k-caretrust-reit-stock-120119499.html",
+          "url": "https://finance.yahoo.com/news/coinbase-ceo-wants-every-startup-122350755.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "5ddc5919e62f",
+          "time": "12:17",
+          "category": "Markets",
+          "title": "7 Mental Habits That Can Lead You to a Wealthier Retirement",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/7-mental-habits-lead-wealthier-121708353.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "f126796204ac",
+          "time": "12:15",
+          "category": "Markets",
+          "title": "1 Ohio-Based Company That's a No-Brainer Buy for Long-Term Investors",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/1-ohio-based-company-thats-121500194.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "b69d469a1bd1",
+          "time": "12:13",
+          "category": "Markets",
+          "title": "Top 3 Auto Stocks To Watch for 2026, According to Experts",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/top-3-auto-stocks-watch-121334498.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "a9fbeb324d6b",
+          "time": "12:10",
+          "category": "Crypto",
+          "title": "Is Solana a Millionaire-Maker Cryptocurrency?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/solana-millionaire-maker-cryptocurrency-121000489.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1186,17 +1249,6 @@
           "impact_score": 1
         },
         {
-          "id": "0688b6762423",
-          "time": "12:00",
-          "category": "US Macro",
-          "title": "3 Reasons Not to Open a CD Right Now, Even With Rates at 4%",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/3-reasons-not-open-cd-120000936.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "359df771c8a4",
           "time": "11:55",
           "category": "Markets",
@@ -1204,39 +1256,6 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/robert-kiyosaki-reveals-bought-4-115500073.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "4aaaeeec2f4d",
-          "time": "11:53",
-          "category": "Markets",
-          "title": "3 Leading Tech Stocks to Buy in 2025",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/3-leading-tech-stocks-buy-115300532.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "3848ca7e65b3",
-          "time": "11:48",
-          "category": "Crypto",
-          "title": "Why Is The Crypto Market Up Today?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/why-crypto-market-today-035345690.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "84d714a1312a",
-          "time": "11:35",
-          "category": "Markets",
-          "title": "Prediction: This Will Be Wall Street's First $5 Trillion Stock",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/prediction-wall-streets-first-5-113500777.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1437,39 +1456,6 @@
           "url": "https://finance.yahoo.com/news/borderlands-mexico-customs-regulation-could-110000969.html",
           "tags": [],
           "impact_score": 1
-        },
-        {
-          "id": "0fc54b06c38e",
-          "time": "10:43",
-          "category": "Markets",
-          "title": "Taboola, Paramount Partner to Launch ‘Performance Multiplier’ for SMB CTV Advertising",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/taboola-paramount-partner-launch-performance-104316995.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "ae411f5dc7fd",
-          "time": "10:43",
-          "category": "Markets",
-          "title": "Ventyx Biosciences Reports Positive Phase 2 Data for Oral NLRP3 Inhibitor VTX3232 in Obesity and Cardiovascular Risk",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/ventyx-biosciences-reports-positive-phase-104315456.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "149b67881970",
-          "time": "10:43",
-          "category": "Markets",
-          "title": "Taysha Gene Therapies Regains Full Global Rights to Lead Rett Syndrome Program TSHA-102",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/taysha-gene-therapies-regains-full-104312052.html",
-          "tags": [],
-          "impact_score": 1
         }
       ]
     },
@@ -1638,7 +1624,8 @@
     {
       "date": "2025-10-23",
       "attention_points": [
-        "The MegaETH interview (w/ Bread)"
+        "The MegaETH interview (w/ Bread)",
+        "Elon Musk presses for $1 trillion pay plan because he needs to influence Tesla's future 'robot army'"
       ],
       "items": [
         {
@@ -1653,6 +1640,17 @@
             "ETH"
           ],
           "impact_score": 3
+        },
+        {
+          "id": "800cd904ac6e",
+          "time": "17:23",
+          "category": "Markets",
+          "title": "Elon Musk presses for $1 trillion pay plan because he needs to influence Tesla's future 'robot army'",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/elon-musk-presses-for-1-trillion-pay-plan-because-he-needs-to-influence-teslas-future-robot-army-162353294.html",
+          "tags": [],
+          "impact_score": 1
         }
       ]
     },
