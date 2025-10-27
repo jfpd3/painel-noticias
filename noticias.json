@@ -1,15 +1,50 @@
 {
-  "generated_at": "2025-10-27T15:38+00:00",
+  "generated_at": "2025-10-27T15:52+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
       "date": "2025-10-27",
       "attention_points": [
-        "How Changpeng Zhao regained power between prison and pardon",
-        "Berkshire cut to 'underperform' by KBW, which cites Geico, tariffs, Buffett",
-        "New father, overwhelmed by $53K in student loan, car debt, fears bankruptcy — how Dave Ramsey says he can avoid it"
+        "Tom Lee’s BitMine Rises as Ethereum Rebounds, Firm Adds $321 Million in ETH",
+        "Major candy company files Chapter 11 bankruptcy in Halloween week",
+        "Berkshire cut to 'underperform' by KBW, which cites Geico, tariffs, Buffett"
       ],
       "items": [
+        {
+          "id": "aa2468b83e0a",
+          "time": "15:44",
+          "category": "Crypto",
+          "title": "Tom Lee’s BitMine Rises as Ethereum Rebounds, Firm Adds $321 Million in ETH",
+          "summary": "BitMine Immersion Technologies now holds over $13.7 billion worth of Ethereum, widening its ETH treasury lead over SharpLink Gaming.",
+          "source": "Decrypt",
+          "url": "https://decrypt.co/346076/tom-lees-bitmine-rises-ethereum-rebounds-firm-adds-321-million-eth",
+          "tags": [
+            "ETH"
+          ],
+          "impact_score": 3
+        },
+        {
+          "id": "bb5362e0966d",
+          "time": "15:33",
+          "category": "Markets",
+          "title": "Major candy company files Chapter 11 bankruptcy in Halloween week",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/major-candy-company-files-chapter-153300721.html",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "5eb6837b598a",
+          "time": "15:28",
+          "category": "Markets",
+          "title": "Berkshire cut to 'underperform' by KBW, which cites Geico, tariffs, Buffett",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/berkshire-cut-underperform-kbw-cites-152807886.html",
+          "tags": [],
+          "impact_score": 3
+        },
         {
           "id": "e2070da499e2",
           "time": "15:06",
@@ -17,18 +52,7 @@
           "title": "How Changpeng Zhao regained power between prison and pardon",
           "summary": "With his Binance executive ban in place, Zhao found new channels to shape markets and policy across the crypto world.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/changpeng-zhao-regained-power-between-prison-pardon?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
-          "tags": [],
-          "impact_score": 3
-        },
-        {
-          "id": "ccf709db5217",
-          "time": "14:59",
-          "category": "Markets",
-          "title": "Berkshire cut to 'underperform' by KBW, which cites Geico, tariffs, Buffett",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/berkshire-cut-underperform-kbw-cites-145930027.html",
+          "url": "https://cointelegraph.com/news/changpeng-zhao-regained-power-between-prison-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
         },
@@ -85,7 +109,7 @@
           "title": "Trump-linked American Bitcoin adds $163M in BTC, boosting treasury above $445M",
           "summary": "Trump-linked Bitcoin miner and treasury company American Bitcoin added 1,414 BTC to its holdings, bringing its total stash to 3,865 BTC.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/trump-linked-american-bitcoin-adds-163m-in-btc-lifting-treasury-above-445m?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/trump-linked-american-bitcoin-adds-163m-in-btc-lifting-treasury-above-445m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -124,7 +148,7 @@
           "title": "ClearBank to become one of first EU banks to join Circle Payments Network",
           "summary": "ClearBank and Circle’s partnership involves scaling USDC and EURC operations through Circle Mint, which enables the minting and redemption of the tokens.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/clearbank-circle-partnership-usdc-stablecoin-europe?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/clearbank-circle-partnership-usdc-stablecoin-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
         },
@@ -148,7 +172,7 @@
           "title": "Bitcoin finds its footing as expected US-China tariff truce cools market panic",
           "summary": "Growing optimism surrounding a potential trade deal is the main catalyst for a recovery in investor sentiment ahead of Thursday’s tariff meeting, industry watchers told Cointelegraph.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/crypto-market-recovery-19b-correction-trump-tariff?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/crypto-market-recovery-19b-correction-trump-tariff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -218,7 +242,7 @@
           "title": "Australian crypto firms back draft laws, but ‘critical questions’ remain",
           "summary": "Australia’s crypto exchanges have been largely positive about the government’s proposed crypto laws, but have told the Treasury that further clarity is needed.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/australia-crypto-industry-backs-draft-laws-critical-questions-remain?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/australia-crypto-industry-backs-draft-laws-critical-questions-remain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
         },
@@ -229,7 +253,7 @@
           "title": "Bitcoin finally escapes ‘fear’ as confidence tiptoes back into crypto",
           "summary": "The Crypto Fear & Greed Index has flipped to neutral, leaving “fear” behind for the first time since the mid-October market crash sparked by Trump’s China tariffs.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bitcoin-fear-and-greed-out-of-fear-first-time-since-crypto-crash?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/bitcoin-fear-and-greed-out-of-fear-first-time-since-crypto-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -242,7 +266,7 @@
           "title": "Mt. Gox’s security flaws cost millions. Could AI have spotted them?",
           "summary": "Could AI have prevented the collapse of Mt. Gox if it had existed back then? An AI-powered post-mortem by the exchange’s former CEO raises an intriguing “what if.”",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/mt-gox-s-security-flaws-cost-millions-could-ai-have-spotted-them?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/mt-gox-s-security-flaws-cost-millions-could-ai-have-spotted-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
         },
@@ -266,9 +290,44 @@
           "title": "Major Iranian private bank goes bankrupt, roiling 42M customers",
           "summary": "After accumulating around $8 billion worth of losses and debt, Iran’s Ayandeh Bank has been dissolved, with customer assets absorbed by the state-owned Bank Melli.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/iranian-bank-bankruptcy-affecting-42-million-customers?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/iranian-bank-bankruptcy-affecting-42-million-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
+        },
+        {
+          "id": "a768aef50247",
+          "time": "15:34",
+          "category": "Crypto",
+          "title": "Trump's American Bitcoin and Saylor's Strategy Add to Bitcoin Holdings",
+          "summary": "",
+          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+          "url": "https://www.coindesk.com/markets/2025/10/27/trump-s-american-bitcoin-and-saylor-s-strategy-add-to-bitcoin-holdings",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "15:27",
+          "category": "Earnings",
+          "title": "Morgan Stanley 'Callin' It' On Tesla's Big Gamble Post Earnings",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/news/tesla-stock-morgan-stanley-callin-it-tesla-big-gamble-autonomous/?src=A00220&yptr=yahoo",
+          "tags": [],
+          "impact_score": 2
+        },
+        {
+          "id": "17d461ee9c44",
+          "time": "15:10",
+          "category": "Markets",
+          "title": "Argentina’s Markets Surge as Milei Win Eases Fear of a Crisis",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/argentina-investors-poised-rally-milei-021714477.html",
+          "tags": [],
+          "impact_score": 2
         },
         {
           "id": "b061a3562461",
@@ -354,17 +413,6 @@
           "impact_score": 2
         },
         {
-          "id": "1d6daef5b3f9",
-          "time": "14:10",
-          "category": "Earnings",
-          "title": "Morgan Stanley 'Callin' It' On Tesla's Big Gamble Post Earnings",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.investors.com/news/tesla-stock-morgan-stanley-callin-it-tesla-big-gamble-autonomous/?src=A00220&yptr=yahoo",
-          "tags": [],
-          "impact_score": 2
-        },
-        {
           "id": "f6d71a94aa7d",
           "time": "14:08",
           "category": "Earnings",
@@ -404,7 +452,7 @@
           "title": "Uptober? Strategy logs slowest monthly Bitcoin buys of the year at 778 BTC",
           "summary": "Strategy posted one of its slowest months for buying BTC, with a total of 778 BTC purchased in October, down 78% from 3,526 BTC in September.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/strategy-buys-778-bitcoin-october-buying-activity-slowdown?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/strategy-buys-778-bitcoin-october-buying-activity-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -452,7 +500,7 @@
           "title": "How an all-time-high gold sell-off could push Bitcoin to $200K",
           "summary": "As investors exit gold for digital assets, Bitcoin could be the next big winner — possibly crossing the $200,000 barrier.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/explained/how-an-all-time-high-gold-sell-off-could-push-bitcoin-to-200k?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/explained/how-an-all-time-high-gold-sell-off-could-push-bitcoin-to-200k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -465,7 +513,7 @@
           "title": "Here’s what happened in crypto today",
           "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 2
         },
@@ -489,7 +537,7 @@
           "title": "BTC price eyes record monthly close: 5 things to know in Bitcoin this week",
           "summary": "Bitcoin rebounded to $116,000, but traders were nervous about the bull market even while stocks soared on news of a likely US-China trade deal.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/btc-price-eyes-record-monthly-close-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/btc-price-eyes-record-monthly-close-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -502,7 +550,7 @@
           "title": "From outflows to inflows: Bitcoin ETPs rally amid surprising economic update",
           "summary": "Bitcoin, which had been the main driver of crypto ETP outflows a week earlier, almost fully recovered its losses with $931 million in inflows last week.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/crypto-funds-921-million-inflows-cpi-data-coinshares?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/crypto-funds-921-million-inflows-cpi-data-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -515,20 +563,7 @@
           "title": "‘Attack on Bitcoin’ — Bitcoiners slam ‘legal threats’ in soft fork proposal",
           "summary": "A new Bitcoin improvement proposal calls for a one-year soft fork for Bitcoin while developers resolve the transaction filtering debate, but the language within it has sparked controversy.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bitcoin-soft-fork-luke-dashjr-legal-threat-debate?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
-          "tags": [
-            "BTC"
-          ],
-          "impact_score": 2
-        },
-        {
-          "id": "d3c270fd1561",
-          "time": "04:17",
-          "category": "Crypto",
-          "title": "Bitcoin Surpasses 50-Day Average, but CoinDesk BTC Trend Indicator Remains Bearish",
-          "summary": "",
-          "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-          "url": "https://www.coindesk.com/markets/2025/10/27/bitcoin-surpasses-50-day-average-but-coindesk-btc-trend-indicator-remains-bearish",
+          "url": "https://cointelegraph.com/news/bitcoin-soft-fork-luke-dashjr-legal-threat-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -554,11 +589,33 @@
           "title": "Bitcoin is no inflation hedge but thrives when the dollar wobbles: NYDIG",
           "summary": "Bitcoin doesn’t consistently act as a hedge against inflation, but it has instead “evolved into a liquidity barometer,” says NYDIG’s Greg Cipolaro.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bitcoin-no-inflation-hedge-but-weak-dollar-pushes-it-up-nydig?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/bitcoin-no-inflation-hedge-but-weak-dollar-pushes-it-up-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
           "impact_score": 2
+        },
+        {
+          "id": "270fb5118233",
+          "time": "15:34",
+          "category": "Markets",
+          "title": "Chinese EV maker Seres targets $1.7bn in Hong Kong listing",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/chinese-ev-maker-seres-targets-153402962.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "2a40d3850986",
+          "time": "15:30",
+          "category": "Markets",
+          "title": "Florida woman makes $5.6K/month but $3.1K goes toward housing — and The Ramsey hosts say she’s running out of options",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/florida-woman-makes-5-6k-153000838.html",
+          "tags": [],
+          "impact_score": 1
         },
         {
           "id": "5aae4f99f847",
@@ -660,39 +717,6 @@
           "impact_score": 1
         },
         {
-          "id": "7aeb10ed8477",
-          "time": "15:05",
-          "category": "Markets",
-          "title": "Metsä swings to loss in Q3 2025",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/mets-swings-loss-q3-2025-150501115.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "499928a41cd5",
-          "time": "15:03",
-          "category": "Markets",
-          "title": "Equitable Buys Stifel’s $9B Independent Advisor Unit",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/equitable-buys-stifel-9b-independent-150328349.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "027f1ea35b0f",
-          "time": "15:02",
-          "category": "Markets",
-          "title": "The stock market may be in an AI bubble. Is it time to hoard cash?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stock-market-may-ai-bubble-150221178.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "1d6daef5b3f9",
           "time": "14:58",
           "category": "Markets",
@@ -776,7 +800,7 @@
           "title": "Ant Group files ‘Antcoin’ trademark as China tightens crypto crackdown",
           "summary": "Ant Group has filed to trademark “Antcoin” in Hong Kong through a Cayman Islands subsidiary while Beijing intensifies its crypto crackdown.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/ant-group-files-antcoin-trademark-as-china-tightens-crypto-crackdown?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/ant-group-files-antcoin-trademark-as-china-tightens-crypto-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -858,17 +882,6 @@
           "impact_score": 1
         },
         {
-          "id": "8792fbc04abc",
-          "time": "13:56",
-          "category": "Markets",
-          "title": "Yoga Pants, Oil and Pickup Trucks—These Companies Count on Canada",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-27-2025/card/yoga-pants-oil-and-pickup-trucks-these-companies-count-on-canada-U9YvLnhZX6iipZqY8Vuv?siteid=yhoof2&yptr=yahoo",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "8d2999909a61",
           "time": "13:31",
           "category": "Crypto",
@@ -886,7 +899,7 @@
           "title": "IBM’s ‘Digital Asset Haven’ aims to turn crypto into corporate infrastructure",
           "summary": "A growing demand for stablecoin payments and tokenized real-world assets is creating more institutional interest in blockchain-based services, according to IBM.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/ibm-crypto-platform-for-governments-tradfi-adoption?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/ibm-crypto-platform-for-governments-tradfi-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -897,7 +910,7 @@
           "title": "Retail must partner with fintechs or prepare to fail",
           "summary": "Corporate scale has become an innovation liability as bureaucracy stalls retail payment evolution. Fintech partnerships offer the only escape from irrelevance.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/retail-partner-fintechs-or-prepare-to-fail?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/retail-partner-fintechs-or-prepare-to-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -957,101 +970,13 @@
           "impact_score": 1
         },
         {
-          "id": "a66db6c248f7",
-          "time": "11:35",
-          "category": "Markets",
-          "title": "Weekly Stock List",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_45128_StockPicks_1761564926000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "229b8c03e0db",
-          "time": "11:08",
-          "category": "Markets",
-          "title": "Market Digest: CCI, BX, GPC, HAS, INTC, ISRG, MMM, ROP, WRB",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_45122_MarketSummary_1761563321000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "409c02436a50",
-          "time": "11:08",
-          "category": "Markets",
-          "title": "Analyst Report: Roper Technologies Inc",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3687_AnalystReport_1761563321000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "a3c7fa66e12a",
-          "time": "11:08",
-          "category": "Markets",
-          "title": "Analyst Report: Genuine Parts Co.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3015_AnalystReport_1761563321000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8b1c638b4e98",
-          "time": "11:08",
-          "category": "Markets",
-          "title": "Analyst Report: Crown Castle Inc.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3777_AnalystReport_1761563321000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "c90a9c6dbeef",
-          "time": "11:08",
-          "category": "Markets",
-          "title": "Analyst Report: Blackstone Inc",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_2797_AnalystReport_1761563321000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "bb0382054bcb",
-          "time": "11:08",
-          "category": "Markets",
-          "title": "Analyst Report: 3M Co.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3200_AnalystReport_1761563321000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "f53574cb53e5",
-          "time": "11:01",
-          "category": "Markets",
-          "title": "Technical Assessment: Bullish in the Intermediate-Term",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_45123_TechnicalAnalysis_1761562900000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "810203e446b1",
           "time": "10:17",
           "category": "Crypto",
           "title": "Mt. Gox pushes repayments to 2026 as decade-long saga drags on",
           "summary": "Defunct crypto exchange Mt. Gox postponed some long-awaited customer repayments by another year to Oct. 31, 2026, citing incomplete creditor procedures.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/mt-gox-pushes-repayments-to-2026-as-decade-long-saga-drags-on?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/mt-gox-pushes-repayments-to-2026-as-decade-long-saga-drags-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -1084,7 +1009,7 @@
           "title": "What happens if you don’t pay taxes on your crypto holdings?",
           "summary": "Skipping crypto taxes can trigger hefty fines and legal issues. Find out what really happens if you fail to report or pay taxes on your holdings.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/what-happens-if-you-don-t-pay-taxes-on-your-crypto-holdings?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/what-happens-if-you-don-t-pay-taxes-on-your-crypto-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -1128,7 +1053,7 @@
           "title": "Japan sees launch of its first yen-backed stablecoin, JPYC",
           "summary": "JPYC President Noriyoshi Okabe said that the stablecoin has already garnered interest from seven companies that are looking to incorporate it into their services.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/yen-backed-stablecoin-launches-in-japan?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/yen-backed-stablecoin-launches-in-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -1183,7 +1108,7 @@
           "title": "Javier Milei’s crypto-friendly party wins Argentine midterm",
           "summary": "Argentina’s La Libertad Avanza party, led by President Javier Milei, has won the midterms, positioning Milei as the frontrunner for the 2027 elections.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/javier-mileis-party-wins-argentinas-midterms?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/javier-mileis-party-wins-argentinas-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -1194,7 +1119,7 @@
           "title": "Zcash pumps 30% after Arthur Hayes’ ‘vibe check’ tips $10K target",
           "summary": "Zcash rallied over 490% in the last 30 days and also crossed the $5 billion market capitalization threshold for the first time on Sunday.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/zcash-surges-arthur-hayes-prediction?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/zcash-surges-arthur-hayes-prediction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         },
@@ -1205,7 +1130,7 @@
           "title": "Money giant Western Union to pilot stablecoin-powered transfers",
           "summary": "Western Union CEO said there are “significant opportunities” to utilize stablecoins for sending and receiving money across borders.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/western-union-piloting-stablecoin-settlements?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/western-union-piloting-stablecoin-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 1
         }
@@ -1226,7 +1151,7 @@
           "title": "‘The claim that L2s inherit ETH security is erroneous’ — Solana co-founder",
           "summary": "Ethereum layer-2 networks have glaring security and centralization issues, according to Anatoly Yakovenko, co-founder of the Solana blockchain.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/claim-l2s-inherit-eth-security-erroneous-solana-founder?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/claim-l2s-inherit-eth-security-erroneous-solana-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
             "ETH"
           ],
@@ -1239,7 +1164,7 @@
           "title": "US Treasury chief Bessent says ‘substantial’ trade framework with China reached",
           "summary": "Secretary Scott Bessent said the negotiations alleviate the need for the 100% additional tariffs announced by US president Trump in October.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bessent-substantial-trade-framework-china?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/bessent-substantial-trade-framework-china?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
         },
@@ -1261,7 +1186,7 @@
           "title": "‘House is fine, but door is jammed’: AWS outage shows crypto’s weak spot",
           "summary": "The 15-hour Amazon Web Services outage that halted Coinbase, Robinhood and MetaMask revealed how much of Web3 still relies on centralized servers.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/aws-outage-shows-crypto-decentralization-weakness?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/aws-outage-shows-crypto-decentralization-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 3
         },
@@ -1272,7 +1197,7 @@
           "title": "Bitcoin price starts $112K breakout as Fed rate-cut odds pass 98%",
           "summary": "Bitcoin price action favored bulls as the weekly close neared, with BTC nearing $113,000 ahead of a key week for the Federal Reserve.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/bitcoin-price-starts-112k-breakout-fed-rate-cut-odds?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/bitcoin-price-starts-112k-breakout-fed-rate-cut-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -1285,7 +1210,7 @@
           "title": "Investors should be 'cautious' when using BTC stock-to-flow model: Analyst",
           "summary": "The stock-to-flow model may not be the best framework to forecast Bitcoin prices, Bitwise investment analyst André Dragosch said.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/investors-cautious-using-btc-stock-to-flow?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/investors-cautious-using-btc-stock-to-flow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [
             "BTC"
           ],
@@ -1298,7 +1223,7 @@
           "title": "The next era of crypto belongs to decentralized markets",
           "summary": "DeFi trading volumes hit record ratios against CEXs as matured infrastructure and regulatory clarity shift power to transparent, code-driven platforms.",
           "source": "Cointelegraph.com News",
-          "url": "https://cointelegraph.com/news/crypto-belongs-to-decentralized-markets?utm_source=rss_feed&utm_medium=rss%3F_refresh%3Duibxv8%26cb%3Duibxv8&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/crypto-belongs-to-decentralized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "tags": [],
           "impact_score": 2
         },
