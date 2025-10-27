@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-27T20:50+00:00",
+  "generated_at": "2025-10-27T21:01+00:00",
   "timezone": "Europe/Lisbon",
   "days": [
     {
@@ -955,8 +955,8 @@
       "date": "2025-10-26",
       "attention_points": [
         "Alibaba’s Qwen Deep Research Creates Live Webpages, Podcasts in Seconds",
-        "Phillip Securities Maintains a Buy Rating on Wells Fargo & Company (WFC)",
-        "Phillip Securities Raises the PT on Bank of America Corporation (BAC), Keeps a Buy"
+        "Apple, Google, Meta, Amazon, Microsoft Earnings Due; Fed Rate Cut, Trump-Xi Ahead",
+        "Phillip Securities Maintains a Buy Rating on Wells Fargo & Company (WFC)"
       ],
       "items": [
         {
@@ -967,6 +967,17 @@
           "summary": "Alibaba's Qwen Deep Research now converts reports into live webpages and podcasts with one click. Here's how the free service compares to Gemini, ChatGPT, and Grok.",
           "source": "Decrypt",
           "url": "https://decrypt.co/345517/alibabas-qwen-deep-research-live-webpages-podcasts-seconds",
+          "tags": [],
+          "impact_score": 3
+        },
+        {
+          "id": "1d6daef5b3f9",
+          "time": "12:41",
+          "category": "US Macro",
+          "title": "Apple, Google, Meta, Amazon, Microsoft Earnings Due; Fed Rate Cut, Trump-Xi Ahead",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://www.investors.com/research/investing-action-plan/apple-google-meta-amazon-microsoft-earnings-fed-rate-cut-trump-xi-ahead/?src=A00220&yptr=yahoo",
           "tags": [],
           "impact_score": 3
         },
@@ -1004,15 +1015,28 @@
           "impact_score": 3
         },
         {
-          "id": "962f4e271039",
-          "time": "10:43",
-          "category": "Regulation",
-          "title": "TD Cowen Initiates Allot Ltd. (ALLT) with Buy Rating, $13 PT on Cybersecurity Market Tailwinds",
+          "id": "23101fae6693",
+          "time": "12:30",
+          "category": "Earnings",
+          "title": "Earnings season off to an impressive start",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/td-cowen-initiates-allot-ltd-104304660.html",
+          "url": "https://finance.yahoo.com/news/earnings-season-off-to-an-impressive-start-123001295.html",
           "tags": [],
-          "impact_score": 3
+          "impact_score": 2
+        },
+        {
+          "id": "c07294d6dc48",
+          "time": "12:00",
+          "category": "Crypto",
+          "title": "Bitcoin Shines as a 'Liquidity Barometer,' Not an Inflation Hedge, NYDIG Says",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/bitcoin-shines-liquidity-barometer-not-120000959.html",
+          "tags": [
+            "BTC"
+          ],
+          "impact_score": 2
         },
         {
           "id": "0b24eff44e77",
@@ -1096,6 +1120,28 @@
           "impact_score": 1
         },
         {
+          "id": "bb7f8639c147",
+          "time": "12:04",
+          "category": "Markets",
+          "title": "I Asked ChatGPT What Would Happen if We Taxed Wealth Instead of Income — Here’s What It Said",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/asked-chatgpt-happen-taxed-wealth-120421991.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "1c5f70d9562b",
+          "time": "12:01",
+          "category": "Markets",
+          "title": "If You Invested $10K In CareTrust REIT Stock 10 Years Ago, How Much Would You Have Now?",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/invested-10k-caretrust-reit-stock-120119499.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
           "id": "ddfdf076e371",
           "time": "12:00",
           "category": "Markets",
@@ -1136,6 +1182,17 @@
           "summary": "",
           "source": "Yahoo Finance",
           "url": "https://finance.yahoo.com/news/advisors-piling-ria-channel-may-120000377.html",
+          "tags": [],
+          "impact_score": 1
+        },
+        {
+          "id": "0688b6762423",
+          "time": "12:00",
+          "category": "US Macro",
+          "title": "3 Reasons Not to Open a CD Right Now, Even With Rates at 4%",
+          "summary": "",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/3-reasons-not-open-cd-120000936.html",
           "tags": [],
           "impact_score": 1
         },
@@ -1371,39 +1428,6 @@
           "impact_score": 1
         },
         {
-          "id": "52ba851c2cf9",
-          "time": "11:20",
-          "category": "Markets",
-          "title": "Intel Just Delivered for Investors. Here Are 6 Key Things to Know.",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/intel-just-delivered-investors-6-112000231.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "8a4718c1d025",
-          "time": "11:15",
-          "category": "Markets",
-          "title": "Should You Buy Lucid Stock While It's Below $23?",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/buy-lucid-stock-while-below-111500979.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "96f7db9442bd",
-          "time": "11:13",
-          "category": "Crypto",
-          "title": "Kyrgyzstan Launches Stablecoin on BNB Chain, Eyes National Digital Currency and Crypto Reserve",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/kyrgyzstan-launches-stablecoin-bnb-chain-111300290.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
           "id": "19d45f00d5e0",
           "time": "11:00",
           "category": "Regulation",
@@ -1415,57 +1439,35 @@
           "impact_score": 1
         },
         {
-          "id": "d816e4745308",
+          "id": "0fc54b06c38e",
           "time": "10:43",
           "category": "Markets",
-          "title": "Xerox Launches New Proficio Production Series with PX300 and PX500 Digital Presses",
+          "title": "Taboola, Paramount Partner to Launch ‘Performance Multiplier’ for SMB CTV Advertising",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/xerox-launches-proficio-production-series-104319301.html",
+          "url": "https://finance.yahoo.com/news/taboola-paramount-partner-launch-performance-104316995.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "a3f5b523ac98",
+          "id": "ae411f5dc7fd",
           "time": "10:43",
           "category": "Markets",
-          "title": "Marqeta (MQ) Gets Neutral Initiation from Citi on Growth, Customer Concentration Concerns",
+          "title": "Ventyx Biosciences Reports Positive Phase 2 Data for Oral NLRP3 Inhibitor VTX3232 in Obesity and Cardiovascular Risk",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/marqeta-mq-gets-neutral-initiation-104313688.html",
+          "url": "https://finance.yahoo.com/news/ventyx-biosciences-reports-positive-phase-104315456.html",
           "tags": [],
           "impact_score": 1
         },
         {
-          "id": "75e1e9f649cb",
+          "id": "149b67881970",
           "time": "10:43",
           "category": "Markets",
-          "title": "Is Rocket Pharmaceuticals (RCKT) One of the Best NASDAQ Stocks Under $5 to Buy Now?",
+          "title": "Taysha Gene Therapies Regains Full Global Rights to Lead Rett Syndrome Program TSHA-102",
           "summary": "",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/rocket-pharmaceuticals-rckt-one-best-104310998.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "cce6b47e91ca",
-          "time": "10:43",
-          "category": "Earnings",
-          "title": "Sabre Corporation Launches AI-Driven SabreMosaic Continuous Revenue Optimizer for Airlines",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/sabre-corporation-launches-ai-driven-104309395.html",
-          "tags": [],
-          "impact_score": 1
-        },
-        {
-          "id": "37824413aa8d",
-          "time": "10:43",
-          "category": "Markets",
-          "title": "NetScout Systems Launches Omnis KlearSight Sensor to Provide Observability for Kubernetes",
-          "summary": "",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/netscout-systems-launches-omnis-klearsight-104306674.html",
+          "url": "https://finance.yahoo.com/news/taysha-gene-therapies-regains-full-104312052.html",
           "tags": [],
           "impact_score": 1
         }
