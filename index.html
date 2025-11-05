@@ -404,50 +404,39 @@ function appendImpactDot(cardEl, item){
   // ======= FETCH + FALLBACK =======
   async function fetchFeed(){
   statusLabel.textContent = 'a carregar…';
-  const u1 = FEED_URL + '?_ts=' + Date.now(); // só o Worker (temos CORS no Worker)
+  const u1 = FEED_URL + '?_ts=' + Date.now();
 
-  let json = null, lastErr = null;
   try{
     const res = await fetch(u1, { cache: 'reload' });
     if(!res.ok) throw new Error('HTTP '+res.status+' em '+u1);
-    json = await res.json(); // <- o Worker devolve um ARRAY plano [{title,link,date}]
-  }catch(e){
-    lastErr = e;
-  }
+    const json = await res.json();           // array plano [{title, link, date}]
+    console.log('Worker respondeu:', Array.isArray(json), json.length, json[0]);
 
-  if (Array.isArray(json)) {
-    // Mapeia o array plano do Worker para o formato que o teu UI espera (DATA.days[0].items)
+    // Converte para o formato que o teu UI espera (DATA.days[0].items)
     const items = json.map((it, idx) => {
       const d = new Date(it.date || Date.now());
       const hh = String(d.getHours()).padStart(2,'0');
       const mm = String(d.getMinutes()).padStart(2,'0');
       let host = '';
       try { host = new URL(it.link).hostname.replace(/^www\./,''); } catch {}
-
       return {
         id: (it.link || '') + '#' + (it.date || idx),
         title: it.title || '(sem título)',
         url: it.link || '#',
-        time: `${hh}:${mm}`,      // usado no teu UI
-        time_iso: d.toISOString(),// para ordenação precisa
-        category: 'Markets',      // genérico; podes trocar depois (Crypto/US Macro/etc.)
+        time: `${hh}:${mm}`,
+        time_iso: d.toISOString(),
+        category: 'Markets',
         tags: [],
         source: host,
         summary: ''
       };
     });
 
-    DATA = {
-      days: [{
-        date: new Date().toISOString().slice(0,10),
-        attention_points: [],
-        items
-      }]
-    };
-
+    DATA = { days: [{ date: new Date().toISOString().slice(0,10), attention_points: [], items }] };
     statusLabel.textContent = 'OK';
     renderAll();
-  } else {
+
+  } catch (lastErr){
     statusLabel.textContent = 'falhou';
     console.error('Falha a carregar do Worker:', lastErr);
     newsList.innerHTML = '';
@@ -455,7 +444,7 @@ function appendImpactDot(cardEl, item){
     div.className = 'card';
     div.innerHTML = `
       <strong>Erro a carregar o feed</strong>
-      <p class="muted" style="margin-top:6px">${lastErr ? String(lastErr).replace(/</g,'&lt;') : 'erro desconhecido'}</p>
+      <p class="muted" style="margin-top:6px">${String(lastErr).replace(/</g,'&lt;')}</p>
       <p class="muted">Testa abrir:
         <a href="${u1}" target="_blank" rel="noreferrer">${u1}</a>
       </p>
