@@ -164,7 +164,7 @@
 <script>
   // ======= CONFIG =======
   // Se o teu site estiver noutro caminho, ajusta aqui:
-  const FEED_URL = '/painel-noticias/noticias.json'; // <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+  const FEED_URL = 'https://blue-resonance-d462.jfpd3.workers.dev/latest';
   const AUTO_REFRESH_MS = 5 * 60 * 1000;
   const CATEGORIES = [
   { value: 'All',        label: 'Todas' },
@@ -403,43 +403,66 @@ function appendImpactDot(cardEl, item){
 
   // ======= FETCH + FALLBACK =======
   async function fetchFeed(){
-    statusLabel.textContent = 'a carregar…';
-    const u1 = RESOLVED_FEED_URL + '?_ts=' + Date.now();
-    const u2 = 'https://raw.githubusercontent.com/jfpd3/painel-noticias/main/noticias.json?_ts=' + Date.now();
+  statusLabel.textContent = 'a carregar…';
+  const u1 = FEED_URL + '?_ts=' + Date.now(); // só o Worker (temos CORS no Worker)
 
-    const tries = [u1, u2];
-    let json=null, lastErr=null;
-
-    for (const url of tries){
-      try{
-        const res = await fetch(url, { cache:'reload', headers:{'Cache-Control':'no-cache'} });
-        if(!res.ok) throw new Error('HTTP '+res.status+' em '+url);
-        json = await res.json();
-        break;
-      }catch(e){ lastErr = e; }
-    }
-
-    if (json){
-  DATA = json || { days:[] };
-  statusLabel.textContent = 'OK';
-  renderAll();              // já chama applyImpactDots()
-} else {
-  statusLabel.textContent = 'falhou';
-  console.error('Falha a carregar noticias.json:', lastErr);
-  newsList.innerHTML = '';
-  const div = document.createElement('div');
-  div.className = 'card';
-  div.innerHTML = `
-    <strong>Erro a carregar o feed</strong>
-    <p class="muted" style="margin-top:6px">${lastErr ? String(lastErr).replace(/</g,'&lt;') : 'erro desconhecido'}</p>
-    <p class="muted">Testa abrir:
-      <a href="${u1}" target="_blank" rel="noreferrer">${u1}</a><br/>
-      <a href="${u2}" target="_blank" rel="noreferrer">${u2}</a>
-    </p>
-  `;
-  newsList.appendChild(div);
-}
+  let json = null, lastErr = null;
+  try{
+    const res = await fetch(u1, { cache:'reload', headers:{'Cache-Control':'no-cache'} });
+    if(!res.ok) throw new Error('HTTP '+res.status+' em '+u1);
+    json = await res.json(); // <- o Worker devolve um ARRAY plano [{title,link,date}]
+  }catch(e){
+    lastErr = e;
   }
+
+  if (Array.isArray(json)) {
+    // Mapeia o array plano do Worker para o formato que o teu UI espera (DATA.days[0].items)
+    const items = json.map((it, idx) => {
+      const d = new Date(it.date || Date.now());
+      const hh = String(d.getHours()).padStart(2,'0');
+      const mm = String(d.getMinutes()).padStart(2,'0');
+      let host = '';
+      try { host = new URL(it.link).hostname.replace(/^www\./,''); } catch {}
+
+      return {
+        id: (it.link || '') + '#' + (it.date || idx),
+        title: it.title || '(sem título)',
+        url: it.link || '#',
+        time: `${hh}:${mm}`,      // usado no teu UI
+        time_iso: d.toISOString(),// para ordenação precisa
+        category: 'Markets',      // genérico; podes trocar depois (Crypto/US Macro/etc.)
+        tags: [],
+        source: host,
+        summary: ''
+      };
+    });
+
+    DATA = {
+      days: [{
+        date: new Date().toISOString().slice(0,10),
+        attention_points: [],
+        items
+      }]
+    };
+
+    statusLabel.textContent = 'OK';
+    renderAll();
+  } else {
+    statusLabel.textContent = 'falhou';
+    console.error('Falha a carregar do Worker:', lastErr);
+    newsList.innerHTML = '';
+    const div = document.createElement('div');
+    div.className = 'card';
+    div.innerHTML = `
+      <strong>Erro a carregar o feed</strong>
+      <p class="muted" style="margin-top:6px">${lastErr ? String(lastErr).replace(/</g,'&lt;') : 'erro desconhecido'}</p>
+      <p class="muted">Testa abrir:
+        <a href="${u1}" target="_blank" rel="noreferrer">${u1}</a>
+      </p>
+    `;
+    newsList.appendChild(div);
+  }
+}
 
   function decorateImpactDots(){
   try{
