@@ -408,7 +408,7 @@ function appendImpactDot(cardEl, item){
 
   let json = null, lastErr = null;
   try{
-    const res = await fetch(u1, { cache:'reload', headers:{'Cache-Control':'no-cache'} });
+    const res = await fetch(u1, { cache: 'reload' });
     if(!res.ok) throw new Error('HTTP '+res.status+' em '+u1);
     json = await res.json(); // <- o Worker devolve um ARRAY plano [{title,link,date}]
   }catch(e){
